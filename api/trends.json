@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T19:30:23.634814+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-11-01T21:11:11.209389+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 295,
+      "match_count": 311,
       "titles": [
         {
           "title": "习近平会见日本首相高市早苗",
@@ -49,8 +49,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 19时30分]"
+          "appearance_count": 26,
+          "time_info": "[00时54分 ~ 21时11分]"
         },
         {
           "title": "美方称中美贸易协定或于下周签署，外交部：愿同美方一道拉长合作清单",
@@ -86,31 +86,6 @@
           "time_info": "[00时54分 ~ 07时30分]"
         },
         {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时35分 ~ 19时30分]"
-        },
-        {
-          "title": "习近平会见日本首相高市早苗",
-          "url": "https://www.cls.cn/detail/2188323",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 19时30分]"
-        },
-        {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
           "url": "https://wallstreetcn.com/articles/3758449",
           "source": "华尔街见闻",
@@ -120,8 +95,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时35分 ~ 19时30分]"
+          "appearance_count": 13,
+          "time_info": "[11时35分 ~ 21时11分]"
+        },
+        {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时35分 ~ 21时11分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -181,17 +169,18 @@
           "time_info": "[00时54分 ~ 07时30分]"
         },
         {
-          "title": "日本熊灾怪中国,抗日英熊太坏了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346601&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%E6%80%AA%E4%B8%AD%E5%9B%BD%2C%E6%8A%97%E6%97%A5%E8%8B%B1%E7%86%8A%E5%A4%AA%E5%9D%8F%E4%BA%86",
-          "source": "贴吧",
+          "title": "习近平会见日本首相高市早苗",
+          "url": "https://www.cls.cn/detail/2188323",
+          "source": "财联社热门",
           "ranks": [
-            2,
+            3,
             4,
-            6
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时35分 ~ 19时30分]"
+          "appearance_count": 26,
+          "time_info": "[00时54分 ~ 21时11分]"
         },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -202,8 +191,22 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[07时29分 ~ 21时11分]"
+        },
+        {
+          "title": "日本熊灾怪中国,抗日英熊太坏了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346601&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%E6%80%AA%E4%B8%AD%E5%9B%BD%2C%E6%8A%97%E6%97%A5%E8%8B%B1%E7%86%8A%E5%A4%AA%E5%9D%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 13,
-          "time_info": "[07时29分 ~ 19时30分]"
+          "time_info": "[11时35分 ~ 21时11分]"
         },
         {
           "title": "【数据看盘】多家机构激烈博弈医药股 量化、一线游资合力抢筹大众公用",
@@ -229,8 +232,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时39分 ~ 19时30分]"
+          "appearance_count": 12,
+          "time_info": "[12时39分 ~ 21时11分]"
+        },
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时47分 ~ 21时11分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -246,8 +265,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时38分 ~ 19时30分]"
+          "appearance_count": 16,
+          "time_info": "[06时38分 ~ 21时11分]"
         },
         {
           "title": "731导演穿防弹衣出席日本试映",
@@ -311,8 +330,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时29分 ~ 19时30分]"
+          "appearance_count": 15,
+          "time_info": "[07时29分 ~ 21时11分]"
         },
         {
           "title": "AWS创三年最快增速，资本支出超预期，亚马逊盘后涨14% | 财报见闻",
@@ -353,8 +372,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时35分 ~ 19时30分]"
+          "appearance_count": 13,
+          "time_info": "[11时35分 ~ 21时11分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -385,8 +404,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 19时30分]"
+          "appearance_count": 26,
+          "time_info": "[00时54分 ~ 21时11分]"
         },
         {
           "title": "APEC峰会刷屏的韩国女次长是谁？(图)",
@@ -409,8 +428,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时35分 ~ 19时30分]"
+          "appearance_count": 12,
+          "time_info": "[11时35分 ~ 21时11分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -457,8 +476,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 19时30分]"
+          "appearance_count": 26,
+          "time_info": "[00时54分 ~ 21时11分]"
         },
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
@@ -471,8 +490,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时35分 ~ 19时30分]"
+          "appearance_count": 13,
+          "time_info": "[11时35分 ~ 21时11分]"
         },
         {
           "title": "韩国战队T1对阵中国战队12连胜",
@@ -503,6 +522,18 @@
           "time_info": "[00时54分 ~ 06时38分]"
         },
         {
+          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
+          "url": "https://news.ifeng.com/c/8nvMEROArvE",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时39分 ~ 21时11分]"
+        },
+        {
           "title": "美联储内部再现分歧：两位鹰派官员反对本周降息 警告通胀风险或被低估",
           "url": "https://www.cls.cn/detail/2188383",
           "source": "财联社热门",
@@ -514,18 +545,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时41分 ~ 07时30分]"
-        },
-        {
-          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
-          "url": "https://news.ifeng.com/c/8nvMEROArvE",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时39分 ~ 19时30分]"
         },
         {
           "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
@@ -604,22 +623,6 @@
           "time_info": "[11时35分 ~ 17时32分]"
         },
         {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时47分 ~ 19时30分]"
-        },
-        {
           "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
           "url": "https://news.ifeng.com/c/8nvJX38VYKS",
           "source": "凤凰网",
@@ -692,6 +695,19 @@
           "time_info": "[16时41分 ~ 18时37分]"
         },
         {
+          "title": "决议后第一波美联储高官发声：3位反对本周降息，沃勒支持12月降息",
+          "url": "https://wallstreetcn.com/articles/3758457",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时28分 ~ 21时11分]"
+        },
+        {
           "title": "女子投资黄金：开始像捡钱现在很后悔",
           "url": "https://www.toutiao.com/trending/7566743938741305407/",
           "source": "今日头条",
@@ -718,6 +734,42 @@
           "time_info": "[05时27分 ~ 07时30分]"
         },
         {
+          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
+          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 21时11分]"
+        },
+        {
+          "title": "12月降息悬了？美联储内部现六年来罕见分歧，“老债王”格罗斯出手做空美债！",
+          "url": "https://wallstreetcn.com/articles/3758466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 21时11分]"
+        },
+        {
+          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
+          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 21时11分]"
+        },
+        {
           "title": "苹果亚马逊盈利提振市场情绪，纳指涨1.5%，现货黄金震荡，加密货币上涨",
           "url": "https://wallstreetcn.com/articles/3758419",
           "source": "华尔街见闻",
@@ -730,6 +782,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时59分 ~ 06时38分]"
+        },
+        {
+          "title": "韩国的国宴菜是什么呢？",
+          "url": "https://www.zhihu.com/question/9205471004",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            14,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 21时11分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -745,6 +812,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时59分 ~ 06时38分]"
+        },
+        {
+          "title": "中美斗争试出了谁的底牌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E6%96%97%E4%BA%89%E8%AF%95%E5%87%BA%E4%BA%86%E8%B0%81%E7%9A%84%E5%BA%95%E7%89%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
         },
         {
           "title": "亚太经合组织东道主交接仪式在韩国庆州举行，中国将第三次担任亚太经合组织东道主。（新华社）",
@@ -772,6 +850,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时39分 ~ 07时30分]"
+        },
+        {
+          "title": "高市早苗主动上前搂住智利总统",
+          "url": "https://www.toutiao.com/trending/7567342270467473449/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时11分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
@@ -824,19 +914,6 @@
           "time_info": "[11时35分 ~ 13时35分]"
         },
         {
-          "title": "决议后第一波美联储高官发声：3位反对本周降息，沃勒支持12月降息",
-          "url": "https://wallstreetcn.com/articles/3758457",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时28分 ~ 19时30分]"
-        },
-        {
           "title": "美联储哈玛克：贴现窗口并非常规融资工具，但可根据需要提供流动性。",
           "url": "https://flash.jin10.com/detail/20251101003654976800",
           "source": "金十数据",
@@ -848,17 +925,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "韩国总统：和平是建设可持续明天的基础",
-          "url": "https://flash.jin10.com/detail/20251101190935226800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
-        },
-        {
           "title": "白宫国家经济委员会主任哈塞特：不认可美国法官对“补充营养援助计划”（SNAP）的裁决。",
           "url": "https://wallstreetcn.com/livenews/2997871",
           "source": "华尔街见闻-快讯",
@@ -868,17 +934,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "美国防部将提供“战斧”决定权交给总统",
-          "url": "https://wallstreetcn.com/livenews/2998011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
         },
         {
           "title": "国家主席习近平出席韩国总统李在明举行的欢迎仪式。（央视新闻）",
@@ -920,28 +975,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "丁薛祥同俄罗斯第一副总理曼图罗夫共同主持中俄投资合作委员会第十二次会议",
-          "url": "https://flash.jin10.com/detail/20251101190850258800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
-        },
-        {
-          "title": "韩国总统：和平是建设可持续明天的基础",
-          "url": "https://wallstreetcn.com/livenews/2998010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
-        },
-        {
           "title": "美联储博斯蒂克：希望美联储通过资产负债表保持额外的流动性。",
           "url": "https://flash.jin10.com/detail/20251101003452440800",
           "source": "金十数据",
@@ -951,17 +984,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "易纲不再担任全国政协经济委员会副主任",
-          "url": "https://flash.jin10.com/detail/20251101190349528800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.52%，报571.82点。 欧元区STOXX 50指数初步收跌0.68%，报5660.62点。 富时泛欧绩优300指数初步收跌0.52%，报2274.31点。",
@@ -997,18 +1019,6 @@
           "time_info": "07时30分"
         },
         {
-          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
-          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 19时30分]"
-        },
-        {
           "title": "美联储博斯蒂克：希望资产负债表上能再多一点缓冲空间。",
           "url": "https://flash.jin10.com/detail/20251101003358728800",
           "source": "金十数据",
@@ -1018,17 +1028,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "厦门经济特区个人破产保护条例施行",
-          "url": "https://flash.jin10.com/detail/20251101185859790800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
         },
         {
           "title": "标普500指数收涨17.86点，涨幅0.26%，报6840.20点。 道琼斯工业平均指数收涨40.75点，涨幅0.09%，报47562.87点。 纳斯达克综合指数（纳指）收涨143.813点，涨幅0.61%，报23724.957点。",
@@ -1042,26 +1041,18 @@
           "time_info": "04时39分"
         },
         {
-          "title": "丁薛祥同俄罗斯第一副总理曼图罗夫共同主持中俄投资合作委员会第十二次会议",
-          "url": "https://wallstreetcn.com/livenews/2998008",
+          "title": "深蓝汽车公布10月交付数据。10月深蓝汽车全球销量36792辆，10月深蓝S05全球销量突破20000辆。",
+          "url": "https://wallstreetcn.com/livenews/2997995",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
-        },
-        {
-          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
-          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
-          "source": "凤凰网",
-          "ranks": [
-            8
+            2,
+            7,
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 19时30分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 21时11分]"
         },
         {
           "title": "美联储哈玛克：当我们推出诸如常备回购便利工具之类的工具时，如果它们没有得到充分利用，这令人失望。",
@@ -1075,15 +1066,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "厦门经济特区个人破产保护条例施行",
-          "url": "https://wallstreetcn.com/livenews/2998007",
+          "title": "伯克希尔哈撒韦三季度前五大持仓公司为美国运通、苹果、美国银行、可口可乐以及雪佛龙",
+          "url": "https://wallstreetcn.com/livenews/2998018",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时30分"
+          "time_info": "21时11分"
         },
         {
           "title": "周五（10月31日），彭博电动汽车价格回报指数下跌0.99%，报3521.02点，10月份累计上涨2.35%。",
@@ -1157,20 +1148,6 @@
           "time_info": "[04时39分 ~ 07时30分]"
         },
         {
-          "title": "韩国的国宴菜是什么呢？",
-          "url": "https://www.zhihu.com/question/9205471004",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 19时30分]"
-        },
-        {
           "title": "周五（10月31日）纽约尾盘，标普500股指期货最终涨0.29%，道指期货涨0.15%，纳斯达克100股指期货涨0.44%。 罗素2000股指期货涨0.50%。",
           "url": "https://wallstreetcn.com/livenews/2997903",
           "source": "华尔街见闻-快讯",
@@ -1182,19 +1159,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时30分]"
-        },
-        {
-          "title": "深蓝汽车公布10月交付数据。10月深蓝汽车全球销量36792辆，10月深蓝S05全球销量突破20000辆。",
-          "url": "https://wallstreetcn.com/livenews/2997995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时30分]"
         },
         {
           "title": "金十整理：造车新势力10月成绩单出炉——小米单月交付量持续破4万，小鹏单月交付量再创新高",
@@ -1288,6 +1252,19 @@
           "time_info": "[00时55分 ~ 02时59分]"
         },
         {
+          "title": "习近平同韩国总统李在明会谈",
+          "url": "https://wallstreetcn.com/livenews/2998002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 21时11分]"
+        },
+        {
           "title": "斯洛伐克总理：不会为军援乌克兰付“一分钱”",
           "url": "https://news.ifeng.com/c/8nuLa9BrFGU",
           "source": "凤凰网",
@@ -1338,18 +1315,6 @@
           "time_info": "[05时27分 ~ 07时30分]"
         },
         {
-          "title": "高市早苗主动上前搂住智利总统",
-          "url": "https://www.toutiao.com/trending/7567342270467473449/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时30分]"
-        },
-        {
           "title": "哥伦比亚央行：将2025年经济增长预测从之前的2.7%下调至2.6%。",
           "url": "https://flash.jin10.com/detail/20251101023655514800",
           "source": "金十数据",
@@ -1372,6 +1337,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时37分 ~ 19时30分]"
+        },
+        {
+          "title": "韩国总统：和平是建设可持续明天的基础",
+          "url": "https://flash.jin10.com/detail/20251101190935226800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 21时11分]"
+        },
+        {
+          "title": "美国防部将提供“战斧”决定权交给总统",
+          "url": "https://wallstreetcn.com/livenews/2998011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 21时11分]"
         },
         {
           "title": "标普500指数转跌，日内稍早一度涨0.8%。",
@@ -1399,6 +1388,18 @@
           "time_info": "[17时32分 ~ 18时37分]"
         },
         {
+          "title": "丁薛祥同俄罗斯第一副总理曼图罗夫共同主持中俄投资合作委员会第十二次会议",
+          "url": "https://flash.jin10.com/detail/20251101190850258800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 21时11分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋完成10亿美元股票出售",
           "url": "https://wallstreetcn.com/livenews/2997909",
           "source": "华尔街见闻-快讯",
@@ -1411,16 +1412,16 @@
           "time_info": "[06时38分 ~ 07时30分]"
         },
         {
-          "title": "习近平同韩国总统李在明会谈",
-          "url": "https://wallstreetcn.com/livenews/2998002",
+          "title": "韩国总统：和平是建设可持续明天的基础",
+          "url": "https://wallstreetcn.com/livenews/2998010",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时30分]"
+          "time_info": "[19时30分 ~ 21时11分]"
         },
         {
           "title": "美国法官：总统特朗普的政府叫停食品救济的做法恐怕是非法的。",
@@ -1449,6 +1450,19 @@
           "time_info": "[05时27分 ~ 07时30分]"
         },
         {
+          "title": "美联储理事米兰：不认为关税推高了通胀。 限制性政策对劳动力市场构成风险。 “在我看来”，预测显示12月份将再次降息。 限制性政策使经济更容易受到冲击。",
+          "url": "https://wallstreetcn.com/livenews/2997997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 21时11分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了25个对手方的518.02亿美元。",
           "url": "https://flash.jin10.com/detail/20251101012046803800",
           "source": "金十数据",
@@ -1471,6 +1485,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 18时37分]"
+        },
+        {
+          "title": "易纲不再担任全国政协经济委员会副主任",
+          "url": "https://flash.jin10.com/detail/20251101190349528800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 21时11分]"
         },
         {
           "title": "美法官裁定：特朗普政府不得在“停摆”期间暂停食品援助",
@@ -1509,18 +1535,6 @@
           "time_info": "[17时31分 ~ 19时30分]"
         },
         {
-          "title": "12月降息悬了？美联储内部现六年来罕见分歧，“老债王”格罗斯出手做空美债！",
-          "url": "https://wallstreetcn.com/articles/3758466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时30分]"
-        },
-        {
           "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
           "url": "https://flash.jin10.com/detail/20251101011922130800",
           "source": "金十数据",
@@ -1531,6 +1545,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时59分]"
+        },
+        {
+          "title": "厦门经济特区个人破产保护条例施行",
+          "url": "https://flash.jin10.com/detail/20251101185859790800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 21时11分]"
         },
         {
           "title": "德国DAX 30指数初步收跌0.68%，报23955.21点。 法国股指初步收跌0.47%，意大利股指初步收跌0.25%、银行指数跌0.53%，英国股指初步收跌0.49%。",
@@ -1567,6 +1593,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时30分]"
+        },
+        {
+          "title": "丁薛祥同俄罗斯第一副总理曼图罗夫共同主持中俄投资合作委员会第十二次会议",
+          "url": "https://wallstreetcn.com/livenews/2998008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 21时11分]"
         },
         {
           "title": "匈牙利总理说欧洲正走向战争",
@@ -1667,16 +1705,16 @@
           "time_info": "[03时27分 ~ 04时39分]"
         },
         {
-          "title": "美联储理事米兰：不认为关税推高了通胀。 限制性政策对劳动力市场构成风险。 “在我看来”，预测显示12月份将再次降息。 限制性政策使经济更容易受到冲击。",
-          "url": "https://wallstreetcn.com/livenews/2997997",
+          "title": "厦门经济特区个人破产保护条例施行",
+          "url": "https://wallstreetcn.com/livenews/2998007",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时30分]"
+          "time_info": "[19时30分 ~ 21时11分]"
         },
         {
           "title": "李在明：中韩经济合作至关重要",
@@ -1732,6 +1770,17 @@
           "time_info": "[17时31分 ~ 19时30分]"
         },
         {
+          "title": "俄罗斯国防部：一夜之间击落98架乌克兰无人机",
+          "url": "https://news.ifeng.com/c/8nvcKuONmY4",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时11分]"
+        },
+        {
           "title": "以太坊站上3900美元/枚，日内涨2.54%。",
           "url": "https://flash.jin10.com/detail/20251101033413409800",
           "source": "金十数据",
@@ -1753,6 +1802,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时54分 ~ 05时27分]"
+        },
+        {
+          "title": "韩国人被长沙小吃破防吃哭了",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%A2%AB%E9%95%BF%E6%B2%99%E5%B0%8F%E5%90%83%E7%A0%B4%E9%98%B2%E5%90%83%E5%93%AD%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时11分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：就业增长和收入增长依然保持积极态势。",
@@ -1825,6 +1887,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时39分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时30分 ~ 21时11分]"
         },
         {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
@@ -1915,6 +1988,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时38分 ~ 07时30分]"
+        },
+        {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时30分 ~ 21时11分]"
         },
         {
           "title": "韩国总统李在明：不再担忧韩日关系。",
@@ -2149,6 +2234,29 @@
           "time_info": "[11时35分 ~ 13时35分]"
         },
         {
+          "title": "新城市志｜前三季度GDP：经济大省挑大梁，中部地区很亮眼",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31872609",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时30分 ~ 21时11分]"
+        },
+        {
+          "title": "高市早苗主动上前搂住智利总统",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%BB%E5%8A%A8%E4%B8%8A%E5%89%8D%E6%90%82%E4%BD%8F%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时30分 ~ 21时11分]"
+        },
+        {
           "title": "日本熊灾现场有明显吃人痕迹",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%E7%8E%B0%E5%9C%BA%E6%9C%89%E6%98%8E%E6%98%BE%E5%90%83%E4%BA%BA%E7%97%95%E8%BF%B9",
           "source": "百度热搜",
@@ -2375,6 +2483,17 @@
           "time_info": "[18时37分 ~ 19时30分]"
         },
         {
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
+        },
+        {
           "title": "加拿大总理办公室：今天，加拿大总理卡尼在亚太经合组织领导人会议间隙会见了日本首相高市早苗。",
           "url": "https://flash.jin10.com/detail/20251101153831791800",
           "source": "金十数据",
@@ -2421,17 +2540,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时27分]"
-        },
-        {
-          "title": "俄罗斯国防部：一夜之间击落98架乌克兰无人机",
-          "url": "https://news.ifeng.com/c/8nvcKuONmY4",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时30分]"
         },
         {
           "title": "美国总统特朗普：始终愿意与民主党人会面。民主党人所要做的就是开放政府。",
@@ -2536,18 +2644,6 @@
           "ranks": [
             13,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时30分]"
-        },
-        {
-          "title": "韩国人被长沙小吃破防吃哭了",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%A2%AB%E9%95%BF%E6%B2%99%E5%B0%8F%E5%90%83%E7%A0%B4%E9%98%B2%E5%90%83%E5%93%AD%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -2718,6 +2814,17 @@
           "time_info": "[12时39分 ~ 12时40分]"
         },
         {
+          "title": "博主：G2是中美共存的新考题",
+          "url": "https://www.toutiao.com/trending/7567701784009903654/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
+        },
+        {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码啰",
           "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
           "source": "凤凰网",
@@ -2727,17 +2834,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
         },
         {
           "title": "美联储哈玛克：我们能拥有的资产负债表规模越小越好。",
@@ -2751,6 +2847,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "伯克希尔哈撒韦现金储备飙升至3817亿美元",
+          "url": "https://flash.jin10.com/detail/20251101203821640800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
           "url": "https://wallstreetcn.com/livenews/2997914",
           "source": "华尔街见闻-快讯",
@@ -2760,6 +2867,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "伯克希尔哈撒韦的现金储备达到创纪录的3816.7亿美元。 伯克希尔哈撒韦连续第五个季度拒绝回购自己的股票。",
+          "url": "https://wallstreetcn.com/livenews/2998017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "美联储哈玛克：支持对美联储利率目标进行改革。",
@@ -2784,6 +2902,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "伯克希尔哈撒韦三季度营收949.72亿美元，上年同期929.95亿美元。 三季度净利润307.96亿美元，上年同期262.51亿美元。 三季度营业利润134.9亿美元，上年同期100.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "美联储哈玛克：同意美联储洛根的观点，即市场已从美联储基金利率转移，现在是时候更广泛地寻找政策利率目标了。",
           "url": "https://flash.jin10.com/detail/20251101003053109800",
           "source": "金十数据",
@@ -2801,7 +2930,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -2834,7 +2963,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -2848,6 +2977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "伯克希尔哈撒韦Q3前五大重仓股公允价值合计占比66% 持仓继续集中在美国运通、苹果等",
+          "url": "https://flash.jin10.com/detail/20251101203156671800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "美联储哈玛克：近期回购市场出现了一些压力。",
@@ -2867,9 +3007,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
+        },
+        {
+          "title": "伯克希尔哈撒韦表示，截至2025年9月30日，其前五大持股的公允价值合计占比66%，前五大持仓集中于美国运通(AXP.N)、苹果(AAPL.O)、美国银行(BAC.N)、雪佛龙(CVX.N)和可口可乐(KO.N)。",
+          "url": "https://flash.jin10.com/detail/20251101202538324800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "特朗普否认已决定对委内瑞拉实施军事打击",
@@ -3015,6 +3166,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "伯克希尔哈撒韦(BRK.A.N)：公司第三季度投资净收益为173.11亿美元，去年同期为161.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20251101201017036800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "美联储哈玛克：在联邦公开市场委员会会议室里，人们会改变观点，并加以适应。",
           "url": "https://flash.jin10.com/detail/20251101002511941800",
           "source": "金十数据",
@@ -3059,6 +3221,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "伯克希尔哈撒韦(BRK.A.N)现金储备达到创纪录的3816.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20251101200721729800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "标普500指数收涨17.86点，涨幅0.26%，报6840.20点。 道琼斯工业平均指数收涨40.75点，涨幅0.09%，报47562.87点。 纳斯达克综合指数（纳指）收涨143.813点，涨幅0.61%，报23724.957点。 纳斯达克100指数收涨123.313点，涨幅0.48%，报25858.126点。",
           "url": "https://wallstreetcn.com/livenews/2997884",
           "source": "华尔街见闻-快讯",
@@ -3081,6 +3254,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)第三季度营业利润为134.9亿美元，去年同期为100.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20251101200501878800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "美元兑加元略微走高，日内涨幅重新扩大至约0.2%。 加拿大股指转跌，失守30180点，北京时间22:00还曾涨至30314.63点刷新日高。 美国总统特朗普称，不会与加拿大恢复贸易磋商。 非常喜欢（加拿大总理）卡尼，（但）加拿大过去做错了。 卡尼为（安大略省在美国针对特朗普关税投放的）关税商业广告道歉。",
           "url": "https://wallstreetcn.com/livenews/2997816",
           "source": "华尔街见闻-快讯",
@@ -3090,17 +3274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
         },
         {
           "title": "美联储博斯蒂克：点阵图数值表明存在不同的观点，但不要过度超前解读。我们将依赖数据，确保决策适当。",
@@ -3125,6 +3298,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)2025年Q3营收949.72亿美元，上年同期929.95亿美元，市场预期915.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20251101200249644800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "油价回吐涨幅，标普500指数目前涨0.33%，道指微跌。 美国总统特朗普称，美军不会（从陆地上）袭击委内瑞拉。 被问及是否考虑袭击委内瑞拉，称他“没有”。 还没有决定是否要袭击委内瑞拉。 将进行一些（核武器）测试。",
           "url": "https://wallstreetcn.com/livenews/2997815",
           "source": "华尔街见闻-快讯",
@@ -3134,17 +3318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "新城市志｜前三季度GDP：经济大省挑大梁，中部地区很亮眼",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31872609",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
         },
         {
           "title": "美联储哈玛克：点阵图能让你感受到观点的多样性。",
@@ -3169,6 +3342,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "伯克希尔哈撒韦B(BRK.B.N)2025年Q3EPS为14.28美元，上年同期12.18美元，市场预期5.89美元。",
+          "url": "https://flash.jin10.com/detail/20251101200132934800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "APEC会议开幕：首日议题聚焦贸易合作，韩国努力推动各方达成共识",
           "url": "https://m.thepaper.cn/newsDetail_forward_31859160",
           "source": "澎湃新闻",
@@ -3186,7 +3370,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -3224,6 +3408,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)2025年Q3EPS为21413美元，上年同期18272美元，市场预期8849美元。",
+          "url": "https://flash.jin10.com/detail/20251101200121784800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "非洲股市收盘播报｜周五（10月31日），南非富时/JSE非洲领先40可交易指数收跌0.42%，至10.2万点下方，本周累计下跌1.14%。 10月份，南非股指累涨0.98%，10月16日涨至10.6万点创历史新高之后快速走低。",
           "url": "https://wallstreetcn.com/livenews/2997812",
           "source": "华尔街见闻-快讯",
@@ -3255,6 +3450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)2025年Q3净利润307.96亿美元，上年同期262.51亿美元，市场预期127.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20251101200059203800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "欧洲股市连涨四个月",
@@ -3321,17 +3527,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "高市早苗主动上前搂住智利总统",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%BB%E5%8A%A8%E4%B8%8A%E5%89%8D%E6%90%82%E4%BD%8F%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
         },
         {
           "title": "美联储哈玛克：我们需要保持限制性政策。",
