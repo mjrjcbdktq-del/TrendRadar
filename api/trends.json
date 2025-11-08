@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-08T18:36:40.207499+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-11-08T19:26:58.849671+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 282,
+      "match_count": 285,
       "titles": [
+        {
+          "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时14分 ~ 19时26分]"
+        },
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
           "url": "https://wallstreetcn.com/articles/3758856",
@@ -89,17 +100,6 @@
           "time_info": "[00时46分 ~ 06时36分]"
         },
         {
-          "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3758914",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时14分 ~ 18时36分]"
-        },
-        {
           "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
           "url": "https://www.cls.cn/detail/2194839",
           "source": "财联社热门",
@@ -109,8 +109,24 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 19时26分]"
+        },
+        {
+          "title": "美国政府停摆现转机？民主党态度软化，共和党回绝但承认有进展",
+          "url": "https://wallstreetcn.com/articles/3758956",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[07时29分 ~ 18时36分]"
+          "time_info": "[11时14分 ~ 19时26分]"
         },
         {
           "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
@@ -139,24 +155,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 18时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 19时26分]"
         },
         {
-          "title": "美国政府停摆现转机？民主党态度软化，共和党回绝但承认有进展",
-          "url": "https://wallstreetcn.com/articles/3758956",
-          "source": "华尔街见闻",
+          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
+          "url": "https://www.cls.cn/detail/2194848",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6,
             5,
+            6,
             4,
-            3,
-            2
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时14分 ~ 18时36分]"
+          "appearance_count": 10,
+          "time_info": "[11时14分 ~ 19时26分]"
         },
         {
           "title": "今晚非农又没了？美国政府停摆持续，美联储12月降息“难上加难”",
@@ -171,8 +186,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 18时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 19时26分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -187,18 +202,20 @@
           "time_info": "[00时46分 ~ 06时36分]"
         },
         {
-          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
-          "url": "https://www.cls.cn/detail/2194848",
-          "source": "财联社热门",
+          "title": "中美电磁弹射技术有何区别",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E6%8A%80%E6%9C%AF%E6%9C%89%E4%BD%95%E5%8C%BA%E5%88%AB",
+          "source": "bilibili 热搜",
           "ranks": [
+            2,
             5,
-            6,
-            4,
-            7
+            3,
+            15,
+            16,
+            11
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时14分 ~ 18时36分]"
+          "time_info": "[12时39分 ~ 19时26分]"
         },
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -221,26 +238,12 @@
             7,
             8,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 18时36分]"
-        },
-        {
-          "title": "中美电磁弹射技术有何区别",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E6%8A%80%E6%9C%AF%E6%9C%89%E4%BD%95%E5%8C%BA%E5%88%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            5,
-            3,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时39分 ~ 18时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 19时26分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -425,8 +428,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 18时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 19时26分]"
         },
         {
           "title": "【每日收评】三大指数缩量小幅调整，化工、锂电联袂领涨，市场再现9连板个股",
@@ -479,11 +482,12 @@
             25,
             26,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 18时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 19时26分]"
         },
         {
           "title": "共和党助手称，共和党拒绝民主党提出的结束政府停摆提议。",
@@ -568,6 +572,17 @@
           "time_info": "[11时14分 ~ 17时32分]"
         },
         {
+          "title": "豁免到手，欧尔班：谢谢您，总统先生",
+          "url": "https://news.ifeng.com/c/8o7B88Zf6Qh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
+        },
+        {
           "title": "美国财政部网站显示，美国将叙利亚总统从特别指定全球恐怖分子制裁名单中移除。",
           "url": "https://flash.jin10.com/detail/20251108023526736800",
           "source": "金十数据",
@@ -603,6 +618,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时27分 ~ 07时29分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
         },
         {
           "title": "加拿大总理卡尼领导的政府在加拿大预算修正案投票中获胜。",
@@ -646,17 +672,6 @@
           "time_info": "[14时49分 ~ 18时36分]"
         },
         {
-          "title": "豁免到手，欧尔班：谢谢您，总统先生",
-          "url": "https://news.ifeng.com/c/8o7B88Zf6Qh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
-        },
-        {
           "title": "11月7日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
           "url": "https://flash.jin10.com/detail/20251108142532228800",
           "source": "金十数据",
@@ -672,6 +687,18 @@
           "time_info": "[14时49分 ~ 18时36分]"
         },
         {
+          "title": "多家俄媒援引克里姆林宫法令报道称，俄罗斯总统普京任命国防部副部长安德烈·布雷加为安全会议副秘书长。",
+          "url": "https://flash.jin10.com/detail/20251108181705176800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时26分]"
+        },
+        {
           "title": "中方同意荷经济部派员来华磋商",
           "url": "https://www.toutiao.com/trending/7570223207924649498/",
           "source": "今日头条",
@@ -685,15 +712,41 @@
           "time_info": "[14时49分 ~ 18时36分]"
         },
         {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
+          "title": "上海交易团国资分团：进博会已达成意向采购订单113笔，意向采购金额27.76亿美元",
+          "url": "https://wallstreetcn.com/livenews/3001552",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            2,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
+          "time_info": "[18时36分 ~ 19时26分]"
+        },
+        {
+          "title": "多家俄媒援引克里姆林宫法令报道称，俄罗斯总统普京任命亚历山大·桑奇克将军为俄罗斯国防部副部长。",
+          "url": "https://flash.jin10.com/detail/20251108181603890800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时26分]"
+        },
+        {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时49分 ~ 19时26分]"
         },
         {
           "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股盘中）",
@@ -705,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "美国参议院共和党“在政府关门期间对联邦（政府）工作人员和军队发放工资”的草案没能获得足够多的支持票。",
@@ -745,6 +809,21 @@
           "time_info": "[11时14分 ~ 15时29分]"
         },
         {
+          "title": "俄罗斯国防部：一架乌克兰无人机在莫斯科地区被击落。",
+          "url": "https://flash.jin10.com/detail/20251108144607757800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12,
+            21,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 19时26分]"
+        },
+        {
           "title": "Metsera：辉瑞与Metsera达成合并协议修正案，辉瑞将以每股最高86.25美元的价格收购Metsera。",
           "url": "https://flash.jin10.com/detail/20251108104103559800",
           "source": "金十数据",
@@ -758,28 +837,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时14分 ~ 15时29分]"
-        },
-        {
-          "title": "多家俄媒援引克里姆林宫法令报道称，俄罗斯总统普京任命国防部副部长安德烈·布雷加为安全会议副秘书长。",
-          "url": "https://flash.jin10.com/detail/20251108181705176800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "上海交易团国资分团：进博会已达成意向采购订单113笔，意向采购金额27.76亿美元",
-          "url": "https://wallstreetcn.com/livenews/3001552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -804,17 +861,6 @@
           "time_info": "01时35分"
         },
         {
-          "title": "多家俄媒援引克里姆林宫法令报道称，俄罗斯总统普京任命亚历山大·桑奇克将军为俄罗斯国防部副部长。",
-          "url": "https://flash.jin10.com/detail/20251108181603890800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
           "title": "日本熊灾 猎人",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE+%E7%8C%8E%E4%BA%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D8%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D8%26q%3D%25E6%2597%25A5%25E6%259C%25AC%25E7%2586%258A%25E7%2581%25BE%2520%25E7%258C%258E%25E4%25BA%25BA%26realpos%3D8%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26display_time%3D1762543066%26pre_seqid%3D17625430669170330116776&launchid=10000360-page_H5",
           "source": "微博",
@@ -826,6 +872,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时27分 ~ 05时26分]"
+        },
+        {
+          "title": "特朗普被问急眼了怒喷记者",
+          "url": "https://www.toutiao.com/trending/7569684589699235903/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "美国参议院共和党领袖图恩：今天可能会就支付部分联邦工作人员工资的法案进行投票。",
@@ -912,18 +969,32 @@
           "time_info": "07时29分"
         },
         {
-          "title": "俄罗斯国防部：一架乌克兰无人机在莫斯科地区被击落。",
-          "url": "https://flash.jin10.com/detail/20251108144607757800",
+          "title": "美媒驳斥美国通胀下降说法",
+          "url": "https://flash.jin10.com/detail/20251108155732980800",
           "source": "金十数据",
           "ranks": [
-            2,
-            12,
-            21,
-            27
+            1,
+            10,
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时29分 ~ 18时36分]"
+          "time_info": "[16时42分 ~ 19时26分]"
+        },
+        {
+          "title": "乌兹别克斯坦央行：截至11月1日，外汇储备为593亿美元，高于10月份的550亿美元。",
+          "url": "https://flash.jin10.com/detail/20251108154842046800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 19时26分]"
         },
         {
           "title": "朝鲜国防相谴责美国近期军事行动",
@@ -938,6 +1009,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时35分 ~ 16时42分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 19时26分]"
         },
         {
           "title": "摩根大通入股以太坊储备龙头Bitmine，持仓市值1.02亿美元",
@@ -968,16 +1053,17 @@
           "time_info": "[12时40分 ~ 15时29分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
+          "title": "俄罗斯国防部：俄方部队已占领了乌克兰第聂伯罗彼得罗夫斯克州的沃夫切村。",
+          "url": "https://flash.jin10.com/detail/20251108170610310800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            1,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时49分 ~ 18时36分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
         },
         {
           "title": "2025 年第三季度丰田利润 8340 亿日元（386.84 亿人民币）同比下降近 28%，如何看待这一数据？",
@@ -1034,18 +1120,6 @@
           "time_info": "[04时33分 ~ 07时29分]"
         },
         {
-          "title": "俄罗斯国防部：俄方部队已占领了乌克兰第聂伯罗彼得罗夫斯克州的沃夫切村。",
-          "url": "https://flash.jin10.com/detail/20251108170610310800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
-        },
-        {
           "title": "周五（11月7日）纽约尾盘，标普500股指期货最终涨0.30%，道指期货涨0.31%，纳斯达克100股指期货跌0.04%。 罗素2000股指期货涨0.69%。",
           "url": "https://wallstreetcn.com/livenews/3001423",
           "source": "华尔街见闻-快讯",
@@ -1058,6 +1132,19 @@
           "time_info": "[06时36分 ~ 07时29分]"
         },
         {
+          "title": "乌克兰总理：俄罗斯对乌克兰大坝的袭击损坏了基辅、哈尔科夫和波尔塔瓦地区的数个大型能源设施。",
+          "url": "https://flash.jin10.com/detail/20251108170042031800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
+        },
+        {
           "title": "美联储理事米兰：对稳定币融入金融体系感到鼓舞。",
           "url": "https://flash.jin10.com/detail/20251108040041138800",
           "source": "金十数据",
@@ -1067,19 +1154,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时34分 ~ 07时29分]"
-        },
-        {
-          "title": "美媒驳斥美国通胀下降说法",
-          "url": "https://flash.jin10.com/detail/20251108155732980800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 18时36分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.9%，连续第九个交易日下跌，报347.70点，创9月30日以来收盘新低，本周累计下跌超过3.33%。 在十个板块中，北欧医疗保健板块跌幅最大。 诺和诺德收跌5.1%，在一众北欧个股里表现最差。",
@@ -1134,18 +1208,6 @@
           "time_info": "[03时27分 ~ 05时26分]"
         },
         {
-          "title": "乌克兰总理：俄罗斯对乌克兰大坝的袭击损坏了基辅、哈尔科夫和波尔塔瓦地区的数个大型能源设施。",
-          "url": "https://flash.jin10.com/detail/20251108170042031800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
-        },
-        {
           "title": "谷歌母公司Alphabet：11月5日，公司CEO Sundar Pichai按每股278.52-286.03美元卖出32,500股C类股。",
           "url": "https://wallstreetcn.com/livenews/3001422",
           "source": "华尔街见闻-快讯",
@@ -1156,19 +1218,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时29分]"
-        },
-        {
-          "title": "乌兹别克斯坦央行：截至11月1日，外汇储备为593亿美元，高于10月份的550亿美元。",
-          "url": "https://flash.jin10.com/detail/20251108154842046800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 18时36分]"
         },
         {
           "title": "现货黄金日内涨幅达1.0%，报4016.69美元/盎司。",
@@ -1223,6 +1272,19 @@
           "time_info": "[05时26分 ~ 07时29分]"
         },
         {
+          "title": "辉瑞将以100亿美元收购Metsera 诺和诺德退出竞争",
+          "url": "https://flash.jin10.com/detail/20251108170025704800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
+        },
+        {
           "title": "形势危急！伊朗总统：可能从德黑兰撤离",
           "url": "https://news.ifeng.com/c/8o6zKd55xJa",
           "source": "凤凰网",
@@ -1243,19 +1305,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时34分 ~ 07时29分]"
-        },
-        {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://flash.jin10.com/detail/20251108154641553800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 18时36分]"
         },
         {
           "title": "WTI原油期货涨约0.3%，报59.59美元。 据媒体报道，美国支持欧盟利用被冻结的俄罗斯资产来支持乌克兰。",
@@ -1385,18 +1434,6 @@
           "time_info": "[04时34分 ~ 05时26分]"
         },
         {
-          "title": "辉瑞将以100亿美元收购Metsera 诺和诺德退出竞争",
-          "url": "https://flash.jin10.com/detail/20251108170025704800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
-        },
-        {
           "title": "周五（11月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1262元，较周四纽约尾盘跌49点，日内整体交投于7.1212-7.1274元区间。",
           "url": "https://wallstreetcn.com/livenews/3001421",
           "source": "华尔街见闻-快讯",
@@ -1407,6 +1444,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时29分]"
+        },
+        {
+          "title": "加拿大总理称加美经济关系已结束",
+          "url": "https://flash.jin10.com/detail/20251108163745571800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
         },
         {
           "title": "美联储金融稳定性报告：政治不确定性和地缘政治风险是最突出的稳定性顾虑",
@@ -1518,6 +1568,20 @@
           "time_info": "[06时36分 ~ 07时29分]"
         },
         {
+          "title": "比特币失守102000美元/枚，日内跌幅1.30%。",
+          "url": "https://flash.jin10.com/detail/20251108153012783800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 19时26分]"
+        },
+        {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
           "url": "https://flash.jin10.com/detail/20251108035138524800",
           "source": "金十数据",
@@ -1527,18 +1591,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时34分 ~ 07时29分]"
-        },
-        {
-          "title": "加拿大总理称加美经济关系已结束",
-          "url": "https://flash.jin10.com/detail/20251108163745571800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
         },
         {
           "title": "丰业银行首席外汇策略师Shaun Osborne本周援引BarclayHedge指数写道：总体而言，今年对外汇投资者来说将是糟糕的一年。 今年总体回报疲弱可能在未来几个月对市场产生影响。 如果低回报持续，交易员可能会“更加不愿意增加风险敞口。",
@@ -1646,6 +1698,18 @@
           "time_info": "[11时14分 ~ 13时35分]"
         },
         {
+          "title": "经济日报解读“着力提高居民消费率”：应从哪些方面入手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31921443",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 19时26分]"
+        },
+        {
           "title": "道指转涨，标普500指数跌幅收窄至0.15%，纳指现跌0.56%。",
           "url": "https://flash.jin10.com/detail/20251108035004376800",
           "source": "金十数据",
@@ -1745,17 +1809,39 @@
           "time_info": "[11时14分 ~ 12时40分]"
         },
         {
-          "title": "比特币失守102000美元/枚，日内跌幅1.30%。",
-          "url": "https://flash.jin10.com/detail/20251108153012783800",
-          "source": "金十数据",
+          "title": "加拿大总理：加美经济关系已结束",
+          "url": "https://news.ifeng.com/c/8o77uXOnLOZ",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            15,
-            21
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时42分 ~ 18时36分]"
+          "time_info": "[17时32分 ~ 19时26分]"
+        },
+        {
+          "title": "朝鲜国防相谴责美国近期军事行动",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYJU",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
+        },
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
         },
         {
           "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
@@ -1771,6 +1857,19 @@
           "time_info": "[00时46分 ~ 02时49分]"
         },
         {
+          "title": "辉瑞将以100亿美元收购Metsera 诺和诺德退出竞购战",
+          "url": "https://wallstreetcn.com/livenews/3001537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
+        },
+        {
           "title": "辉瑞将以每股最高86.25美元的价格收购Metsera",
           "url": "https://wallstreetcn.com/livenews/3001475",
           "source": "华尔街见闻-快讯",
@@ -1784,15 +1883,28 @@
           "time_info": "[11时14分 ~ 13时35分]"
         },
         {
-          "title": "经济日报解读“着力提高居民消费率”：应从哪些方面入手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31921443",
-          "source": "澎湃新闻",
+          "title": "政府停摆进入第38天，美国一指数创低值",
+          "url": "https://news.ifeng.com/c/8o7BaOTd7e1",
+          "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时42分 ~ 18时36分]"
+          "time_info": "[17时32分 ~ 19时26分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯发射了450架无人机和45枚导弹，以袭击乌克兰的能源部门和基础设施。",
+          "url": "https://flash.jin10.com/detail/20251108162123783800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
@@ -1884,26 +1996,16 @@
           "time_info": "[11时14分 ~ 12时40分]"
         },
         {
-          "title": "加拿大总理：加美经济关系已结束",
-          "url": "https://news.ifeng.com/c/8o77uXOnLOZ",
-          "source": "凤凰网",
+          "title": "美媒：匈牙利购买俄罗斯能源将免受美方制裁",
+          "url": "https://flash.jin10.com/detail/20251108173143093800",
+          "source": "金十数据",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
-        },
-        {
-          "title": "朝鲜国防相谴责美国近期军事行动",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYJU",
-          "source": "凤凰网",
-          "ranks": [
+            6,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
+          "time_info": "[18时36分 ~ 19时26分]"
         },
         {
           "title": "瑞银：（本财季）已有48只工业/材料类股票在财报发布当日相对于标普500指数的涨跌幅超过10%。本以为我们不可能再接近上季度创下的50只纪录，但如今我们又达到了这一水平。",
@@ -1952,18 +2054,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时26分]"
-        },
-        {
-          "title": "辉瑞将以100亿美元收购Metsera 诺和诺德退出竞购战",
-          "url": "https://wallstreetcn.com/livenews/3001537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
         },
         {
           "title": "日本熊袭人有明显吃人痕迹",
@@ -2037,18 +2127,6 @@
           "time_info": "[06时36分 ~ 07时29分]"
         },
         {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
-        },
-        {
           "title": "欧洲天然气期货周五跌超1%",
           "url": "https://wallstreetcn.com/livenews/3001333",
           "source": "华尔街见闻-快讯",
@@ -2109,15 +2187,28 @@
           "time_info": "[06时36分 ~ 07时29分]"
         },
         {
-          "title": "政府停摆进入第38天，美国一指数创低值",
-          "url": "https://news.ifeng.com/c/8o7BaOTd7e1",
-          "source": "凤凰网",
+          "title": "美媒：匈牙利购买俄罗斯能源将免受美方制裁",
+          "url": "https://wallstreetcn.com/livenews/3001544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时26分]"
+        },
+        {
+          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3758961",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
+          "time_info": "[18时36分 ~ 19时26分]"
         },
         {
           "title": "罗素2000指数跌至逾七周低点，现跌1.2%。",
@@ -2142,18 +2233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时49分 ~ 03时27分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯发射了450架无人机和45枚导弹，以袭击乌克兰的能源部门和基础设施。",
-          "url": "https://flash.jin10.com/detail/20251108162123783800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
         },
         {
           "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
@@ -2539,6 +2618,18 @@
           "time_info": "[00时46分 ~ 01时35分]"
         },
         {
+          "title": "如何看待《女神异闻录 3：Reload》NS2 版在日本本土首发预冷：一周仅售出 6778 份？",
+          "url": "https://www.zhihu.com/question/1969055261558837924",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时26分]"
+        },
+        {
           "title": "美国总统特朗普：我们一致认为，俄乌冲突将在不久的将来结束。",
           "url": "https://flash.jin10.com/detail/20251108020524732800",
           "source": "金十数据",
@@ -2694,17 +2785,6 @@
           "time_info": "[16时42分 ~ 17时32分]"
         },
         {
-          "title": "美媒：匈牙利购买俄罗斯能源将免受美方制裁",
-          "url": "https://flash.jin10.com/detail/20251108173143093800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收跌1%，本周累跌约2.6%。 热门中概股里，文远知行初步收跌超7%，小鹏跌约6%，小马智行跌5.3%，蔚来跌约4%，华住则涨2%，唯品会涨2.3%，阿特斯太阳能涨6.2%，大全新能源涨9.7%。 ETF中，CQQQ、KWEB至多跌1.8%。",
           "url": "https://wallstreetcn.com/livenews/3001397",
           "source": "华尔街见闻-快讯",
@@ -2782,17 +2862,6 @@
           "time_info": "05时26分"
         },
         {
-          "title": "美媒：匈牙利购买俄罗斯能源将免受美方制裁",
-          "url": "https://wallstreetcn.com/livenews/3001544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
           "url": "https://flash.jin10.com/detail/20251108010615120800",
           "source": "金十数据",
@@ -2804,15 +2873,15 @@
           "time_info": "01时35分"
         },
         {
-          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3758961",
+          "title": "美国11月密歇根大学消费者信心逼近历史新低，短期通胀预期上升",
+          "url": "https://wallstreetcn.com/articles/3758946",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时36分"
+          "time_info": "19时26分"
         },
         {
           "title": "当地居民说日本秋田全是熊",
@@ -2920,7 +2989,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -2956,17 +3025,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
-        },
-        {
-          "title": "如何看待《女神异闻录 3：Reload》NS2 版在日本本土首发预冷：一周仅售出 6778 份？",
-          "url": "https://www.zhihu.com/question/1969055261558837924",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
         },
         {
           "title": "专家：特朗普对中国关税战没占到便宜",
@@ -3382,7 +3440,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
