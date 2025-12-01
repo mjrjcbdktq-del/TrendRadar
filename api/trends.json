@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T14:30:33.814154+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-12-01T15:21:57.158023+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 246,
+      "match_count": 281,
       "titles": [
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知",
+          "url": "https://news.ifeng.com/c/8oia5p6rx65",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 15时21分]"
         },
         {
           "title": "危险信号！“这是日本要介入台海的第一步”",
@@ -65,15 +76,40 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知",
-          "url": "https://news.ifeng.com/c/8oia5p6rx65",
-          "source": "凤凰网",
+          "title": "日本国脚竟拿战犯照片合影",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E8%84%9A%E7%AB%9F%E6%8B%BF%E6%88%98%E7%8A%AF%E7%85%A7%E7%89%87%E5%90%88%E5%BD%B1",
+          "source": "百度热搜",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
+        },
+        {
+          "title": "本周重磅日程：美俄会谈、中美PMI、亚马逊大会",
+          "url": "https://wallstreetcn.com/articles/3760322",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时41分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
+          "url": "https://wallstreetcn.com/articles/3760417",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -90,6 +126,22 @@
           "time_info": "[00时20分 ~ 12时48分]"
         },
         {
+          "title": "内塔尼亚胡向以总统提交赦免请求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074176",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            11,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[01时14分 ~ 15时21分]"
+        },
+        {
           "title": "日媒爆料：日本新动作！",
           "url": "https://news.ifeng.com/c/8oiHQUbigKs",
           "source": "凤凰网",
@@ -99,44 +151,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时41分 ~ 13时26分]"
-        },
-        {
-          "title": "日本国脚竟拿战犯照片合影",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E8%84%9A%E7%AB%9F%E6%8B%BF%E6%88%98%E7%8A%AF%E7%85%A7%E7%89%87%E5%90%88%E5%BD%B1",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时30分]"
-        },
-        {
-          "title": "内塔尼亚胡向以总统提交赦免请求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074176",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            11,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时14分 ~ 14时30分]"
-        },
-        {
-          "title": "本周重磅日程：美俄会谈、中美PMI、亚马逊大会",
-          "url": "https://wallstreetcn.com/articles/3760322",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时30分]"
         },
         {
           "title": "罕见大逆袭！全球牛市排行榜竟被欧洲霸屏",
@@ -149,20 +163,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
-          "url": "https://wallstreetcn.com/articles/3760417",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时21分]"
         },
         {
           "title": "日本官方发布高市“名场面”",
@@ -177,6 +179,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时20分 ~ 13时26分]"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -203,6 +218,17 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "万亿冰雪经济“上新” 解锁新玩法",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E4%BA%BF%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D+%E8%A7%A3%E9%94%81%E6%96%B0%E7%8E%A9%E6%B3%95",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时21分]"
+        },
+        {
           "title": "高盛：美联储应该而且将会在12月降息",
           "url": "https://wallstreetcn.com/articles/3760392",
           "source": "华尔街见闻",
@@ -213,20 +239,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 09时42分]"
-        },
-        {
-          "title": "痴人说梦,日本妄想稀土卡中国脖子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347606&amp;topic_name=%E7%97%B4%E4%BA%BA%E8%AF%B4%E6%A2%A6%2C%E6%97%A5%E6%9C%AC%E5%A6%84%E6%83%B3%E7%A8%80%E5%9C%9F%E5%8D%A1%E4%B8%AD%E5%9B%BD%E8%84%96%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时30分]"
         },
         {
           "title": "日本官方发布高市名场面 网友：黑粉",
@@ -243,6 +255,33 @@
           "time_info": "[00时20分 ~ 09时42分]"
         },
         {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 15时21分]"
+        },
+        {
+          "title": "痴人说梦,日本妄想稀土卡中国脖子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347606&amp;topic_name=%E7%97%B4%E4%BA%BA%E8%AF%B4%E6%A2%A6%2C%E6%97%A5%E6%9C%AC%E5%A6%84%E6%83%B3%E7%A8%80%E5%9C%9F%E5%8D%A1%E4%B8%AD%E5%9B%BD%E8%84%96%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            15,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时21分]"
+        },
+        {
           "title": "内塔尼亚胡请求总统特赦：诉讼妨碍我执政",
           "url": "https://news.ifeng.com/c/8oi48bcDgir",
           "source": "凤凰网",
@@ -252,19 +291,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时30分]"
         },
         {
           "title": "探秘韩国自助泡面馆",
@@ -294,11 +320,12 @@
             9,
             10,
             18,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时21分]"
         },
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -308,11 +335,12 @@
             10,
             11,
             19,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时21分]"
         },
         {
           "title": "韩国破获网络性犯罪大案",
@@ -339,34 +367,51 @@
             22,
             23,
             29,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时21分]"
         },
         {
-          "title": "万亿冰雪经济“上新” 解锁新玩法",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E4%BA%BF%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D+%E8%A7%A3%E9%94%81%E6%96%B0%E7%8E%A9%E6%B3%95",
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
           "source": "百度热搜",
           "ranks": [
-            3
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 14时30分]"
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 15时21分]"
         },
         {
-          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
-          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
-          "source": "凤凰网",
+          "title": "媒体报道爱马仕继承人手中 150 亿美元股份被骗，究竟发生了什么？这笔股份能追回来吗？",
+          "url": "https://www.zhihu.com/question/1978486647059347350",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            15,
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时41分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
+        },
+        {
+          "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
+          "url": "https://wallstreetcn.com/articles/3760415",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
         },
         {
           "title": "日本一钢铁厂发生爆炸并引发火灾",
@@ -381,30 +426,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时41分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时41分 ~ 14时30分]"
-        },
-        {
-          "title": "媒体报道爱马仕继承人手中 150 亿美元股份被骗，究竟发生了什么？这笔股份能追回来吗？",
-          "url": "https://www.zhihu.com/question/1978486647059347350",
-          "source": "知乎",
-          "ranks": [
-            15,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时30分]"
         },
         {
           "title": "金十数据整理：周日重要消息汇总",
@@ -444,6 +465,45 @@
           "time_info": "[00时20分 ~ 05时16分]"
         },
         {
+          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
+          "url": "https://www.cls.cn/detail/2215253",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
+        },
+        {
+          "title": "日本国脚合影的战犯是谁",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E8%84%9A%E5%90%88%E5%BD%B1%E7%9A%84%E6%88%98%E7%8A%AF%E6%98%AF%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            13,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
+        },
+        {
+          "title": "美乌新一轮谈判结束，美称“富有成效”并谈及俄罗斯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074987",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
+        },
+        {
           "title": "商务部：对原产于日本、美国、韩国和马来西亚的进口聚苯硫醚所适用的反倾销措施发起期终复审调查",
           "url": "https://wallstreetcn.com/livenews/3012540",
           "source": "华尔街见闻-快讯",
@@ -457,6 +517,34 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "小米汽车将开放现车选购",
+          "url": "https://www.douyin.com/hot/2322868",
+          "source": "抖音",
+          "ranks": [
+            22,
+            14,
+            13,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
+        },
+        {
+          "title": "高市宣称日本又回来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E5%AE%A3%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时21分]"
+        },
+        {
           "title": "日本国脚竟拿战犯照片合影，英超球队道歉",
           "url": "https://news.ifeng.com/c/8oikvl8KaCI",
           "source": "凤凰网",
@@ -466,32 +554,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时41分 ~ 13时26分]"
-        },
-        {
-          "title": "高市宣称日本又回来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E5%AE%A3%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 14时30分]"
-        },
-        {
-          "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
-          "url": "https://wallstreetcn.com/articles/3760415",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时30分]"
         },
         {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
@@ -506,55 +568,43 @@
           "time_info": "[09时41分 ~ 13时26分]"
         },
         {
-          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
-          "url": "https://www.cls.cn/detail/2215253",
-          "source": "财联社热门",
+          "title": "爱马仕继承人150亿美元财富失踪",
+          "url": "https://www.toutiao.com/trending/7577611751588626458/",
+          "source": "今日头条",
           "ranks": [
+            5,
+            6,
             10,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时30分]"
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时21分]"
         },
         {
-          "title": "日本国脚合影的战犯是谁",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E8%84%9A%E5%90%88%E5%BD%B1%E7%9A%84%E6%88%98%E7%8A%AF%E6%98%AF%E8%B0%81",
+          "title": "哈萨克斯坦怒斥，乌克兰辩称：为了反击俄罗斯，不是针对你",
+          "url": "https://news.ifeng.com/c/8oj9wcZoOCx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
+          "title": "钟声：一个什么样的日本“又回来了”",
+          "url": "https://www.baidu.com/s?wd=%E9%92%9F%E5%A3%B0%EF%BC%9A%E4%B8%80%E4%B8%AA%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%97%A5%E6%9C%AC%E2%80%9C%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            24,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时30分]"
-        },
-        {
-          "title": "美乌新一轮谈判结束，美称“富有成效”并谈及俄罗斯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074987",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时30分]"
-        },
-        {
-          "title": "小米汽车将开放现车选购",
-          "url": "https://www.douyin.com/hot/2322868",
-          "source": "抖音",
-          "ranks": [
-            22,
+            17,
             14,
-            13,
-            16
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时30分]"
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时21分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -583,32 +633,6 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "爱马仕继承人150亿美元财富失踪",
-          "url": "https://www.toutiao.com/trending/7577611751588626458/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 14时30分]"
-        },
-        {
-          "title": "钟声：一个什么样的日本“又回来了”",
-          "url": "https://www.baidu.com/s?wd=%E9%92%9F%E5%A3%B0%EF%BC%9A%E4%B8%80%E4%B8%AA%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%97%A5%E6%9C%AC%E2%80%9C%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 14时30分]"
-        },
-        {
           "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：已开始与美国商讨俄乌和平谈判。代表团“正努力为乌克兰争取真正的和平”。",
           "url": "https://flash.jin10.com/detail/20251130232001880800",
           "source": "金十数据",
@@ -621,17 +645,6 @@
           "time_info": "[00时20分 ~ 05时16分]"
         },
         {
-          "title": "哈萨克斯坦怒斥，乌克兰辩称：为了反击俄罗斯，不是针对你",
-          "url": "https://news.ifeng.com/c/8oj9wcZoOCx",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
-        },
-        {
           "title": "现货黄金短线下挫20美元，回落至4210美元/盎司下方，日内跌0.19%。",
           "url": "https://flash.jin10.com/detail/20251201070913508800",
           "source": "金十数据",
@@ -641,17 +654,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "泰国央行：要求金融机构加强对与黄金相关的外汇交易的管控。",
-          "url": "https://flash.jin10.com/detail/20251201141126589800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时30分"
         },
         {
           "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
@@ -693,7 +695,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -709,6 +711,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时41分 ~ 12时48分]"
+        },
+        {
+          "title": "罕见公开 朝鲜女飞行员驾驶苏-25战机",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E5%85%AC%E5%BC%80+%E6%9C%9D%E9%B2%9C%E5%A5%B3%E9%A3%9E%E8%A1%8C%E5%91%98%E9%A9%BE%E9%A9%B6%E8%8B%8F-25%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时21分]"
         },
         {
           "title": "美国国务卿鲁比奥表示，预计在乌克兰会谈中取得更多进展。",
@@ -733,6 +748,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 05时16分]"
+        },
+        {
+          "title": "当心网络“伪数据”偷走公众判断力",
+          "url": "https://www.douyin.com/hot/2322443",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时21分]"
         },
         {
           "title": "哈塞特：如果得到提名 乐意担任美联储主席",
@@ -795,6 +821,18 @@
           "time_info": "[00时20分 ~ 05时16分]"
         },
         {
+          "title": "小米汽车将开放“现车选购”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时21分]"
+        },
+        {
           "title": "波兰总统取消与匈牙利总理欧尔班的会晤",
           "url": "https://flash.jin10.com/detail/20251130203911418800",
           "source": "金十数据",
@@ -840,15 +878,15 @@
           "time_info": "13时26分"
         },
         {
-          "title": "WTI原油向上触及60美元/桶，为11月20日以来首次，日内涨2.46%。",
-          "url": "https://flash.jin10.com/detail/20251201141100019800",
+          "title": "金十图示：2025年12月01日（周一）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251201151019645800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时30分"
+          "time_info": "15时21分"
         },
         {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
@@ -871,17 +909,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
-        },
-        {
-          "title": "印度卢比兑美元跌破88.49，创历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3012832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时30分"
         },
         {
           "title": "美、布两油周一盘初走高1%，现分别报59.36美元/桶和63.64美元/桶。",
@@ -917,15 +944,15 @@
           "time_info": "09时42分"
         },
         {
-          "title": "韩国市场监察机构警惕散户投资者的外汇风险",
-          "url": "https://wallstreetcn.com/livenews/3012831",
+          "title": "【法国总统马克龙将访华】外交部发言人宣布：应国家主席习近平邀请，法国总统马克龙将于12月3日至5日对中国进行国事访问。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3012866",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时30分"
+          "time_info": "15时21分"
         },
         {
           "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
@@ -961,6 +988,19 @@
           "time_info": "09时42分"
         },
         {
+          "title": "黄金疯涨背后的逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%96%AF%E6%B6%A8%E8%83%8C%E5%90%8E%E7%9A%84%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 15时21分]"
+        },
+        {
           "title": "周一现货黄金小幅高开，现报4228美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251201070141229800",
           "source": "金十数据",
@@ -989,32 +1029,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
         {
-          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
-          "url": "https://wallstreetcn.com/livenews/3012823",
-          "source": "华尔街见闻-快讯",
+          "title": "金十期货12月1日讯，据上海航运交易所数据，截至2025年12月1日，上海出口集装箱结算运价指数（欧洲航线）报1483.65点，与上期相比跌9.5%。",
+          "url": "https://flash.jin10.com/detail/20251201150645933800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时30分"
+          "time_info": "15时21分"
         },
         {
-          "title": "黄金疯涨背后的逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%96%AF%E6%B6%A8%E8%83%8C%E5%90%8E%E7%9A%84%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
+          "title": "早苗狂言日本回归,靖国鬼厕又沸腾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347629&amp;topic_name=%E6%97%A9%E8%8B%97%E7%8B%82%E8%A8%80%E6%97%A5%E6%9C%AC%E5%9B%9E%E5%BD%92%2C%E9%9D%96%E5%9B%BD%E9%AC%BC%E5%8E%95%E5%8F%88%E6%B2%B8%E8%85%BE",
+          "source": "贴吧",
           "ranks": [
-            4,
-            18
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月1日 周一",
@@ -1041,40 +1080,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时47分 ~ 13时26分]"
-        },
-        {
-          "title": "罕见公开 朝鲜女飞行员驾驶苏-25战机",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E5%85%AC%E5%BC%80+%E6%9C%9D%E9%B2%9C%E5%A5%B3%E9%A3%9E%E8%A1%8C%E5%91%98%E9%A9%BE%E9%A9%B6%E8%8B%8F-25%E6%88%98%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 14时30分]"
-        },
-        {
-          "title": "当心网络“伪数据”偷走公众判断力",
-          "url": "https://www.douyin.com/hot/2322443",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 14时30分]"
-        },
-        {
-          "title": "小米汽车将开放“现车选购”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 14时30分]"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
@@ -1111,6 +1116,18 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
+          "title": "泰国央行：要求金融机构加强对与黄金相关的外汇交易的管控。",
+          "url": "https://flash.jin10.com/detail/20251201141126589800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时21分]"
+        },
+        {
           "title": "特朗普：俄乌问题谈判进展顺利 未设最后期限",
           "url": "https://flash.jin10.com/detail/20251201055331214800",
           "source": "金十数据",
@@ -1133,6 +1150,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时48分 ~ 13时26分]"
+        },
+        {
+          "title": "WTI原油向上触及60美元/桶，为11月20日以来首次，日内涨2.46%。",
+          "url": "https://flash.jin10.com/detail/20251201141100019800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时21分]"
+        },
+        {
+          "title": "印度卢比兑美元跌破88.49，创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3012832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时21分]"
         },
         {
           "title": "上证指数早盘收报3904.90点，涨0.42%。 深证成指早盘收报13106.95点，涨0.95%。 创业板指早盘收报3080.16点，涨0.90%。 沪深300早盘收报4560.67点，涨0.75%。 科创50早盘收报1337.35点，涨0.77%。 中证500早盘收报7086.13点，涨0.78%。 中证1000早盘收报7381.69点，涨0.65%。",
@@ -1196,6 +1237,18 @@
           "time_info": "[13时26分 ~ 14时30分]"
         },
         {
+          "title": "韩国市场监察机构警惕散户投资者的外汇风险",
+          "url": "https://wallstreetcn.com/livenews/3012831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时21分]"
+        },
+        {
           "title": "特朗普：已敲定美联储主席人选",
           "url": "https://flash.jin10.com/detail/20251201055105786800",
           "source": "金十数据",
@@ -1244,6 +1297,18 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
+          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
+          "url": "https://wallstreetcn.com/livenews/3012823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时21分]"
+        },
+        {
           "title": "日本发布高市早苗外交场面引群嘲",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B8%83%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%A4%96%E4%BA%A4%E5%9C%BA%E9%9D%A2%E5%BC%95%E7%BE%A4%E5%98%B2%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -1254,6 +1319,63 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时41分 ~ 11时49分]"
+        },
+        {
+          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
+          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
+          "title": "自认“被中美直接针对”，欧盟将公布削减对华依赖新战略",
+          "url": "https://news.ifeng.com/c/8oiveJL5EZv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
+          "title": "日本前议员：高市已不具备首相资格",
+          "url": "https://www.toutiao.com/trending/7578541958902071339/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
+          "title": "“冒充总统索要钱财”，韩总统府发声：已着手调查，将依法严惩",
+          "url": "https://news.ifeng.com/c/8ojANS21nUr",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普：俄乌和平协议很有可能达成",
+          "url": "https://www.toutiao.com/trending/7578340057447514175/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时21分]"
         },
         {
           "title": "日本京都著名景点突发火灾",
@@ -1281,6 +1403,18 @@
           "time_info": "[13时26分 ~ 14时30分]"
         },
         {
+          "title": "如何看待日本各界及国际社会批评声音",
+          "url": "https://www.toutiao.com/trending/7577993560092360714/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
           "title": "本周重磅日程：美俄会谈、中美PMI",
           "url": "https://wallstreetcn.com/articles/3760322",
           "source": "华尔街见闻",
@@ -1290,28 +1424,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
-          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
-          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
-        },
-        {
-          "title": "自认“被中美直接针对”，欧盟将公布削减对华依赖新战略",
-          "url": "https://news.ifeng.com/c/8oiveJL5EZv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
         },
         {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
@@ -1362,15 +1474,16 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
-          "title": "“冒充总统索要钱财”，韩总统府发声：已着手调查，将依法严惩",
-          "url": "https://news.ifeng.com/c/8ojANS21nUr",
-          "source": "凤凰网",
+          "title": "日本20年期国债收益率创1999年6月以来最高位",
+          "url": "https://wallstreetcn.com/livenews/3012818",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
+          "time_info": "[14时30分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普：我们会调查有关对毒品船只发动第二次打击的报道。我不希望发生那种事，但国防部长赫格塞思所说的第二次打击并没有发生。",
@@ -1383,6 +1496,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "台湾证交所加权股价指数收跌1%，报27,342.53点。",
+          "url": "https://wallstreetcn.com/livenews/3012816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时21分]"
         },
         {
           "title": "特朗普与委总统通话，直接要求对方下台！",
@@ -1431,17 +1556,6 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
-          "title": "日本前议员：高市已不具备首相资格",
-          "url": "https://www.toutiao.com/trending/7578541958902071339/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
-        },
-        {
           "title": "金十图示：2025年12月01日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251201064232545800",
           "source": "金十数据",
@@ -1464,17 +1578,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普：俄乌和平协议很有可能达成",
-          "url": "https://www.toutiao.com/trending/7578340057447514175/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
         },
         {
           "title": "日本10年期国债收益率上涨5.5个基点，至1.855%。",
@@ -1626,17 +1729,6 @@
           "time_info": "[11时49分 ~ 12时48分]"
         },
         {
-          "title": "如何看待日本各界及国际社会批评声音",
-          "url": "https://www.toutiao.com/trending/7577993560092360714/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
-        },
-        {
           "title": "内蒙古发行10年期一般债地方债，规模77.0000亿元，发行利率2.0700%，边际倍数3.46倍，倍数预期2.06； 内蒙古发行15年期普通专项地方债，规模27.0000亿元，发行利率2.3800%，边际倍数12.00倍，倍数预期2.36。",
           "url": "https://wallstreetcn.com/livenews/3012721",
           "source": "华尔街见闻-快讯",
@@ -1737,6 +1829,17 @@
           "time_info": "13时26分"
         },
         {
+          "title": "金十图示：2025年12月01日（周一）富时中国A50指数成分股今日收盘行情一览：银行股全天走势分化，石油板块午后延续涨势",
+          "url": "https://flash.jin10.com/detail/20251201150311817800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "特朗普证实与马杜罗通话",
           "url": "https://wallstreetcn.com/livenews/3012567",
           "source": "华尔街见闻-快讯",
@@ -1759,6 +1862,28 @@
           "time_info": "09时42分"
         },
         {
+          "title": "农发行发行392天期债券，规模100亿元，发行利率1.4434%，预期1.3500%，投标倍数2.73倍，边际倍数1.25倍； 农发行发行3年期债券，规模50亿元，发行利率1.6189%，预期1.6900%，投标倍数5.12倍，边际倍数2.15倍； 农发行发行5年期债券，规模50亿元，发行利率1.7292%，预期1.7300%，投标倍数4.25倍，边际倍数2.77倍。",
+          "url": "https://wallstreetcn.com/livenews/3012863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后",
+          "url": "https://wallstreetcn.com/articles/3760425",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "日本央行行长植田和男：也应关注这些物价走势可能通过通胀预期的变化而影响潜在通胀的可能性。",
           "url": "https://flash.jin10.com/detail/20251201091500860800",
           "source": "金十数据",
@@ -1779,6 +1904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "上证指数收报3914.01点，涨0.65%。 深证成指收报13146.72点，涨1.25%。 创业板指收报3092.50点，涨1.31%。 沪深300收报4576.49点，涨1.10%。 科创50收报1336.76点，涨0.72%。 中证500收报7101.83点，涨1.00%。 中证1000收报7386.68点，涨0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3012862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：必须关注一个事实，即近期企业行为正更多地转向提高工资和价格，因此汇率走势比以往更有可能对物价产生影响。",
@@ -1820,20 +1956,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
         {
-          "title": "日本20年期国债收益率创1999年6月以来最高位",
-          "url": "https://wallstreetcn.com/livenews/3012818",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲斯托克50指数期货下跌0.33%，德国DAX指数期货下跌0.47%，法国CAC40指数期货下跌0.36%，英国富时100指数期货下跌0.16%。",
+          "url": "https://flash.jin10.com/detail/20251201150209345800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时30分"
+          "time_info": "15时21分"
+        },
+        {
+          "title": "日本右翼欲以新型军国主义介入台海",
+          "url": "https://www.toutiao.com/trending/7577764302007107627/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "本周重要事件与数据预告：鲍威尔讲话、美国PCE和小非农",
@@ -1880,15 +2027,15 @@
           "time_info": "07时16分"
         },
         {
-          "title": "台湾证交所加权股价指数收跌1%，报27,342.53点。",
-          "url": "https://wallstreetcn.com/livenews/3012816",
-          "source": "华尔街见闻-快讯",
+          "title": "法国总统马克龙将于12月3日访华",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E5%B0%86%E4%BA%8E12%E6%9C%883%E6%97%A5%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时30分"
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：加息有助于缓解加速效应，实现经济和物价的稳定增长。",
@@ -1919,9 +2066,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "印度央行本周降息预期落空 强劲GDP数据压倒历史低通胀",
+          "url": "https://flash.jin10.com/detail/20251201145959350800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美国总统特朗普拒绝确认是否让白宫经济顾问凯文·哈塞特（Kevin Hassett）出任美联储主席。其表示，我知道我要选谁当美联储主席。",
@@ -1944,6 +2102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "日本一钢铁厂爆炸并引发火灾",
+          "url": "https://www.douyin.com/hot/2322731",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：核心消费者通胀率预计将在2026财年上半年暂时降至2%以下，此后将重新加速。",
@@ -1985,7 +2154,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -2040,9 +2209,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "金十数据整理：每日电动车行业动态汇总（2025-12-01）",
+          "url": "https://flash.jin10.com/detail/20251201144458703800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：越来越多观点认为，关税政策对企业利润的影响将是有限的。",
@@ -2084,9 +2264,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-12-01）",
+          "url": "https://flash.jin10.com/detail/20251201143706053800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：核心消费者通胀率可能在2026财年上半年暂时放缓至2%以下，之后将重新加速上涨。",
@@ -2098,6 +2289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "日经225指数收盘跌1.9%，报49303.28点。 日本东证指数收跌1.2%，报3338.33点。 韩国首尔综指收盘跌0.2%，报3920.37点。",
+          "url": "https://wallstreetcn.com/livenews/3012847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
@@ -2172,7 +2374,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -2227,9 +2429,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：目前的利率水平是合适的。",
+          "url": "https://wallstreetcn.com/livenews/3012840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "朝鲜女飞行员驾驶战机表演画面曝光",
+          "url": "https://www.toutiao.com/trending/7578151099815808575/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美国总统特朗普证实他与委内瑞拉总统马杜罗通了电话。",
@@ -2282,9 +2506,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "金十数据整理：每日全球外汇市场要闻速递（2025-12-01）",
+          "url": "https://flash.jin10.com/detail/20251201143252577800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：预计GDP负增长只是暂时的。 我们预测的经济活动和价格基准情景实现的可能性正在逐步上升。",
@@ -2296,6 +2531,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "特斯拉11月在丹麦的注册量同比下降49%，降至534辆。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3012839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32075101",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（12月1日）",
@@ -2348,9 +2605,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "印度卢比兑美元一度跌至89.7575的历史低位。有交易员称，印度央行可能在抛售美元，以抑制卢比跌势。",
+          "url": "https://flash.jin10.com/detail/20251201142848033800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "吉林：到2030年长春现代化都市圈经济总量力争达到1.35万亿元左右",
+          "url": "https://wallstreetcn.com/livenews/3012838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：在12月会议上，日本央行将基于各类数据，审视并讨论国内外经济活动与物价情况，以及市场动态，并权衡加息的利弊。",
@@ -2381,9 +2660,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：目前的利率水平是合适的。",
+          "url": "https://flash.jin10.com/detail/20251201142415149800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "人民币兑美元中间价报7.0759，上调30点；上一交易日中间价7.0789，上一交易日官方收盘价7.0794，上日夜盘报收7.0740。",
@@ -2447,9 +2737,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "汇丰：将赛默飞世尔(TMO.N)评级从“持有”上调至“买入”，目标价从550美元上调至670美元。",
+          "url": "https://flash.jin10.com/detail/20251201142349439800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：通胀水平将在日本央行展望报告三年预测期的后半段，大致达到与我们2%目标一致的水平。 还需关注价格走势可能通过通胀预期的变化，对基础通胀产生影响的可能性。 薪资增长持续传导至物价，不仅食品价格，商品和服务价格也温和上涨。",
@@ -2461,6 +2762,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "俄罗斯本周将发行人民币主权债",
+          "url": "https://wallstreetcn.com/livenews/3012836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "俄罗斯能赢下俄乌战争吗",
+          "url": "https://www.toutiao.com/trending/7578763503889026623/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "鲁比奥：调解乌克兰问题需要向基辅提供长期安全担保",
@@ -2524,7 +2847,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -2579,9 +2902,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "据Mobility Denmark（原丹麦汽车进口商协会）数据，11月，特斯拉(TSLA.O)在丹麦的新车注册量同比下降49%。",
+          "url": "https://flash.jin10.com/detail/20251201142235480800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：将在下次货币政策会议上考虑提高政策利率的利弊。 确认薪资谈判的初步势头至关重要。 预计企业利润将整体保持在高位。 正确的政策调整将使日本央行与政府的努力取得成功。 调整不能太晚，也不能太早。 随着企业行为近期更倾向于提高工资和价格，汇率变动对物价的影响可能比过去更大。 将在12月会议上就利率问题做出正确决定。",
@@ -2593,6 +2927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "布伦特原油涨超2%，现报63.80美元/桶；WTI原油涨超2%，现报59.95美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3012834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：实际利率仍极低。",
@@ -2617,6 +2962,17 @@
           "time_info": "13时26分"
         },
         {
+          "title": "汇丰：将埃克森美孚石油(XOM.N)目标价从121美元上调至126美元。",
+          "url": "https://flash.jin10.com/detail/20251201142124566800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "日本东证指数跌幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3012654",
           "source": "华尔街见闻-快讯",
@@ -2626,6 +2982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "泰国央行：将采取措施应对泰铢波动，以减轻影响。 将密切监控泰铢汇率。 要求金融机构加强对与黄金相关的外汇交易的管控。 建议要求主要黄金交易商报告交易数据。",
+          "url": "https://wallstreetcn.com/livenews/3012833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：预计GDP负增长仅为暂时现象。",
@@ -2678,9 +3045,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "汇丰：将雪佛龙(CVX.N)评级从“持有”上调至“买入”，目标价从166美元上调至169美元。",
+          "url": "https://flash.jin10.com/detail/20251201142106266800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：海外经济表现出一些疲软，但整体上逐渐增长。 迄今为止，人们担心的美国关税对全球经济的影响还没有实现。 在关税政策的影响下，日本央行认为海外经济将暂时放缓的观点没有改变。 日本经济已经适度复苏，尽管看到一些疲软的部分。",
@@ -2722,9 +3100,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "法国汽车制造商委员会（PFA）：法国11月新车注册量同比下降0.29%，至132,927辆；11月特斯拉(TSLA.O)在法国的注册量下降了57.83%。",
+          "url": "https://flash.jin10.com/detail/20251201141856483800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：日本央行正处于应评估企业积极的薪资设定行为是否会持续的阶段。",
@@ -2744,7 +3133,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -2755,9 +3144,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "泰国央行：考虑要求主要黄金交易商报告的交易数据。",
+          "url": "https://flash.jin10.com/detail/20251201141231655800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本央行行长植田和男：全球经济略显疲软，但整体上逐步增长。 如果经济展望实现，将加息。 实际利率非常低。 即使政策利率上调，整体环境仍将是宽松的。 在宽松的金融条件下提高利率，并不是对经济活动施加刹车。",
@@ -2777,7 +3177,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -2799,7 +3199,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -2810,7 +3210,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -2837,13 +3237,24 @@
           "time_info": "11时49分"
         },
         {
+          "title": "远征韩国客场 中国男篮该如何反弹",
+          "url": "https://www.toutiao.com/trending/7578238197415723050/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "日本央行行长植田和男：希望12月的政策决策能结合薪资数据及其他数据综合考量。",
           "url": "https://flash.jin10.com/detail/20251201131735993800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         }
