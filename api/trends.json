@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T09:27:23.864385+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2025-12-07T11:25:46.176244+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 58,
+      "match_count": 75,
       "titles": [
         {
           "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
@@ -30,17 +30,6 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
-          "title": "韩国只认中国台湾,岛民炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347766&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8F%AA%E8%AE%A4%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%2C%E5%B2%9B%E6%B0%91%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时27分]"
-        },
-        {
           "title": "俄罗斯终止与多国的部分军事合作协议",
           "url": "https://news.ifeng.com/c/8or1EXdHbUe",
           "source": "凤凰网",
@@ -50,6 +39,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时19分 ~ 09时27分]"
+        },
+        {
+          "title": "韩国只认中国台湾,岛民炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347766&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8F%AA%E8%AE%A4%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%2C%E5%B2%9B%E6%B0%91%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时25分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -98,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时25分]"
         },
         {
           "title": "比特币升破90000美元，日内涨0.83%。",
@@ -107,11 +108,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 11时25分]"
         },
         {
           "title": "中俄在俄罗斯境内举行第3次反导联合演习",
@@ -130,22 +132,24 @@
           "source": "今日头条",
           "ranks": [
             6,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 11时25分]"
         },
         {
           "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
           "url": "https://www.cls.cn/detail/2221612",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时25分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -183,11 +187,27 @@
             13,
             8,
             14,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时25分]"
+        },
+        {
+          "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32118626",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时25分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -195,22 +215,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时27分]"
-        },
-        {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时25分]"
         },
         {
           "title": "中国百舰齐发,日本吓傻了",
@@ -218,7 +228,19 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时25分]"
+        },
+        {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 14,
@@ -236,18 +258,17 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
-          "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32118626",
-          "source": "澎湃新闻",
+          "title": "巴勒斯坦总统与德国总理通话，商讨落实加沙和平计划",
+          "url": "https://wallstreetcn.com/livenews/3016312",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            16,
-            17,
-            13
+            14,
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 11时25分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -347,18 +368,6 @@
           "time_info": "[02时23分 ~ 07时16分]"
         },
         {
-          "title": "巴勒斯坦总统与德国总理通话，商讨落实加沙和平计划",
-          "url": "https://wallstreetcn.com/livenews/3016312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 09时27分]"
-        },
-        {
           "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
           "url": "https://wallstreetcn.com/livenews/3016301",
           "source": "华尔街见闻-快讯",
@@ -415,6 +424,20 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "韩国凑不齐的五个云南凑齐了",
+          "url": "https://www.douyin.com/hot/2328678",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 11时25分]"
+        },
+        {
           "title": "巴勒斯坦总统与德国总理通话 商讨落实加沙和平计划",
           "url": "https://flash.jin10.com/detail/20251206200319670800",
           "source": "金十数据",
@@ -426,61 +449,29 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "韩国凑不齐的五个云南凑齐了",
-          "url": "https://www.douyin.com/hot/2328678",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 09时27分]"
-        },
-        {
           "title": "日本防卫省：辽宁舰编队穿航宫古海峡赴西太平洋训练",
           "url": "https://news.ifeng.com/c/8oseaj8SmWo",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
         },
         {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（12月7日）",
-          "url": "https://flash.jin10.com/detail/20251207085232130800",
-          "source": "金十数据",
+          "title": "3年7倍！博通的崛起与铁腕CEO陈福阳",
+          "url": "https://wallstreetcn.com/articles/3760854",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            10,
+            9,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金十数据整理：昨日今晨重要新闻汇总（2025-12-07）",
-          "url": "https://flash.jin10.com/detail/20251207084132298800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
-          "url": "https://wallstreetcn.com/livenews/3016330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时16分 ~ 11时25分]"
         },
         {
           "title": "美国给欧洲划死线：2027年，接管北约大部分常规防务能力",
@@ -489,20 +480,75 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
         },
         {
-          "title": "苹果(AAPL.O)硬件技术高级副总裁Johny Srouji近日向CEO库克表示，他正考虑在不久的将来离职。",
-          "url": "https://flash.jin10.com/detail/20251207083121209800",
+          "title": "日方“加戏”了：中国战机在公海用雷达照射日本战机",
+          "url": "https://news.ifeng.com/c/8osvx4FrUPD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "央行数据显示，11月末外汇储备报33463.72亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3016341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
+          "url": "https://flash.jin10.com/detail/20251207101618516800",
           "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "中国央行连续第13个月增持黄金",
+          "url": "https://wallstreetcn.com/livenews/3016340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "据塔斯社：克里姆林宫对美国新版国家安全战略将俄罗斯从直接威胁名单中移除表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251207101457548800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "日本在与那国岛挖一锹土我军都能发现",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E4%B8%8E%E9%82%A3%E5%9B%BD%E5%B2%9B%E6%8C%96%E4%B8%80%E9%94%B9%E5%9C%9F%E6%88%91%E5%86%9B%E9%83%BD%E8%83%BD%E5%8F%91%E7%8E%B0",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "11时25分"
         },
         {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
@@ -530,17 +576,52 @@
           "time_info": "[03时13分 ~ 07时16分]"
         },
         {
-          "title": "3年7倍！博通的崛起与铁腕CEO陈福阳",
-          "url": "https://wallstreetcn.com/articles/3760854",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（12月7日）",
+          "url": "https://flash.jin10.com/detail/20251207085232130800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            6
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时16分 ~ 09时27分]"
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2025-12-07）",
+          "url": "https://flash.jin10.com/detail/20251207084132298800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
+        },
+        {
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://wallstreetcn.com/livenews/3016330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
+        },
+        {
+          "title": "苹果(AAPL.O)硬件技术高级副总裁Johny Srouji近日向CEO库克表示，他正考虑在不久的将来离职。",
+          "url": "https://flash.jin10.com/detail/20251207083121209800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -597,31 +678,33 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
         },
         {
           "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
           "url": "https://flash.jin10.com/detail/20251207083014951800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
         },
         {
           "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
           "url": "https://wallstreetcn.com/articles/3760842",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
         },
         {
           "title": "现场视频：李家超现身投票站投票",
@@ -630,9 +713,99 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
+        },
+        {
+          "title": "马克龙将赴伦敦与英德乌领导人评估乌克兰局势",
+          "url": "https://flash.jin10.com/detail/20251207080754039800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
+        },
+        {
+          "title": "香港特区第八届立法会选举正式开始投票",
+          "url": "https://flash.jin10.com/detail/20251207080442160800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时25分]"
+        },
+        {
+          "title": "中国11月外汇储备 33463.72亿美元，预期33580亿美元，前值33433.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20251207100852138800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "11时25分"
+        },
+        {
+          "title": "广西“十五五”规划建议：大力发展向海经济",
+          "url": "https://wallstreetcn.com/livenews/3016336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "UP盘点2025经济十件大事",
+          "url": "https://search.bilibili.com/all?keyword=UP%E7%9B%98%E7%82%B92025%E7%BB%8F%E6%B5%8E%E5%8D%81%E4%BB%B6%E5%A4%A7%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "中国央行连续第13个月增持黄金",
+          "url": "https://flash.jin10.com/detail/20251207100145052800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "一篇文章，速通美元来时路 | 美元底层逻辑①",
+          "url": "https://flash.jin10.com/detail/20251207095645490800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "《福建省民营经济促进条例》公布 明年1月1日起施行",
+          "url": "https://flash.jin10.com/detail/20251207092644401800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "乌称俄罗斯发动大规模袭击",
@@ -641,20 +814,53 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
         {
-          "title": "马克龙将赴伦敦与英德乌领导人评估乌克兰局势",
-          "url": "https://flash.jin10.com/detail/20251207080754039800",
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://www.cls.cn/detail/2221851",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
+          "url": "https://flash.jin10.com/detail/20251207091937087800",
           "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "香港特区第八届立法会选举正式开始投票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124076",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "美国无法保证日本不会再打美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%97%A0%E6%B3%95%E4%BF%9D%E8%AF%81%E6%97%A5%E6%9C%AC%E4%B8%8D%E4%BC%9A%E5%86%8D%E6%89%93%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "11时25分"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -674,18 +880,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "香港特区第八届立法会选举正式开始投票",
-          "url": "https://flash.jin10.com/detail/20251207080442160800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -696,9 +891,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "美国发生特大诈骗案 特朗普怒批",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     }
