@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T09:41:32.205768+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-01-01T11:48:22.168354+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 169,
+      "match_count": 177,
       "titles": [
         {
           "title": "明天起，存量“公积金+商贷”利率将同步下调",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 11时48分]"
         },
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -71,11 +71,12 @@
           "ranks": [
             12,
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 11时48分]"
         },
         {
           "title": "日本本州东部附近海域发生6.0级地震",
@@ -177,6 +178,40 @@
           "time_info": "[03时14分 ~ 07时18分]"
         },
         {
+          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
+          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时48分]"
+        },
+        {
+          "title": "【早报】今起存量“公积金+商贷”利率将同步下调；蓝箭航天科创板IPO获受理",
+          "url": "https://www.cls.cn/detail/2246014",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时48分]"
+        },
+        {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
           "title": "LME期铜收跌136美元，报12423美元/吨。 LME期铝收涨16美元，报2996美元/吨。 LME期锌收跌6美元，报3118美元/吨。 LME期铅收涨1美元，报2011美元/吨。 LME期镍收跌182美元，报16646美元/吨。 LME期锡收跌1398美元，报40556美元/吨。 LME期钴收平，报53355美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3029452",
           "source": "华尔街见闻-快讯",
@@ -199,26 +234,15 @@
           "time_info": "05时17分"
         },
         {
-          "title": "【早报】今起存量“公积金+商贷”利率将同步下调；蓝箭航天科创板IPO获受理",
-          "url": "https://www.cls.cn/detail/2246014",
-          "source": "财联社热门",
+          "title": "雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
+          "url": "https://wallstreetcn.com/livenews/3029559",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
+          "time_info": "11时48分"
         },
         {
           "title": "小米汽车：2025年12月，小米汽车交付量超过5万台。",
@@ -227,7 +251,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -242,6 +266,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "小米集团董事长雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
+          "url": "https://flash.jin10.com/detail/20260101112910886800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -961,6 +996,29 @@
           "time_info": "[03时14分 ~ 05时17分]"
         },
         {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时48分]"
+        },
+        {
+          "title": "泽连斯基新年致辞：我们不要“乌克兰的终结”",
+          "url": "https://news.ifeng.com/c/8pYH1UDlGSH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时48分]"
+        },
+        {
           "title": "澳元兑美元AUD/USD日内下跌0.50%，现报0.6659。",
           "url": "https://flash.jin10.com/detail/20251231235207972800",
           "source": "金十数据",
@@ -995,6 +1053,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 09时41分]"
+        },
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时48分]"
         },
         {
           "title": "乌克兰军方称其还袭击了俄罗斯克拉斯诺达尔地区的石油码头。",
@@ -1055,6 +1125,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 09时41分]"
+        },
+        {
+          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
+          "url": "https://wallstreetcn.com/articles/3762372",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时48分]"
+        },
+        {
+          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
+          "url": "https://www.cls.cn/detail/2240328",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时48分]"
         },
         {
           "title": "法国总统马克龙马呼吁欧洲在人工智能和量子技术领域保持独立。",
@@ -1476,24 +1570,13 @@
           "time_info": "[04时20分 ~ 06时18分]"
         },
         {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
           "title": "2025年12月法国新车注册量下降5.84%，特斯拉注册量下降66.04%。",
           "url": "https://flash.jin10.com/detail/20260101085127541800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1515,18 +1598,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "泽连斯基新年致辞：我们不要“乌克兰的终结”",
-          "url": "https://news.ifeng.com/c/8pYH1UDlGSH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1540,17 +1612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
-          "url": "https://wallstreetcn.com/articles/3762372",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
         },
         {
           "title": "墨西哥比索兑美元2025年累计上涨13.53%。",
@@ -1570,9 +1631,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
+          "url": "https://flash.jin10.com/detail/20260101111825003800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
           "title": "行业机构：法国12月新车注册量下降5.84%。 特斯拉12月在法国的新车注册量下降66.04%。 法国2025年新车注册量下降5.02%。",
@@ -1581,18 +1653,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1608,13 +1669,24 @@
           "time_info": "07时18分"
         },
         {
+          "title": "美国白宫：特朗普总统调整了进入美国的木材、木料及其衍生产品的进口政策。",
+          "url": "https://flash.jin10.com/detail/20260101111709020800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
           "title": "韩国2025年全年出口创纪录新高",
           "url": "https://wallstreetcn.com/livenews/3029517",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1625,7 +1697,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1658,7 +1730,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1680,18 +1752,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
-          "url": "https://www.cls.cn/detail/2240328",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1702,7 +1763,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1724,7 +1785,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1738,6 +1799,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "俄公布乌无人机袭击俄总统官邸详情",
+          "url": "https://www.toutiao.com/trending/7589444037074141203/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
           "title": "金十数据整理：美国当周EIA库存数据最值一览",
@@ -1768,7 +1840,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1790,7 +1862,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1801,7 +1873,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1823,7 +1895,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1834,7 +1906,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1856,7 +1928,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1878,7 +1950,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1922,7 +1994,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1933,7 +2005,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1947,6 +2019,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
+          "url": "https://wallstreetcn.com/livenews/3029538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
           "title": "美国至12月26日当周EIA车用汽油总产量引伸需求数据 946.43万桶/日，前值990万桶/日。",
@@ -1966,7 +2049,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -1977,7 +2060,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -2024,6 +2107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "据猫眼专业版数据，电影《阿凡达3》上映14天，总票房破8亿。",
+          "url": "https://flash.jin10.com/detail/20260101101949643800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         }
       ]
     }
