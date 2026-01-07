@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T16:27:15.248006+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-01-07T17:26:19.319067+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 471,
+      "match_count": 497,
       "titles": [
         {
           "title": "中方禁止两用物项对日本军事用户出口",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时24分 ~ 07时18分]"
+        },
+        {
+          "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 17时26分]"
         },
         {
           "title": "加强两用物项对日本出口管制",
@@ -95,17 +106,6 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
-          "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
-          "url": "https://wallstreetcn.com/articles/3762631",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 16时27分]"
-        },
-        {
           "title": "英法德意等欧洲七国领导人联合声明",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%B3%95%E5%BE%B7%E6%84%8F%E7%AD%89%E6%AC%A7%E6%B4%B2%E4%B8%83%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -126,11 +126,12 @@
           "ranks": [
             1,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时26分]"
         },
         {
           "title": "欧洲多国表态支持丹麦和格陵兰岛",
@@ -143,6 +144,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 09时24分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 17时26分]"
         },
         {
           "title": "小米就接触 KOL 一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
@@ -203,16 +216,19 @@
           "time_info": "[09时24分 ~ 16时27分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
           "ranks": [
+            8,
+            6,
             7,
-            5
+            3,
+            4
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时24分 ~ 16时27分]"
+          "time_info": "[11时27分 ~ 17时26分]"
         },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -240,6 +256,21 @@
           "time_info": "[00时24分 ~ 09时24分]"
         },
         {
+          "title": "美国自动驾驶将迎重大推进？国会即将讨论立法简化监管",
+          "url": "https://www.cls.cn/detail/2250062",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时39分 ~ 17时26分]"
+        },
+        {
           "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
           "url": "https://www.zhihu.com/question/1991814689013850864",
           "source": "知乎",
@@ -255,21 +286,6 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
-          "title": "梅事变疣事,日本梅毒扩散加剧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348761&amp;topic_name=%E6%A2%85%E4%BA%8B%E5%8F%98%E7%96%A3%E4%BA%8B%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E5%8A%A0%E5%89%A7",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            12,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 16时27分]"
-        },
-        {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
           "url": "https://news.ifeng.com/c/8piFwnPic7a",
           "source": "凤凰网",
@@ -280,6 +296,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时24分 ~ 14时30分]"
+        },
+        {
+          "title": "梅事变疣事,日本梅毒扩散加剧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348761&amp;topic_name=%E6%A2%85%E4%BA%8B%E5%8F%98%E7%96%A3%E4%BA%8B%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E5%8A%A0%E5%89%A7",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            12,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 17时26分]"
         },
         {
           "title": "委内瑞拉临时总统宣誓就任",
@@ -331,6 +375,19 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
+          "title": "高市早苗暗示或武力介入台海，中方：禁止向日本军事用户出口两用物项",
+          "url": "https://wallstreetcn.com/articles/3762652",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 17时26分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2249754",
           "source": "财联社热门",
@@ -358,21 +415,6 @@
           "time_info": "[09时24分 ~ 15时23分]"
         },
         {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时27分]"
-        },
-        {
           "title": "计划投放KOL遭粉丝抵制 小米通报",
           "url": "https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BEKOL%E9%81%AD%E7%B2%89%E4%B8%9D%E6%8A%B5%E5%88%B6+%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -384,19 +426,35 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
-          "title": "美国自动驾驶将迎重大推进？国会即将讨论立法简化监管",
-          "url": "https://www.cls.cn/detail/2250062",
-          "source": "财联社热门",
+          "title": "平台不得大数据“杀熟”",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E4%B8%8D%E5%BE%97%E5%A4%A7%E6%95%B0%E6%8D%AE%E2%80%9C%E6%9D%80%E7%86%9F%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            6,
-            5,
+            28,
             2,
-            3
+            7,
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时39分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时26分]"
+        },
+        {
+          "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32328207",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 17时26分]"
         },
         {
           "title": "为何是欧洲企业先量产固态电池",
@@ -482,6 +540,35 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 06时19分]"
+        },
+        {
+          "title": "日本年轻人聚众晒梅毒",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            16,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 17时26分]"
+        },
+        {
+          "title": "海南消费火爆背后：免税店如何实现39.5%的毛利率",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325615",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 17时26分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -570,16 +657,15 @@
           "time_info": "[07时18分 ~ 14时30分]"
         },
         {
-          "title": "特朗普为何恨他入骨？",
-          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
-          "source": "凤凰网",
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
           "ranks": [
-            1,
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时26分]"
         },
         {
           "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
@@ -594,30 +680,18 @@
           "time_info": "[09时24分 ~ 15时23分]"
         },
         {
-          "title": "平台不得大数据“杀熟”",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E4%B8%8D%E5%BE%97%E5%A4%A7%E6%95%B0%E6%8D%AE%E2%80%9C%E6%9D%80%E7%86%9F%E2%80%9D",
-          "source": "百度热搜",
+          "title": "东大下通牒:日本应解除武装",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348781&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%B8%8B%E9%80%9A%E7%89%92%3A%E6%97%A5%E6%9C%AC%E5%BA%94%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%85",
+          "source": "贴吧",
           "ranks": [
-            28,
-            2,
-            7,
-            23
+            4,
+            6,
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时27分]"
-        },
-        {
-          "title": "高市早苗暗示或武力介入台海，中方：禁止向日本军事用户出口两用物项",
-          "url": "https://wallstreetcn.com/articles/3762652",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 16时27分]"
+          "time_info": "[12时39分 ~ 17时26分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -661,46 +735,31 @@
           "time_info": "[09时24分 ~ 14时30分]"
         },
         {
-          "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32328207",
+          "title": "欧洲多国就格陵兰岛发布联合声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32327703",
           "source": "澎湃新闻",
           "ranks": [
             16,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时26分]"
+        },
+        {
+          "title": "张凯毅起诉黄金凤冠造谣者",
+          "url": "https://www.douyin.com/hot/2359395",
+          "source": "抖音",
+          "ranks": [
             15,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 16时27分]"
-        },
-        {
-          "title": "日本年轻人聚众晒梅毒",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            12,
             16,
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时24分 ~ 16时27分]"
-        },
-        {
-          "title": "海南消费火爆背后：免税店如何实现39.5%的毛利率",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325615",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 16时27分]"
+          "time_info": "[00时24分 ~ 17时26分]"
         },
         {
           "title": "王者荣耀2025年营收超20亿美元",
@@ -718,19 +777,6 @@
           "time_info": "[00时24分 ~ 04时21分]"
         },
         {
-          "title": "东大下通牒:日本应解除武装",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348781&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%B8%8B%E9%80%9A%E7%89%92%3A%E6%97%A5%E6%9C%AC%E5%BA%94%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%85",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时39分 ~ 16时27分]"
-        },
-        {
           "title": "委内瑞拉临时总统",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -744,17 +790,6 @@
           "time_info": "[03时15分 ~ 07时18分]"
         },
         {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时27分]"
-        },
-        {
           "title": "中国对日本一剑封喉",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E4%B8%80%E5%89%91%E5%B0%81%E5%96%89%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -766,6 +801,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时39分 ~ 15时23分]"
+        },
+        {
+          "title": "美要求委切断对华经济联系，中方表态",
+          "url": "https://news.ifeng.com/c/8pimqQkscPO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "小米新一代SU7起售价22.99万元",
@@ -782,33 +828,6 @@
           "time_info": "[12时39分 ~ 16时27分]"
         },
         {
-          "title": "欧洲多国就格陵兰岛发布联合声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32327703",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时27分]"
-        },
-        {
-          "title": "张凯毅起诉黄金凤冠造谣者",
-          "url": "https://www.douyin.com/hot/2359395",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 09时24分]"
-        },
-        {
           "title": "韩国总统李在明抵达上海继续中国之行",
           "url": "https://m.thepaper.cn/newsDetail_forward_32326703",
           "source": "澎湃新闻",
@@ -821,6 +840,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时24分 ~ 16时27分]"
+        },
+        {
+          "title": "如何看待小米 SU7 改款新车将于 26 年 4 月上市，会在原来基础上提升哪些配置？",
+          "url": "https://www.zhihu.com/question/1992154128378512258",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 17时26分]"
         },
         {
           "title": "李在明用小米手机晒自拍，刘劲松“意外”闯入",
@@ -836,15 +868,15 @@
           "time_info": "[09时24分 ~ 15时23分]"
         },
         {
-          "title": "美要求委切断对华经济联系，中方表态",
-          "url": "https://news.ifeng.com/c/8pimqQkscPO",
+          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
+          "url": "https://news.ifeng.com/c/8pim8n4QlIk",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "雀巢在欧洲多国召回婴儿奶粉",
@@ -862,6 +894,17 @@
           "time_info": "[09时24分 ~ 15时23分]"
         },
         {
+          "title": "小米与“米黑”博主合作引争议",
+          "url": "https://tech.ifeng.com/c/8pi9SuAPlDc",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 17时26分]"
+        },
+        {
           "title": "欧洲多国就格陵兰岛发布联合声明",
           "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E5%B0%B1%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
           "source": "百度热搜",
@@ -871,19 +914,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 11时27分]"
-        },
-        {
-          "title": "如何看待小米 SU7 改款新车将于 26 年 4 月上市，会在原来基础上提升哪些配置？",
-          "url": "https://www.zhihu.com/question/1992154128378512258",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 16时27分]"
         },
         {
           "title": "中国对日本一剑封喉",
@@ -909,17 +939,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时24分 ~ 14时30分]"
-        },
-        {
-          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
-          "url": "https://news.ifeng.com/c/8pim8n4QlIk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "摩根士丹利预测：黄金将在2026年四季度升至4800美元",
@@ -990,6 +1009,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "哈马斯于加沙废墟中重塑统治 对特朗普和平计划构成挑战",
+          "url": "https://flash.jin10.com/detail/20260107171146691800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "AMD的CEO苏姿丰：计算在4-5年增长100倍。",
           "url": "https://wallstreetcn.com/livenews/3031791",
           "source": "华尔街见闻-快讯",
@@ -999,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美股稀土概念盘前走强，Critical Metals涨超10%，MP Materials涨超3%，USA Rare Earth涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "特斯拉市值一夜蒸发超4300亿元",
@@ -1013,17 +1054,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时24分 ~ 14时30分]"
-        },
-        {
-          "title": "小米与“米黑”博主合作引争议",
-          "url": "https://tech.ifeng.com/c/8pi9SuAPlDc",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 16时27分]"
         },
         {
           "title": "经济专家建议给每人发1000元购物券",
@@ -1103,9 +1133,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "俄罗斯国防部：对乌克兰远程无人机的起飞前准备和发射场、弹药库和军事装备发动了袭击。",
+          "url": "https://flash.jin10.com/detail/20260107170941411800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -1139,6 +1180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "特朗普：将与国防承包商对话。",
@@ -1202,7 +1254,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -1312,7 +1364,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -1348,6 +1400,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时26分]"
+        },
+        {
+          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
+          "url": "https://www.cls.cn/detail/2250455",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时26分]"
+        },
+        {
+          "title": "中方回应日本就出口管制提出抗议",
+          "url": "https://www.toutiao.com/trending/7591832562840764459/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "高盛：到2030年美国电网将面临电力短缺",
@@ -1411,9 +1498,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "今日，美国众议院和参议院所有成员都将听取有关委内瑞拉的机密简报。",
+          "url": "https://flash.jin10.com/detail/20260107170534942800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "高盛：维持对A股和H股的超配",
@@ -1433,7 +1531,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -1863,6 +1961,19 @@
           "time_info": "[13时23分 ~ 14时30分]"
         },
         {
+          "title": "平台不得大数据“杀熟”，《网络交易平台规则监督管理办法》发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32332596",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时26分]"
+        },
+        {
           "title": "小米徐洁云被通报批评",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%BE%90%E6%B4%81%E4%BA%91%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -2007,18 +2118,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时24分 ~ 13时23分]"
-        },
-        {
-          "title": "平台不得大数据“杀熟”，《网络交易平台规则监督管理办法》发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32332596",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时27分]"
         },
         {
           "title": "释新闻｜委内瑞拉临时总统如何为政权“极限求生”？",
@@ -2357,17 +2456,6 @@
           "time_info": "[13时23分 ~ 14时30分]"
         },
         {
-          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
-          "url": "https://www.cls.cn/detail/2250455",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
           "title": "委内瑞拉代理总统罗德里格斯：委内瑞拉不受任何外部势力控制。",
           "url": "https://flash.jin10.com/detail/20260107044005978800",
           "source": "金十数据",
@@ -2569,17 +2657,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "据白宫声明，美国总统特朗普已明确表示，获取格陵兰岛是“国家安全优先事项”。",
@@ -2934,7 +3011,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -2978,9 +3055,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "国务院任免国家工作人员：张建民任国家数据局副局长",
+          "url": "https://wallstreetcn.com/livenews/3032304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "波兰总理图斯克：在讨论的安全保障中，我们并不指望我们的伙伴允许波兰军队进驻乌克兰。",
@@ -3011,9 +3099,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "交易员削减对欧洲央行货币政策的押注，预期首次加息可能在2027年3月。",
+          "url": "https://flash.jin10.com/detail/20260107170225187800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "明晟公司MSCI新兴市场股票基准指数涨1.1%，创历史新高、连续第八个交易日上涨，AI相关个股功不可没，台积电、腾讯、SK海力士成为主要推手。 MSCI新兴市场外汇指数走高。 固收资产方面，MSCI新兴市场债券分项指数在周一（1月5日）创最近十三年来最低。",
@@ -3058,6 +3157,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "日本首相拟继续推动扩大武器出口",
+          "url": "https://www.toutiao.com/trending/7591861520200990746/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "贵金属集体跳水！关键大宗商品指数再平衡明日开启",
+          "url": "https://wallstreetcn.com/articles/3762715",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "智利当选总统卡斯特将任命豪尔赫·基罗斯（Jorge Quiroz）为财政部长。",
@@ -3132,9 +3253,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "特朗普说若输了中期选举可能被弹劾",
+          "url": "https://wallstreetcn.com/livenews/3032302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "小米KOL事件涉事人员被辞退处罚",
@@ -3157,6 +3289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "墨西哥总统呼吁为马杜罗举行公正审判",
@@ -3253,9 +3396,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "新加坡12月外汇储备 4093亿美元，前值4000.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260107165941631800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "立陶宛将提名Sadzius为欧洲央行副主席。",
@@ -3297,7 +3451,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -3311,6 +3465,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "特朗普要对格陵兰岛“动真格”？白宫：正考虑各种方案，不排除武力夺取！",
+          "url": "https://www.cls.cn/detail/2249959",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "小米重罚KOL事件相关人员，听劝还是妥协？",
+          "url": "https://news.ifeng.com/c/8piqo3OOev7",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "巴西副总统：与美国的谈判已取得进展，我们的任务是进一步推进这些谈判。",
@@ -3539,7 +3715,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -3682,9 +3858,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "新加坡铁矿石期货主力合约持续走高，日内涨超2%，为连续第四个交易日上涨，现报109美元/吨，创下2025年2月以来新高。",
+          "url": "https://flash.jin10.com/detail/20260107165638696800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "美国总统特朗普：希望最高法院（围绕关税官司）做出对国家有利的决定。",
@@ -3781,7 +3968,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -3847,9 +4034,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "交易员减少对欧洲央行加息的押注，预计首次加息的可能时间为2027年3月。",
+          "url": "https://wallstreetcn.com/livenews/3032297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "英伟达(NVDA.O)首席财务官：90%的客户使用某种形式的英伟达网络技术。",
@@ -3949,6 +4147,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "小米汽车明年拟推4款新车，包含2款增程",
+          "url": "https://wallstreetcn.com/livenews/3032296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "对日本进口二氯二氢硅反倾销调查",
+          "url": "https://www.toutiao.com/trending/7592513566675796006/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "特朗普称必须赢得中期选举",
@@ -4210,7 +4430,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -4298,7 +4518,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -4419,7 +4639,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -4556,6 +4776,17 @@
           "time_info": "11时27分"
         },
         {
+          "title": "投资者获利了结 金价微跌并关注美国经济数据",
+          "url": "https://flash.jin10.com/detail/20260107164717455800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "AMD的CEO苏姿丰：计算能力（算力）必须在4-5年增长100倍。 我们处于解锁人工智能（AI）的“早期”。 中国对AI的需求偏高。 公司在企业级笔记本领域“的市场份额还有拓展空间”。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3031791",
           "source": "华尔街见闻-快讯",
@@ -4617,7 +4848,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -4699,6 +4930,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "新加坡铁矿石期货价格日内涨超2%，连续第四个交易日上涨，逼近每吨109美元，创下2025年2月以来的最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3032286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "乌克兰征兵办大雪天抓“壮丁”",
           "url": "https://www.toutiao.com/trending/7591813467897167935/",
           "source": "今日头条",
@@ -4708,6 +4950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "国会山骚乱5年后美两党互指篡改历史",
+          "url": "https://www.toutiao.com/trending/7592104496524722227/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "小米新一代SU7全新配色卡布里蓝",
@@ -4952,6 +5205,17 @@
           "time_info": "14时30分"
         },
         {
+          "title": "伯恩斯坦：将巴里克矿业(B.N)目标价从43美元上调至46.50美元。",
+          "url": "https://flash.jin10.com/detail/20260107164336140800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "小米回应终止与万能的大熊合作",
           "url": "https://wallstreetcn.com/livenews/3031762",
           "source": "华尔街见闻-快讯",
@@ -4991,9 +5255,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "因数据造假，日本继续暂停对滨冈核电站重启审查",
+          "url": "https://wallstreetcn.com/livenews/3032281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "欧洲国家开会为何不提格陵兰岛问题",
@@ -5005,6 +5280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "中国留学生讲述日本梅毒扩散乱象",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "美国总统特朗普：F-35和阿帕奇直升机制造时间太长。",
@@ -5134,7 +5420,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -5321,7 +5607,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -5401,6 +5687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9912，较上一交易日官方收盘价跌99点，较上日夜盘收盘跌82点。",
+          "url": "https://wallstreetcn.com/livenews/3032273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "美国总统特朗普：将更快地开始生产武器。",
