@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T14:31:18.409486+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-01-14T15:23:49.452721+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 387,
+      "match_count": 413,
       "titles": [
         {
           "title": "韩国检方要求法院判处尹锡悦死刑",
@@ -145,6 +145,17 @@
           "time_info": "[00时28分 ~ 09时27分]"
         },
         {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 15时23分]"
+        },
+        {
           "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
           "url": "https://wallstreetcn.com/articles/3763207",
           "source": "华尔街见闻",
@@ -156,8 +167,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时24分 ~ 14时31分]"
+          "appearance_count": 18,
+          "time_info": "[01时24分 ~ 15时23分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -171,17 +182,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时18分 ~ 14时31分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 14时31分]"
         },
         {
           "title": "“驻韩国台北代表部”人员妄谈台湾问题，中方表态",
@@ -277,6 +277,20 @@
           "time_info": "[00时28分 ~ 11时45分]"
         },
         {
+          "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
+          "url": "https://wallstreetcn.com/articles/3763162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 15时23分]"
+        },
+        {
           "title": "UP主锐评苹果谷歌合作",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
           "source": "bilibili 热搜",
@@ -284,11 +298,25 @@
             8,
             9,
             6,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 15时23分]"
+        },
+        {
+          "title": "代总统和“代总统”交锋了(图)",
+          "url": "https://news.ifeng.com/c/8ptoqok305H",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 15时23分]"
         },
         {
           "title": "韩国检方要求法院判处尹锡悦死刑",
@@ -303,8 +331,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 15时23分]"
         },
         {
           "title": "美国12月CPI同比增长2.7% 三大期指集体走高 | 今夜看点",
@@ -330,8 +358,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 15时23分]"
         },
         {
           "title": "狗主人已接受高校提供的经济补偿",
@@ -357,11 +385,12 @@
             17,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 15时23分]"
         },
         {
           "title": "日本女市长与下属开房辞职后再当选",
@@ -390,20 +419,6 @@
           "time_info": "[00时28分 ~ 09时27分]"
         },
         {
-          "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
-          "url": "https://wallstreetcn.com/articles/3763162",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 14时31分]"
-        },
-        {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
           "url": "https://www.cls.cn/detail/2256844",
           "source": "财联社热门",
@@ -417,17 +432,31 @@
           "time_info": "[09时27分 ~ 14时31分]"
         },
         {
-          "title": "代总统和“代总统”交锋了(图)",
-          "url": "https://news.ifeng.com/c/8ptoqok305H",
+          "title": "又玩老把戏？日本防卫相见美印太司令，图谋“以美制华”",
+          "url": "https://news.ifeng.com/c/8ptlZ2L9T7B",
           "source": "凤凰网",
           "ranks": [
-            5,
-            4,
-            7
+            7,
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 15时23分]"
+        },
+        {
+          "title": "国台办回应美总统涉台言论",
+          "url": "https://www.toutiao.com/trending/7594367386196394025/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            5,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 15时23分]"
         },
         {
           "title": "韩国检方要求法院判处尹锡悦死刑",
@@ -444,32 +473,6 @@
           "time_info": "[00时28分 ~ 05时19分]"
         },
         {
-          "title": "又玩老把戏？日本防卫相见美印太司令，图谋“以美制华”",
-          "url": "https://news.ifeng.com/c/8ptlZ2L9T7B",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 14时31分]"
-        },
-        {
-          "title": "国台办回应美总统涉台言论",
-          "url": "https://www.toutiao.com/trending/7594367386196394025/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时31分]"
-        },
-        {
           "title": "“韩国检方要求判尹锡悦死刑，一场没有赢家的政治悲剧”",
           "url": "https://news.ifeng.com/c/8puDPT2RI1d",
           "source": "凤凰网",
@@ -477,8 +480,47 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时23分]"
+        },
+        {
+          "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
+          "url": "https://wallstreetcn.com/articles/3763221",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 15时23分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 15时23分]"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 15时23分]"
         },
         {
           "title": "中国驻韩国大使馆严正发声",
@@ -489,19 +531,6 @@
             7,
             8,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 14时31分]"
-        },
-        {
-          "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
-          "url": "https://wallstreetcn.com/articles/3763221",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -530,6 +559,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "欧洲央行管委卡扎克斯：货币政策已经奏效，现在有点乏味了。",
+          "url": "https://flash.jin10.com/detail/20260114150151750800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "A股三大指数集体跳水翻绿，全市场超3000家个股下跌。",
           "url": "https://wallstreetcn.com/livenews/3036677",
           "source": "华尔街见闻-快讯",
@@ -547,9 +587,45 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "阿根廷总统米莱称今年将访华，外交部：中方愿同阿方加强各层级交往",
+          "url": "https://wallstreetcn.com/livenews/3036767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 15时23分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 15时23分]"
         },
         {
           "title": "委内瑞拉代总统将派特使赴美",
@@ -560,20 +636,6 @@
             16,
             18,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 14时31分]"
-        },
-        {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            16,
-            15,
-            17
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -635,6 +697,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "预告：国新办1月15日就货币金融政策支持实体经济高质量发展成效举行新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3036766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "多地低空经济开年起飞",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%B9%B4%E8%B5%B7%E9%A3%9E%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美股收盘：三大股指收跌 英特尔涨7%",
@@ -758,18 +842,6 @@
           "time_info": "06时20分"
         },
         {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 14时31分]"
-        },
-        {
           "title": "韩国12月进口物价指数年率 0.3%，前值2.20%。",
           "url": "https://flash.jin10.com/detail/20260114050002137800",
           "source": "金十数据",
@@ -820,34 +892,44 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：每日电动车行业动态汇总（2026-01-14）",
+          "url": "https://flash.jin10.com/detail/20260114145835784800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 14时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
+          "title": "韩国统一部说将视无人机事件调查结果采取相应措施",
+          "url": "https://wallstreetcn.com/livenews/3036760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
           "source": "财联社热门",
           "ranks": [
+            11,
             13,
-            10,
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时45分 ~ 14时31分]"
+          "time_info": "[12时44分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -1368,19 +1450,6 @@
           "time_info": "[06时20分 ~ 07时18分]"
         },
         {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时31分]"
-        },
-        {
           "title": "六大经济部委释放2026关键信号",
           "url": "https://www.baidu.com/s?wd=%E5%85%AD%E5%A4%A7%E7%BB%8F%E6%B5%8E%E9%83%A8%E5%A7%94%E9%87%8A%E6%94%BE2026%E5%85%B3%E9%94%AE%E4%BF%A1%E5%8F%B7",
           "source": "百度热搜",
@@ -1393,6 +1462,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时27分 ~ 13时22分]"
+        },
+        {
+          "title": "海关总署回应贸易战对中美经贸影响",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%9B%9E%E5%BA%94%E8%B4%B8%E6%98%93%E6%88%98%E5%AF%B9%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时23分]"
         },
         {
           "title": "特朗普参观汽车工厂遭工人辱骂",
@@ -1850,17 +1930,6 @@
           "time_info": "[12时44分 ~ 13时22分]"
         },
         {
-          "title": "海关总署回应贸易战对中美经贸影响",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%9B%9E%E5%BA%94%E8%B4%B8%E6%98%93%E6%88%98%E5%AF%B9%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E5%BD%B1%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时31分]"
-        },
-        {
           "title": "摩根士丹利策略师Heather Berger和Carolyn Campbell：美国总统特朗普呼吁信用卡发卡机构将利率上限设为10%且为期一年，这可能会促使借款人转向“目前无处不在的‘先买后付’（BNPL）产品”。",
           "url": "https://wallstreetcn.com/livenews/3036292",
           "source": "华尔街见闻-快讯",
@@ -2135,7 +2204,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -2157,7 +2226,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -2234,9 +2303,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "期权市场加码押注美联储全年按兵不动",
+          "url": "https://flash.jin10.com/detail/20260114145359427800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。 纳斯达克生物科技指数收涨0.02%，报5775.48点。 费城半导体指数收涨0.95%，报7747.993点。 费城证交所KBW银行指数收跌1.26%，报166.87点，1月6日涨至172.98点创盘中历史新高以来逐步回撤。 道琼斯KBW地区银行指数收跌0.59%，报126.85点。",
@@ -2267,7 +2347,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -2355,9 +2435,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "英国石油（BP）：预计将在2025年第四季度计入税后调整项目，相关减值费用区间为40亿至50亿美元，主要涉及其转型业务。减值费用主要归因于天然气和低碳能源板块。第四季度净债务预计为220亿至230亿美元，较此前的261亿美元有所下降。",
+          "url": "https://wallstreetcn.com/livenews/3036757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美国总统特朗普：美联储主席人选将在未来几周内确定。",
@@ -2454,7 +2545,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -2476,7 +2567,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -2575,9 +2666,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "欧洲央行管委卡扎克斯：非线性冲击的不确定性及风险仍然很高，前景面临的风险来自两个方面。",
+          "url": "https://flash.jin10.com/detail/20260114144038368800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "农发行发行378天期债券，规模100亿元，发行利率1.5063%，预期1.5000%，投标倍数3.03倍，边际倍数7.76倍； 农发行发行3年期债券，规模80亿元，发行利率1.6530%，预期1.6600%，投标倍数3.90倍，边际倍数2.66倍； 农发行发行10年期债券，规模90亿元，发行利率1.9961%，预期2.0000%，投标倍数5.22倍，边际倍数149.78倍。",
+          "url": "https://wallstreetcn.com/livenews/3036753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美国1月EIA当年布伦特原油均价预期 55.87美元/千立方英尺，前值68.91美元/千立方英尺。",
@@ -2674,9 +2787,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "欧洲央行管委卡扎克斯：欧洲央行目前状况良好。",
+          "url": "https://flash.jin10.com/detail/20260114143942586800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "道琼斯日内跌幅达1.0%，报49093.99点。 标普500日内跌幅达0.5%，报6942.42点。",
@@ -2696,7 +2820,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -2778,6 +2902,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "欧洲央行管委卡扎克斯：美联储的动向令人担忧。",
+          "url": "https://flash.jin10.com/detail/20260114143916099800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.585%，投标倍数2.97。",
           "url": "https://wallstreetcn.com/livenews/3036310",
           "source": "华尔街见闻-快讯",
@@ -2820,6 +2955,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "上证指数收报4126.09点，跌0.31%。 深证成指收报14248.60点，涨0.56%。 创业板指收报3349.14点，涨0.82%。 沪深300收报4741.93点，跌0.40%。 科创50收报1500.91点，涨2.13%。 中证500收报8227.70点，涨1.04%。 中证1000收报8257.17点，涨0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3036750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "存款利率掉到了“0”字头 钱该往哪放",
+          "url": "https://www.toutiao.com/trending/7595084170800401971/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面",
@@ -3064,6 +3221,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "韩国2025年半导体出口额达1735亿美元 创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3036746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "加拿大贸易部长：与阿联酋就《全面经济伙伴关系协定》（CEPA）的谈判将于下月启动。",
           "url": "https://flash.jin10.com/detail/20260113235644836800",
           "source": "金十数据",
@@ -3169,9 +3337,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "马斯克：特斯拉将于2月14日之后停止销售FSD一次性买断方案，此后，FSD将仅以月度订阅方式提供。",
+          "url": "https://flash.jin10.com/detail/20260114143258552800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "布伦特原油日内涨幅达3.0%，报65.79美元/桶，哈萨克斯坦油轮在里海遭无人机袭击引发爆炸。",
@@ -3246,9 +3425,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "新型人工智能模型可通过睡眠数据预测疾病",
+          "url": "https://wallstreetcn.com/livenews/3036745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "布伦特原油站上66美元/桶，日内涨2.68%。",
@@ -3328,6 +3518,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "日经股指连续第二天创新高 收于54000点上方",
+          "url": "https://flash.jin10.com/detail/20260114143229381800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "欧洲军工股周二收盘涨跌各异。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨0.01%，呈现出W形走势，报35.209999欧元，再创收盘历史新高，逼近周一所创盘中历史最高位35.514999欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨0.75%，刷新收盘历史高位至20.845，北京时间21:30刷新盘中历史高位涨21.02。",
           "url": "https://wallstreetcn.com/livenews/3036325",
           "source": "华尔街见闻-快讯",
@@ -3370,6 +3571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "欧洲央行管委Kazaks：欧洲央行对利率路径持开放态度。 不应对利率前景给出过多前瞻性指引。 货币政策已经取得成效。",
+          "url": "https://wallstreetcn.com/livenews/3036744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美国总统特朗普：如果我们在关税诉讼中败诉，我们会想办法的。",
@@ -3436,6 +3648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "1月14日：“农产品批发价格200指数”比昨天上升0.01个点",
+          "url": "https://flash.jin10.com/detail/20260114143127781800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美国众议院议长约翰逊：已经与总统特朗普讨论10%的信用卡利率上限方案。 在这个问题上（的立法）需要大量沟通。 必须在信用卡利率上限方案方面非常深思熟虑。",
@@ -3565,7 +3788,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -3669,6 +3892,17 @@
           "time_info": "12时44分"
         },
         {
+          "title": "1月13日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260114142330716800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "纳斯达克金龙中国指数跌幅扩大至1.97%——在周一大幅上涨之后回撤，跌幅目前已经显著收窄至1.5%。",
           "url": "https://wallstreetcn.com/livenews/3036284",
           "source": "华尔街见闻-快讯",
@@ -3697,7 +3931,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -3711,6 +3945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "赛力斯三年半采购华为 750 亿元，如何看待这一数据？",
+          "url": "https://www.zhihu.com/question/1994699990333953373",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美国众议院议长约翰逊：任何限制信用卡利率的举措都可能产生“负面的连锁反应”，并指出需要通过立法来设定上限。",
@@ -3779,6 +4024,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "1月13日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260114142326649800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔做得并不好。 鲍威尔要么无能，要么腐败。 他超预算了几十亿美元，要么是无能，要么就是腐败。我不知道是哪一种，但显然他干得并不好。",
           "url": "https://wallstreetcn.com/livenews/3036283",
           "source": "华尔街见闻-快讯",
@@ -3832,6 +4088,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "特朗普演讲时突然模仿拜登",
+          "url": "https://www.toutiao.com/trending/7594003113268543524/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美国众议院议长约翰逊：在信用卡利率上限问题上必须格外审慎。",
@@ -3900,6 +4167,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "1月13日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260114142324497800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "美国众议院议长约翰逊：格陵兰岛关乎“国家安全”，关乎矿物利益。",
           "url": "https://wallstreetcn.com/livenews/3036282",
           "source": "华尔街见闻-快讯",
@@ -3928,7 +4206,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -4305,6 +4583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "欧洲央行管委Kazaks：美联储的最新动向令人担忧。 欧洲央行目前的处境仍然良好。 欧洲央行正在履行其通胀目标。 不确定性和非线性冲击的风险依然很高。 人工智能投资有望带来强劲的生产率提升。",
+          "url": "https://wallstreetcn.com/livenews/3036727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "六大经济部委释放2026关键信号",
