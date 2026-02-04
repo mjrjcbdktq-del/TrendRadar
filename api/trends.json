@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T00:43:29.924696+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-05T01:43:46.831088+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 58,
+      "match_count": 85,
       "titles": [
         {
           "title": "中美元首通话全文公布",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -26,19 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -48,8 +37,131 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "中美元首通电话",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
+          "url": "https://news.ifeng.com/c/8qTWr6Z36pA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "习近平同俄罗斯总统普京举行视频会晤",
+          "url": "https://www.cls.cn/detail/2280620",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "日本人神言论:稀土属于全地球",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350210&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A5%9E%E8%A8%80%E8%AE%BA%3A%E7%A8%80%E5%9C%9F%E5%B1%9E%E4%BA%8E%E5%85%A8%E5%9C%B0%E7%90%83",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
+          "url": "https://www.zhihu.com/question/2002050148193280634",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
         },
         {
           "title": "市场消息：乌克兰总统泽连斯基任命了一位临时对外情报局局长。",
@@ -63,59 +175,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
-          "url": "https://wallstreetcn.com/livenews/3050010",
+          "title": "美国财长贝森特：我曾说关税会造成通胀，（事后来看）我错了。 所谓关税导致通胀只是虚惊一场。",
+          "url": "https://wallstreetcn.com/livenews/3050037",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "中美元首通电话",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.douyin.com/hot/2389904",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
-          "url": "https://news.ifeng.com/c/8qTWr6Z36pA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
           "title": "巴西基准股指BOVESPA指数下跌2%。",
@@ -123,50 +191,6 @@
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "习近平同俄罗斯总统普京举行视频会晤",
-          "url": "https://www.cls.cn/detail/2280620",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "AMD跌幅扩大至16%，创2018年以来最大盘中跌幅。 应用材料跌6.4%，恐创2025年8月以来最大单日跌幅。 英伟达跌3%。 费城半导体指数跌4.1%。 标普500指数重新跌超0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3050006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -184,37 +208,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "日本人神言论:稀土属于全地球",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350210&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A5%9E%E8%A8%80%E8%AE%BA%3A%E7%A8%80%E5%9C%9F%E5%B1%9E%E4%BA%8E%E5%85%A8%E5%9C%B0%E7%90%83",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
-          "url": "https://www.zhihu.com/question/2002050148193280634",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
+          "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
+          "url": "https://flash.jin10.com/detail/20260205011600614800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
           "title": "Cerebras Systems完成H轮融资，按大约230亿美元估值募集10亿美元。 本轮投资由Tiger Global领投，Benchmark、Fidelity Management & Research Company、Atreides Management、Alpha Wave Global、Altimeter、AMD、Coatue、以及1789 Capital等参与。",
@@ -228,6 +230,41 @@
           "time_info": "00时43分"
         },
         {
+          "title": "欧洲军工股普遍收跌，蒂森克虏伯跌7.98%。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌2.70%。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.76%。",
+          "url": "https://wallstreetcn.com/livenews/3050031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
+          "url": "https://wallstreetcn.com/livenews/3050010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "AMD跌幅扩大至16%，创2018年以来最大盘中跌幅。 应用材料跌6.4%，恐创2025年8月以来最大单日跌幅。 英伟达跌3%。 费城半导体指数跌4.1%。 标普500指数重新跌超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3050006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
           "title": "【数据看盘】两家游资集体出逃海兰信，多路资金激烈博弈红宝丽",
           "url": "https://www.cls.cn/detail/2280475",
           "source": "财联社热门",
@@ -235,8 +272,135 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/2001947052247109768",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "台湾问题是中美关系中最重要的问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E4%B8%AD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E9%97%AE%E9%A2%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "小米回应辽宁营口起火事件",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "终末地物理队数据与实战测评",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E7%89%A9%E7%90%86%E9%98%9F%E6%95%B0%E6%8D%AE%E4%B8%8E%E5%AE%9E%E6%88%98%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "日本多地强降雪致35死358伤",
+          "url": "https://www.douyin.com/hot/2389598",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "现货黄金创2009年以来最大单日涨幅",
+          "url": "https://www.toutiao.com/trending/7602933065064648211/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "统计鬼才,白宫数据图藏“巧思”",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350138&amp;topic_name=%E7%BB%9F%E8%AE%A1%E9%AC%BC%E6%89%8D%2C%E7%99%BD%E5%AE%AB%E6%95%B0%E6%8D%AE%E5%9B%BE%E8%97%8F%E2%80%9C%E5%B7%A7%E6%80%9D%E2%80%9D",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时43分]"
         },
         {
           "title": "俄罗斯2月2日当周CPI周环比上升0.20%，2026年迄今累计上升2.11%。",
@@ -250,26 +414,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
-          "url": "https://www.zhihu.com/question/2001947052247109768",
-          "source": "知乎",
+          "title": "美国贸易代表格里尔宣布：在关键矿物问题上与欧盟和日本合作。",
+          "url": "https://wallstreetcn.com/livenews/3050030",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
           "title": "欧洲议会恢复针对批准欧美贸易协议提案的立法工作",
@@ -294,15 +447,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
+          "title": "欧洲半导体板块涨跌各异，Soitec收涨23.30%，阿斯麦控股跌4.18%。 最新业绩报告显示，Soitec第三财季营收1.60亿欧元，分析师预期1.488亿欧元。 预计2026财年四季度营收（按恒定汇率）将增长大约20%。",
+          "url": "https://wallstreetcn.com/livenews/3050029",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
           "title": "AMD(AMD.O)股价延续跌势，跌幅一度扩大至16%，创下自2018年以来最大跌幅。",
@@ -314,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "微软CEO Nadella在内部备忘录中宣布：任命谷歌Hayete Gallot为新的安全事务主管。 原安全主管Charlie Bell（2021年从亚马逊跳槽而来）将转岗至新的工程质量岗位。",
+          "url": "https://wallstreetcn.com/livenews/3050028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         },
         {
           "title": "英伟达(NVDA.O)股价跌幅扩大至3%。",
@@ -338,6 +502,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "微软(MSFT.O)：Ales Holecek将出任安全首席架构师。",
+          "url": "https://flash.jin10.com/detail/20260205011117021800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
           "title": "现货黄金失守4900美元/盎司，日内跌1.08％。",
           "url": "https://wallstreetcn.com/livenews/3049996",
           "source": "华尔街见闻-快讯",
@@ -349,37 +524,37 @@
           "time_info": "00时43分"
         },
         {
-          "title": "台湾问题是中美关系中最重要的问题",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E4%B8%AD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E9%97%AE%E9%A2%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.57%，报2912.23点。 MarketVectorTM数字资产100中盘指数跌2.11%，报2961.65点。 MarketVector数字资产100指数跌3.70%，暂报14801.19点。",
+          "url": "https://wallstreetcn.com/livenews/3050026",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
-          "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532774",
-          "source": "澎湃新闻",
+          "title": "微软(MSFT.O)：Charlie Bell将担任新职务，专注于工程质量。",
+          "url": "https://flash.jin10.com/detail/20260205011041921800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
-          "title": "终末地物理队数据与实战测评",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E7%89%A9%E7%90%86%E9%98%9F%E6%95%B0%E6%8D%AE%E4%B8%8E%E5%AE%9E%E6%88%98%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
+          "title": "美国财长贝森特：总统特朗普明确表示，数字美元对他而言是“令人厌恶”的。",
+          "url": "https://wallstreetcn.com/livenews/3050036",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
@@ -393,20 +568,20 @@
           "time_info": "00时43分"
         },
         {
-          "title": "现货白银涨幅收窄至2.6%，回撤至87.40美元下方，显著脱离北京时间22:05刷新的日高92.2043美元。",
-          "url": "https://wallstreetcn.com/livenews/3049994",
-          "source": "华尔街见闻-快讯",
+          "title": "微软(MSFT.O)：Hayete Gallot将重返微软，担任安全执行副总裁。",
+          "url": "https://flash.jin10.com/detail/20260205011018539800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
-          "title": "日本多地强降雪致35死358伤",
-          "url": "https://www.douyin.com/hot/2389598",
-          "source": "抖音",
+          "title": "现货白银涨幅收窄至2.6%，回撤至87.40美元下方，显著脱离北京时间22:05刷新的日高92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049994",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
@@ -448,26 +623,48 @@
           "time_info": "00时43分"
         },
         {
-          "title": "小米回应辽宁营口起火事件",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
+          "title": "纳斯达克100指数跌幅扩大至2%。成分股AMD跌16.8%，Applovin跌14.2%，Palantir跌12.1%，美光科技跌9.9%、西部数据跌9.3%，应用材料、Strategy跌约7.3%，核电股CEG跌6.5%，星巴克目前涨4%，特许通讯涨5.6%，GEHC涨6.4%，ODFL涨6.6%，安进涨7.3%。 标普500指数跌0.7%，道指涨205点、涨幅0.4%，纳指跌418点跌幅1.8%。 费城半导体指数跌4.8%，银行指数涨1.3%，罗素2000指数跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3050023",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
-          "source": "澎湃新闻",
+          "title": "据联合声明，美国和欧盟将在未来30天内签署一份谅解备忘录，以加强关键矿产供应链的安全保障。美国、日本和欧盟在联合声明中宣布建立战略伙伴关系，以加强关键矿产供应链的抗风险能力。",
+          "url": "https://flash.jin10.com/detail/20260205010523160800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
+        },
+        {
+          "title": "乌克兰官员：俄美乌三方会谈首日谈判内容充实且富有成效",
+          "url": "https://wallstreetcn.com/livenews/3050021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         },
         {
           "title": "美国财长贝森特：伊朗存在严重的美元短缺问题。",
@@ -481,6 +678,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美国总统特朗普考虑签署关于“加州欺诈工作组”的命令。 副总统万斯将牵头这个工作组的工作。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3050019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
           "title": "李稻葵：黄金长期逻辑没有改变",
           "url": "https://www.toutiao.com/trending/7602985945658297906/",
           "source": "今日头条",
@@ -490,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国国会山考虑增加CFTC虚拟货币监管职能，律师预测监管力度较轻",
+          "url": "https://wallstreetcn.com/livenews/3050018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         },
         {
           "title": "美国财长贝森特在众议院听证会上表示：必须避免陷入“零风险金融体系”的诱惑。",
@@ -503,15 +722,37 @@
           "time_info": "00时43分"
         },
         {
-          "title": "现货黄金创2009年以来最大单日涨幅",
-          "url": "https://www.toutiao.com/trending/7602933065064648211/",
-          "source": "今日头条",
+          "title": "美国劳工部：非农将于2月11日发布，CPI数据改至2月13日公布",
+          "url": "https://flash.jin10.com/detail/20260205010010063800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "美国财长贝森特声称：我们往往会支持一个强势美元政策。",
+          "url": "https://wallstreetcn.com/livenews/3050016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "美国劳工统计局：将1月份CPI报告发布日期重新安排至2月13日发布。",
+          "url": "https://flash.jin10.com/detail/20260205005916435800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
           "title": "墨西哥推进与美国之家的外交谈判，希望继续向古巴供应石油。 墨西哥国家石油公司PEMEX的CEO称，去年向古巴（出口）销售价值4.96亿美元的石油和燃料。",
@@ -523,6 +764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数2.97。",
+          "url": "https://wallstreetcn.com/livenews/3050014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
@@ -547,6 +799,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "中国公开涡扇-19推力数据释放何信号",
+          "url": "https://www.toutiao.com/trending/7602953765615832617/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
           "title": "现货黄金较日高回落200美元",
           "url": "https://flash.jin10.com/detail/20260204233756405800",
           "source": "金十数据",
@@ -556,6 +819,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "现货白银较日高回落近7美元 此前一度站上92美元",
+          "url": "https://flash.jin10.com/detail/20260205005416869800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收涨0.27%，报619.57点，创收盘历史新高。 欧元区STOXX 50指数初步收跌0.17%，报5984.95点。 富时泛欧绩优300指数初步收涨0.21%，报2468.84点。",
+          "url": "https://wallstreetcn.com/livenews/3050012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         },
         {
           "title": "美国国务卿鲁比奥：乌克兰和俄罗斯的技术军事团队将于周三和周四在阿布扎比会晤。",
@@ -580,6 +865,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美国财长贝森特：美联储双重职责（维持价格稳定+实现充分就业）是一个“非常微妙的平衡”。 美联储在货币政策方面应该保持独立性。 当美联储涉足其他领域时，就会损害到自身的独立性。",
+          "url": "https://wallstreetcn.com/livenews/3050011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
           "title": "国际铜主力合约日内跌幅达2.00%，现报91140.00元/吨。伦铜日内跌超2.00%，现报13123.50美元/吨。沪铜主力合约日内跌幅达2.00%，现报102780.00元/吨。",
           "url": "https://flash.jin10.com/detail/20260204233633461800",
           "source": "金十数据",
@@ -589,6 +885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国财长贝森特：将信用卡利率上限设定为10%（为期一年）将有助于帮助美国人从过去的通货膨胀中恢复过来。",
+          "url": "https://flash.jin10.com/detail/20260205005033811800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         },
         {
           "title": "普京免去俄总统生态环保和交通问题特别代表伊万诺夫职务",
@@ -624,20 +931,20 @@
           "time_info": "00时43分"
         },
         {
-          "title": "美国1月ISM非制造业指数 53.8，预期 53.5，前值 54.4。",
-          "url": "https://wallstreetcn.com/livenews/3049973",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金加速回落，跌破4850美元/盎司，日内跌1.96%；纽约期金日内走低1.00%，现报4885.00美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260205004930135800",
+          "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时43分"
         },
         {
-          "title": "统计鬼才,白宫数据图藏“巧思”",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350138&amp;topic_name=%E7%BB%9F%E8%AE%A1%E9%AC%BC%E6%89%8D%2C%E7%99%BD%E5%AE%AB%E6%95%B0%E6%8D%AE%E5%9B%BE%E8%97%8F%E2%80%9C%E5%B7%A7%E6%80%9D%E2%80%9D",
-          "source": "贴吧",
+          "title": "美国1月ISM非制造业指数 53.8，预期 53.5，前值 54.4。",
+          "url": "https://wallstreetcn.com/livenews/3049973",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
