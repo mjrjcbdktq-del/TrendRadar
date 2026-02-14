@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T15:33:07.674460+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-02-14T16:28:54.706389+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 256,
+      "match_count": 261,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -65,6 +65,17 @@
           "time_info": "[00时41分 ~ 09时49分]"
         },
         {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时28分]"
+        },
+        {
           "title": "美国1月CPI同比2.4%低于预期，核心CPI降至四年来最低水平",
           "url": "https://wallstreetcn.com/articles/3765700",
           "source": "华尔街见闻",
@@ -76,8 +87,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 15时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 16时28分]"
+        },
+        {
+          "title": "【早报】1月重磅金融数据出炉；携程、高德等六大出行平台被约谈",
+          "url": "https://www.cls.cn/detail/2290117",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时28分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -118,15 +142,29 @@
           "time_info": "[00时41分 ~ 07时28分]"
         },
         {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
+          "title": "9连跌！“资本开支最高”的亚马逊跌入熊市，投资者对Mag 7“用脚投票”",
+          "url": "https://wallstreetcn.com/articles/3765633",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时28分]"
+        },
+        {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时28分 ~ 16时28分]"
         },
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
@@ -140,34 +178,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时41分 ~ 13时42分]"
-        },
-        {
-          "title": "息事宁人?日本释放中国船长",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350668&amp;topic_name=%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA%3F%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E8%88%B9%E9%95%BF",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 15时33分]"
-        },
-        {
-          "title": "【早报】1月重磅金融数据出炉；携程、高德等六大出行平台被约谈",
-          "url": "https://www.cls.cn/detail/2290117",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时33分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -184,16 +194,20 @@
           "time_info": "[00时41分 ~ 12时08分]"
         },
         {
-          "title": "9连跌！“资本开支最高”的亚马逊跌入熊市，投资者对Mag 7“用脚投票”",
-          "url": "https://wallstreetcn.com/articles/3765633",
-          "source": "华尔街见闻",
+          "title": "息事宁人?日本释放中国船长",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350668&amp;topic_name=%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA%3F%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E8%88%B9%E9%95%BF",
+          "source": "贴吧",
           "ranks": [
+            4,
             5,
-            4
+            12,
+            13,
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 16时28分]"
         },
         {
           "title": "乌克兰钢架雪车选手坚持佩戴印有罹难运动员头像的头盔，被奥委会取消参赛资格，如何评价此事？",
@@ -210,19 +224,6 @@
           "time_info": "[00时41分 ~ 09时49分]"
         },
         {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时28分 ~ 15时33分]"
-        },
-        {
           "title": "日本扣押一中国渔船并逮捕船长，外交部：望日方严格遵守有关协定、公正执法",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448613",
           "source": "澎湃新闻",
@@ -237,6 +238,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[03时41分 ~ 15时33分]"
+        },
+        {
+          "title": "牛弹琴：乌克兰感谢中国了",
+          "url": "https://www.toutiao.com/trending/7606535697100443179/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 16时28分]"
         },
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -320,11 +333,12 @@
             12,
             23,
             25,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 15时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 16时28分]"
         },
         {
           "title": "【数据看盘】一线游资扎堆深科技，多路资金联手抢筹光线传媒",
@@ -363,17 +377,6 @@
           "time_info": "[00时41分 ~ 07时28分]"
         },
         {
-          "title": "牛弹琴：乌克兰感谢中国了",
-          "url": "https://www.toutiao.com/trending/7606535697100443179/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 15时33分]"
-        },
-        {
           "title": "日本释放被捕的中国渔船船长",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E8%A2%AB%E6%8D%95%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E8%88%B9%E9%95%BF",
           "source": "百度热搜",
@@ -385,8 +388,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 15时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 16时28分]"
         },
         {
           "title": "1月金融数据出炉：社融规模新增7.22万亿元，M2同比增长9%",
@@ -410,11 +413,12 @@
             11,
             18,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 15时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 16时28分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -541,6 +545,21 @@
           "time_info": "[00时41分 ~ 04时35分]"
         },
         {
+          "title": "中方回应日本选举称「一些深层次、结构性的问题等值得日本各界有识之士和国际社会深思」，如何理解？",
+          "url": "https://www.zhihu.com/question/2005619389051986415",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时28分]"
+        },
+        {
           "title": "李大霄谈三大指数下跌原因",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0",
           "source": "bilibili 热搜",
@@ -592,18 +611,28 @@
           "time_info": "[00时41分 ~ 09时49分]"
         },
         {
-          "title": "中方回应日本选举称「一些深层次、结构性的问题等值得日本各界有识之士和国际社会深思」，如何理解？",
-          "url": "https://www.zhihu.com/question/2005619389051986415",
-          "source": "知乎",
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            7,
-            9,
-            10
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时28分]"
+        },
+        {
+          "title": "中国出一个 faker 难还是韩国出一个数学韦神难?",
+          "url": "https://www.zhihu.com/question/1969607496965559718",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时28分]"
         },
         {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
@@ -617,6 +646,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时41分 ~ 09时49分]"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时28分]"
+        },
+        {
+          "title": "一觉醒来，乌克兰感谢中国了",
+          "url": "https://news.ifeng.com/c/8qjM8ZpliD7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 16时28分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -655,15 +708,16 @@
           "time_info": "[03时41分 ~ 07时28分]"
         },
         {
-          "title": "中国出一个 faker 难还是韩国出一个数学韦神难?",
-          "url": "https://www.zhihu.com/question/1969607496965559718",
-          "source": "知乎",
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
           "ranks": [
-            8
+            13,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时33分]"
+          "time_info": "[12时08分 ~ 16时28分]"
         },
         {
           "title": "美国总统特朗普：希望与伊朗达成协议。",
@@ -678,18 +732,6 @@
           "time_info": "[03时41分 ~ 07时28分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时33分]"
-        },
-        {
           "title": "美国总统特朗普：与伊朗一直很难达成协议。",
           "url": "https://flash.jin10.com/detail/20260214030421669800",
           "source": "金十数据",
@@ -702,17 +744,28 @@
           "time_info": "[03时41分 ~ 07时28分]"
         },
         {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
+          "title": "SpaceX据悉拟采用双重股权结构进行IPO 马斯克或掌“超级投票权”",
+          "url": "https://www.cls.cn/detail/2290089",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9,
-            10
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时33分]"
+          "time_info": "[12时08分 ~ 16时28分]"
+        },
+        {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 16时28分]"
         },
         {
           "title": "13F报告显示：安大略省教师退休基金会（OTPP）四季度建仓做多Meta等。 增持iShares iBoxx $高收益公司债ETF、英伟达、罗克韦尔自动化、迪士尼等。 清仓霍尼韦尔、微软、Pinterest、礼来制药等。 减持小马智行、AT&T、美国银行等。 重仓资产包括GFL Environment、iShares iBoxx $高收益公司债ETF、Capital One、沃尔玛、Salesforce。",
@@ -727,17 +780,6 @@
           "time_info": "[06时31分 ~ 07时28分]"
         },
         {
-          "title": "一觉醒来，乌克兰感谢中国了",
-          "url": "https://news.ifeng.com/c/8qjM8ZpliD7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 15时33分]"
-        },
-        {
           "title": "周五（2月13日）纽约尾盘，标普500股指期货最终跌0.03%，道指期货涨0.01%，纳斯达克100股指期货中行那个0.05%。 罗素2000股指期货涨1.18%。",
           "url": "https://wallstreetcn.com/livenews/3055391",
           "source": "华尔街见闻-快讯",
@@ -750,16 +792,16 @@
           "time_info": "[06时31分 ~ 07时28分]"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
           "ranks": [
-            13,
-            6
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时08分 ~ 15时33分]"
+          "time_info": "[13时42分 ~ 16时28分]"
         },
         {
           "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
@@ -771,30 +813,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "SpaceX据悉拟采用双重股权结构进行IPO 马斯克或掌“超级投票权”",
-          "url": "https://www.cls.cn/detail/2290089",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 15时33分]"
-        },
-        {
-          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2290112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 15时33分]"
         },
         {
           "title": "市场消息：美国商务部初步支持一家矿业企业的申请，对进口俄罗斯钯金征收近133%的反倾销税。",
@@ -874,6 +892,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
+          "url": "https://wallstreetcn.com/livenews/3055491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
           "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
@@ -918,18 +947,6 @@
           "time_info": "09时49分"
         },
         {
-          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
-          "url": "https://www.cls.cn/detail/2290186",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 15时33分]"
-        },
-        {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
           "url": "https://wallstreetcn.com/livenews/3055319",
           "source": "华尔街见闻-快讯",
@@ -956,6 +973,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时08分 ~ 15时33分]"
+        },
+        {
+          "title": "驻日大使：中日关系严峻责任在日方",
+          "url": "https://www.toutiao.com/trending/7606133905619435574/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 16时28分]"
         },
         {
           "title": "去年印度GDP达4.18万亿美元",
@@ -1295,6 +1325,19 @@
           "time_info": "[09时49分 ~ 12时08分]"
         },
         {
+          "title": "市场消息：巴西总统卢拉预计将在访问印度期间签署11项协议，其中包括采矿业和飞机制造领域的交易。",
+          "url": "https://flash.jin10.com/detail/20260214134200488800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 16时28分]"
+        },
+        {
           "title": "高盛美国定制篮子团队副总裁Faris Mourad在致客户报告中指出：我们预计“抗AI替代”主题股票篮子的做多部分将从近期软件板块抛售中复苏，而做空部分将滞后。",
           "url": "https://wallstreetcn.com/livenews/3055330",
           "source": "华尔街见闻-快讯",
@@ -1427,18 +1470,6 @@
           "time_info": "[12时08分 ~ 13时42分]"
         },
         {
-          "title": "市场消息：巴西总统卢拉预计将在访问印度期间签署11项协议，其中包括采矿业和飞机制造领域的交易。",
-          "url": "https://flash.jin10.com/detail/20260214134200488800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时33分]"
-        },
-        {
           "title": "资管巨头资本集团押注欧洲央行2026年将加息，与主流观点相悖",
           "url": "https://wallstreetcn.com/livenews/3055291",
           "source": "华尔街见闻-快讯",
@@ -1461,18 +1492,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时32分]"
-        },
-        {
-          "title": "驻日大使：中日关系严峻责任在日方",
-          "url": "https://www.toutiao.com/trending/7606133905619435574/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 15时33分]"
         },
         {
           "title": "特朗普：不知道商务部长去过爱泼斯坦岛，反正我没去过",
@@ -1532,6 +1551,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时43分 ~ 07时28分]"
+        },
+        {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 16时28分]"
         },
         {
           "title": "欧洲央行：法国农业信贷银行没能有效地确认气候风险。",
@@ -1716,6 +1746,18 @@
           "time_info": "[05时32分 ~ 07时28分]"
         },
         {
+          "title": "如何评价小米开源首代机器人 VLA 大模型 Xiaomi-Robotics-0？",
+          "url": "https://www.zhihu.com/question/2005328954299549039",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 16时28分]"
+        },
+        {
           "title": "日媒披露特朗普拒绝在中日间力挺日本",
           "url": "https://www.toutiao.com/trending/7605283067519008810/",
           "source": "今日头条",
@@ -1736,17 +1778,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 05时32分]"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 15时33分]"
         },
         {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
@@ -1773,6 +1804,18 @@
           "time_info": "[00时42分 ~ 01时38分]"
         },
         {
+          "title": "2月13日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260214144048537800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时28分]"
+        },
+        {
           "title": "美国拟对俄罗斯钯金征收133%初步反倾销税",
           "url": "https://wallstreetcn.com/livenews/3055311",
           "source": "华尔街见闻-快讯",
@@ -1797,6 +1840,18 @@
           "time_info": "[06时31分 ~ 07时28分]"
         },
         {
+          "title": "2月13日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260214144044831800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时28分]"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌2.82%，报2288.83点，本周累计下跌3.11%。",
           "url": "https://wallstreetcn.com/livenews/3055288",
           "source": "华尔街见闻-快讯",
@@ -1819,6 +1874,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时43分]"
+        },
+        {
+          "title": "2月13日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260214144040920800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时28分]"
         },
         {
           "title": "美国总统特朗普：（被攫取的）石油流出委内瑞拉，仅仅美国能提炼。",
@@ -1953,17 +2020,6 @@
           "time_info": "[09时49分 ~ 12时08分]"
         },
         {
-          "title": "如何评价小米开源首代机器人 VLA 大模型 Xiaomi-Robotics-0？",
-          "url": "https://www.zhihu.com/question/2005328954299549039",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 15时33分]"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持COMEX黄金净多头头寸减少400手合约，至93,038手合约，创16周新低。 所持COMEX铜净多头头寸降至54,270手合约，创19周新高。 所持NYMEX钯金净多头头寸增至724手合约，创逾三年新高。",
           "url": "https://wallstreetcn.com/livenews/3055355",
           "source": "华尔街见闻-快讯",
@@ -2079,6 +2135,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "保姆辞职前偷卖雇主24万黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%A7%86%E8%BE%9E%E8%81%8C%E5%89%8D%E5%81%B7%E5%8D%96%E9%9B%87%E4%B8%BB24%E4%B8%87%E9%BB%84%E9%87%91%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉的石油只有我们能提炼。",
           "url": "https://flash.jin10.com/detail/20260214005844618800",
           "source": "金十数据",
@@ -2099,17 +2166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "2月13日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260214144048537800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         },
         {
           "title": "本周，标普500房地产服务指数累计下跌14%，创2020年以来最差单周表现。",
@@ -2167,17 +2223,6 @@
           "time_info": "02时43分"
         },
         {
-          "title": "2月13日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260214144044831800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
           "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
           "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
@@ -2211,15 +2256,15 @@
           "time_info": "01时38分"
         },
         {
-          "title": "2月13日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260214144040920800",
-          "source": "金十数据",
+          "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
+          "url": "https://wallstreetcn.com/articles/3765723",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时33分"
+          "time_info": "16时28分"
         },
         {
           "title": "美国总统特朗普：目前正在就格陵兰岛问题进行谈判。",
@@ -2574,6 +2619,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "40余年春晚赞助商变化，见证中国经济社会发展变迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566200",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "乌克兰赞赏中方",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E8%B5%9E%E8%B5%8F%E4%B8%AD%E6%96%B9%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -2693,6 +2749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "黄金、白银强劲反弹",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E5%BC%BA%E5%8A%B2%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "乌克兰总统泽连斯基：会见了伊朗反对派人物巴列维。",
