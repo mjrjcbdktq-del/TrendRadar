@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T00:55:30.938511+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-24T02:45:55.576875+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 52,
+      "match_count": 80,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -15,30 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
           "title": "拆解黄金白银为何震荡",
           "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E9%9C%87%E8%8D%A1",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美总统特使威特科夫和女婿库什纳将参加新一轮美伊谈判",
-          "url": "https://flash.jin10.com/detail/20260224004827339800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -48,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -59,19 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美总统特使威特科夫和女婿库什纳将参加新一轮美伊谈判",
-          "url": "https://wallstreetcn.com/livenews/3057584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -81,19 +60,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
-          "title": "明晟公司MSCI北欧国家指数跌2.4%，创2025年7月29日以来最大单日跌幅，报383.03点。 在十个板块中，北欧医疗保健板块跌幅最大。 权重股诺和诺德暴跌16.5%，在一众北欧个股里表现最差 。",
-          "url": "https://wallstreetcn.com/livenews/3057581",
-          "source": "华尔街见闻-快讯",
+          "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
+          "url": "https://www.cls.cn/detail/2292521",
+          "source": "财联社热门",
           "ranks": [
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
@@ -103,52 +83,157 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
-          "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
-          "url": "https://www.cls.cn/detail/2292521",
-          "source": "财联社热门",
+          "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的8.77亿美元。",
+          "url": "https://flash.jin10.com/detail/20260224021656200800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧洲央行的政策处于良好境地。",
+          "url": "https://wallstreetcn.com/livenews/3057614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国能源部长Wright将向（国会山）能源与商务委员会介绍关于委内瑞拉和石油的问题。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3057612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
+          "url": "https://wallstreetcn.com/livenews/3057611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "周一（2月23日），美联储隔夜逆回购协议（RRP）使用规模为8.77亿美元（交易对手7家），上个交易日报4.96亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3057609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260224015335314800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时45分"
+        },
+        {
+          "title": "沙特四季度财政预算赤字达到949亿沙特里亚尔（折合253亿美元），创2020年以来新高，受累于油价下跌。",
+          "url": "https://wallstreetcn.com/livenews/3057608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美总统特使威特科夫和女婿库什纳将参加新一轮美伊谈判",
+          "url": "https://flash.jin10.com/detail/20260224004827339800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "美总统特使威特科夫和女婿库什纳将参加新一轮美伊谈判",
+          "url": "https://wallstreetcn.com/livenews/3057584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌2.4%，创2025年7月29日以来最大单日跌幅，报383.03点。 在十个板块中，北欧医疗保健板块跌幅最大。 权重股诺和诺德暴跌16.5%，在一众北欧个股里表现最差 。",
+          "url": "https://wallstreetcn.com/livenews/3057581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
           "title": "韩国股市“领涨全球”的秘密武器：当总统“曾经是韭菜”",
           "url": "https://wallstreetcn.com/articles/3765972",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
           "title": "美国至2月23日6个月国债竞拍-得标利率配置百分比 82.17%，前值32.88%。",
           "url": "https://flash.jin10.com/detail/20260224003205373800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美国至2月23日6个月国债竞拍-得标利率 3.525%，前值3.50%。",
-          "url": "https://flash.jin10.com/detail/20260224003205348800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -158,8 +243,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
           "title": "金正恩当选朝鲜劳动党总书记",
@@ -169,30 +254,191 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
+          "title": "美国至2月23日6个月国债竞拍-得标利率 3.525%，前值3.50%。",
+          "url": "https://flash.jin10.com/detail/20260224003205348800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
           "source": "财联社热门",
           "ranks": [
+            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
         },
         {
           "title": "美国至2月23日3个月国债竞拍-得标利率配置百分比 60.91%，前值82.09%。",
           "url": "https://flash.jin10.com/detail/20260224003203743800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "“韩国唯一保持领先的技术，也被中国反超了”",
+          "url": "https://news.ifeng.com/c/8qx23a92PvQ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "美国至2月23日3个月国债竞拍-得标利率 3.59%，前值3.60%。",
+          "url": "https://flash.jin10.com/detail/20260224003203675800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "日本万人参加裸祭仪式，3人重伤昏迷(图)",
+          "url": "https://v.ifeng.com/c/8qyyvjcjmJE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：参议院民主党将阻止特朗普关税延期。",
+          "url": "https://flash.jin10.com/detail/20260224002802607800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "彻底凉!日本断绝大鹅对话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "英媒：特朗普“和平委员会”拟推稳定币，以重塑加沙经济",
+          "url": "https://flash.jin10.com/detail/20260224002704978800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "PGL克卢日纳波卡数据雷达图",
+          "url": "https://search.bilibili.com/all?keyword=PGL%E5%85%8B%E5%8D%A2%E6%97%A5%E7%BA%B3%E6%B3%A2%E5%8D%A1%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时45分]"
+        },
+        {
+          "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
+          "url": "https://flash.jin10.com/detail/20260224015302070800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国抵押贷款利率跌穿6%，逼平2022年以来最低位。",
+          "url": "https://wallstreetcn.com/livenews/3057607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260224015251428800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD日内跌幅达0.50%，现报0.7048。",
+          "url": "https://flash.jin10.com/detail/20260224014128825800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "LME期铜收跌96美元，报12868美元/吨。 LME期铝收跌13美元，报3090美元/吨。 LME期锌收跌28美元，报3354美元/吨。 LME期铅收跌14美元，报1951美元/吨。 LME期镍收跌67美元，报17283美元/吨。 LME期锡收涨1159美元，报47718美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3057603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "俄罗斯国防部：俄防空系统五小时击落45架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260224014126231800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.590%，投标倍数3.30。 拍卖六个月期国债，得标利率3.525%，投标倍数3.03。",
@@ -206,48 +452,37 @@
           "time_info": "00时55分"
         },
         {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
+          "title": "周一（2月23日），韩元兑美元最终涨0.22%，报1443.11韩元。",
+          "url": "https://wallstreetcn.com/livenews/3057602",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时45分"
         },
         {
-          "title": "“韩国唯一保持领先的技术，也被中国反超了”",
-          "url": "https://news.ifeng.com/c/8qx23a92PvQ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美国至2月23日3个月国债竞拍-得标利率 3.59%，前值3.60%。",
-          "url": "https://flash.jin10.com/detail/20260224003203675800",
+          "title": "欧洲央行行长拉加德：欧洲仍可从人工智能中获益。",
+          "url": "https://flash.jin10.com/detail/20260224013414442800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时45分"
         },
         {
-          "title": "日本万人参加裸祭仪式，3人重伤昏迷(图)",
-          "url": "https://v.ifeng.com/c/8qyyvjcjmJE",
-          "source": "凤凰网",
+          "title": "欧盟委员会主席冯德莱恩：终有一天，乌克兰会安全，乌克兰会自由，乌克兰会成为我们欧洲大家庭的一员。",
+          "url": "https://flash.jin10.com/detail/20260224013324236800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时45分"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.57%，报626.97点。 欧元区STOXX 50指数初步收跌0.44%，报6104.63点。 富时泛欧绩优300指数初步收跌0.51%，报2501.93点。",
@@ -261,15 +496,37 @@
           "time_info": "00时55分"
         },
         {
-          "title": "美国参议院少数党领袖舒默：参议院民主党将阻止特朗普关税延期。",
-          "url": "https://flash.jin10.com/detail/20260224002802607800",
+          "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
+          "url": "https://wallstreetcn.com/livenews/3057600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "欧洲央行行长拉加德将于十分钟后发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260224012000001800",
           "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
+          "url": "https://www.cls.cn/detail/2292870",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时45分"
         },
         {
           "title": "美国参议院民主党领导人Schumer：参议院民主党将阻挠总统特朗普延长关税的企图。",
@@ -283,26 +540,26 @@
           "time_info": "00时55分"
         },
         {
-          "title": "彻底凉!日本断绝大鹅对话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
-          "source": "贴吧",
+          "title": "德国10年期国债收益率跌约3个基点，特朗普关税带来的不确定性迫使投资者避险",
+          "url": "https://wallstreetcn.com/livenews/3057598",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时45分"
         },
         {
-          "title": "英媒：特朗普“和平委员会”拟推稳定币，以重塑加沙经济",
-          "url": "https://flash.jin10.com/detail/20260224002704978800",
+          "title": "斯洛伐克停止向乌克兰提供紧急电力",
+          "url": "https://flash.jin10.com/detail/20260224010332839800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普所谓的“和平委员会”研究为加沙发行稳定币。 关于“加沙稳定币”的谈判还处于初级阶段。（英国金融时报）",
@@ -327,15 +584,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "PGL克卢日纳波卡数据雷达图",
-          "url": "https://search.bilibili.com/all?keyword=PGL%E5%85%8B%E5%8D%A2%E6%97%A5%E7%BA%B3%E6%B3%A2%E5%8D%A1%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
-          "source": "bilibili 热搜",
+          "title": "俄使馆在韩国打出巨幅标语并拒绝撤下",
+          "url": "https://www.toutiao.com/trending/7609615671311761449/",
+          "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时45分"
         },
         {
           "title": "摩根大通：阿联酋债券将从其新兴市场债券指数中分阶段剔除，自3月31日起的四个月内以等权重递减的方式进行，最终于6月30日完成。",
@@ -347,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260224005321267800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "芝商所（CME）：全球指令中心（GCC）继续调查订单录入和市场数据延迟问题，部分客户可能遭遇连接中断。",
@@ -371,6 +639,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "欧洲理事会主席Costa致函匈牙利总理Orban：将与乌克兰总统泽连斯基讨论Druzhba输油管线问题。",
+          "url": "https://wallstreetcn.com/livenews/3057593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
           "title": "摩根大通：阿联酋将于3月31日起分阶段退出其新兴市场主权债券指数。",
           "url": "https://flash.jin10.com/detail/20260224002226648800",
           "source": "金十数据",
@@ -393,6 +672,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美国纽约市长Mamdani：仍然建议民众待在室内（从而防范暴风雪天气）。",
+          "url": "https://wallstreetcn.com/livenews/3057589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
           "title": "据英国《金融时报》：特朗普的“和平委员会”为加沙探索推出稳定币。",
           "url": "https://flash.jin10.com/detail/20260224002207019800",
           "source": "金十数据",
@@ -402,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "荷兰央行行长：乌克兰入欧将为欧盟单一市场注入“强心剂”",
+          "url": "https://wallstreetcn.com/livenews/3057588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -424,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "全球原油超级油轮长租成本飙升至超过9.2万美元/天，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3057587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "纽约期金日内大涨3.00%，现报5233.40美元/盎司。",
@@ -512,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "斯洛伐克停止向乌克兰提供紧急电力",
+          "url": "https://wallstreetcn.com/livenews/3057590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
