@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T14:56:51.541051+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-03-28T15:43:45.868007+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 227,
+      "match_count": 233,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -80,6 +80,17 @@
           "time_info": "[00时52分 ~ 07时30分]"
         },
         {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 15时43分]"
+        },
+        {
           "title": "人形机器人高质量真机数据集",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9C%9F%E6%9C%BA%E6%95%B0%E6%8D%AE%E9%9B%86",
           "source": "bilibili 热搜",
@@ -94,17 +105,6 @@
           "time_info": "[02时52分 ~ 09时55分]"
         },
         {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 14时56分]"
-        },
-        {
           "title": "分红险演示利率下调至3.5%：新产品立即执行，存量产品需6月底前变更备案",
           "url": "https://www.cls.cn/detail/2327414",
           "source": "财联社热门",
@@ -116,8 +116,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 15时43分]"
+        },
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 15时43分]"
+        },
+        {
+          "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
+          "url": "https://www.cls.cn/detail/2327698",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 15时43分]"
         },
         {
           "title": "没肉没蔬菜,日本小学午餐寒酸",
@@ -131,8 +153,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 15时43分]"
         },
         {
           "title": "就持刀强闯我使馆六问日本当局",
@@ -243,28 +265,6 @@
           "time_info": "[00时52分 ~ 09时55分]"
         },
         {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 14时56分]"
-        },
-        {
-          "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
-          "url": "https://www.cls.cn/detail/2327698",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 14时56分]"
-        },
-        {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
           "url": "https://www.cls.cn/detail/2327594",
           "source": "财联社热门",
@@ -275,8 +275,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时47分 ~ 14时56分]"
+          "appearance_count": 17,
+          "time_info": "[01时47分 ~ 15时43分]"
         },
         {
           "title": "苹果正式停产下架 Mac Pro，确定无后继产品，如何评价该产品线 20 年的历史落幕？",
@@ -374,8 +374,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 15时43分]"
         },
         {
           "title": "27亿假黄金骗贷案一审宣判",
@@ -398,11 +398,12 @@
             20,
             15,
             13,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 15时43分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -414,11 +415,12 @@
             14,
             17,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 15时43分]"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -522,8 +524,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普发出威胁：下一个是古巴",
+          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时43分]"
         },
         {
           "title": "欧洲议会代表团8年来首次访华，“中国外交的一次悄然胜利”",
@@ -557,17 +571,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 01时48分]"
-        },
-        {
-          "title": "特朗普发出威胁：下一个是古巴",
-          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时56分]"
         },
         {
           "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
@@ -607,15 +610,16 @@
           "time_info": "[04时35分 ~ 07时30分]"
         },
         {
-          "title": "东风导弹射程覆盖全日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E8%A6%86%E7%9B%96%E5%85%A8%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "英外交大臣：俄罗斯正向伊朗提供支持",
+          "url": "https://news.ifeng.com/c/8rr9TW8mSDg",
+          "source": "凤凰网",
           "ranks": [
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时43分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -651,17 +655,6 @@
           "time_info": "09时55分"
         },
         {
-          "title": "俄罗斯国防部：周五晚8时至11时，共击落乌方无人机52架。",
-          "url": "https://flash.jin10.com/detail/20260328143922878800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
           "title": "美国总统特朗普签署备忘录，授意对TSA工作人员拨款。",
           "url": "https://wallstreetcn.com/livenews/3078445",
           "source": "华尔街见闻-快讯",
@@ -671,6 +664,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
+          "url": "https://www.zhihu.com/question/2020984478156239784",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹为特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3078525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            17,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 15时43分]"
+        },
+        {
+          "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
+          "url": "https://wallstreetcn.com/livenews/3078524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            18,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 15时43分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -684,15 +720,17 @@
           "time_info": "00时52分"
         },
         {
-          "title": "科威特原油价格涨至118美元以上",
-          "url": "https://flash.jin10.com/detail/20260328143817025800",
-          "source": "金十数据",
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时43分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：即使众议院通过，当前的国土安全部经费的60天拨款法案将在参议院“胎死腹中”。",
@@ -741,6 +779,19 @@
           "time_info": "[06时29分 ~ 12时19分]"
         },
         {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时43分]"
+        },
+        {
           "title": "周五（3月27日）纽约尾盘，标普500股指期货最终跌1.93%，道指期货跌1.99%，纳斯达克100股指期货跌2.15%。 罗素2000股指期货跌2.01%。",
           "url": "https://wallstreetcn.com/livenews/3078495",
           "source": "华尔街见闻-快讯",
@@ -765,6 +816,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时29分 ~ 12时19分]"
+        },
+        {
+          "title": "当地官员表示，乌克兰无人机袭击俄罗斯雅罗斯拉夫尔州，造成一名儿童死亡。",
+          "url": "https://flash.jin10.com/detail/20260328151947934800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，文远知行初步收跌9%，小马智行跌5.7%，金山云跌5.5%，比亚迪跌5.2%，蔚来跌4.4%，小鹏跌3.8%，阿里巴巴跌2.1%，再鼎医药涨2.8%。",
@@ -882,32 +944,16 @@
           "time_info": "[09时54分 ~ 12时19分]"
         },
         {
-          "title": "特朗普称霍尔木兹为特朗普海峡",
-          "url": "https://wallstreetcn.com/livenews/3078525",
-          "source": "华尔街见闻-快讯",
+          "title": "东风导弹射程覆盖全日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E8%A6%86%E7%9B%96%E5%85%A8%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            12,
-            17,
-            20
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 14时56分]"
-        },
-        {
-          "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
-          "url": "https://wallstreetcn.com/livenews/3078524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时43分]"
         },
         {
           "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
@@ -922,17 +968,29 @@
           "time_info": "[06时29分 ~ 09时55分]"
         },
         {
-          "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
-          "url": "https://www.zhihu.com/question/2020984478156239784",
-          "source": "知乎",
+          "title": "俄罗斯和土耳其讨论保障地区能源供应安全",
+          "url": "https://wallstreetcn.com/livenews/3078533",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            12,
-            13
+            5,
+            10,
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时43分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -946,19 +1004,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时29分]"
-        },
-        {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时56分]"
         },
         {
           "title": "白宫备忘录：美国总统特朗普指示国土安全部部长和美国行政管理和预算局局长补偿美国运输安全管理局员工。",
@@ -983,6 +1028,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 13时55分]"
+        },
+        {
+          "title": "俄罗斯国防部：周五晚8时至11时，共击落乌方无人机52架。",
+          "url": "https://flash.jin10.com/detail/20260328143922878800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时43分]"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -1033,6 +1090,18 @@
           "time_info": "[07时30分 ~ 09时55分]"
         },
         {
+          "title": "科威特原油价格涨至118美元以上",
+          "url": "https://flash.jin10.com/detail/20260328143817025800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时43分]"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至1.6%，刷新日低，当前下跌380点。 标普500指数跌1.3%，道指跌587点、跌幅1.3%。",
           "url": "https://wallstreetcn.com/livenews/3078421",
           "source": "华尔街见闻-快讯",
@@ -1068,19 +1137,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时29分]"
-        },
-        {
-          "title": "俄罗斯和土耳其讨论保障地区能源供应安全",
-          "url": "https://wallstreetcn.com/livenews/3078533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时56分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月27日（周五）晚盘收盘上涨1.35%报1004.45元/克；<br/>上海黄金交易所白银T+D 3月27日（周五）晚盘收盘上涨2.56%报17730.0元/千克。",
@@ -1215,38 +1271,32 @@
           "time_info": "[00时52分 ~ 01时48分]"
         },
         {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时56分]"
-        },
-        {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://wallstreetcn.com/livenews/3078530",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            6
+            13,
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时43分]"
         },
         {
-          "title": "英外交大臣：俄罗斯正向伊朗提供支持",
-          "url": "https://news.ifeng.com/c/8rr9TW8mSDg",
-          "source": "凤凰网",
+          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
+          "url": "https://wallstreetcn.com/livenews/3078529",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            9,
+            14,
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时43分]"
         },
         {
           "title": "索尼上调PS5价格，涨幅高达150美元，称受全球经济“压力”影响",
@@ -1271,6 +1321,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 07时30分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时43分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
@@ -1323,19 +1385,6 @@
           "time_info": "[06时29分 ~ 09时55分]"
         },
         {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://wallstreetcn.com/livenews/3078530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时56分]"
-        },
-        {
           "title": "布伦特原油日内一度涨超5%，最高至106.45美元/桶；WTI原油日内一度涨超7.5%，最高至101.55美元/桶。",
           "url": "https://flash.jin10.com/detail/20260328044250546800",
           "source": "金十数据",
@@ -1349,19 +1398,6 @@
           "time_info": "[05时32分 ~ 07时30分]"
         },
         {
-          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
-          "url": "https://wallstreetcn.com/livenews/3078529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时56分]"
-        },
-        {
           "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
           "url": "https://wallstreetcn.com/livenews/3078486",
           "source": "华尔街见闻-快讯",
@@ -1372,6 +1408,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 07时30分]"
+        },
+        {
+          "title": "万字数据分析保研推免",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%BF%9D%E7%A0%94%E6%8E%A8%E5%85%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时43分]"
         },
         {
           "title": "周五（3月27日）纽约尾盘，现货黄金涨2.91%，报4502.93美元/盎司，本周累涨0.10%。 COMEX黄金期货涨2.88%，报4535.80美元/盎司，本周累跌1.50%，整体呈现出W形走势。 本周，现货白银累涨2.64%，报69.7470美元/盎司。 COMEX白银期货累涨0.60%，报70.080美元/盎司。 COMEX铜期货累涨3.08%，报5.4710美元/磅。 现货铂金累跌3.27%，报1865.44美元/盎司；现货钯金累跌2.17%，报1383.94美元/盎司。",
@@ -1614,15 +1661,16 @@
           "time_info": "[03时40分 ~ 04时36分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时56分]"
+          "time_info": "[14时56分 ~ 15时43分]"
         },
         {
           "title": "截止至3月24日当周CFTC商品类商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
@@ -1779,17 +1827,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时40分]"
-        },
-        {
-          "title": "万字数据分析保研推免",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%BF%9D%E7%A0%94%E6%8E%A8%E5%85%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时56分]"
         },
         {
           "title": "标普500指数、纳斯达克指数、道琼斯工业平均指数均连续第五周下跌，为自2022年5月周期结束以来三者持续时间最长的连跌周期。",
@@ -2050,7 +2087,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -2077,15 +2114,15 @@
           "time_info": "00时52分"
         },
         {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "15时43分"
         },
         {
           "title": "美国联邦调查局（FBI）发言人：黑客窃取的数据是历史数据，且不涉及任何政府信息。",
@@ -2352,6 +2389,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "特朗普发表最新讲话：将霍尔木兹海峡称为“特朗普海峡”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32847965",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "日本男子持刀强闯我使馆细节披露",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E5%BC%BA%E9%97%AF%E6%88%91%E4%BD%BF%E9%A6%86%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2",
           "source": "bilibili 热搜",
@@ -2424,9 +2472,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "特斯拉55座超充站落地重庆高速",
+          "url": "https://flash.jin10.com/detail/20260328145650511800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "欧洲央行执委Schnabel：我们面对一个大规模的能源价格冲击。",
@@ -2495,6 +2554,17 @@
           "time_info": "12时19分"
         },
         {
+          "title": "一枚“火烈鸟”导弹据称击中了俄罗斯一家炸药厂",
+          "url": "https://flash.jin10.com/detail/20260328144822563800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "周五（3月27日），韩元兑美元最终跌0.23%，报1511.15韩元。 本周，韩元累计下跌0.49%，周一北京时间19:00出现一波瞬间的反弹行情，随后平滑地逐步回吐这一波涨幅。",
           "url": "https://wallstreetcn.com/livenews/3078423",
           "source": "华尔街见闻-快讯",
@@ -2548,6 +2618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "俄国防部：防空部队一夜间在多地上空击落了155架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260328144215344800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "美元兑日元涨穿160，为2024年以来首次",
