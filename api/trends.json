@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T19:27:16.803530+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-03-29T20:49:07.280898+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 150,
+      "match_count": 155,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 19时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 20时49分]"
         },
         {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 19时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 20时49分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -78,6 +78,55 @@
           "time_info": "[00时31分 ~ 19时27分]"
         },
         {
+          "title": "日本民众举行集会高呼中国对不起",
+          "url": "https://www.toutiao.com/trending/7621775178931814451/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 20时49分]"
+        },
+        {
+          "title": "日本抗议者高喊中国对不起",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352475&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E8%80%85%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 20时49分]"
+        },
+        {
+          "title": "俄罗斯禁止汽油出口有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E7%A6%81%E6%AD%A2%E6%B1%BD%E6%B2%B9%E5%87%BA%E5%8F%A3%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时08分 ~ 20时49分]"
+        },
+        {
+          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 20时49分]"
+        },
+        {
           "title": "日本被要求：尽快向中方道歉",
           "url": "https://www.cls.cn/detail/2327928",
           "source": "财联社热门",
@@ -90,21 +139,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 19时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 20时49分]"
         },
         {
-          "title": "俄罗斯禁止汽油出口有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E7%A6%81%E6%AD%A2%E6%B1%BD%E6%B2%B9%E5%87%BA%E5%8F%A3%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
+          "title": "俄罗斯:4月1日起禁止汽油出口",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352470&amp;topic_name=%E4%BF%84%E7%BD%97%E6%96%AF%3A4%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E6%AD%A2%E6%B1%BD%E6%B2%B9%E5%87%BA%E5%8F%A3",
+          "source": "贴吧",
           "ranks": [
-            4,
+            2,
             5,
-            3
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时27分]"
+          "appearance_count": 10,
+          "time_info": "[13时08分 ~ 20时49分]"
         },
         {
           "title": "俄罗斯拟自 4 月 1 日起实行汽油出口临时禁令，优先保障俄国内市场供应，会导致国际油价进一步大涨吗？",
@@ -135,17 +185,6 @@
           "time_info": "[00时31分 ~ 13时08分]"
         },
         {
-          "title": "日本民众举行集会高呼中国对不起",
-          "url": "https://www.toutiao.com/trending/7621775178931814451/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 19时27分]"
-        },
-        {
           "title": "黄金逼近熊市之际，抄底大军来了！",
           "url": "https://wallstreetcn.com/articles/3768650",
           "source": "华尔街见闻",
@@ -172,16 +211,32 @@
           "time_info": "[13时08分 ~ 18时31分]"
         },
         {
-          "title": "日本抗议者高喊中国对不起",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352475&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E8%80%85%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7",
-          "source": "贴吧",
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            4
+            8,
+            6,
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 19时27分]"
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 20时49分]"
+        },
+        {
+          "title": "日本抗议者高喊中国对不起",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E8%80%85%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 20时49分]"
         },
         {
           "title": "俄罗斯4月起禁止汽油出口",
@@ -224,17 +279,6 @@
           "time_info": "[00时31分 ~ 14时59分]"
         },
         {
-          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
-          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 19时27分]"
-        },
-        {
           "title": "泽连斯基：美方正施压乌克兰撤出顿巴斯",
           "url": "https://wallstreetcn.com/livenews/3078627",
           "source": "华尔街见闻-快讯",
@@ -247,6 +291,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 14时59分]"
+        },
+        {
+          "title": "日本警视厅对强闯我驻日使馆不法之徒所属部队驻地等展开搜查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32855736",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时08分 ~ 20时49分]"
         },
         {
           "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
@@ -276,35 +336,21 @@
           "time_info": "[00时31分 ~ 13时08分]"
         },
         {
-          "title": "日本17岁高中生偷大米被抓",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352448&amp;topic_name=%E6%97%A5%E6%9C%AC17%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%B7%E5%A4%A7%E7%B1%B3%E8%A2%AB%E6%8A%93",
-          "source": "贴吧",
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            12,
+            2,
+            7,
             13,
-            14,
-            15,
+            17,
             16,
+            18,
             19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 19时27分]"
-        },
-        {
-          "title": "俄罗斯:4月1日起禁止汽油出口",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352470&amp;topic_name=%E4%BF%84%E7%BD%97%E6%96%AF%3A4%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E6%AD%A2%E6%B1%BD%E6%B2%B9%E5%87%BA%E5%8F%A3",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 20时49分]"
         },
         {
           "title": "俄罗斯禁止汽油出口",
@@ -328,6 +374,24 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[06时26分 ~ 19时27分]"
+        },
+        {
+          "title": "日本17岁高中生偷大米被抓",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352448&amp;topic_name=%E6%97%A5%E6%9C%AC17%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%B7%E5%A4%A7%E7%B1%B3%E8%A2%AB%E6%8A%93",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            12,
+            13,
+            14,
+            15,
+            16,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 20时49分]"
         },
         {
           "title": "伊朗称“摧毁乌克兰反无人机系统仓库”，乌方称“消息不实”",
@@ -355,19 +419,6 @@
           "time_info": "[00时31分 ~ 07时29分]"
         },
         {
-          "title": "日本抗议者高喊中国对不起",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E8%80%85%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 19时27分]"
-        },
-        {
           "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
           "url": "https://wallstreetcn.com/articles/3768639",
           "source": "华尔街见闻",
@@ -382,6 +433,20 @@
           "time_info": "[03时28分 ~ 13时08分]"
         },
         {
+          "title": "安东内利日本站再夺魁",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E6%97%A5%E6%9C%AC%E7%AB%99%E5%86%8D%E5%A4%BA%E9%AD%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 20时49分]"
+        },
+        {
           "title": "泽连斯基称“乌克兰人在中东遭袭”消息不实",
           "url": "https://wallstreetcn.com/livenews/3078624",
           "source": "华尔街见闻-快讯",
@@ -393,6 +458,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 13时08分]"
+        },
+        {
+          "title": "【早报】两部门督办“3・15”晚会曝光问题整改；俄罗斯4月1日起将禁止汽油出口",
+          "url": "https://www.cls.cn/detail/2327982",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 20时49分]"
         },
         {
           "title": "泽连斯基：美方正施压乌克兰撤出顿巴斯",
@@ -433,6 +511,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 10时06分]"
+        },
+        {
+          "title": "如何看待索尼、本田合作造车项目「AFEELA」宣布告吹？原因可能是什么？跨界造车对日本难在哪儿？",
+          "url": "https://www.zhihu.com/question/2020207610469593657",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 20时49分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -479,46 +569,6 @@
           "time_info": "[00时31分 ~ 07时29分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            13,
-            17,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 19时27分]"
-        },
-        {
-          "title": "【早报】两部门督办“3・15”晚会曝光问题整改；俄罗斯4月1日起将禁止汽油出口",
-          "url": "https://www.cls.cn/detail/2327982",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 19时27分]"
-        },
-        {
-          "title": "如何看待索尼、本田合作造车项目「AFEELA」宣布告吹？原因可能是什么？跨界造车对日本难在哪儿？",
-          "url": "https://www.zhihu.com/question/2020207610469593657",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 19时27分]"
-        },
-        {
           "title": "F1日本站排位赛战报",
           "url": "https://search.bilibili.com/all?keyword=F1%E6%97%A5%E6%9C%AC%E7%AB%99%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%98%E6%8A%A5",
           "source": "bilibili 热搜",
@@ -536,46 +586,18 @@
           "time_info": "[00时31分 ~ 06时26分]"
         },
         {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
+          "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
+          "url": "https://wallstreetcn.com/articles/3768660",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 19时27分]"
-        },
-        {
-          "title": "日本警视厅对强闯我驻日使馆不法之徒所属部队驻地等展开搜查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32855736",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
             10,
             9,
             8,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时27分]"
-        },
-        {
-          "title": "安东内利日本站再夺魁",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E6%97%A5%E6%9C%AC%E7%AB%99%E5%86%8D%E5%A4%BA%E9%AD%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 19时27分]"
+          "time_info": "[15时54分 ~ 20时49分]"
         },
         {
           "title": "舆论要求日本政府就闯中国使馆道歉",
@@ -760,6 +782,17 @@
           "time_info": "[06时26分 ~ 07时29分]"
         },
         {
+          "title": "数据感知中国经济活力满满",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E6%8D%AE%E6%84%9F%E7%9F%A5%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
           "title": "中国国防部派团赴欧洲举行机制性对话",
           "url": "https://wallstreetcn.com/livenews/3078647",
           "source": "华尔街见闻-快讯",
@@ -801,6 +834,20 @@
           "time_info": "[07时28分 ~ 13时08分]"
         },
         {
+          "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演 96 年「住友铜事件」么？",
+          "url": "https://www.zhihu.com/question/2021504836005295499",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时49分]"
+        },
+        {
           "title": "俄罗斯警告韩国",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E9%9F%A9%E5%9B%BD",
           "source": "百度热搜",
@@ -829,6 +876,21 @@
           "time_info": "[00时31分 ~ 07时29分]"
         },
         {
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 20时49分]"
+        },
+        {
           "title": "伊拉克总统认为，袭击伊拉克库尔德斯坦地区主席位于杜胡克省的住所是严重侵犯国家安全与稳定的罪行。",
           "url": "https://flash.jin10.com/detail/20260329025900501800",
           "source": "金十数据",
@@ -843,19 +905,6 @@
           "time_info": "[03时28分 ~ 07时29分]"
         },
         {
-          "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
-          "url": "https://wallstreetcn.com/articles/3768660",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 19时27分]"
-        },
-        {
           "title": "日本抗议者高喊中国对不起",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E8%80%85%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -868,6 +917,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时59分 ~ 17时34分]"
+        },
+        {
+          "title": "中国智能手机市场下滑 4%，为何苹果销售额逆势增长 23%？",
+          "url": "https://www.zhihu.com/question/2018141949211754505",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            18,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 20时49分]"
         },
         {
           "title": "美以伊战争丨多国爆发反特朗普抗议活动",
@@ -960,17 +1024,6 @@
           "time_info": "00时31分"
         },
         {
-          "title": "礼来制药将与Insilioco Medicine签订20亿美元医药协议。 （后者）将获得销售减肥药GLP-1的权益。 协议包括1.15亿美元预付款内容。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3078710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
           "title": "金正恩视察朝鲜人民军各级特战部队训练",
           "url": "https://flash.jin10.com/detail/20260329093042200800",
           "source": "金十数据",
@@ -1017,15 +1070,15 @@
           "time_info": "10时06分"
         },
         {
-          "title": "阿联酋总统外交顾问：政治解决方案应包括伊朗就袭击平民和关键基础设施所作出的赔偿。",
-          "url": "https://flash.jin10.com/detail/20260329185007312800",
+          "title": "英矽智能发布2025年财报：现金储备3.93亿美元 新签署商业合作总额逾13亿美元",
+          "url": "https://flash.jin10.com/detail/20260329200115080800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时27分"
+          "time_info": "20时49分"
         },
         {
           "title": "日本警视厅对强闯我驻日使馆不法之徒所属部队驻地等展开搜查。（央视新闻）",
@@ -1041,6 +1094,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时06分 ~ 16时36分]"
+        },
+        {
+          "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2020858530614305581",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 20时49分]"
         },
         {
           "title": "维斯塔潘止步日本大奖赛Q2",
@@ -1157,18 +1224,28 @@
           "time_info": "[01时26分 ~ 02时37分]"
         },
         {
-          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
-          "source": "澎湃新闻",
+          "title": "礼来制药将与Insilioco Medicine签订20亿美元医药协议。 （后者）将获得销售减肥药GLP-1的权益。 协议包括1.15亿美元预付款内容。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3078710",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            13,
-            9,
-            8
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 19时27分]"
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时49分]"
+        },
+        {
+          "title": "阿联酋总统外交顾问：政治解决方案应包括伊朗就袭击平民和关键基础设施所作出的赔偿。",
+          "url": "https://flash.jin10.com/detail/20260329185007312800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时49分]"
         },
         {
           "title": "刚果（布）宪法法院确认萨苏连任总统",
@@ -1182,20 +1259,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 07时29分]"
-        },
-        {
-          "title": "中国智能手机市场下滑 4%，为何苹果销售额逆势增长 23%？",
-          "url": "https://www.zhihu.com/question/2018141949211754505",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 19时27分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -1234,17 +1297,17 @@
           "time_info": "[14时59分 ~ 15时55分]"
         },
         {
-          "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演 96 年「住友铜事件」么？",
-          "url": "https://www.zhihu.com/question/2021504836005295499",
-          "source": "知乎",
+          "title": "俄新社：俄方称已占领乌克兰哈尔科夫州基夫沙里夫卡村。",
+          "url": "https://flash.jin10.com/detail/20260329171114946800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            9,
-            7
+            6,
+            17,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时27分]"
+          "time_info": "[18时31分 ~ 20时49分]"
         },
         {
           "title": "乌克兰总统泽连斯基：我们希望为协助我们的合作伙伴筹备无人机协议，并做好应对任何挑战的准备。无人机协议包括无人机、电子战系统，以及最重要的——完整的防务系统。",
@@ -1298,6 +1361,30 @@
           "time_info": "[17时34分 ~ 19时27分]"
         },
         {
+          "title": "美银Hartnett：还没看到“抄底信号”，如何理解黄金在内的“抄底交易”？",
+          "url": "https://wallstreetcn.com/articles/3768667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 20时49分]"
+        },
+        {
+          "title": "2026 年 F1 日本大奖赛，梅赛德斯奔驰车队的安东内利再次夺冠，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2021224196965970256",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 20时49分]"
+        },
+        {
           "title": "F1日本大奖赛正赛策略预测",
           "url": "https://search.bilibili.com/all?keyword=F1%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%AD%A3%E8%B5%9B%E7%AD%96%E7%95%A5%E9%A2%84%E6%B5%8B",
           "source": "bilibili 热搜",
@@ -1310,29 +1397,39 @@
           "time_info": "[13时08分 ~ 15时55分]"
         },
         {
-          "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2020858530614305581",
-          "source": "知乎",
+          "title": "F1日本大奖赛正赛集锦",
+          "url": "https://search.bilibili.com/all?keyword=F1%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%AD%A3%E8%B5%9B%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
           "ranks": [
-            17,
-            20,
-            18
+            23,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时59分 ~ 19时27分]"
+          "time_info": "[19时27分 ~ 20时49分]"
         },
         {
-          "title": "俄新社：俄方称已占领乌克兰哈尔科夫州基夫沙里夫卡村。",
-          "url": "https://flash.jin10.com/detail/20260329171114946800",
-          "source": "金十数据",
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 20时49分]"
+        },
+        {
+          "title": "俄罗斯副外长：日本推进“再军事化”损害邻国安全利益",
+          "url": "https://wallstreetcn.com/livenews/3078704",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
+          "time_info": "[19时27分 ~ 20时49分]"
         },
         {
           "title": "日本1-0绝杀苏格兰",
@@ -1359,6 +1456,30 @@
           "time_info": "[15时55分 ~ 16时36分]"
         },
         {
+          "title": "阿联酋总统外交顾问：针对伊朗袭击海湾国家的任何政治解决方案都应包含明确的保障措施，以防止此类事件再次发生。",
+          "url": "https://flash.jin10.com/detail/20260329184931525800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时49分]"
+        },
+        {
+          "title": "报道：叙利亚寻求10亿美元投资，旨在振兴邮政与移动网络",
+          "url": "https://wallstreetcn.com/livenews/3078703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时49分]"
+        },
+        {
           "title": "金十数据整理：周六重要消息汇总",
           "url": "https://flash.jin10.com/detail/20260328230049385800",
           "source": "金十数据",
@@ -1381,6 +1502,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时55分 ~ 16时36分]"
+        },
+        {
+          "title": "中东股市收盘播报｜周日（3月29日），科威特证交所超级市场价格回报指数收跌0.60%，报8934.86点，逼近2025年6月24日收盘位8903.97点和当年6月15日收盘位8507.17点，3月12日以来累计下跌3.33%，50日均线已经在3月16日跌穿200日均线，100日均线也在向200日均线靠拢。 卡塔尔证交所指数收跌0.98%，报10060.68点，逼近2025年4月9日收盘位9904.25点，2月15日以来累计下跌12.64%，2月26日和3月2日先后跌破50日均线、100日均线、以及200日均线。",
+          "url": "https://wallstreetcn.com/livenews/3078702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时49分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-29）",
+          "url": "https://flash.jin10.com/detail/20260329182448742800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时49分]"
         },
         {
           "title": "一周展望：中东乱局不停，非农即将炸场！黄金是否已触底？",
@@ -1443,6 +1588,17 @@
           "time_info": "[00时31分 ~ 01时26分]"
         },
         {
+          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
           "title": "U23国足1-1朝鲜两连平",
           "url": "https://www.toutiao.com/trending/7622299568033762862/",
           "source": "今日头条",
@@ -1453,39 +1609,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时26分]"
-        },
-        {
-          "title": "俄罗斯副外长：日本推进“再军事化”损害邻国安全利益",
-          "url": "https://wallstreetcn.com/livenews/3078704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "阿联酋总统外交顾问：针对伊朗袭击海湾国家的任何政治解决方案都应包含明确的保障措施，以防止此类事件再次发生。",
-          "url": "https://flash.jin10.com/detail/20260329184931525800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "报道：叙利亚寻求10亿美元投资，旨在振兴邮政与移动网络",
-          "url": "https://wallstreetcn.com/livenews/3078703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         },
         {
           "title": "伊朗外交部：伊朗方面和希腊外长通话。希腊外长对战争的后果，特别是其对安全和经济的影响，表示深切关注，并希望该地区能够尽快恢复和平与稳定。",
@@ -1499,26 +1622,15 @@
           "time_info": "01时26分"
         },
         {
-          "title": "中东股市收盘播报｜周日（3月29日），科威特证交所超级市场价格回报指数收跌0.60%，报8934.86点，逼近2025年6月24日收盘位8903.97点和当年6月15日收盘位8507.17点，3月12日以来累计下跌3.33%，50日均线已经在3月16日跌穿200日均线，100日均线也在向200日均线靠拢。 卡塔尔证交所指数收跌0.98%，报10060.68点，逼近2025年4月9日收盘位9904.25点，2月15日以来累计下跌12.64%，2月26日和3月2日先后跌破50日均线、100日均线、以及200日均线。",
-          "url": "https://wallstreetcn.com/livenews/3078702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-29）",
-          "url": "https://flash.jin10.com/detail/20260329182448742800",
+          "title": "欧洲今日开始实行夏令时",
+          "url": "https://flash.jin10.com/detail/20260329193450095800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时27分"
+          "time_info": "20时49分"
         },
         {
           "title": "万斯获美共和党保守派阵营过半支持",
@@ -1530,17 +1642,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
-        },
-        {
-          "title": "美银Hartnett：还没看到“抄底信号”，如何理解黄金在内的“抄底交易”？",
-          "url": "https://wallstreetcn.com/articles/3768667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         },
         {
           "title": "市场消息：伊朗总统佩泽希齐扬在与巴基斯坦总理的通话中表示，对基础设施的攻击和刺杀事件表明侵略者不可信。伊朗的防御反应是自然的。伊朗视穆斯林国家为兄弟，寻求不伤害任何穆斯林。",
@@ -1563,17 +1664,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "新算法公布,谷歌干崩股市",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         },
         {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
@@ -1642,17 +1732,6 @@
           "time_info": "13时08分"
         },
         {
-          "title": "2026 年 F1 日本大奖赛，梅赛德斯奔驰车队的安东内利再次夺冠，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2021224196965970256",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
           "title": "乌克兰武装部队：昨日俄军损失了约1360名士兵。",
           "url": "https://flash.jin10.com/detail/20260329114744500800",
           "source": "金十数据",
@@ -1692,7 +1771,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -1706,17 +1785,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "F1日本大奖赛正赛集锦",
-          "url": "https://search.bilibili.com/all?keyword=F1%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%AD%A3%E8%B5%9B%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         },
         {
           "title": "乌克兰总参谋部：乌军袭击了俄罗斯雅罗斯拉夫尔州的雅罗斯拉夫尔炼油厂。",
@@ -1761,6 +1829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "印度央行受促放宽外汇新规，300亿美元平仓浪潮迫在眉睫",
+          "url": "https://wallstreetcn.com/livenews/3078699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "诺华制药在《新英格兰医学杂志》上发布的IgAN数据显示，Fabhalta(R)使肾功能下降速度减缓了49.3%。",
@@ -1846,7 +1925,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
