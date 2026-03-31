@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T10:04:44.649319+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-03-31T13:07:39.391394+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 251,
+      "match_count": 287,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 10时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 13时07分]"
         },
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -160,8 +160,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时52分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[01时52分 ~ 13时07分]"
         },
         {
           "title": "朝鲜重启旅游指日可待？",
@@ -224,11 +224,12 @@
             16,
             14,
             29,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 10时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 13时07分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -258,8 +259,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 10时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 13时07分]"
         },
         {
           "title": "俄罗斯禁止汽油出口有何影响",
@@ -301,6 +302,19 @@
           "time_info": "[02时56分 ~ 04时42分]"
         },
         {
+          "title": "鲍威尔：美联储可暂时忽略油价冲击，倾向于维持利率不变",
+          "url": "https://www.cls.cn/detail/2329695",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时54分 ~ 13时07分]"
+        },
+        {
           "title": "剑指SpaceX等独角兽！纳斯达克“快速纳入”指数新规5月1日生效",
           "url": "https://www.cls.cn/detail/2329564",
           "source": "财联社热门",
@@ -314,17 +328,41 @@
           "time_info": "[00时11分 ~ 05时39分]"
         },
         {
-          "title": "鲍威尔：美联储可暂时忽略油价冲击，倾向于维持利率不变",
-          "url": "https://www.cls.cn/detail/2329695",
-          "source": "财联社热门",
+          "title": "伊朗第一副总统警告美国：向哈尔克岛派兵将有来无回",
+          "url": "https://news.ifeng.com/c/8rvgSIijKUQ",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            11,
-            10
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时54分 ~ 10时04分]"
+          "appearance_count": 6,
+          "time_info": "[05时39分 ~ 13时07分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
+          "url": "https://www.cls.cn/detail/2329769",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时32分 ~ 13时07分]"
+        },
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 13时07分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -338,29 +376,16 @@
           "time_info": "[05时39分 ~ 06时33分]"
         },
         {
-          "title": "伊朗第一副总统警告美国：向哈尔克岛派兵将有来无回",
-          "url": "https://news.ifeng.com/c/8rvgSIijKUQ",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时39分 ~ 10时04分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
-          "url": "https://www.cls.cn/detail/2329769",
+          "title": "【早报】法案通过！伊朗：拟对霍尔木兹海峡征收通行费；美油近四年来首次站上100美元",
+          "url": "https://www.cls.cn/detail/2329802",
           "source": "财联社热门",
           "ranks": [
-            10,
-            3,
-            2
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 10时04分]"
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 13时07分]"
         },
         {
           "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
@@ -385,28 +410,15 @@
           "time_info": "[01时52分 ~ 01时53分]"
         },
         {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
+          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
+          "url": "https://wallstreetcn.com/articles/3768804",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时32分 ~ 10时04分]"
-        },
-        {
-          "title": "【早报】法案通过！伊朗：拟对霍尔木兹海峡征收通行费；美油近四年来首次站上100美元",
-          "url": "https://www.cls.cn/detail/2329802",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 10时04分]"
+          "time_info": "[10时04分 ~ 13时07分]"
         },
         {
           "title": "中国经济硬核数据上新",
@@ -420,13 +432,47 @@
           "time_info": "[00时11分 ~ 00时12分]"
         },
         {
+          "title": "特朗普给伊朗“划红线”",
+          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时39分 ~ 13时07分]"
+        },
+        {
+          "title": "从加息回归降息！鲍威尔一席话加速市场利率预期180度逆转……",
+          "url": "https://www.cls.cn/detail/2329880",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时07分]"
+        },
+        {
+          "title": "鲍威尔称美联储可忽略油价冲击，但警告耐心有限",
+          "url": "https://wallstreetcn.com/articles/3768795",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时07分]"
+        },
+        {
           "title": "韩国向中国14个城市发放十年签",
           "url": "https://www.toutiao.com/trending/7621978651006353427/",
           "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -437,7 +483,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -451,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美联储威廉姆斯：能源价格的经济影响前景取决于市场定价水平。",
@@ -503,9 +560,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "缅甸人民院推选敏莱昂参加总统选举",
+          "url": "https://wallstreetcn.com/livenews/3079842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "当地时间3月30日，中非共和国总统图瓦德拉正式宣誓就职，开启其第三个总统任期。",
@@ -541,6 +609,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "韩国财政部官员：日本政府养老金投资基金正买入韩国国债。",
+          "url": "https://flash.jin10.com/detail/20260331124825327800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "美股费城半导体指数跌幅扩大至4.07%，相干公司/高意公司跌9.7%，美光跌8.2%，泰瑞达跌7.2%，Lumentum控股、Sandisk跌超6.5%，英特尔跌4.6%，格芯、Arm控股跌4.4%。 标普500指数跌0.15%，纳指跌0.5%。 白宫新闻秘书莱维特宣称，与伊朗的谈判在继续，而且进展顺利。美国国务卿卢比奥声称，在美国实现自己目标之后才会结束伊朗战争。",
           "url": "https://wallstreetcn.com/livenews/3079527",
           "source": "华尔街见闻-快讯",
@@ -563,15 +642,26 @@
           "time_info": "07时32分"
         },
         {
-          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
-          "url": "https://wallstreetcn.com/articles/3768804",
-          "source": "华尔街见闻",
+          "title": "恒生科技指数午后跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3079841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "3月全国各地经济社会发展观察",
+          "url": "https://www.toutiao.com/trending/7622991171736059913/",
+          "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时07分"
         },
         {
           "title": "金十图示：2026年03月30日（周一）全球股市指数-欧洲市场",
@@ -635,32 +725,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "特朗普给伊朗“划红线”",
-          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时39分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
-          "title": "从加息回归降息！鲍威尔一席话加速市场利率预期180度逆转……",
-          "url": "https://www.cls.cn/detail/2329880",
-          "source": "财联社热门",
+          "title": "日本2月新屋开工年化户数 75.1万户，预期 75.6万户，前值 75.5万户。",
+          "url": "https://wallstreetcn.com/livenews/3079840",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时07分"
         },
         {
           "title": "德国DAX30指数3月30日（周一）收盘上涨247.94点，涨幅1.11%，报22563.18点；<br/>英国富时100指数3月30日（周一）收盘上涨164.92点，涨幅1.65%，报10132.27点；<br/>法国CAC40指数3月30日（周一）收盘上涨70.50点，涨幅0.92%，报7772.45点；<br/>欧洲斯托克50指数3月30日（周一）收盘上涨36.30点，涨幅0.66%，报5542.10点；<br/>西班牙IBEX35指数3月30日（周一）收盘上涨142.15点，涨幅0.84%，报16980.05点；<br/>意大利富时MIB指数3月30日（周一）收盘上涨446.40点，涨幅1.03%，报43825.50点。",
@@ -707,6 +785,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "中国汽车流通协会：3月中国汽车经销商库存预警指数为57.5%",
+          "url": "https://flash.jin10.com/detail/20260331124543661800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "美国纽约联储主席（享有FOMC永久票委，号称美联储三把手）威廉姆斯：基本假设是，美国经济前景非常不错。 油价面临巨大的不确定性。 核心通胀预期还没有（显著地）受到油价冲击的影响。 监管的目标是银行业安全性，而不是储备金的规模。",
           "url": "https://wallstreetcn.com/livenews/3079593",
           "source": "华尔街见闻-快讯",
@@ -735,31 +824,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
         {
-          "title": "鲍威尔称美联储可忽略油价冲击，但警告耐心有限",
-          "url": "https://wallstreetcn.com/articles/3768795",
-          "source": "华尔街见闻",
+          "title": "日本2月新屋开工同比 -4.9%，预期 -4.5%，前值 -0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3079839",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "国行版苹果AI",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时07分"
         },
         {
           "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-03-30）",
@@ -904,6 +982,18 @@
           "time_info": "[01时53分 ~ 03时55分]"
         },
         {
+          "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://www.cls.cn/detail/2329919",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时07分]"
+        },
+        {
           "title": "美国财政部：美国延长许可，允许就俄罗斯卢克石油国际公司股权出售的或有合同进行谈判并签署相关合同，有效期至5月1日。",
           "url": "https://flash.jin10.com/detail/20260331051006183800",
           "source": "金十数据",
@@ -1025,6 +1115,18 @@
           "time_info": "[05时39分 ~ 06时33分]"
         },
         {
+          "title": "国行版苹果AI",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时07分]"
+        },
+        {
           "title": "白宫 ：向中东增派军队是为了给特朗普提供更多选择",
           "url": "https://flash.jin10.com/detail/20260331021555394800",
           "source": "金十数据",
@@ -1135,6 +1237,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时42分 ~ 06时33分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2329789",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 13时07分]"
         },
         {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：美国经济面临实质性风险和高度不确定性。 （伊朗）战争可能会在未来好几个月推高通胀。 战争还可能带来供应冲击，破坏经济。 长期通胀预期与2%目标保持一致。 现在看到能源领域发生供应链紊乱。 诸多指标针对就业市场释放喜忧参半的信号。",
@@ -1248,6 +1362,18 @@
           "time_info": "[05时39分 ~ 06时33分]"
         },
         {
+          "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
+          "url": "https://www.cls.cn/detail/2329869",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时07分]"
+        },
+        {
           "title": "美联储威廉姆斯：存在诸多不确定性，但经济韧性超出预期。",
           "url": "https://flash.jin10.com/detail/20260331042006191800",
           "source": "金十数据",
@@ -1332,18 +1458,6 @@
           "time_info": "[02时56分 ~ 03时55分]"
         },
         {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2329789",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 10时04分]"
-        },
-        {
           "title": "白宫：特朗普有意呼吁阿拉伯国家为战争“买单”",
           "url": "https://flash.jin10.com/detail/20260331020508015800",
           "source": "金十数据",
@@ -1414,6 +1528,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时33分]"
+        },
+        {
+          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时07分]"
+        },
+        {
+          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
+          "url": "https://www.zhihu.com/question/2022216922670915942",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时07分]"
         },
         {
           "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
@@ -1618,6 +1755,17 @@
           "time_info": "[05时39分 ~ 06时33分]"
         },
         {
+          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
+          "url": "https://wallstreetcn.com/articles/3768825",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "干预与加息都失灵，日本还能靠什么挽救日元？",
           "url": "https://flash.jin10.com/detail/20260330233600402800",
           "source": "金十数据",
@@ -1657,9 +1805,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "泰国政府：微软计划在泰国投资10亿美元，用于人工智能和云计算领域。",
+          "url": "https://wallstreetcn.com/livenews/3079834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "报道称特朗普愿在海峡关闭时停战！油价转跌、纳指期货转涨1%，亚太股市V型拉升",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "特朗普再就停火威胁伊朗",
@@ -1668,7 +1838,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -1690,7 +1860,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -1723,9 +1893,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "韩国向中国14城发放十年签",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%90%91%E4%B8%AD%E5%9B%BD14%E5%9F%8E%E5%8F%91%E6%94%BE%E5%8D%81%E5%B9%B4%E7%AD%BE%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美国至3月30日6个月国债竞拍-得标利率配置百分比 20.82%，前值1.37%。",
@@ -1789,9 +1970,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数高开1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3079832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美抗议人群组成特朗普须下台巨型标语",
@@ -1838,6 +2030,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "特朗普已12次暗示伊朗战争即将结束，市场被PUA麻了",
+          "url": "https://flash.jin10.com/detail/20260331122326655800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "五大金融机构首席经济学家热议经济趋势：一季度中国GDP增速有望达到5%左右",
           "url": "https://wallstreetcn.com/livenews/3079620",
           "source": "华尔街见闻-快讯",
@@ -1849,6 +2052,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "罗素2000指数跌至四个月低位，日内下跌1.2%。",
           "url": "https://flash.jin10.com/detail/20260331012130772800",
           "source": "金十数据",
@@ -1858,6 +2072,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "日本两年期国债收益率下跌1.0个基点，至1.345%。",
+          "url": "https://flash.jin10.com/detail/20260331122058238800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.79%，报22477.07点。 法国股指初步收涨0.71%，意大利股指初步收涨0.78%、银行指数跌0.65%，英国股指初步收涨1.50%。",
@@ -1888,31 +2113,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
         {
-          "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://www.cls.cn/detail/2329919",
+          "title": "3月官方制造业PMI为50.4% 经济回升向好",
+          "url": "https://www.cls.cn/detail/2329847",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
-          "url": "https://www.zhihu.com/question/2022216922670915942",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时07分"
         },
         {
           "title": "美国至3月30日3个月国债竞拍-得标利率配置百分比 56.71%，前值58.27%。",
@@ -1954,7 +2168,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -1976,7 +2190,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -1987,20 +2201,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
         {
-          "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
-          "url": "https://www.cls.cn/detail/2329869",
-          "source": "财联社热门",
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时07分"
         },
         {
           "title": "美国至3月30日3个月国债竞拍-得标利率 3.62%，前值3.64%。",
@@ -2053,9 +2267,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "韩国央行准行长淡化韩元跌势 主张超脱“鹰鸽”之争的灵活政策",
+          "url": "https://flash.jin10.com/detail/20260331122032026800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "提醒：美联储主席鲍威尔讲话结束。",
@@ -2086,9 +2311,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "国行版苹果AI",
@@ -2097,7 +2333,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -2141,9 +2377,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "韩国推26万亿韩元补充预算 应对伊朗战争",
+          "url": "https://flash.jin10.com/detail/20260331121944704800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰和保加利亚正合作建设天然气走廊，将处理每年高达100亿立方米的气量。",
@@ -2185,9 +2432,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "日债高收益率吸引投资者入场 两年期国债拍卖平稳度过加息疑云",
+          "url": "https://flash.jin10.com/detail/20260331121858423800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "鲍威尔：目前，美联储的货币政策适合保持观望立场。",
@@ -2218,18 +2476,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -2284,7 +2531,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -2306,7 +2553,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -2361,7 +2608,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -2427,7 +2674,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -2449,9 +2696,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是机车文化有什么意义？",
+          "url": "https://www.zhihu.com/question/2021703750130083017",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美联储主席鲍威尔：我们不知道能源冲击会有多大，现在就下结论还为时过早。",
@@ -2496,6 +2754,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "富力地产发布盈利预警公告，全年净亏损初步数据大约166亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3079820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "特朗普称愿结束对伊朗军事行动",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美国白宫：特朗普表示，伊朗最好的选择是达成协议。美国军队将始终在国际法的框架内行动。",
@@ -2548,9 +2828,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "台湾证交所加权股价指数下跌2%至31,865.53点。",
+          "url": "https://wallstreetcn.com/livenews/3079814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美国白宫：特朗普未排除对伊朗进行地面行动的可能性。",
@@ -2614,9 +2905,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "据英国金融时报：英国芯片初创公司Fractile寻求筹集2亿美元以挑战英伟达(NVDA.O)。",
+          "url": "https://flash.jin10.com/detail/20260331120431860800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "日本拍卖两年期国债，认购倍数3.54，过去12个月均值3.59。",
+          "url": "https://wallstreetcn.com/livenews/3079810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美联储威廉姆斯：预计受战争和关税影响，短期内整体通胀率将走高。",
@@ -2639,6 +2952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "据英国金融时报：据知情人士透露，瑞士资深议员已私下告知瑞银高管，他们将就财政部的提案达成折中方案。财政部的提案将使瑞银的资本要求提高220亿美元。",
+          "url": "https://flash.jin10.com/detail/20260331120406630800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "鲍威尔：负责金融监管事务的美联储副主席应当负责牵头监管工作。 自GFC（2008年全球金融危机）以来，美联储已经显著地巩固银行业系统。、 美联储不应当尝试在现有范围之外实施风险监管。 非常密切地留意私人信用（私募信贷）市场。 私人信用正在出现调整，但并没有产生更大范围的影响、也没有产生系统性影响。 应当防范大规模网络攻击。",
@@ -2669,9 +2993,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "韩国提议追加26.2万亿韩元预算，应对伊朗战争冲击。",
+          "url": "https://wallstreetcn.com/livenews/3079809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美联储威廉姆斯：经济面临“不同寻常的局面”。",
@@ -2691,9 +3026,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-31）",
+          "url": "https://flash.jin10.com/detail/20260331120249822800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "鲍威尔：普遍共识是，美联储要求在货币政策问题上拥有独立性。",
@@ -2724,9 +3070,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "除了中东，我们还忽略了日本这颗雷？",
+          "url": "https://flash.jin10.com/detail/20260331120225404800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "伊朗致信联合国 指责乌克兰参与对伊军事侵略",
@@ -2735,9 +3092,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "上证指数早盘收报3908.28点，跌0.38%。 深证成指早盘收报13526.96点，跌1.45%。 创业板指早盘收报3196.23点，跌2.36%。 沪深300早盘收报4465.98点，跌0.58%。 科创50早盘收报1268.05点，跌1.68%。 中证500早盘收报7651.92点，跌1.31%。 中证1000早盘收报7654.34点，跌1.46%。",
+          "url": "https://wallstreetcn.com/livenews/3079804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美联储威廉姆斯：通胀预期与2%通胀目标一致。",
@@ -2768,9 +3136,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "港股午评：恒生指数跌0.51% 恒生科技指数跌0.94%",
+          "url": "https://flash.jin10.com/detail/20260331120145439800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "鲍威尔：美国联邦公开市场委员会（FOMC）将实现2%通胀目标。 并没有迹象表明美联储过去的债券购买行动引发通胀。 （总统特朗普挑起的）关税对通胀造成一次性影响。 美联储的那些工具对供应冲击并没有实质性的影响。 通胀将在一段时期内错过目标。 通胀预期仍然得到很好的锚定。",
@@ -2801,7 +3180,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -2856,9 +3235,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "20年期日本国债收益率下跌5.0个基点，至3.255%。",
+          "url": "https://flash.jin10.com/detail/20260331120048595800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "上证指数开盘报3924.07点，涨0.02%。 深证成指开盘报13683.68点，跌0.31%。 创业板指开盘报3247.28点，跌0.80%。 沪深300开盘报4491.92点，跌0.00%。 科创50开盘报1283.90点，跌0.46%。 中证500开盘报7740.58点，跌0.17%。 中证1000开盘报7741.96点，跌0.33%。",
@@ -2867,7 +3257,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -2903,6 +3293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "印度尼西亚总统： 印尼邀请日本在关键矿产、稀土、可再生能源及核能领域开展合作。",
+          "url": "https://wallstreetcn.com/livenews/3079798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     }
