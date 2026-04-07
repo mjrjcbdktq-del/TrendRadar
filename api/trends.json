@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T19:52:29.437355+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-04-07T21:13:27.280937+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 408,
+      "match_count": 456,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -65,6 +65,19 @@
           "time_info": "[00时43分 ~ 07时33分]"
         },
         {
+          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
+          "url": "https://wallstreetcn.com/articles/3769329",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时33分 ~ 21时13分]"
+        },
+        {
           "title": "假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产",
           "url": "https://www.cls.cn/detail/2335705",
           "source": "财联社热门",
@@ -90,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时51分 ~ 19时52分]"
+          "appearance_count": 14,
+          "time_info": "[03时51分 ~ 21时13分]"
         },
         {
           "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
@@ -119,19 +132,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 10时05分]"
-        },
-        {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时33分 ~ 19时52分]"
         },
         {
           "title": "土耳其甩卖黄金给所有人上了一课",
@@ -239,6 +239,21 @@
           "time_info": "[00时43分 ~ 07时33分]"
         },
         {
+          "title": "国际观察丨日本历史教科书中了怎样的毒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914128",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 21时13分]"
+        },
+        {
           "title": "央行抛售黄金影响几何？",
           "url": "https://wallstreetcn.com/articles/3769303",
           "source": "华尔街见闻",
@@ -292,6 +307,32 @@
           "time_info": "[00时43分 ~ 07时33分]"
         },
         {
+          "title": "特朗普威胁伊朗“最后期限”，中方表态",
+          "url": "https://www.cls.cn/detail/2336527",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 21时13分]"
+        },
+        {
+          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/articles/3769330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 21时13分]"
+        },
+        {
           "title": "特朗普：该由美国收霍尔木兹海峡“通行费”",
           "url": "https://www.cls.cn/detail/2335995",
           "source": "财联社热门",
@@ -305,17 +346,47 @@
           "time_info": "[10时05分 ~ 16时59分]"
         },
         {
-          "title": "特朗普威胁伊朗“最后期限”，中方表态",
-          "url": "https://www.cls.cn/detail/2336527",
-          "source": "财联社热门",
+          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            2,
-            1
+            15,
+            13,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 21时13分]"
+        },
+        {
+          "title": "特朗普再发威胁：7日20时是“最后期限”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 21时13分]"
+        },
+        {
+          "title": "经济日报：科学看待“菜比肉贵”现象",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914978",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 21时13分]"
         },
         {
           "title": "推进电子商务更好服务实体经济",
@@ -339,33 +410,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时59分 ~ 19时52分]"
-        },
-        {
-          "title": "国际观察丨日本历史教科书中了怎样的毒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914128",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 19时52分]"
-        },
-        {
-          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
-          "url": "https://wallstreetcn.com/articles/3769330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 19时52分]"
         },
         {
           "title": "摩根大通CEO警告：伊朗战争恐推高通胀与利率",
@@ -393,20 +437,6 @@
           "time_info": "[10时05分 ~ 15时12分]"
         },
         {
-          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 19时52分]"
-        },
-        {
           "title": "土耳其两周狂抛近120吨黄金",
           "url": "https://www.cls.cn/detail/2335361",
           "source": "财联社热门",
@@ -417,35 +447,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 05时36分]"
-        },
-        {
-          "title": "特朗普再发威胁：7日20时是“最后期限”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 19时52分]"
-        },
-        {
-          "title": "经济日报：科学看待“菜比肉贵”现象",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914978",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 19时52分]"
         },
         {
           "title": "伊朗回应特朗普最新威胁：绝不退缩",
@@ -481,6 +482,32 @@
           "time_info": "[16时59分 ~ 18时10分]"
         },
         {
+          "title": "如何看待 Citrini 实地调研霍尔木兹海峡，得出「公开数据漏报了 50% 真实通行量」的结论？",
+          "url": "https://www.zhihu.com/question/2024797950254085912",
+          "source": "知乎",
+          "ranks": [
+            17,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 21时13分]"
+        },
+        {
+          "title": "多国央行开始卖黄金了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 21时13分]"
+        },
+        {
           "title": "特朗普：该由美国收霍尔木兹通行费",
           "url": "https://news.ifeng.com/c/8s7WhbxpGX0",
           "source": "凤凰网",
@@ -490,17 +517,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 13时07分]"
-        },
-        {
-          "title": "伊朗总统说已准备好牺牲",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AF%B4%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E7%89%BA%E7%89%B2%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时52分]"
         },
         {
           "title": "美以伊战争丨特朗普：被迫炸毁2架深陷沙地运输机",
@@ -569,6 +585,17 @@
           "time_info": "18时10分"
         },
         {
+          "title": "美以伊战争丨特朗普发死亡威胁，万斯：战争将结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "菲律宾央行：通胀前景面临日益加剧的风险，需保持持续警惕。",
           "url": "https://flash.jin10.com/detail/20260407165309628800",
           "source": "金十数据",
@@ -578,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "美联储威廉姆斯：伊朗战争将推高整体通胀",
+          "url": "https://flash.jin10.com/detail/20260407204609480800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "现货黄金5分钟内上涨6.53美元/盎司，报4659.19美元/盎司。 伊朗媒体Mizan报道称，首都德黑兰听到爆炸声。",
@@ -611,6 +649,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "中东战事对日本汽车业影响持续扩大",
+          "url": "https://wallstreetcn.com/livenews/3083517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "特朗普：一夜之间就能拿下伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915316",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时11分 ~ 21时13分]"
+        },
+        {
+          "title": "联合国警告特朗普：或涉战争罪",
+          "url": "https://news.ifeng.com/c/8s8Tyoozbw4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -668,6 +742,17 @@
           "time_info": "18时10分"
         },
         {
+          "title": "美联储威廉姆斯：近期未与沃什交谈。",
+          "url": "https://flash.jin10.com/detail/20260407204453137800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "日本2月同步指标初值 116.3，预期 116.4，前值 117.9。",
           "url": "https://wallstreetcn.com/livenews/3083158",
           "source": "华尔街见闻-快讯",
@@ -677,6 +762,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 21时13分]"
         },
         {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
@@ -690,6 +788,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时05分 ~ 15时12分]"
+        },
+        {
+          "title": "伊朗总统：已准备好牺牲",
+          "url": "https://news.ifeng.com/c/8s8E2NE7eJ2",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 21时13分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股盘中）",
@@ -734,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "美联储威廉姆斯：沃什对美联储的使命有着深刻的理解。",
+          "url": "https://flash.jin10.com/detail/20260407204401029800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "WTI 5月原油期货收报112.41美元/桶。 NYMEX 5月天然气期货收报2.8110美元/百万英热单位。 NYMEX 5月汽油期货收报3.3082美元/加仑，NYMEX 5月取暖油期货收报4.3284美元/加仑。",
@@ -791,6 +912,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "美联储威廉姆斯：若沃什未能迅速获确认，美联储联邦公开市场委员会将照常运作。",
+          "url": "https://flash.jin10.com/detail/20260407204353352800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "英镑兑美元上涨0.3%至1.3278。",
           "url": "https://wallstreetcn.com/livenews/3083326",
           "source": "华尔街见闻-快讯",
@@ -811,18 +943,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
-        },
-        {
-          "title": "多国央行开始卖黄金了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时52分]"
         },
         {
           "title": "澳大利亚3月标普全球综合PMI终值 46.6，前值47。",
@@ -858,6 +978,17 @@
           "time_info": "16时59分"
         },
         {
+          "title": "美联储威廉姆斯：在新美联储主席确认之前，由美联储主席鲍威尔主持FOMC会议。",
+          "url": "https://flash.jin10.com/detail/20260407204330446800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "清明出游半径显著扩展，演唱会经济成文旅市场新引擎",
           "url": "https://wallstreetcn.com/livenews/3083012",
           "source": "华尔街见闻-快讯",
@@ -886,7 +1017,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -915,30 +1046,16 @@
           "time_info": "[01时42分 ~ 07时33分]"
         },
         {
-          "title": "特朗普：一夜之间就能拿下伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915316",
-          "source": "澎湃新闻",
+          "title": "伊朗总统说已准备好牺牲",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AF%B4%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E7%89%BA%E7%89%B2%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时11分 ~ 19时52分]"
-        },
-        {
-          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
-          "url": "https://wallstreetcn.com/articles/3769368",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
+            5,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时52分]"
+          "time_info": "[18时10分 ~ 21时13分]"
         },
         {
           "title": "内塔尼亚胡警告特朗普",
@@ -950,31 +1067,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时05分 ~ 15时12分]"
-        },
-        {
-          "title": "如何看待 Citrini 实地调研霍尔木兹海峡，得出「公开数据漏报了 50% 真实通行量」的结论？",
-          "url": "https://www.zhihu.com/question/2024797950254085912",
-          "source": "知乎",
-          "ranks": [
-            17,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时52分]"
-        },
-        {
-          "title": "伊朗总统：已准备好牺牲",
-          "url": "https://news.ifeng.com/c/8s8E2NE7eJ2",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 19时52分]"
         },
         {
           "title": "提醒：美国总统特朗普在白宫的讲话结束。",
@@ -1296,6 +1388,33 @@
           "time_info": "[06时33分 ~ 07时33分]"
         },
         {
+          "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
+          "url": "https://www.cls.cn/detail/2336273",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 21时13分]"
+        },
+        {
+          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
+          "url": "https://wallstreetcn.com/articles/3769340",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 21时13分]"
+        },
+        {
           "title": "美国总统特朗普：北约秘书长吕特周三将来见我。北约秘书长很棒。",
           "url": "https://flash.jin10.com/detail/20260407023312286800",
           "source": "金十数据",
@@ -1513,17 +1632,29 @@
           "time_info": "[10时05分 ~ 15时12分]"
         },
         {
-          "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
-          "url": "https://www.cls.cn/detail/2336273",
-          "source": "财联社热门",
+          "title": "中方就特朗普威胁伊朗表态",
+          "url": "https://www.toutiao.com/trending/7624686886321393188/",
+          "source": "今日头条",
           "ranks": [
-            11,
+            18,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 21时13分]"
+        },
+        {
+          "title": "伊朗总统：已准备好牺牲",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E7%89%BA%E7%89%B2",
+          "source": "百度热搜",
+          "ranks": [
             7,
-            8
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时52分]"
+          "time_info": "[18时10分 ~ 21时13分]"
         },
         {
           "title": "美国总统特朗普谈及攫取伊朗石油，称：“胜利者”享有“战利品”。",
@@ -1578,19 +1709,6 @@
           "time_info": "[03时51分 ~ 05时36分]"
         },
         {
-          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
-          "url": "https://wallstreetcn.com/articles/3769340",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时52分]"
-        },
-        {
           "title": "特朗普“最后期限”强压伊朗 国际油价基准双双跳涨",
           "url": "https://www.cls.cn/detail/2335954",
           "source": "财联社热门",
@@ -1602,16 +1720,42 @@
           "time_info": "[13时07分 ~ 15时12分]"
         },
         {
-          "title": "中方就特朗普威胁伊朗表态",
-          "url": "https://www.toutiao.com/trending/7624686886321393188/",
+          "title": "伊朗总统称已准备好牺牲",
+          "url": "https://www.toutiao.com/trending/7625226346541072427/",
           "source": "今日头条",
           "ranks": [
-            18,
-            13
+            16,
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时52分]"
+          "time_info": "[18时10分 ~ 21时13分]"
+        },
+        {
+          "title": "央行连续17个月增持黄金",
+          "url": "https://www.douyin.com/hot/2458359",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 21时13分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915431",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 21时13分]"
         },
         {
           "title": "韩国人称为吃地瓜条专门来中国",
@@ -1625,6 +1769,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时59分 ~ 19时52分]"
+        },
+        {
+          "title": "多国央行开启战术性黄金抛售",
+          "url": "https://www.douyin.com/hot/2457701",
+          "source": "抖音",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 21时13分]"
         },
         {
           "title": "映山红朝鲜语版",
@@ -1734,6 +1890,18 @@
           "time_info": "[06时33分 ~ 07时33分]"
         },
         {
+          "title": "两位小米联合创始人退出小米科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E5%B0%8F%E7%B1%B3%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%80%80%E5%87%BA%E5%B0%8F%E7%B1%B3%E7%A7%91%E6%8A%80%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时13分]"
+        },
+        {
           "title": "美国众议院民主党议员推动弹劾防长",
           "url": "https://www.toutiao.com/trending/7625842559818940422/",
           "source": "今日头条",
@@ -1743,18 +1911,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时11分 ~ 15时12分]"
-        },
-        {
-          "title": "伊朗总统：已准备好牺牲",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E7%89%BA%E7%89%B2",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时52分]"
         },
         {
           "title": "美国总统特朗普：美国可以协助伊朗重建。",
@@ -2044,6 +2200,18 @@
           "time_info": "[05时36分 ~ 06时33分]"
         },
         {
+          "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
+          "url": "https://www.cls.cn/detail/2336608",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时13分]"
+        },
+        {
           "title": "特朗普挨个点名北约、日本、韩国：一点忙帮不上",
           "url": "https://news.ifeng.com/c/8s7lWE72D14",
           "source": "凤凰网",
@@ -2113,18 +2281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时35分]"
-        },
-        {
-          "title": "伊朗总统称已准备好牺牲",
-          "url": "https://www.toutiao.com/trending/7625226346541072427/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时52分]"
         },
         {
           "title": "欧洲理事会主席科斯塔表示，升级对伊朗的战争不会带来停火与和平。",
@@ -2235,18 +2391,6 @@
           "time_info": "[03时51分 ~ 04时35分]"
         },
         {
-          "title": "央行连续17个月增持黄金",
-          "url": "https://www.douyin.com/hot/2458359",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时52分]"
-        },
-        {
           "title": "特朗普：美军营救行动出动155架飞机，炸毁两架运输机",
           "url": "https://wallstreetcn.com/livenews/3082919",
           "source": "华尔街见闻-快讯",
@@ -2271,28 +2415,6 @@
           "time_info": "[02时54分 ~ 03时51分]"
         },
         {
-          "title": "多国央行开启战术性黄金抛售",
-          "url": "https://www.douyin.com/hot/2457701",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时52分]"
-        },
-        {
-          "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915431",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 19时52分]"
-        },
-        {
           "title": "BLG战胜JDG赛后数据",
           "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CJDG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
@@ -2315,6 +2437,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时33分 ~ 10时05分]"
+        },
+        {
+          "title": "伊朗最大产油岛哈尔克岛传出多次爆炸，特朗普称“整个文明将消亡”",
+          "url": "https://wallstreetcn.com/articles/3769398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "特朗普：整个伊朗可“一夜被消灭”，宁愿美国收霍尔木兹过路费",
@@ -2361,6 +2494,17 @@
           "time_info": "16时59分"
         },
         {
+          "title": "美联储威廉姆斯：美联储专注于工作，领导层问题不是问题。",
+          "url": "https://flash.jin10.com/detail/20260407204317134800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌0.2%。 热门中概股里，小马智行初步收跌3%，文远知行跌2.2%，小鹏、百胜中国、小米跌超1%，阿里巴巴涨0.2%，美团涨0.5%。",
           "url": "https://wallstreetcn.com/livenews/3082958",
           "source": "华尔街见闻-快讯",
@@ -2389,20 +2533,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
         {
-          "title": "两位小米联合创始人退出小米科技",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E5%B0%8F%E7%B1%B3%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%80%80%E5%87%BA%E5%B0%8F%E7%B1%B3%E7%A7%91%E6%8A%80%23&t=31&band_rank=6&Refer=top",
+          "title": "联合国警告特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "21时13分"
         },
         {
           "title": "特朗普称伊朗若不服软将一无所有",
@@ -2436,6 +2580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "美联储威廉姆斯：美联储不存在连续性问题。",
+          "url": "https://flash.jin10.com/detail/20260407204311820800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "标普500指数初步收涨0.4%，可选消费板块涨0.7%，日用品、金融、能源板块涨0.6%，科技板块涨0.3%，保健板块跌0.5%。 纳斯达克100指数初步收涨0.6%，成分股中，AppLovin初步收涨6.8%，Strategy涨6.5%，希捷科技涨5.5%，星巴克涨4.9%，特斯拉跌2.1%，Datadog跌3.3%。 思科、波音、美国运通、联合健康、家得宝至少涨1.5%，领跑道指成分股，IBM、强生则跌0.8%，Salesforce跌1.1%，安进跌1.6%。",
@@ -2482,6 +2637,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "美联储威廉姆斯：目前美国经济呈现低招聘、低解雇、低失业的现象。",
+          "url": "https://flash.jin10.com/detail/20260407204305053800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "联合健康美股盘后中行那个11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
           "url": "https://wallstreetcn.com/livenews/3082970",
           "source": "华尔街见闻-快讯",
@@ -2491,6 +2657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "小米YU7全系车型将通过OTA推送车外语音泊出功能",
+          "url": "https://wallstreetcn.com/livenews/3083508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "被特朗普言论震惊了",
@@ -2504,13 +2681,24 @@
           "time_info": "13时07分"
         },
         {
+          "title": "美伊谈判“最后期限”逼近，美股期货转跌，油价攀升，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "最新民调：若被迫在中美选边站，东南亚倾向中国",
           "url": "https://news.ifeng.com/c/8s8HJscDjsv",
           "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -2570,6 +2758,17 @@
           "time_info": "16时59分"
         },
         {
+          "title": "伊朗拒绝临时停火，特朗普称将坚守最后期限，“今晚见证历史时刻”！",
+          "url": "https://flash.jin10.com/detail/20260407204223041800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "美国商务部长卢特尼克将于5月6日出席众议院听证会。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3082969",
           "source": "华尔街见闻-快讯",
@@ -2590,6 +2789,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3083507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "越来越多特朗普支持者后悔投票给他",
@@ -2623,6 +2833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "“最后期限”进入12小时倒计时 瑞银下调标普目标价 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2336981",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "美国总统特朗普：北约是纸老虎，普京并不怕北约，他怕的是我们。",
@@ -2669,6 +2890,17 @@
           "time_info": "18时10分"
         },
         {
+          "title": "美联储威廉姆斯：企业一直在适应更加不确定的世界。",
+          "url": "https://flash.jin10.com/detail/20260407204057963800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "日经225指数回吐稍早涨幅，转为微幅下跌。",
           "url": "https://wallstreetcn.com/livenews/3083076",
           "source": "华尔街见闻-快讯",
@@ -2700,6 +2932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：美联储不存在延续性问题。 美联储专注于工作，领导层相关担忧不是问题。 如果Warsh未能迅速获确认，FOMC将照常运行。 Warsh非常了解美联储。 最近没有与Warsh通话。 进入美联储的人都能理解使命的重要性。 是否完成整个任期由鲍威尔本人决定。",
+          "url": "https://wallstreetcn.com/livenews/3083505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "特朗普称出动176架飞机营救飞行员",
@@ -2757,6 +3000,17 @@
           "time_info": "15时12分"
         },
         {
+          "title": "美联储威廉姆斯：劳动力市场未推动通胀走高。",
+          "url": "https://flash.jin10.com/detail/20260407204025797800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨2%至33,224.72点。",
           "url": "https://wallstreetcn.com/livenews/3083074",
           "source": "华尔街见闻-快讯",
@@ -2768,15 +3022,15 @@
           "time_info": "10时05分"
         },
         {
-          "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
-          "url": "https://www.cls.cn/detail/2336608",
-          "source": "财联社热门",
+          "title": "特朗普威胁伊朗整个文明将消亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E6%95%B4%E4%B8%AA%E6%96%87%E6%98%8E%E5%B0%86%E6%B6%88%E4%BA%A1%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "21时13分"
         },
         {
           "title": "美国总统特朗普：允许伊朗拥有核武器是一种战争罪行。",
@@ -2862,9 +3116,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "美联储威廉姆斯：美国经济表现出惊人的韧性，科技普遍在提升生产力水平。",
+          "url": "https://flash.jin10.com/detail/20260407204020367800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "日本首相高市早苗寻求与伊朗总统通电话。（NHK）",
@@ -2876,6 +3141,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：劳动力市场状况相当复杂。 当前就业市场呈现“低招聘、低裁员”的状态。 预计今年晚些时候基础通胀将趋于温和。 美国经济表现出极强的韧性，科技广泛提升了生产力水平。 薪酬增长与生产力相一致，并未对通胀造成压力。 企业一直在适应更加不确定的世界。",
+          "url": "https://wallstreetcn.com/livenews/3083506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "财联社C50风向指数调查：3月新增信贷及社融或同比少增，M2同比增速或小幅回落",
+          "url": "https://www.cls.cn/detail/2336686",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "美国总统特朗普：我不担心那些针对民用基础设施的担忧。",
@@ -2955,6 +3242,17 @@
           "time_info": "16时59分"
         },
         {
+          "title": "美联储威廉姆斯：预计今年晚些时候核心通胀将下降。",
+          "url": "https://flash.jin10.com/detail/20260407203751769800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "博通公司与谷歌达成至2031年的长期TPU和网络供应协议。 与谷歌、Anthropic扩大合作。 Anthropic将从2027年起接入3.5吉瓦的TPU人工智能算力。",
           "url": "https://wallstreetcn.com/livenews/3082983",
           "source": "华尔街见闻-快讯",
@@ -2975,6 +3273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "美副总统万斯：战争将很快结束",
+          "url": "https://wallstreetcn.com/livenews/3083501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "伊朗：特朗普言论可能煽动恐怖主义",
@@ -3063,6 +3372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "美联储威廉姆斯：公众对劳动力市场的看法更加悲观。",
+          "url": "https://flash.jin10.com/detail/20260407203725811800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "标普道琼斯指数公司：Casey’s General Stores Inc.（CASY）将被纳入标普500指数。",
@@ -3186,6 +3506,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "美联储威廉姆斯：劳动力市场形势相当复杂。",
+          "url": "https://flash.jin10.com/detail/20260407203616370800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "分析师：苹果股价或将激增20%，MacBook Neo可能成为关键催化剂",
           "url": "https://wallstreetcn.com/livenews/3082903",
           "source": "华尔街见闻-快讯",
@@ -3217,6 +3548,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：中东冲突的影响将推高整体通胀。 今年的通胀率应在2.75%左右。 非常关注基础通胀。 尽管发生中东冲突，核心通胀的情况并没有太大变化。 关税仍然是通胀故事的重要组成部分。 货币政策目前处于“观望”的有利位置，如有必要可以进行调整。 预计今年GDP增长率为2%至2.5%，失业率保持稳定。",
+          "url": "https://wallstreetcn.com/livenews/3083499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "伊朗方称伊朗拒绝「临时停火」，特朗普威胁伊朗整个文明将消亡，拒绝停火原因是什么？美以伊三方谁最拖不起？",
+          "url": "https://www.zhihu.com/question/2024942392235614830",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "美国总统特朗普：我们派了200人去营救那名空军人员。",
@@ -3294,6 +3647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "美联储威廉姆斯：预计今年GDP增长2%至2.5%，失业率保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260407203548039800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "美国总统特朗普：北约应该感到羞愧。",
@@ -3456,9 +3820,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "美联储威廉姆斯：目前可暂观其变。",
+          "url": "https://flash.jin10.com/detail/20260407203518184800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "上证指数开盘报3884.15点，涨0.10%。 深证成指开盘报13392.94点，涨0.30%。 创业板指开盘报3162.82点，涨0.42%。 沪深300开盘报4445.86点，涨0.11%。 科创50开盘报1261.71点，涨0.44%。 中证500开盘报7562.14点，涨0.36%。 中证1000开盘报7556.28点，涨0.26%。",
@@ -3549,6 +3924,17 @@
           "time_info": "16时59分"
         },
         {
+          "title": "美联储威廉姆斯：必要时可调整货币政策。",
+          "url": "https://flash.jin10.com/detail/20260407203506981800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "美国总统特朗普：我没有丧失MAGA，MAGA喜欢我正在做的事。",
           "url": "https://wallstreetcn.com/livenews/3082883",
           "source": "华尔街见闻-快讯",
@@ -3599,9 +3985,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "人民日报批某地为民办事沦为“数字游戏”：数据好看了，群众满意度却下降了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914970",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "美国总统特朗普：将要求媒体机构提供泄露伊朗救援行动信息者的姓名。",
@@ -3692,6 +4089,17 @@
           "time_info": "16时59分"
         },
         {
+          "title": "央行连续第 17 个月增持黄金，这背后有哪些考量？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2024885012995093637",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "据纽约时报：特朗普设立的和平委员会向哈马斯下达解除武装的最后期限。",
           "url": "https://flash.jin10.com/detail/20260406235724771800",
           "source": "金十数据",
@@ -3753,9 +4161,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "美联储威廉姆斯：货币政策正处于恰当的位置。",
+          "url": "https://flash.jin10.com/detail/20260407203458839800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "美国总统特朗普：英国还有很长的路要走。",
@@ -3901,6 +4320,17 @@
           "time_info": "13时07分"
         },
         {
+          "title": "印尼就谷歌涉嫌违反用户保护规定展开调查。",
+          "url": "https://flash.jin10.com/detail/20260407203455543800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "美国总统特朗普谈及伊朗问题，声称：周二是最后期限。 我已看过所有提议的方案。 伊朗的提议迈出了重要一步，但还不够好。 如果他们（伊朗）做好某些事，战争可能很快就会结束。 那些代表伊朗说话的人现在更加理性。 重申伊朗不能拥有核武器。 如果伊朗不让步，就不会有桥梁和发电站。 美国民众想要我们（在发动战争后）赢，然后（让美军）回国。 我希望美国赢，然后回国。",
           "url": "https://wallstreetcn.com/livenews/3082880",
           "source": "华尔街见闻-快讯",
@@ -4017,7 +4447,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -4094,9 +4524,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "美国副总统万斯重申伊朗的最后期限是美国东部时间周二晚上8点。",
+          "url": "https://wallstreetcn.com/livenews/3083491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "多国央行开始卖黄金了",
@@ -4116,7 +4557,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -4152,6 +4593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "美联储威廉姆斯：关税仍是通胀故事的重要组成部分。",
+          "url": "https://flash.jin10.com/detail/20260407203437054800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "联合健康美股盘后涨11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
@@ -4259,9 +4711,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "美联储威廉姆斯：尽管有战争，但核心通胀的走势并无太大变化。",
+          "url": "https://flash.jin10.com/detail/20260407203421256800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "微软将购买62.6万吨碳移除额度（Carbon Removal Credits），为期十五年。",
@@ -4284,6 +4747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "特朗普威胁伊朗：“整个文明将消亡”",
+          "url": "https://wallstreetcn.com/livenews/3083488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "特朗普又一个最后通牒",
@@ -4361,6 +4835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "美联储威廉姆斯：核心通胀的走势变化不大。",
+          "url": "https://flash.jin10.com/detail/20260407203400787800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "据美国纽约联储数据，上个交易日（4月2日，非农日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
@@ -4462,6 +4947,17 @@
           "time_info": "18时10分"
         },
         {
+          "title": "美联储威廉姆斯：高度关注核心通胀。",
+          "url": "https://flash.jin10.com/detail/20260407203329871800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "澳大利亚3月道明证券通胀指数环比 1.3%，前值 -0.2%。",
           "url": "https://wallstreetcn.com/livenews/3083052",
           "source": "华尔街见闻-快讯",
@@ -4506,6 +5002,17 @@
           "time_info": "13时07分"
         },
         {
+          "title": "美联储威廉姆斯：今年通胀率应约为2.75%。",
+          "url": "https://flash.jin10.com/detail/20260407203259729800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.30%，上一个交易日夜盘收涨0.36%。",
           "url": "https://wallstreetcn.com/livenews/3083051",
           "source": "华尔街见闻-快讯",
@@ -4545,7 +5052,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -4605,6 +5112,17 @@
           "time_info": "16时59分"
         },
         {
+          "title": "美联储威廉姆斯：伊朗战争影响将推高总体通胀。",
+          "url": "https://flash.jin10.com/detail/20260407203236664800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "苹果公司首款折叠屏iPhone在工程测试阶段遭遇挫折，这可能导致其量产计划和产品出货时间表被迫推迟。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3083113",
           "source": "华尔街见闻-快讯",
@@ -4633,9 +5151,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "美股三大股指期货跌幅扩大，纳指期货跌幅扩大至0.85%，标普500指数期货跌0.68%，道指期货跌0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3083482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "外交部回应日本拟修改武器出口原则",
@@ -4680,6 +5209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "智利3月份贸易顺差为30.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20260407203221636800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "特朗普与还在执行阿尔忒弥斯II号任务的宇航员通话，邀请宇航员作客白宫。",
