@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T15:59:27.002537+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-04-13T18:02:46.044744+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 200,
+      "match_count": 232,
       "titles": [
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
@@ -79,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 18时02分]"
         },
         {
           "title": "四国为何抛售黄金",
@@ -116,11 +116,12 @@
           "ranks": [
             6,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 18时02分]"
         },
         {
           "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
@@ -262,15 +263,17 @@
           "time_info": "[00时35分 ~ 05时32分]"
         },
         {
-          "title": "匈牙利 2026 年国会选举欧尔班败选，对欧盟和俄乌局势意味着什么？为何此次选举被视为亲俄与亲欧路线之争？",
-          "url": "https://www.zhihu.com/question/2026762263210582271",
-          "source": "知乎",
+          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
+          "url": "https://www.cls.cn/detail/2341979",
+          "source": "财联社热门",
           "ranks": [
-            2
+            7,
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 15时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 18时02分]"
         },
         {
           "title": "特朗普：我觉得教皇干得不咋地，我猜他喜欢犯罪",
@@ -298,6 +301,17 @@
           "time_info": "[02时42分 ~ 06时31分]"
         },
         {
+          "title": "伊朗战争丨教皇回击特朗普：我并不惧怕",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "日本内阁官房长官木原稔：货币政策细节由日本央行决定。",
           "url": "https://flash.jin10.com/detail/20260413100811356800",
           "source": "金十数据",
@@ -307,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京将与印尼总统会面。",
+          "url": "https://flash.jin10.com/detail/20260413175711132800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "匈牙利大选赢家Magyar要求总统辞职，称匈牙利将是欧盟与北约强大的盟友。",
@@ -340,6 +365,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "停火岌岌可危？特朗普被曝考虑恢复对伊朗有限军事打击",
+          "url": "https://www.cls.cn/detail/2341889",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 18时02分]"
         },
         {
           "title": "伊朗总统：伊朗已做好准备达成平衡且公平的协议",
@@ -395,9 +433,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "日本首相高市早苗：将重点关注稳步降低债务占GDP比重。",
+          "url": "https://wallstreetcn.com/livenews/3086862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "匈牙利2026年国会选举进入计票阶段",
@@ -439,9 +488,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "克里姆林宫：任何助长乌克兰野心的举措都不利于和平。",
+          "url": "https://flash.jin10.com/detail/20260413175626250800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "欧元兑美元报价跌超0.5%，最低跌至1.1658。 欧元兑英镑大致持稳于0.8710，一度跌至0.86882。 欧元兑瑞郎跌0.32%，报0.92238，一度跌至0.92003。",
@@ -475,6 +535,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "西班牙首相试坐小米YU7 雷军陪同",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E8%AF%95%E5%9D%90%E5%B0%8F%E7%B1%B3YU7+%E9%9B%B7%E5%86%9B%E9%99%AA%E5%90%8C",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "凤凰女记者：面对特朗普封锁海峡威胁，伊朗民间不以为然",
+          "url": "https://news.ifeng.com/c/8sI4OzcFPQr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年4月13日",
@@ -516,9 +598,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "匈牙利 2026 年国会选举欧尔班败选，对欧盟和俄乌局势意味着什么？为何此次选举被视为亲俄与亲欧路线之争？",
+          "url": "https://www.zhihu.com/question/2026762263210582271",
+          "source": "知乎",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 18时02分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
@@ -546,15 +640,37 @@
           "time_info": "13时38分"
         },
         {
+          "title": "克里姆林宫：（就特朗普有关封锁伊朗港口的言论）此类行动将对全球市场产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260413175614622800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "西班牙首相桑切斯参观小米科技园",
           "url": "https://wallstreetcn.com/livenews/3086768",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "摩根士丹利：维持布伦特原油的即期价格预测不变——2026年第二季度为110美元/桶，第三季度为100美元/桶，预计2027年将稳定在80美元/桶左右。 我们的假设是，霍尔木兹海峡的原油出口在4月仍然低迷，5月至7月将收复约70%的降幅，直到10月才会回到稳定状态。",
+          "url": "https://wallstreetcn.com/livenews/3086854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "匈牙利总理幕僚长表示，高投票率是青民盟动员的结果。",
@@ -696,6 +812,18 @@
           "time_info": "[01时32分 ~ 07时32分]"
         },
         {
+          "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
+          "url": "https://www.cls.cn/detail/2342019",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 18时02分]"
+        },
+        {
           "title": "德国总理默茨祝贺匈牙利反对派领袖毛焦尔在匈牙利大选中获胜，期待双方合作，共建强大、安全的欧洲。",
           "url": "https://flash.jin10.com/detail/20260413040256212800",
           "source": "金十数据",
@@ -709,6 +837,30 @@
           "time_info": "[04时32分 ~ 06时31分]"
         },
         {
+          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2026779173369246174",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 18时02分]"
+        },
+        {
+          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
+          "url": "https://wallstreetcn.com/articles/3769785",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 18时02分]"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：欧洲的心脏今晚在匈牙利跳动得更加有力。",
           "url": "https://flash.jin10.com/detail/20260413033730798800",
           "source": "金十数据",
@@ -720,18 +872,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时32分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
-          "url": "https://www.cls.cn/detail/2341979",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 15时59分]"
         },
         {
           "title": "英国政府：首相斯塔默与法国总统马克龙通话；首相强调需要达成持久停火；双方领导人一致认为，任何停火都必须涵盖黎巴嫩；霍尔木兹海峡对全球贸易和能源供应具有战略重要意义。",
@@ -858,16 +998,18 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
-          "title": "停火岌岌可危？特朗普被曝考虑恢复对伊朗有限军事打击",
-          "url": "https://www.cls.cn/detail/2341889",
-          "source": "财联社热门",
+          "title": "匈牙利蒂萨党在国会选举中获胜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957214",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            5
+            19,
+            16,
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 18时02分]"
         },
         {
           "title": "美股三大股指期货周一低开超1%。",
@@ -919,17 +1061,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 03时38分]"
-        },
-        {
-          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2026779173369246174",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 15时59分]"
         },
         {
           "title": "美媒：特朗普考虑恢复对伊朗的有限军事打击",
@@ -1007,29 +1138,16 @@
           "time_info": "[02时42分 ~ 04时32分]"
         },
         {
-          "title": "匈牙利蒂萨党在国会选举中获胜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957214",
-          "source": "澎湃新闻",
+          "title": "中方回应“特朗普称将封锁伊朗港口”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 15时59分]"
-        },
-        {
-          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
-          "url": "https://wallstreetcn.com/articles/3769785",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
+            6,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时38分 ~ 15时59分]"
+          "time_info": "[15时59分 ~ 18时02分]"
         },
         {
           "title": "伊朗议会国家安全与外交政策委员会主席：美国总统唐纳德·特朗普关于霍尔木兹海峡的要求（对霍尔木兹海峡进行海上封锁））永远不会实现。 他说的是他的愿望，那是些从未实现过、也永远不会实现的要求。",
@@ -1066,6 +1184,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
+          "url": "https://wallstreetcn.com/articles/3769786",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 18时02分]"
         },
         {
           "title": "市场消息：匈牙利大选选民投票率在投票结束前两小时创下历史新高。",
@@ -1152,6 +1282,28 @@
           "time_info": "[05时32分 ~ 06时31分]"
         },
         {
+          "title": "中方回应特朗普威胁加征关税",
+          "url": "https://www.toutiao.com/trending/7628143442782064147/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 18时02分]"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫将访华",
+          "url": "https://www.douyin.com/hot/2464797",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 18时02分]"
+        },
+        {
           "title": "特朗普：美国海军将开始阻止任何船只进出霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32956224",
           "source": "澎湃新闻",
@@ -1176,6 +1328,18 @@
           "time_info": "[00时35分 ~ 01时32分]"
         },
         {
+          "title": "中方回应特朗普重申将封锁伊朗港口",
+          "url": "https://www.toutiao.com/trending/7628108023306718761/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 18时02分]"
+        },
+        {
           "title": "伊朗总统：伊朗已做好准备达成平衡且公平的协议",
           "url": "https://flash.jin10.com/detail/20260412232435757800",
           "source": "金十数据",
@@ -1198,6 +1362,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时32分]"
+        },
+        {
+          "title": "A股主要指数集体上涨",
+          "url": "https://www.toutiao.com/trending/7627217081632735259/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 18时02分]"
         },
         {
           "title": "匈牙利2026年国会选举预计将进入计票阶段",
@@ -1248,26 +1424,26 @@
           "time_info": "[00时35分 ~ 01时32分]"
         },
         {
-          "title": "中方回应“特朗普称将封锁伊朗港口”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E2%80%9D",
-          "source": "百度热搜",
+          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "18时02分"
         },
         {
-          "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
-          "url": "https://www.cls.cn/detail/2342019",
-          "source": "财联社热门",
+          "title": "特朗普重申将封锁进出伊朗港口船只，中方回应",
+          "url": "https://news.ifeng.com/c/8sI7b9TiMxd",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "18时02分"
         },
         {
           "title": "本周重要事件与数据预告：中国贸易帐与一季度GDP；周三美联储官员密集发言",
@@ -1292,6 +1468,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
+          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "特朗普再发文：将于13日10时封锁进出伊朗港口船只",
           "url": "https://flash.jin10.com/detail/20260413125835930800",
           "source": "金十数据",
@@ -1303,15 +1490,37 @@
           "time_info": "13时38分"
         },
         {
+          "title": "克里姆林宫：我们对与匈牙利以及欧洲其他各国保持良好关系感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260413175558989800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美国“封锁”逼近，布油破百，黄金重挫，铝价四年新高，美股期货下跌",
           "url": "https://wallstreetcn.com/articles/3769784",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "霍尔木兹海峡“锁上加锁”！亚洲直面冲击：离经济危机还有多远？",
+          "url": "https://www.cls.cn/detail/2342091",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "金十图示：2026年04月13日（周一）黄金ETF持仓报告",
@@ -1323,6 +1532,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "克里姆林宫就特朗普拟封锁伊朗港口的举措表示：诸多细节尚不明确。",
+          "url": "https://flash.jin10.com/detail/20260413175544974800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
+          "url": "https://www.cls.cn/detail/2342208",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "匈牙利蒂萨党赢得大选，外交部：愿同匈新政府加强高层交往",
+          "url": "https://news.ifeng.com/c/8sI8XzNuvBp",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "欧洲天然气期货一度飙升18% 供需恐慌再起",
@@ -1353,9 +1595,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯关于从伊朗接收浓缩铀的提议仍有效，但目前并未提出这一要求。",
+          "url": "https://flash.jin10.com/detail/20260413175532314800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "国开行发行3年期债券，规模50亿元，发行利率1.4890%，预期1.4800%，投标倍数3.12倍，边际倍数1.38倍。",
@@ -1364,7 +1617,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1375,18 +1628,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
-          "url": "https://wallstreetcn.com/articles/3769786",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1424,15 +1666,15 @@
           "time_info": "13时38分"
         },
         {
-          "title": "中方回应特朗普威胁加征关税",
-          "url": "https://www.toutiao.com/trending/7628143442782064147/",
-          "source": "今日头条",
+          "title": "美伊谈判无果而终：油价重返100美元上方 亚太股市普遍走低",
+          "url": "https://www.cls.cn/detail/2341832",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "18时02分"
         },
         {
           "title": "瑞联银行重新购入黄金，押注年底金价达6000美元",
@@ -1446,26 +1688,37 @@
           "time_info": "13时38分"
         },
         {
+          "title": "行业消息来源和路透社的测算显示，俄罗斯3月份海运石油产品出口量较2月份增长0.9%。",
+          "url": "https://flash.jin10.com/detail/20260413175338946800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
           "url": "https://wallstreetcn.com/livenews/3086760",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
         {
-          "title": "俄罗斯外长拉夫罗夫将访华",
-          "url": "https://www.douyin.com/hot/2464797",
-          "source": "抖音",
+          "title": "欧洲最大的养老金投资者APG将把私募市场的配置比例提高到略高于30%。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3086843",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "18时02分"
         },
         {
           "title": "黄金、美债双双大跌！中东局势恐慌下市场再现“避险资产不避险”",
@@ -1474,9 +1727,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
+          "url": "https://www.cls.cn/detail/2342207",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "特朗普放狠话全面封锁霍尔木兹，美军却说只堵伊朗港口，油价暴拉10%",
@@ -1496,7 +1760,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1518,7 +1782,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1532,6 +1796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "特朗普：将封锁伊朗",
+          "url": "https://www.douyin.com/hot/2464515",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "A股开盘 三大指数集体低开",
@@ -1578,6 +1853,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "恐慌指数VIX上涨2.01点，报21.24。",
+          "url": "https://flash.jin10.com/detail/20260413175238215800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "匈牙利蒂萨党在国会选举中获胜",
           "url": "https://wallstreetcn.com/livenews/3086505",
           "source": "华尔街见闻-快讯",
@@ -1606,7 +1892,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1617,7 +1903,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1639,7 +1925,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1727,7 +2013,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1760,7 +2046,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1774,6 +2060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "欧尔班败选，蒂萨党「彼得·毛焦尔」获胜，匈牙利的变局是否会改变北约、欧盟、美俄欧的政治经济关系？",
+          "url": "https://www.zhihu.com/question/2026925849107002118",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "据伊朗国家媒体：伊朗总统与俄罗斯总统通话表示，伊朗已做好准备，达成一项确保稳定和平与安全的“平衡且公正”协议。",
@@ -1804,9 +2101,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "乌克兰军方：自停火以来，乌克兰武装部队总参谋部记录到俄罗斯武装部队的违规行为达10,700起。",
+          "url": "https://flash.jin10.com/detail/20260413175001293800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "外交部：俄罗斯外长拉夫罗夫将于4月14日至15日访华",
@@ -1815,18 +2123,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "中方回应特朗普重申将封锁伊朗港口",
-          "url": "https://www.toutiao.com/trending/7628108023306718761/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1851,6 +2148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "农业农村部：推广应用智慧农机、无人机等智能技术装备 发展农业低空经济",
+          "url": "https://wallstreetcn.com/livenews/3086824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "金十数据整理：周日重要消息汇总",
@@ -1892,7 +2200,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1958,7 +2266,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1996,6 +2304,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "印尼国家矿业控股公司：2026年黄金产量目标为31.7吨，同比增长6%。",
+          "url": "https://flash.jin10.com/detail/20260413174748614800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "匈牙利选民投票率至当地时间15:00达到66%，2022年同期为52.7%。",
           "url": "https://wallstreetcn.com/livenews/3086435",
           "source": "华尔街见闻-快讯",
@@ -2018,6 +2337,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "法国总统马克龙：法国和英国将在未来几天组织关于霍尔木兹海峡的会议。",
+          "url": "https://wallstreetcn.com/livenews/3086820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "特朗普：北约有意愿帮助我们维护海峡安全、海湾盟友已展开协助",
           "url": "https://flash.jin10.com/detail/20260412223824578800",
           "source": "金十数据",
@@ -2038,6 +2368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "LESG数据显示，北海福蒂斯原油价格涨至每桶148.87美元的历史新高，原因是美国拟封锁霍尔木兹海峡的计划加剧了供应担忧。",
+          "url": "https://flash.jin10.com/detail/20260413174729355800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "特朗普：不在乎伊朗是否重返谈判桌",
@@ -2101,7 +2442,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -2150,15 +2491,15 @@
           "time_info": "10时25分"
         },
         {
-          "title": "A股主要指数集体上涨",
-          "url": "https://www.toutiao.com/trending/7627217081632735259/",
-          "source": "今日头条",
+          "title": "欧洲多国罕见对美国说“不”",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E7%BD%95%E8%A7%81%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%AF%B4%E2%80%9C%E4%B8%8D%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "18时02分"
         },
         {
           "title": "美国总统特朗普：战争爆发之后，股市实际上没跌多少。",
@@ -2189,7 +2530,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -2225,6 +2566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "英国金融时报：在毛焦尔·彼得在匈牙利大选中获胜后，欧盟委员会已开始与其“即刻接触”，敦促他修复与乌克兰的关系，并启动长期以来一直要求的改革，以解冻350亿欧元的欧盟冻结资金。",
+          "url": "https://flash.jin10.com/detail/20260413174546609800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "特朗普：美伊谈判除核问题外进展顺利",
@@ -2315,6 +2667,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "日本首相高市早苗：将专注于稳定降低债务与GDP比率。",
+          "url": "https://flash.jin10.com/detail/20260413174420402800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美澳为稀土项目提供6亿美元融资支持",
           "url": "https://wallstreetcn.com/livenews/3086437",
           "source": "华尔街见闻-快讯",
@@ -2343,7 +2706,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
