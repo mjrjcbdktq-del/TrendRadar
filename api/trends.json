@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T13:25:15.649937+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-04-21T15:45:15.592124+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 285,
+      "match_count": 317,
       "titles": [
         {
           "title": "日本地震震级修正为7.5级，观测到浪高70厘米海啸",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 13时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 15时45分]"
         },
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 13时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 15时45分]"
         },
         {
           "title": "体验经济全面升温",
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 13时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 15时45分]"
         },
         {
           "title": "日本地震震级修正为7.7级",
@@ -81,6 +81,17 @@
           "time_info": "[00时06分 ~ 07时40分]"
         },
         {
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时40分 ~ 15时45分]"
+        },
+        {
           "title": "日本7.7级地震",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -103,20 +114,6 @@
           "time_info": "[00时06分 ~ 07时40分]"
         },
         {
-          "title": "日本火锅肉薄如纸,1盘不够塞牙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353492&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%AB%E9%94%85%E8%82%89%E8%96%84%E5%A6%82%E7%BA%B8%2C1%E7%9B%98%E4%B8%8D%E5%A4%9F%E5%A1%9E%E7%89%99",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 13时25分]"
-        },
-        {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
           "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
           "source": "凤凰网",
@@ -137,11 +134,27 @@
             4,
             1,
             2,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 10时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 15时45分]"
+        },
+        {
+          "title": "日本火锅肉薄如纸,1盘不够塞牙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353492&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%AB%E9%94%85%E8%82%89%E8%96%84%E5%A6%82%E7%BA%B8%2C1%E7%9B%98%E4%B8%8D%E5%A4%9F%E5%A1%9E%E7%89%99",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            7,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 15时45分]"
         },
         {
           "title": "日本东北部沿海地区发生 7.7 级地震，已发布海啸警报，目前情况怎么样？",
@@ -169,8 +182,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 13时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 15时45分]"
         },
         {
           "title": "日本地震震级修正为7.7级",
@@ -184,17 +197,6 @@
           "time_info": "[00时06分 ~ 05时43分]"
         },
         {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时40分 ~ 13时25分]"
-        },
-        {
           "title": "海啸预警,日本7.4级地震",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353495&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC7.4%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "贴吧",
@@ -202,11 +204,12 @@
             10,
             12,
             13,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 13时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 15时45分]"
         },
         {
           "title": "媒体评日本军舰穿越台湾海峡",
@@ -220,8 +223,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 13时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 15时45分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -235,6 +238,28 @@
           "time_info": "[00时06分 ~ 05时43分]"
         },
         {
+          "title": "特纳斯将接替库克担任苹果CEO",
+          "url": "https://www.douyin.com/hot/2473318",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时45分]"
+        },
+        {
+          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
+          "url": "https://www.cls.cn/detail/2350106",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时45分]"
+        },
+        {
           "title": "伊朗：将确保俄罗斯船只无障碍通过霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8sUM1xW13KV",
           "source": "凤凰网",
@@ -246,6 +271,40 @@
           "time_info": "[04时04分 ~ 10时13分]"
         },
         {
+          "title": "美以伊冲突把500亿美元石油打没了",
+          "url": "https://news.ifeng.com/c/8sV2aVLnsaO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
+          "title": "日本陆自一训练场弹药爆炸已致3死",
+          "url": "https://www.toutiao.com/trending/7631027504796663834/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
+          "title": "春耕“黄金窗口期”已开启",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%80%95%E2%80%9C%E9%BB%84%E9%87%91%E7%AA%97%E5%8F%A3%E6%9C%9F%E2%80%9D%E5%B7%B2%E5%BC%80%E5%90%AF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
           "title": "硬核数据看中国经济动力澎湃",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8A%A8%E5%8A%9B%E6%BE%8E%E6%B9%83%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -255,6 +314,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时43分 ~ 10时13分]"
+        },
+        {
+          "title": "特朗普撇清：以色列可说不动我",
+          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时45分]"
         },
         {
           "title": "日本强震等级调至 7.7 级，当局呼吁民众尽快逃离，震中附近有多个核电站，可能对当地造成哪些影响？",
@@ -366,28 +450,6 @@
           "time_info": "[00时06分 ~ 10时13分]"
         },
         {
-          "title": "特纳斯将接替库克担任苹果CEO",
-          "url": "https://www.douyin.com/hot/2473318",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时25分]"
-        },
-        {
-          "title": "库克宣布将于 9 月卸任苹果 CEO，由特努斯接任，哪些信息值得关注？苹果的未来会如何发展？",
-          "url": "https://www.zhihu.com/question/2029792979703874483",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时25分]"
-        },
-        {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
           "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
           "source": "凤凰网",
@@ -415,48 +477,51 @@
           "time_info": "[00时06分 ~ 06时40分]"
         },
         {
-          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
-          "url": "https://www.cls.cn/detail/2350106",
-          "source": "财联社热门",
+          "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
+          "url": "https://wallstreetcn.com/articles/3770444",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时45分]"
         },
         {
-          "title": "日本陆自一训练场弹药爆炸已致3死",
-          "url": "https://www.toutiao.com/trending/7631027504796663834/",
-          "source": "今日头条",
+          "title": "库克宣布将于 9 月卸任苹果 CEO，由特努斯接任，哪些信息值得关注？苹果的未来会如何发展？",
+          "url": "https://www.zhihu.com/question/2029792979703874483",
+          "source": "知乎",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时45分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时45分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普亲信坦言：79岁的他正在失控",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "日本7.7级地震 女主播一秒“变脸”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%A5%B3%E4%B8%BB%E6%92%AD%E4%B8%80%E7%A7%92%E2%80%9C%E5%8F%98%E8%84%B8%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "超级地震或致日本国家崩塌",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%88%96%E8%87%B4%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E5%B4%A9%E5%A1%8C%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[15时44分 ~ 15时45分]"
         },
         {
           "title": "2名中国台湾游客在日本坠机身亡",
@@ -491,15 +556,53 @@
           "time_info": "[00时06分 ~ 07时40分]"
         },
         {
-          "title": "美以伊冲突把500亿美元石油打没了",
-          "url": "https://news.ifeng.com/c/8sV2aVLnsaO",
-          "source": "凤凰网",
+          "title": "韩国电影哭声重构式解读",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%93%AD%E5%A3%B0%E9%87%8D%E6%9E%84%E5%BC%8F%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            21,
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 15时45分]"
+        },
+        {
+          "title": "超级地震或致日本国家崩塌",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%88%96%E8%87%B4%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E5%B4%A9%E5%A1%8C%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
+          "title": "日本女主播遇7.7级地震一秒变脸",
+          "url": "https://www.toutiao.com/trending/7630863108064542774/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[15时44分 ~ 15时45分]"
+        },
+        {
+          "title": "日本7.7级地震 女主播一秒“变脸”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%A5%B3%E4%B8%BB%E6%92%AD%E4%B8%80%E7%A7%92%E2%80%9C%E5%8F%98%E8%84%B8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
         },
         {
           "title": "【数据看盘】科创50ETF上周份额大减 多家机构激烈博弈立讯精密",
@@ -513,37 +616,53 @@
           "time_info": "[00时06分 ~ 06时40分]"
         },
         {
-          "title": "春耕“黄金窗口期”已开启",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%80%95%E2%80%9C%E9%BB%84%E9%87%91%E7%AA%97%E5%8F%A3%E6%9C%9F%E2%80%9D%E5%B7%B2%E5%BC%80%E5%90%AF",
+          "title": "超级地震或致日本国家崩溃",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%88%96%E8%87%B4%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E5%B4%A9%E6%BA%83",
           "source": "百度热搜",
           "ranks": [
-            3
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
+          "title": "西班牙提案、意大利变脸、百万民众联署：欧洲对以色列态度加速转向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33012224",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时45分]"
+        },
+        {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
         },
         {
           "title": "价值500亿美元的石油没了",
           "url": "https://www.baidu.com/s?wd=%E4%BB%B7%E5%80%BC500%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E7%9F%B3%E6%B2%B9%E6%B2%A1%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普撇清：以色列可说不动我",
-          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
         },
         {
           "title": "日本正式允许出口杀伤性武器",
@@ -579,15 +698,15 @@
           "time_info": "07时40分"
         },
         {
-          "title": "苹果官宣新CEO",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3%E6%96%B0CEO",
-          "source": "bilibili 热搜",
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-04-21）",
+          "url": "https://flash.jin10.com/detail/20260421153301673800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "15时45分"
         },
         {
           "title": "据Politico：沃什表示，美联储的利率自主权至关重要，但必须通过努力获得。",
@@ -645,6 +764,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "黄金高位追多意愿渐弱，但深度下跌也暂难实现",
+          "url": "https://flash.jin10.com/detail/20260421152849363800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "伊朗总统：伊朗对美国政府行为的深度历史性不信任依然存在。 履行承诺是进行有意义对话的基础。 美国官员发出的建设性缺失且自相矛盾的信号正传递着一个令人心寒的信息。",
           "url": "https://wallstreetcn.com/livenews/3091250",
           "source": "华尔街见闻-快讯",
@@ -678,24 +808,23 @@
           "time_info": "04时04分"
         },
         {
+          "title": "日本正式允许出口杀伤性武器，外交部：严重关切，高度警惕",
+          "url": "https://wallstreetcn.com/livenews/3091633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "苹果新任CEO特努斯是谁",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF%E6%98%AF%E8%B0%81%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
             2,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -748,6 +877,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "美国关税退款最大受益者 沃尔玛或获超100亿美元关税退款",
+          "url": "https://flash.jin10.com/detail/20260421152624785800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3091249",
           "source": "华尔街见闻-快讯",
@@ -765,9 +905,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "苹果官宣新CEO",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3%E6%96%B0CEO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 15时45分]"
         },
         {
           "title": "乌克兰进入破产倒计时",
@@ -796,16 +948,15 @@
           "time_info": "[06时40分 ~ 13时25分]"
         },
         {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
+          "title": "沃什提名听证会讲稿曝光，承诺货币政策严格独立，称美联储独立性主要取决于自身（附全文）",
+          "url": "https://wallstreetcn.com/articles/3770430",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时45分]"
         },
         {
           "title": "苹果宣布特纳斯将接替库克担任CEO",
@@ -852,6 +1003,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "据The Information：马斯克去年大规模增持了SpaceX的股份，耗资14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260421152559999800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "乌克兰预计Druzhba（友谊）输油管道将于周二恢复（对匈牙利的供应），从而为欧盟提供贷款扫清障碍。",
           "url": "https://wallstreetcn.com/livenews/3091273",
           "source": "华尔街见闻-快讯",
@@ -895,20 +1057,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时01分 ~ 07时40分]"
-        },
-        {
-          "title": "韩国电影哭声重构式解读",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%93%AD%E5%A3%B0%E9%87%8D%E6%9E%84%E5%BC%8F%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            21,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 13时25分]"
         },
         {
           "title": "日本未来一周可能发生同等规模地震",
@@ -1007,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 04时04分]"
+        },
+        {
+          "title": "日本通过内阁决议正式允许出口杀伤性武器，这意味着什么？会给东北亚地区带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2029848664269419073",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
         },
         {
           "title": "厄瓜多尔总统：新能源部长将于4月30日接任。",
@@ -1117,6 +1276,19 @@
           "time_info": "[05时43分 ~ 06时40分]"
         },
         {
+          "title": "民调：特朗普支持率创第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7630352961877655571/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
           "title": "伊朗最高领袖重申三项基本立场 苹果任命John Ternus为首席执行官 | 环球市场",
           "url": "https://www.cls.cn/detail/2350058",
           "source": "财联社热门",
@@ -1128,6 +1300,65 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时40分 ~ 13时25分]"
+        },
+        {
+          "title": "苹果宣布特努斯将接替库克担任CEO，9月1日起生效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33014702",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
+          "title": "换帅!苹果高管迎来大洗牌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353506&amp;topic_name=%E6%8D%A2%E5%B8%85%21%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%B4%97%E7%89%8C",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://wallstreetcn.com/articles/3770431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
+          "title": "“库克时代”临近落幕！库克将卸任苹果CEO，硬件工程负责人接任",
+          "url": "https://www.cls.cn/detail/2350131",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
+        },
+        {
+          "title": "日本通过内阁决议正式允许出口杀伤性武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33016180",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时45分]"
         },
         {
           "title": "日本正式允许出口杀伤性武器",
@@ -1142,46 +1373,12 @@
           "time_info": "[10时13分 ~ 13时25分]"
         },
         {
-          "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
-          "url": "https://wallstreetcn.com/articles/3770444",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时25分]"
-        },
-        {
           "title": "IEM里约数据雷达图",
           "url": "https://search.bilibili.com/all?keyword=IEM%E9%87%8C%E7%BA%A6%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
           "source": "bilibili 热搜",
           "ranks": [
             10,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时25分]"
-        },
-        {
-          "title": "沃什提名听证会讲稿曝光，承诺货币政策严格独立，称美联储独立性主要取决于自身（附全文）",
-          "url": "https://wallstreetcn.com/articles/3770430",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时25分]"
-        },
-        {
-          "title": "西班牙提案、意大利变脸、百万民众联署：欧洲对以色列态度加速转向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33012224",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1247,37 +1444,15 @@
           "time_info": "[05时43分 ~ 06时40分]"
         },
         {
-          "title": "民调：特朗普支持率创第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7630352961877655571/",
-          "source": "今日头条",
+          "title": "韩国人锐评CORTIS新歌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%94%90%E8%AF%84CORTIS%E6%96%B0%E6%AD%8C",
+          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "日本通过内阁决议正式允许出口杀伤性武器，这意味着什么？会给东北亚地区带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2029848664269419073",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[15时44分 ~ 15时45分]"
         },
         {
           "title": "据华尔街日报：美国参议院民主党人重点关注沃什可能持有银行股等投资资产。",
@@ -1364,26 +1539,15 @@
           "time_info": "[03时01分 ~ 04时04分]"
         },
         {
-          "title": "超级地震或致日本国家崩溃",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%88%96%E8%87%B4%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E5%B4%A9%E6%BA%83",
-          "source": "百度热搜",
+          "title": "日本女主播遇7.7级地震一秒变脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E4%B8%BB%E6%92%AD%E9%81%877.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%80%E7%A7%92%E5%8F%98%E8%84%B8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "换帅!苹果高管迎来大洗牌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353506&amp;topic_name=%E6%8D%A2%E5%B8%85%21%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%B4%97%E7%89%8C",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[15时44分 ~ 15时45分]"
         },
         {
           "title": "格里尔会见墨西哥总统，双方团队为美墨加协定审查做准备",
@@ -1396,17 +1560,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时40分]"
-        },
-        {
-          "title": "日本突发7.4级地震，影响多家半导体公司",
-          "url": "https://wallstreetcn.com/articles/3770431",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "苹果(AAPL.O)：此次交接是在经过深思熟虑的长期继任规划流程后进行的，并已获得董事会一致批准。",
@@ -1468,6 +1621,17 @@
           "time_info": "[13时24分 ~ 13时25分]"
         },
         {
+          "title": "高市“拜鬼”，韩国政府表态",
+          "url": "https://news.ifeng.com/c/8sVHKfcKMq6",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 15时45分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)：Anthropic将在AWS技术上投资超过1000亿美元。",
           "url": "https://flash.jin10.com/detail/20260421044043115800",
           "source": "金十数据",
@@ -1516,6 +1680,17 @@
           "time_info": "[05时43分 ~ 06时40分]"
         },
         {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 15时45分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)：Anthropic的Claude平台现已在AWS上线。",
           "url": "https://flash.jin10.com/detail/20260421043955367800",
           "source": "金十数据",
@@ -1538,28 +1713,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时40分]"
-        },
-        {
-          "title": "苹果宣布特努斯将接替库克担任CEO，9月1日起生效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33014702",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "“库克时代”临近落幕！库克将卸任苹果CEO，硬件工程负责人接任",
-          "url": "https://www.cls.cn/detail/2350131",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
@@ -1610,17 +1763,6 @@
           "time_info": "[05时43分 ~ 06时40分]"
         },
         {
-          "title": "日本通过内阁决议正式允许出口杀伤性武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33016180",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
           "title": "报道：乌克兰预计友谊管道将于周二恢复原油输送，为贷款铺平道路",
           "url": "https://wallstreetcn.com/livenews/3091273",
           "source": "华尔街见闻-快讯",
@@ -1631,6 +1773,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 04时04分]"
+        },
+        {
+          "title": "日本正式允许出口杀伤性武器",
+          "url": "https://www.douyin.com/hot/2473425",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 15时45分]"
+        },
+        {
+          "title": "日本自卫队训练场爆炸事故致3死1重伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33017051",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 15时45分]"
         },
         {
           "title": "中国航司大面积取消日本航班",
@@ -1673,9 +1837,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "托克集团经济学家拉希姆：受地缘冲突影响，石油市场已损失10亿桶供应。",
+          "url": "https://flash.jin10.com/detail/20260421152424337800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "特朗普称美方从伊朗被炸核设施挖取浓缩铀“漫长且艰难”",
@@ -1684,7 +1859,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1722,13 +1897,24 @@
           "time_info": "07时40分"
         },
         {
+          "title": "据日经新闻：日本央行将在四月维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260421152243375800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "报道：波兰财长否决卖黄金筹军费计划",
           "url": "https://wallstreetcn.com/livenews/3091533",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1772,7 +1958,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1816,7 +2002,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1860,7 +2046,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1885,6 +2071,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "马斯克去年购买了14亿美元的SpaceX股票。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3091625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "俄罗斯外交部：俄罗斯外长拉夫罗夫与伊朗外长通电话。",
@@ -1931,6 +2128,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "日本央行将在4月维持利率不变，暂缓加息。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3091624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "据Politico：美联储主席提名人沃什将坚定承诺在利率问题上保持严格独立。",
           "url": "https://flash.jin10.com/detail/20260420234352694800",
           "source": "金十数据",
@@ -1948,7 +2156,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1992,7 +2200,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2129,6 +2337,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "金十图示：2026年04月21日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260421151517607800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "报道：美国副总统万斯尚未启程前往巴基斯坦参加伊朗核问题谈判",
           "url": "https://wallstreetcn.com/livenews/3091240",
           "source": "华尔街见闻-快讯",
@@ -2168,9 +2387,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "美媒：特朗普不打算延长美伊停火期限",
+          "url": "https://wallstreetcn.com/livenews/3091620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "库克将卸任苹果CEO 特努斯接任",
@@ -2256,7 +2486,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2283,6 +2513,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-04-21）",
+          "url": "https://flash.jin10.com/detail/20260421151409335800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "特朗普：如未能达成协议“几无可能”再延长停火",
           "url": "https://wallstreetcn.com/livenews/3091238",
           "source": "华尔街见闻-快讯",
@@ -2292,6 +2533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "SpaceX总裁Shotwell去年收入8,500万美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3091618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗对美国政府行为的深刻历史性不信任依然存在，而美国官员发出的消极且自相矛盾的信号传递出一个令人不快的信息：他们企图迫使伊朗屈服。伊朗人不会向武力低头。",
@@ -2327,6 +2579,17 @@
           "time_info": "06时40分"
         },
         {
+          "title": "避险买盘或已转向！国际现货黄金叙事正处关键节点 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260421151329408800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "WTI 5月原油期货收涨5.76美元，涨幅6.87%，报89.61美元/桶。 布伦特6月原油期货收涨5.10美元，涨幅5.64%，报95.48美元/桶。 中东Abu Dhabi Murban原油期货跌0.13%，报91.58美元/桶，北京时间16:28曾达到94.41美元。 NYMEX 5月天然气期货收报2.6890美元/百万英热单位。 NYMEX 5月汽油期货收报3.1168美元/加仑，NYMEX 5月取暖油期货收报3.5409美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3091290",
           "source": "华尔街见闻-快讯",
@@ -2344,9 +2607,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "日本地震冲击半导体链",
+          "url": "https://www.toutiao.com/trending/7631028694100656169/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "报告显示未来十年重建加沙需714亿美元",
@@ -2377,9 +2651,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "金十图示：2026年04月21日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260421151253169800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "Anthropic与亚马逊扩大战略合作",
@@ -2410,9 +2695,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "农发行发行2年期债券，规模20亿元，发行利率1.4065%，预期1.4300%，投标倍数7.70倍，边际倍数1.47倍； 农发行发行2年期债券，规模30亿元，发行利率1.4470%，预期1.4800%，投标倍数6.20倍，边际倍数1.63倍； 农发行发行7年期债券，规模20亿元，发行利率1.6374%，预期1.6800%，投标倍数5.48倍，边际倍数1.07倍。",
+          "url": "https://wallstreetcn.com/livenews/3091615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "3.6万人聚集日本国会周围，强烈抗议高市修宪企图",
@@ -2465,7 +2761,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2479,6 +2775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "惠誉：能源担忧和AI数据中心布局推动储能需求 头部电芯厂商将受益",
+          "url": "https://wallstreetcn.com/livenews/3091614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "日本曾给灾民送千纸鹤",
@@ -2553,7 +2860,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2633,6 +2940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "金十图示：2026年04月21日（周二）富时中国A50指数成分股今日收盘行情一览：半导体板块全天走低，工业金属板块午后维持分化走势",
+          "url": "https://flash.jin10.com/detail/20260421151111170800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "Rystad Energy认为，在石油价格处于100美元/桶附近的情况下，南美洲将能够在2035年这段时期内额外释放石油210万桶/日。",
@@ -2723,6 +3041,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "上证指数收报4085.08点，涨0.07%。 深证成指收报14982.14点，涨0.10%。 创业板指收报3688.94点，涨0.31%。 沪深300收报4768.00点，涨0.22%。 科创50收报1426.68点，跌1.64%。 中证500收报8270.33点，跌0.24%。 中证1000收报8351.16点，跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3091610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "印度拟对苹果罚款380亿美元",
           "url": "https://www.toutiao.com/trending/7630773760219611142/",
           "source": "今日头条",
@@ -2767,6 +3096,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "WTI原油短线上扬近1美元，报89.52美元/桶；布伦特原油短线上涨约0.7美元，报91.27美元/桶。消息面上，有报道称美国代表团已抵达巴基斯坦首都伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260421151100413800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "北美科技软件股指数ETF涨1.43%，报86.30美元。 纳斯达克网络安全ETF涨0.86%，ETFMG网络安全ETF涨0.55%。",
           "url": "https://wallstreetcn.com/livenews/3091323",
           "source": "华尔街见闻-快讯",
@@ -2795,9 +3135,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "欧洲斯托克50指数开盘涨0.2%，德国DAX指数涨0.1%，英国富时100指数涨0.1%，法国CAC 40指数跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3091608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "苹果(AAPL.O)：约翰·斯鲁吉被任命为苹果首席硬件官。",
@@ -2817,7 +3168,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2861,7 +3212,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2949,7 +3300,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2993,7 +3344,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -3130,6 +3481,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "摩根大通力争今年获批在华推出主动型ETF",
+          "url": "https://flash.jin10.com/detail/20260421150540193800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "巴克莱：布伦特原油价格2026年年底时85美元/桶的预期存在上行风险。",
           "url": "https://wallstreetcn.com/livenews/3091224",
           "source": "华尔街见闻-快讯",
@@ -3196,6 +3558,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "日经225指数收涨0.9%，报59349.17点。 日本东证指数收跌0.2%，报3770.78点。 韩国首尔综指收涨2.7%，报6388.47点。",
+          "url": "https://wallstreetcn.com/livenews/3091596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "美国至4月20日3个月国债竞拍-得标利率配置百分比 36.38%，前值59.43%。",
           "url": "https://flash.jin10.com/detail/20260420233204103800",
           "source": "金十数据",
@@ -3224,7 +3597,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -3268,7 +3641,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
