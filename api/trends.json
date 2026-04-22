@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T17:18:11.546806+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-04-22T19:03:08.366393+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 346,
+      "match_count": 371,
       "titles": [
         {
           "title": "中国外交部、韩国外交部同日表态",
@@ -99,17 +99,30 @@
           "time_info": "[00时57分 ~ 07时33分]"
         },
         {
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 19时03分]"
+        },
+        {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
           "url": "https://wallstreetcn.com/articles/3770525",
           "source": "华尔街见闻",
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时59分 ~ 17时18分]"
+          "appearance_count": 15,
+          "time_info": "[01时59分 ~ 19时03分]"
         },
         {
           "title": "降息潮下跳涨35个基点！有民营银行为吸储定存利率大幅“加息”，与大额存单利率倒挂",
@@ -123,6 +136,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 19时03分]"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
@@ -151,17 +177,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时57分 ~ 10时11分]"
-        },
-        {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 17时18分]"
         },
         {
           "title": "特朗普称美伊停火到期将继续轰炸",
@@ -230,6 +245,19 @@
           "time_info": "[00时57分 ~ 07时33分]"
         },
         {
+          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
+          "url": "https://wallstreetcn.com/articles/3770519",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[03时21分 ~ 19时03分]"
+        },
+        {
           "title": "日本10式坦克炸膛事故细节公布",
           "url": "https://www.douyin.com/hot/2474315",
           "source": "抖音",
@@ -281,6 +309,17 @@
           "time_info": "[00时57分 ~ 10时11分]"
         },
         {
+          "title": "外交部：不存在所谓“中华民国总统”",
+          "url": "https://www.toutiao.com/trending/7631414881124597770/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 19时03分]"
+        },
+        {
           "title": "伊朗停火谈判生变，美股收跌，油价飙升，金银下挫",
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
@@ -303,18 +342,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时57分 ~ 10时11分]"
-        },
-        {
-          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
-          "url": "https://wallstreetcn.com/articles/3770519",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时21分 ~ 17时18分]"
         },
         {
           "title": "日本自卫队训练场爆炸事故致3死1重伤",
@@ -381,11 +408,12 @@
             12,
             14,
             15,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 17时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 19时03分]"
         },
         {
           "title": "日学者：超级地震或致日本国家崩溃",
@@ -510,16 +538,31 @@
           "time_info": "[00时57分 ~ 06时36分]"
         },
         {
-          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/articles/3770539",
-          "source": "华尔街见闻",
+          "title": "日本自卫队训练时发生爆炸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
+            29,
+            28,
+            30,
+            27,
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 19时03分]"
+        },
+        {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 17时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时03分]"
         },
         {
           "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
@@ -532,6 +575,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时33分 ~ 15时28分]"
+        },
+        {
+          "title": "媒体：日本一日之内犯下两大恶行",
+          "url": "https://www.toutiao.com/trending/7631114562909552691/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 19时03分]"
         },
         {
           "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
@@ -548,15 +605,17 @@
           "time_info": "[06时35分 ~ 15时28分]"
         },
         {
-          "title": "外交部：不存在所谓“中华民国总统”",
-          "url": "https://www.toutiao.com/trending/7631414881124597770/",
-          "source": "今日头条",
+          "title": "黄金量价齐升，紫金矿业Q1营收逼近千亿关口，归母净利润翻番 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770515",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 19时03分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -595,43 +654,18 @@
           "time_info": "[01时59分 ~ 07时33分]"
         },
         {
-          "title": "媒体：日本一日之内犯下两大恶行",
-          "url": "https://www.toutiao.com/trending/7631114562909552691/",
-          "source": "今日头条",
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 17时18分]"
-        },
-        {
-          "title": "以为库克真加入小米汽车了",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E5%BA%93%E5%85%8B%E7%9C%9F%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
-        },
-        {
-          "title": "日本自卫队训练时发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            28,
-            30,
-            27,
-            24
+            20,
+            14,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时57分 ~ 17时18分]"
+          "time_info": "[10时11分 ~ 19时03分]"
         },
         {
           "title": "伊朗：特朗普延长停火毫无意义",
@@ -645,15 +679,15 @@
           "time_info": "[13时23分 ~ 15时28分]"
         },
         {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
+          "title": "日本人称手机设置为中文感觉很清爽",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A7%B0%E6%89%8B%E6%9C%BA%E8%AE%BE%E7%BD%AE%E4%B8%BA%E4%B8%AD%E6%96%87%E6%84%9F%E8%A7%89%E5%BE%88%E6%B8%85%E7%88%BD&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
+          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "美联储主席提名人沃什：不会当总统的提线木偶",
@@ -667,6 +701,18 @@
           "time_info": "[04时48分 ~ 07时33分]"
         },
         {
+          "title": "以为库克真加入小米汽车了",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E5%BA%93%E5%85%8B%E7%9C%9F%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时03分]"
+        },
+        {
           "title": "服务业占据国民经济半壁江山",
           "url": "https://www.douyin.com/hot/2474405",
           "source": "抖音",
@@ -676,6 +722,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 19时03分]"
         },
         {
           "title": "日本一日之内犯下两大恶行",
@@ -688,6 +747,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时23分 ~ 17时18分]"
+        },
+        {
+          "title": "马斯克算法撕开日本遮羞布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 19时03分]"
         },
         {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
@@ -745,6 +816,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "巴克莱：将台积电(TSM.N) 目标价从450美元上调至470美元。",
+          "url": "https://flash.jin10.com/detail/20260422184223222800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
           "url": "https://wallstreetcn.com/livenews/3092049",
           "source": "华尔街见闻-快讯",
@@ -778,16 +860,41 @@
           "time_info": "13时23分"
         },
         {
-          "title": "黄金量价齐升，紫金矿业Q1营收逼近千亿关口，归母净利润翻番 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770515",
-          "source": "华尔街见闻",
+          "title": "报道：马拉维出售部分黄金储备 以支付燃料进口费用",
+          "url": "https://wallstreetcn.com/livenews/3092539",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "释新闻｜日本松绑出口杀伤性武器的两个关键问题：卖什么？谁会买？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020491",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 19时03分]"
+        },
+        {
+          "title": "日本126名议员集体参拜靖国神社",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33024618",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
             9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时33分 ~ 17时18分]"
+          "time_info": "[13时23分 ~ 19时03分]"
         },
         {
           "title": "外交部谈日本允许杀伤性武器出口：坚决抵制日本“新型军国主义”妄动",
@@ -833,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "西部数据(WDC.O)盘前上涨3.5%，巴克莱将其评级从持股观望上调至超配。",
+          "url": "https://flash.jin10.com/detail/20260422184043455800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "SpaceX文件显示，关于轨道AI数据中心以及月球和火星基础设施的计划涉及尚未验证的技术，并且可能在商业上不可行。（路透）",
@@ -951,7 +1069,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -965,6 +1083,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "乌克兰外长：愿在除莫斯科和明斯克以外的首都举行乌俄领导人会晤",
+          "url": "https://wallstreetcn.com/livenews/3092536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美联储和美国财政部联手？沃什首度实质性表态：缩表问题上双方将合作",
@@ -1030,9 +1159,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "特朗普称美国拦截的伊朗货轮可能载有“来自中国的礼物”，外交部回应",
+          "url": "https://flash.jin10.com/detail/20260422183850895800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美联储理事沃勒：美联储地区银行体系需改革，但不应削减数量或改变地理分布 美联储地区银行体系需要进一步演进，并提出了两种值得考虑的模型。 地区银行运营的自然演进传统模式已无法满足当前需求。美联储需要采取更多措施，将地区储备银行的运营集中到全国性的业务线中，并摆脱让各个储备银行各自管理运营基础设施的模式。 这并非一场将权力集中于华盛顿的重组。他提出的第一种模型是标准化，即在单一高级领导下，集中系统领导力和关键支持职能。第二种模型则更进一步，将涉及对那些无需本地的关键职能进行物理整合。 这两种模型都代表了有意义的前进步骤。如果成本节约的机会是合理的，就应该将某些活动外包。美联储需要持续致力于其运营方式的现代化。 第二种模型的一个影响是，地区银行未来可能面临更低的就业水平。",
@@ -1058,18 +1198,28 @@
           "time_info": "[10时11分 ~ 17时18分]"
         },
         {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
+          "title": "外交部：不存在所谓“中华民国总统”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%89%80%E8%B0%93%E2%80%9C%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E6%80%BB%E7%BB%9F%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            14,
-            10,
-            7
+            16,
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时11分 ~ 17时18分]"
+          "time_info": "[15时28分 ~ 19时03分]"
+        },
+        {
+          "title": "特朗普就关税退款发警告",
+          "url": "https://news.ifeng.com/c/8sWa8XCzzKG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 19时03分]"
         },
         {
           "title": "券商：下半年黄金有望迎第四波主升浪",
@@ -1109,18 +1259,6 @@
           "time_info": "[01时59分 ~ 03时21分]"
         },
         {
-          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
-          "url": "https://wallstreetcn.com/articles/3770527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 17时18分]"
-        },
-        {
           "title": "Meta Platforms：在美国塔尔萨启动10亿美元数据中心建设项目。 塔尔萨数据中心项目包括超过2500万美元的地方基础设施改善。 预计该数据中心在高峰期将支持超过1,000个建筑岗位，并在完成后创造约100个运营岗位。",
           "url": "https://wallstreetcn.com/livenews/3092095",
           "source": "华尔街见闻-快讯",
@@ -1143,18 +1281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时33分]"
-        },
-        {
-          "title": "马斯克算法撕开日本遮羞布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 17时18分]"
         },
         {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
@@ -1336,19 +1462,6 @@
           "time_info": "[06时36分 ~ 07时33分]"
         },
         {
-          "title": "释新闻｜日本松绑出口杀伤性武器的两个关键问题：卖什么？谁会买？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020491",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 17时18分]"
-        },
-        {
           "title": "朝鲜为何选在此时发射导弹",
           "url": "https://www.toutiao.com/trending/7631212348723695147/",
           "source": "今日头条",
@@ -1362,19 +1475,6 @@
           "time_info": "[00时57分 ~ 05时42分]"
         },
         {
-          "title": "日本126名议员集体参拜靖国神社",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33024618",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 17时18分]"
-        },
-        {
           "title": "日本126名议员集体“拜鬼”！恬不知耻咧嘴大笑",
           "url": "https://v.ifeng.com/c/8sTsWXsXUhP",
           "source": "凤凰网",
@@ -1386,6 +1486,63 @@
           "time_info": "[13时23分 ~ 17时18分]"
         },
         {
+          "title": "民调：特朗普支持率下降 美国朝错误方向发展",
+          "url": "https://www.cls.cn/detail/2351804",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时03分]"
+        },
+        {
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时03分]"
+        },
+        {
+          "title": "日本汽油掺水造假致多车报废",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353597&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B1%BD%E6%B2%B9%E6%8E%BA%E6%B0%B4%E9%80%A0%E5%81%87%E8%87%B4%E5%A4%9A%E8%BD%A6%E6%8A%A5%E5%BA%9F",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时03分]"
+        },
+        {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时03分]"
+        },
+        {
+          "title": "钟汉良所演角色纪封霸屏指数破50万",
+          "url": "https://www.toutiao.com/trending/7631009912965382198/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时03分]"
+        },
+        {
           "title": "沃什提名听证会讲稿曝光，承诺货币政策严格独立，称美联储独立性主要取决于自身（附全文）",
           "url": "https://wallstreetcn.com/articles/3770430",
           "source": "华尔街见闻",
@@ -1395,18 +1552,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 01时59分]"
-        },
-        {
-          "title": "外交部：不存在所谓“中华民国总统”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%89%80%E8%B0%93%E2%80%9C%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E6%80%BB%E7%BB%9F%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时18分]"
         },
         {
           "title": "特朗普宣布延长同伊朗的停火",
@@ -1434,17 +1579,6 @@
           "time_info": "[10时11分 ~ 15时28分]"
         },
         {
-          "title": "特朗普就关税退款发警告",
-          "url": "https://news.ifeng.com/c/8sWa8XCzzKG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时18分]"
-        },
-        {
           "title": "日本126名议员集体参拜靖国神社",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC126%E5%90%8D%E8%AE%AE%E5%91%98%E9%9B%86%E4%BD%93%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE",
           "source": "百度热搜",
@@ -1456,6 +1590,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 15时28分]"
+        },
+        {
+          "title": "【数据看盘】超14亿元资金出逃东山精密 游资联手机构抢筹九安医疗",
+          "url": "https://www.cls.cn/detail/2352300",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
+        },
+        {
+          "title": "苹果拒绝提交财务数据被印度重罚风险推至 380 亿美元，如何看待此事？苹果真的可能被罚掉 380 亿美元吗？",
+          "url": "https://www.zhihu.com/question/2030236011557544965",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，需要新的通胀框架",
@@ -1562,6 +1718,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时33分]"
+        },
+        {
+          "title": "韩国存储巨头面临断供风险：中东战火袭扰下 光刻胶关键原料陷入短缺",
+          "url": "https://www.cls.cn/detail/2352211",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "标普500指数期货收复部分跌幅，现跌0.3%，此前美国总统特朗普表示将延长美伊之间的停火协议。",
@@ -1732,6 +1899,17 @@
           "time_info": "[05时42分 ~ 06时36分]"
         },
         {
+          "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
+          "url": "https://wallstreetcn.com/articles/3770558",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
+        },
+        {
           "title": "美联储主席提名人沃什：美联储无权发行数字货币，那将是一个糟糕的政策选择。 美联储的确不应该采用央行数字货币（CBDC）。",
           "url": "https://wallstreetcn.com/livenews/3091998",
           "source": "华尔街见闻-快讯",
@@ -1778,17 +1956,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时36分]"
-        },
-        {
-          "title": "民调：特朗普支持率下降 美国朝错误方向发展",
-          "url": "https://www.cls.cn/detail/2351804",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "新兴市场货币指数跌幅扩大，布伦特油价逼近100美元/桶。",
@@ -1839,6 +2006,17 @@
           "time_info": "[04时49分 ~ 05时42分]"
         },
         {
+          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
+          "url": "https://www.cls.cn/detail/2352317",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
+        },
+        {
           "title": "特朗普：已经要求美军继续封锁，将延长伊朗停火直至谈判结束",
           "url": "https://wallstreetcn.com/livenews/3092083",
           "source": "华尔街见闻-快讯",
@@ -1849,17 +2027,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时42分]"
-        },
-        {
-          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "如何看待 SpaceX 获得 600 亿美元收购 Cursor 的期权？",
@@ -1908,6 +2075,17 @@
           "time_info": "[17时17分 ~ 17时18分]"
         },
         {
+          "title": "朝鲜发声要求日本向中国道歉",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%A3%B0%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
+        },
+        {
           "title": "美联航一季度运营收入146亿美元，分析师预期144.6亿美元。",
           "url": "https://wallstreetcn.com/livenews/3092077",
           "source": "华尔街见闻-快讯",
@@ -1932,26 +2110,15 @@
           "time_info": "[04时49分 ~ 05时42分]"
         },
         {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
-        },
-        {
-          "title": "钟汉良所演角色纪封霸屏指数破50万",
-          "url": "https://www.toutiao.com/trending/7631009912965382198/",
+          "title": "唐驳虎：李在明掌权后韩国国运大爆发",
+          "url": "https://www.toutiao.com/trending/7631498517176913450/",
           "source": "今日头条",
           "ranks": [
-            22
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
+          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "苹果更换CEO原因首次曝光",
@@ -1965,6 +2132,17 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
+          "title": "日本10式坦克爆炸说明什么",
+          "url": "https://www.toutiao.com/trending/7631488890263572009/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
+        },
+        {
           "title": "特努斯为何能接任苹果CEO",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E5%8A%AA%E6%96%AF%E4%B8%BA%E4%BD%95%E8%83%BD%E6%8E%A5%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO",
           "source": "bilibili 热搜",
@@ -1974,17 +2152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 06时36分]"
-        },
-        {
-          "title": "日本汽油掺水造假致多车报废",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353597&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B1%BD%E6%B2%B9%E6%8E%BA%E6%B0%B4%E9%80%A0%E5%81%87%E8%87%B4%E5%A4%9A%E8%BD%A6%E6%8A%A5%E5%BA%9F",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "美联储主席提名人沃什：从经济改善到产出显现之间的时间差，以及人工智能对劳动力市场的影响，必须成为美联储思考的核心问题。",
@@ -2029,6 +2196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "GE Vernova美股盘前拉升，现涨超4%，公司一季度营收高于预估。",
+          "url": "https://wallstreetcn.com/livenews/3092534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美联储主席提名人沃什：对人工智能将改善产出更有信心，而对其对劳动力市场的影响则不那么确定。",
@@ -2106,6 +2284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "AT&T第一季度调整后每股收益0.57美元，上年同期0.51美元，预估0.55美元。 第一季度营收315亿美元，预估312.5亿美元 第一季度调整后息税折旧及摊销前利润118亿美元，预估117.9亿美元。 第一季度资本支出49亿美元。 AT&T仍然预测全年自由现金流至少180亿美元。 AT&T仍然预测全年调整后每股收益2.25美元至2.35美元。 AT&T美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3092533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "苹果或被印度罚款380亿美元",
@@ -2196,6 +2385,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "GE Vernova第一季度营收93.4 亿美元，预期91.1亿美元。 第一季度每股收益17.44 美元，去年同期为91美分。 GE Vernova预计全年营收445亿至455亿美元，此前预期为440亿至450亿美元。 GE Vernova美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3092532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "美国防部拟斥资300亿美元增购关键弹药",
           "url": "https://news.ifeng.com/c/8sWPx5prDq5",
           "source": "凤凰网",
@@ -2249,6 +2449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "乌克兰外长：愿在除莫斯科和明斯克以外的首都举行乌俄领导人会晤",
+          "url": "https://flash.jin10.com/detail/20260422183338986800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美联储主席提名人沃什：总统从未一般性或具体性地建议我承诺任何利率路径。",
@@ -2323,7 +2534,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -2436,6 +2647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "波士顿科学(BSX.N)预计全年调整后每股收益为3.34-3.41美元，低于市场预期的3.45美元。",
+          "url": "https://flash.jin10.com/detail/20260422183232902800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美联储主席提名人沃什：对我而言，美联储独立性意味着一切。",
@@ -2708,9 +2930,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "欧洲央行管委Simkus：欧洲央行不应在四月提高利率。 不排除欧洲央行今年加息的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3092521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美元指数DXY短线走高逾10点，最新报98.52。非美货币走低，欧元兑美元和澳元兑美元日内跌超0.50%；美元兑瑞郎和美元兑日元日内涨超0.50%。",
@@ -2766,6 +2999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "AT&T(T.N)2026年Q1营收315亿美元，市场预期312.2亿美元，上年同期306.26亿美元。",
+          "url": "https://flash.jin10.com/detail/20260422182813283800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美联储主席提名人沃什：很难做出利率决定。",
@@ -2876,6 +3120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "匈牙利石油天然气集团：通过“友谊”管道运输的原油已在乌克兰收到。预计最迟将在周四之前，第一批原油运输将抵达匈牙利和斯洛伐克。",
+          "url": "https://flash.jin10.com/detail/20260422182548920800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "【白宫官员：副总统万斯尚未启程前往伊斯兰堡】4月21日，有白宫官员表示，美国副总统万斯尚未启程前往巴基斯坦首都伊斯兰堡参与伊朗谈判，他正在白宫参与其他政策会议。（央视）",
@@ -3005,7 +3260,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -3148,7 +3403,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -3505,6 +3760,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "行业消息人士表示，通过“友谊”管道乌克兰段输往欧洲的原油运输已恢复。",
+          "url": "https://flash.jin10.com/detail/20260422181949336800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "美联储主席提名人沃什：特朗普从来没有要求在具体（哪次）会议上降息。 那些报道特朗普向我施压要求降息的记者需要更好的消息源。 特朗普从未要求我承诺在任何特定会议上降息。 我绝不会那样做。",
           "url": "https://wallstreetcn.com/livenews/3091984",
           "source": "华尔街见闻-快讯",
@@ -3544,7 +3810,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -3621,7 +3887,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -3676,7 +3942,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -3698,7 +3964,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -3742,7 +4008,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -3786,9 +4052,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "英国财政部发布英国财政大臣里夫斯与银行的会议纪要。里夫斯强调经济稳定是政府的首要任务。",
+          "url": "https://flash.jin10.com/detail/20260422181826696800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美联储主席提名人沃什：通胀不会在经济增长太多时出现。 而回在政府印钱太多、开支太大时出现。",
@@ -3833,6 +4110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "美媒：特朗普考虑对“不听话”的北约盟国实施惩罚措施",
+          "url": "https://flash.jin10.com/detail/20260422181803255800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美联储主席提名人沃什：资产负债表的任何变化都应该是一个公开的决定。 应当缩表，不应该持有长期国债。",
@@ -3929,7 +4217,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -3962,7 +4250,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
