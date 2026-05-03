@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T15:59:10.965705+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-05-03T17:24:30.380892+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 149,
+      "match_count": 157,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -37,11 +37,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 15时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 17时24分]"
         },
         {
           "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
@@ -92,6 +93,20 @@
           "time_info": "[00时42分 ~ 10时37分]"
         },
         {
+          "title": "哥伦比亚总统：反对对古巴进行任何形式的军事干预",
+          "url": "https://news.ifeng.com/c/8soaEpk95lB",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时37分 ~ 17时24分]"
+        },
+        {
           "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
           "url": "https://www.zhihu.com/question/2033553770588714004",
           "source": "知乎",
@@ -119,31 +134,41 @@
           "time_info": "[00时42分 ~ 13时56分]"
         },
         {
-          "title": "哥伦比亚总统：反对对古巴进行任何形式的军事干预",
-          "url": "https://news.ifeng.com/c/8soaEpk95lB",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时37分 ~ 15时59分]"
-        },
-        {
           "title": "周边只抓不卖,日本谷迷被气炸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353959&amp;topic_name=%E5%91%A8%E8%BE%B9%E5%8F%AA%E6%8A%93%E4%B8%8D%E5%8D%96%2C%E6%97%A5%E6%9C%AC%E8%B0%B7%E8%BF%B7%E8%A2%AB%E6%B0%94%E7%82%B8",
           "source": "贴吧",
           "ranks": [
             5,
             10,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 15时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 17时24分]"
+        },
+        {
+          "title": "国乒男团 1:3 不敌韩国队，遭遇伦敦世乒赛小组赛首败，怎样评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2034139953765029374",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 17时24分]"
+        },
+        {
+          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771492",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 17时24分]"
         },
         {
           "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
@@ -198,6 +223,17 @@
           "time_info": "[02时55分 ~ 13时56分]"
         },
         {
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 17时24分]"
+        },
+        {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://www.cls.cn/detail/2362026",
           "source": "财联社热门",
@@ -208,8 +244,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 15时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 17时24分]"
         },
         {
           "title": "这一晚，美国总统玩得不亦乐乎",
@@ -231,8 +267,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 15时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 17时24分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -320,8 +356,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 15时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 17时24分]"
         },
         {
           "title": "外交部发布中方关于日本拥核问题的工作文件，哪些信息值得关注？",
@@ -385,11 +421,12 @@
           "ranks": [
             20,
             27,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 15时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 17时24分]"
         },
         {
           "title": "日本押注一次性纸质无人机",
@@ -416,27 +453,17 @@
           "time_info": "[00时42分 ~ 07时40分]"
         },
         {
-          "title": "国乒男团 1:3 不敌韩国队，遭遇伦敦世乒赛小组赛首败，怎样评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2034139953765029374",
-          "source": "知乎",
+          "title": "英国法院裁定三星向中兴赔偿3.92亿美元，被指严重低估专利价值",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093047",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            12,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 15时59分]"
-        },
-        {
-          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771492",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 15时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时40分 ~ 17时24分]"
         },
         {
           "title": "阿贝尔认为数据中心建设将为公用事业带来巨大增长",
@@ -454,28 +481,27 @@
           "time_info": "[00时42分 ~ 07时40分]"
         },
         {
-          "title": "特朗普：美国有可能重启对伊朗空袭",
-          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
+          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
+          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
           "source": "凤凰网",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 17时24分]"
         },
         {
-          "title": "英国法院裁定三星向中兴赔偿3.92亿美元，被指严重低估专利价值",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093047",
-          "source": "澎湃新闻",
+          "title": "专坑国人,日本阴阳菜单被扒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353968&amp;topic_name=%E4%B8%93%E5%9D%91%E5%9B%BD%E4%BA%BA%2C%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95%E8%A2%AB%E6%89%92",
+          "source": "贴吧",
           "ranks": [
-            12,
-            5,
-            4
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时40分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 17时24分]"
         },
         {
           "title": "国乒男团1比3韩国",
@@ -538,29 +564,6 @@
           "time_info": "[02时55分 ~ 07时40分]"
         },
         {
-          "title": "世乒赛中国如何输给韩国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E8%BE%93%E7%BB%99%E9%9F%A9%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时59分]"
-        },
-        {
-          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
-          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时59分]"
-        },
-        {
           "title": "美联储古尔斯比：对沃什的加入感到高兴。",
           "url": "https://flash.jin10.com/detail/20260503021811382800",
           "source": "金十数据",
@@ -574,18 +577,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时55分 ~ 07时40分]"
-        },
-        {
-          "title": "专坑国人,日本阴阳菜单被扒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353968&amp;topic_name=%E4%B8%93%E5%9D%91%E5%9B%BD%E4%BA%BA%2C%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95%E8%A2%AB%E6%89%92",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时59分]"
         },
         {
           "title": "欧洲议会要员：须对美新一轮关税威胁作出坚定回应",
@@ -618,6 +609,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时41分 ~ 07时40分]"
+        },
+        {
+          "title": "世乒赛中国如何输给韩国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E8%BE%93%E7%BB%99%E9%9F%A9%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 17时24分]"
         },
         {
           "title": "特朗普的白宫贸易顾问纳瓦罗纳瓦罗：美联储主席任期于5月15日届满时，鲍威尔就应该“滚出”美国华盛顿特区。",
@@ -768,6 +772,19 @@
           "time_info": "[03时54分 ~ 07时40分]"
         },
         {
+          "title": "世乒赛中国男团1:3韩国",
+          "url": "https://www.douyin.com/hot/2487204",
+          "source": "抖音",
+          "ranks": [
+            10,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 17时24分]"
+        },
+        {
           "title": "美国会高层称对驻德美军撤出计划“深感担忧”",
           "url": "https://flash.jin10.com/detail/20260503025328803800",
           "source": "金十数据",
@@ -797,6 +814,28 @@
           "time_info": "[02时55分 ~ 07时40分]"
         },
         {
+          "title": "高层通话、各界代表来华，中美互动进入“密集期”",
+          "url": "https://news.ifeng.com/c/8spPnoc2X94",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "高市上台后，日本自民党高层首次来华",
+          "url": "https://news.ifeng.com/c/8sorxGjhX6A",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 17时24分]"
+        },
+        {
           "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
           "url": "https://wallstreetcn.com/livenews/3098157",
           "source": "华尔街见闻-快讯",
@@ -811,15 +850,17 @@
           "time_info": "[00时42分 ~ 05时37分]"
         },
         {
-          "title": "韩国一颗卫星由SpaceX猎鹰9号发射升空。",
-          "url": "https://flash.jin10.com/detail/20260503151026763800",
-          "source": "金十数据",
+          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
+          "url": "https://wallstreetcn.com/articles/3771499",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7,
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 17时24分]"
         },
         {
           "title": "26年首败!国乒男团1-3输韩国",
@@ -827,11 +868,49 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 17时24分]"
+        },
+        {
+          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
+          "url": "https://wallstreetcn.com/articles/3771504",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 17时24分]"
+        },
+        {
+          "title": "俄称乌克兰袭击普里莫尔斯克港 关键石油枢纽一度起火",
+          "url": "https://flash.jin10.com/detail/20260503164032862800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "尤伯杯决赛中国队vs韩国队",
+          "url": "https://www.douyin.com/hot/2487016",
+          "source": "抖音",
+          "ranks": [
+            23,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 17时24分]"
         },
         {
           "title": "哥伦比亚总统：反对对古巴进行任何形式的军事干预",
@@ -870,28 +949,27 @@
           "time_info": "[06时38分 ~ 10时37分]"
         },
         {
-          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
-          "url": "https://wallstreetcn.com/articles/3771499",
-          "source": "华尔街见闻",
+          "title": "解说员王涛称央视认为 FIFA 世界杯版权 3 亿美元新标价离谱，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2033970481439749297",
+          "source": "知乎",
           "ranks": [
-            7,
-            5
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时59分]"
+          "time_info": "[15时58分 ~ 17时24分]"
         },
         {
-          "title": "世乒赛中国男团1:3韩国",
-          "url": "https://www.douyin.com/hot/2487204",
-          "source": "抖音",
+          "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
+          "url": "https://wallstreetcn.com/livenews/3098259",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 15时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "日本战犯竟称侵华是为了“管教兄弟”",
@@ -956,17 +1034,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 04时38分]"
-        },
-        {
-          "title": "高市上台后，日本自民党高层首次来华",
-          "url": "https://news.ifeng.com/c/8sorxGjhX6A",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 15时59分]"
         },
         {
           "title": "苹果iOS27系列新功能",
@@ -1045,6 +1112,31 @@
           "time_info": "[10时37分 ~ 15时59分]"
         },
         {
+          "title": "底特律汽车制造商警告称，由于中东战争导致局势紧张，今年因大宗商品价格上涨而造成的经济损失将高达50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260503123150516800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 17时24分]"
+        },
+        {
+          "title": "韩国一颗卫星由SpaceX猎鹰9号发射升空。",
+          "url": "https://flash.jin10.com/detail/20260503151026763800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 17时24分]"
+        },
+        {
           "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
           "url": "https://wallstreetcn.com/livenews/3098221",
           "source": "华尔街见闻-快讯",
@@ -1058,28 +1150,54 @@
           "time_info": "[10时37分 ~ 15时59分]"
         },
         {
-          "title": "底特律汽车制造商警告称，由于中东战争导致局势紧张，今年因大宗商品价格上涨而造成的经济损失将高达50亿美元。",
-          "url": "https://flash.jin10.com/detail/20260503123150516800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 15时59分]"
-        },
-        {
           "title": "日本民众举行守护宪法集会 反对战争与军备扩张",
           "url": "https://wallstreetcn.com/livenews/3098237",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 17时24分]"
+        },
+        {
+          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 17时24分]"
+        },
+        {
+          "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你都带娃去哪了？有选择研学吗？",
+          "url": "https://www.zhihu.com/question/2032142179552994728",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
+          "url": "https://www.zhihu.com/question/2034052667509621790",
+          "source": "知乎",
+          "ranks": [
+            17,
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 17时24分]"
         },
         {
           "title": "特朗普政府：无需为其他美国廉价航空公司提供救助",
@@ -1131,28 +1249,29 @@
           "time_info": "[05时37分 ~ 07时40分]"
         },
         {
-          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
-          "url": "https://wallstreetcn.com/articles/3771504",
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时59分]"
-        },
-        {
-          "title": "尤伯杯决赛中国队vs韩国队",
-          "url": "https://www.douyin.com/hot/2487016",
-          "source": "抖音",
-          "ranks": [
-            23,
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时59分]"
+          "time_info": "[15时58分 ~ 17时24分]"
+        },
+        {
+          "title": "马斯克1583亿美元薪酬实际为0",
+          "url": "https://flash.jin10.com/detail/20260503115208564800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 17时24分]"
         },
         {
           "title": "金十数据整理：周六重要消息汇总",
@@ -1168,6 +1287,30 @@
           "time_info": "[00时42分 ~ 02时55分]"
         },
         {
+          "title": "哥伦比亚总统：美国军事干预古巴是“侵略整个拉美”",
+          "url": "https://flash.jin10.com/detail/20260503113015354800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 17时24分]"
+        },
+        {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 17时24分]"
+        },
+        {
           "title": "欧洲议会要员：须对美新一轮关税威胁作出坚定回应",
           "url": "https://wallstreetcn.com/livenews/3098189",
           "source": "华尔街见闻-快讯",
@@ -1178,42 +1321,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时37分 ~ 07时40分]"
-        },
-        {
-          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时59分]"
-        },
-        {
-          "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你都带娃去哪了？有选择研学吗？",
-          "url": "https://www.zhihu.com/question/2032142179552994728",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时59分]"
-        },
-        {
-          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
-          "url": "https://www.zhihu.com/question/2034052667509621790",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时59分]"
         },
         {
           "title": "CEO称追觅手机要与苹果三星三分天下",
@@ -1227,6 +1334,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时42分 ~ 02时55分]"
+        },
+        {
+          "title": "尤伯杯半决赛中日大战，国羽女队3比0完胜挺进决赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092766",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 17时24分]"
         },
         {
           "title": "员工离职后删除百万粉丝个人账号内的工作视频，被公司索赔，法院判决赔偿公司经济损失，如何从法律角度解读？",
@@ -1251,6 +1370,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时42分 ~ 04时38分]"
+        },
+        {
+          "title": "日本民众担心日本正一步步走向战争",
+          "url": "https://www.toutiao.com/trending/7634716215457480758/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 17时24分]"
         },
         {
           "title": "俞浩称追觅要与苹果三星三分天下",
@@ -1310,61 +1441,28 @@
           "time_info": "[10时37分 ~ 13时56分]"
         },
         {
-          "title": "马斯克1583亿美元薪酬实际为0",
-          "url": "https://flash.jin10.com/detail/20260503115208564800",
+          "title": "陈茂波称香港一季度经济增长为近5年来最强",
+          "url": "https://flash.jin10.com/detail/20260503143918714800",
           "source": "金十数据",
           "ranks": [
             6,
-            19
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时56分 ~ 15时59分]"
+          "time_info": "[15时59分 ~ 17时24分]"
         },
         {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
-        },
-        {
-          "title": "解说员王涛称央视认为 FIFA 世界杯版权 3 亿美元新标价离谱，这会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2033970481439749297",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
-        },
-        {
-          "title": "哥伦比亚总统：美国军事干预古巴是“侵略整个拉美”",
-          "url": "https://flash.jin10.com/detail/20260503113015354800",
+          "title": "乌克兰总统泽连斯基：乌克兰军队在俄罗斯诺沃罗西斯克港口入口水域击中两艘影子舰队油轮。",
+          "url": "https://flash.jin10.com/detail/20260503143142261800",
           "source": "金十数据",
           "ranks": [
-            7,
-            20
+            8,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时56分 ~ 15时59分]"
-        },
-        {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
+          "time_info": "[15时59分 ~ 17时24分]"
         },
         {
           "title": "国乒男团不敌韩国",
@@ -1436,6 +1534,18 @@
           "time_info": "[13时56分 ~ 15时59分]"
         },
         {
+          "title": "当地州长称 ，乌克兰无人机袭击俄罗斯的普里莫尔斯克港后引发的火灾已被扑灭。",
+          "url": "https://flash.jin10.com/detail/20260503140723165800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 17时24分]"
+        },
+        {
           "title": "嫌对标华为小米“格局小”？追觅CEO放话：手机业务要跟苹果三星平分天下",
           "url": "https://wallstreetcn.com/livenews/3098229",
           "source": "华尔街见闻-快讯",
@@ -1458,6 +1568,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时56分 ~ 15时59分]"
+        },
+        {
+          "title": "特朗普说从德国撤军人数将远超5000",
+          "url": "https://flash.jin10.com/detail/20260503133536402800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 17时24分]"
         },
         {
           "title": "中国代表：中美不必是零和博弈",
@@ -1612,17 +1734,6 @@
           "time_info": "[00时42分 ~ 01时41分]"
         },
         {
-          "title": "尤伯杯半决赛中日大战，国羽女队3比0完胜挺进决赛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092766",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
-        },
-        {
           "title": "巴菲特致意库克 伯克希尔与苹果交接时刻彼此映照",
           "url": "https://flash.jin10.com/detail/20260502222906636800",
           "source": "金十数据",
@@ -1682,17 +1793,6 @@
           "time_info": "[00时42分 ~ 04时38分]"
         },
         {
-          "title": "日本民众担心日本正一步步走向战争",
-          "url": "https://www.toutiao.com/trending/7634716215457480758/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
-        },
-        {
           "title": "“五一”假期首日 广东多项交通数据创新高",
           "url": "https://wallstreetcn.com/livenews/3098144",
           "source": "华尔街见闻-快讯",
@@ -1704,48 +1804,26 @@
           "time_info": "[00时42分 ~ 01时41分]"
         },
         {
-          "title": "陈茂波称香港一季度经济增长为近5年来最强",
-          "url": "https://flash.jin10.com/detail/20260503143918714800",
+          "title": "伊朗强化外交斡旋 与日本、意大利就地区局势与停火努力进行沟通",
+          "url": "https://flash.jin10.com/detail/20260503155952439800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "17时24分"
         },
         {
-          "title": "乌克兰总统泽连斯基：乌克兰军队在俄罗斯诺沃罗西斯克港口入口水域击中两艘影子舰队油轮。",
-          "url": "https://flash.jin10.com/detail/20260503143142261800",
+          "title": "欧洲央行副行长金多斯：在欧洲央行任期结束后不会重返政坛",
+          "url": "https://flash.jin10.com/detail/20260503151704770800",
           "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "当地州长称 ，乌克兰无人机袭击俄罗斯的普里莫尔斯克港后引发的火灾已被扑灭。",
-          "url": "https://flash.jin10.com/detail/20260503140723165800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "特朗普说从德国撤军人数将远超5000",
-          "url": "https://flash.jin10.com/detail/20260503133536402800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "17时24分"
         },
         {
           "title": "苹果炖牛肉",
@@ -1803,6 +1881,17 @@
           "time_info": "10时37分"
         },
         {
+          "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
+          "url": "https://www.toutiao.com/trending/7635573338844433930/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "特朗普称从德国撤军规模将远超5000人",
           "url": "https://wallstreetcn.com/livenews/3098200",
           "source": "华尔街见闻-快讯",
@@ -1847,6 +1936,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "日本战犯集体不认罪 重温灵魂拷问",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E7%8A%AF%E9%9B%86%E4%BD%93%E4%B8%8D%E8%AE%A4%E7%BD%AA+%E9%87%8D%E6%B8%A9%E7%81%B5%E9%AD%82%E6%8B%B7%E9%97%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "TCG战胜eStar数据雷达图",
           "url": "https://search.bilibili.com/all?keyword=TCG%E6%88%98%E8%83%9CeStar%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
           "source": "bilibili 热搜",
@@ -1856,6 +1956,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "美两院共和党高层：担忧从德国撤军",
+          "url": "https://www.toutiao.com/trending/7635422714991886390/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     }
