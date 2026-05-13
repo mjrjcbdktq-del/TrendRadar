@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T18:23:17.943230+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-05-13T21:09:07.307612+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 320,
+      "match_count": 367,
       "titles": [
         {
           "title": "通胀烫得发红！美国4月CPI同比3.8%创近三年新高，核心CPI涨幅扩大至2.8%",
@@ -33,19 +33,6 @@
           "time_info": "[01时09分 ~ 15时47分]"
         },
         {
-          "title": "特朗普访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时09分 ~ 18时23分]"
-        },
-        {
           "title": "马斯克库克随特朗普访华",
           "url": "https://www.cls.cn/detail/2369414",
           "source": "财联社热门",
@@ -70,6 +57,33 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时09分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 21时09分]"
+        },
+        {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 21时09分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -146,6 +160,32 @@
           "time_info": "[01时09分 ~ 08时01分]"
         },
         {
+          "title": "4月CPI意味着什么？“新美联储通讯社”：降息不再是2026年故事，沃什麻烦了",
+          "url": "https://wallstreetcn.com/articles/3772111",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 21时09分]"
+        },
+        {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时58分 ~ 21时09分]"
+        },
+        {
           "title": "日本实施汇率干预后，日美财长首次面对面会谈",
           "url": "https://news.ifeng.com/c/8t4PA9L6stj",
           "source": "凤凰网",
@@ -155,19 +195,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 08时01分]"
-        },
-        {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 18时23分]"
         },
         {
           "title": "特朗普访华有哪些重要议题",
@@ -229,6 +256,19 @@
           "time_info": "[01时09分 ~ 15时47分]"
         },
         {
+          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://www.cls.cn/detail/2369985",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 21时09分]"
+        },
+        {
           "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
           "url": "https://www.cls.cn/detail/2369623",
           "source": "财联社热门",
@@ -266,30 +306,16 @@
           "time_info": "[01时09分 ~ 08时01分]"
         },
         {
-          "title": "4月CPI意味着什么？“新美联储通讯社”：降息不再是2026年故事，沃什麻烦了",
-          "url": "https://wallstreetcn.com/articles/3772111",
-          "source": "华尔街见闻",
+          "title": "如何看待 2026 年 5 月 12 日由于缺油少墨，日本知名品牌卡乐比薯片的包装变黑白？",
+          "url": "https://www.zhihu.com/question/2037608765051098756",
+          "source": "知乎",
           "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 18时23分]"
-        },
-        {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4,
+            16,
             5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时58分 ~ 18时23分]"
+          "time_info": "[12时02分 ~ 21时09分]"
         },
         {
           "title": "特朗普启程访华",
@@ -314,6 +340,29 @@
           "time_info": "[12时02分 ~ 15时47分]"
         },
         {
+          "title": "中美在韩国举行经贸磋商(图)",
+          "url": "https://news.ifeng.com/c/8t5x9ATxCDr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
+          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2370077",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
           "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
           "url": "https://wallstreetcn.com/articles/3772017",
           "source": "华尔街见闻",
@@ -336,6 +385,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 06时58分]"
+        },
+        {
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.douyin.com/hot/2497697",
+          "source": "抖音",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
         },
         {
           "title": "人民日报国纪平：中美关系回不到过去，但能够有一个更好的未来",
@@ -363,6 +424,17 @@
           "time_info": "[01时09分 ~ 08时01分]"
         },
         {
+          "title": "“美国人薪资三年来首次跑输通胀”",
+          "url": "https://news.ifeng.com/c/8t5gNSeUArW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
           "title": "外交部回应巴拉圭总统窜台",
           "url": "https://www.douyin.com/hot/2496552",
           "source": "抖音",
@@ -386,6 +458,29 @@
           "time_info": "[01时09分 ~ 06时58分]"
         },
         {
+          "title": "中美在韩国举行经贸磋商",
+          "url": "https://www.cls.cn/detail/2370106",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
+          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
+          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
           "title": "新能源车零售渗透率达到 61.4%，首次突破 60% 大关，如何看待这一数据？燃油车还有未来吗？",
           "url": "https://www.zhihu.com/question/2037167038641198584",
           "source": "知乎",
@@ -399,16 +494,81 @@
           "time_info": "[08时01分 ~ 15时47分]"
         },
         {
-          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://www.cls.cn/detail/2369985",
-          "source": "财联社热门",
+          "title": "特朗普抵达北京开始访华",
+          "url": "https://www.toutiao.com/trending/7639334931310710323/",
+          "source": "今日头条",
           "ranks": [
-            3,
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时47分 ~ 18时23分]"
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "特朗普抵达北京",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "特朗普抵京",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E4%BA%AC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://www.douyin.com/hot/2497952",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "美国总统特朗普抵达北京，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "特朗普抵京 韩正前往机场迎接",
+          "url": "https://www.toutiao.com/trending/7638727600952577542/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -421,6 +581,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 03时46分]"
+        },
+        {
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 21时09分]"
         },
         {
           "title": "伊朗设谈判门槛，特朗普称“不着急”",
@@ -456,47 +628,13 @@
           "time_info": "[01时09分 ~ 08时01分]"
         },
         {
-          "title": "如何看待 2026 年 5 月 12 日由于缺油少墨，日本知名品牌卡乐比薯片的包装变黑白？",
-          "url": "https://www.zhihu.com/question/2037608765051098756",
-          "source": "知乎",
-          "ranks": [
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 18时23分]"
-        },
-        {
-          "title": "外交部：欢迎特朗普访问中国",
-          "url": "https://www.toutiao.com/trending/7638540672749125641/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "特朗普访华",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "中美在韩国举行经贸磋商(图)",
-          "url": "https://news.ifeng.com/c/8t5x9ATxCDr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -551,7 +689,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -587,28 +725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
-        },
-        {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "外交部：欢迎特朗普访问中国",
-          "url": "https://www.douyin.com/hot/2497697",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "日本爆发数十年来最大规模反战抗议",
@@ -649,6 +765,32 @@
           "time_info": "[01时09分 ~ 08时01分]"
         },
         {
+          "title": "16位美国商界领袖随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 21时09分]"
+        },
+        {
+          "title": "特朗普访华随行人员名单",
+          "url": "https://www.douyin.com/hot/2496992",
+          "source": "抖音",
+          "ranks": [
+            11,
+            17,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 21时09分]"
+        },
+        {
           "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33162926",
           "source": "澎湃新闻",
@@ -675,17 +817,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 08时01分]"
-        },
-        {
-          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
-          "url": "https://www.cls.cn/detail/2370077",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "芝加哥联储主席古尔斯比将于十分钟后参加当地商会举办的问答环节；美国至5月12日10年期国债竞拍-得标利率及投标倍数将于十分钟后公布。",
@@ -716,9 +847,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "阿里巴巴(BABA.N)高管：预计在未来1-2个季度内，阿里云的毛利率将显著提高。",
+          "url": "https://flash.jin10.com/detail/20260513204018269800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "特斯拉跌幅扩大至5%。",
@@ -771,9 +913,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：我们仍然最接近基线情景。",
+          "url": "https://wallstreetcn.com/livenews/3103039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://wallstreetcn.com/articles/3772164",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
         },
         {
           "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股盘中）",
@@ -815,7 +980,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -875,6 +1040,30 @@
           "time_info": "08时01分"
         },
         {
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.toutiao.com/trending/7638540672749125641/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
           "title": "特朗普启程赴华",
           "url": "https://www.toutiao.com/trending/7638727600944287268/",
           "source": "今日头条",
@@ -884,17 +1073,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "“美国人薪资三年来首次跑输通胀”",
-          "url": "https://news.ifeng.com/c/8t5gNSeUArW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "金十图示：2026年05月12日（周二）热门中概股行情一览（美股盘中）",
@@ -936,7 +1114,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -995,28 +1173,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时02分 ~ 15时47分]"
-        },
-        {
-          "title": "中美在韩国举行经贸磋商",
-          "url": "https://www.cls.cn/detail/2370106",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
-          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "英伟达(NVDA.O)将于6月24日举行线上年度会议。",
@@ -1083,6 +1239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "美国4月PPI数据公布后，美债收益率直线拉升",
+          "url": "https://wallstreetcn.com/livenews/3103036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "BLG战胜IG赛后数据",
@@ -1253,29 +1420,28 @@
           "time_info": "[06时58分 ~ 08时01分]"
         },
         {
-          "title": "16位美国商界领袖随特朗普访华",
-          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
+          "title": "特朗普回应访华团高管名单",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            24
+            16,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时02分 ~ 18时23分]"
+          "time_info": "[15时47分 ~ 21时09分]"
         },
         {
-          "title": "特朗普访华随行人员名单",
-          "url": "https://www.douyin.com/hot/2496992",
-          "source": "抖音",
+          "title": "白宫公布名单：美国16位商业巨头与特朗普一同访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33166126",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            17,
-            13
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时02分 ~ 18时23分]"
+          "time_info": "[15时47分 ~ 21时09分]"
         },
         {
           "title": "美国4月CPI调整意味着什么",
@@ -1303,6 +1469,29 @@
           "time_info": "[03时46分 ~ 06时58分]"
         },
         {
+          "title": "外交部两连问回应日本修宪",
+          "url": "https://news.ifeng.com/c/8t5w9ick9U7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
+          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
+          "url": "https://wallstreetcn.com/articles/3772146",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
           "title": "5月13日投资避雷针：美股光通信、芯片板块回调 英特尔、闪迪跌超6%",
           "url": "https://www.cls.cn/detail/2369664",
           "source": "财联社热门",
@@ -1325,6 +1514,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时01分 ~ 12时03分]"
+        },
+        {
+          "title": "小米新耳机将采用全新形态设计",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%80%B3%E6%9C%BA%E5%B0%86%E9%87%87%E7%94%A8%E5%85%A8%E6%96%B0%E5%BD%A2%E6%80%81%E8%AE%BE%E8%AE%A1%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
+          "title": "小鹿探访欧洲最混乱城市",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%B9%BF%E6%8E%A2%E8%AE%BF%E6%AC%A7%E6%B4%B2%E6%9C%80%E6%B7%B7%E4%B9%B1%E5%9F%8E%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
         },
         {
           "title": "投资者在担心什么？美股芯片板块集体回调 市场静待英伟达财报定方向",
@@ -1351,6 +1564,30 @@
           "time_info": "[12时02分 ~ 15时47分]"
         },
         {
+          "title": "股票奖励大缩水！黄仁勋2026财年总薪酬曝光 较上年少拿1360万美元",
+          "url": "https://www.cls.cn/detail/2369917",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
+          "title": "天安门广场挂起中美两国国旗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%8C%82%E8%B5%B7%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%9B%BD%E6%97%97",
+          "source": "百度热搜",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
+        },
+        {
           "title": "日本“巨头”，被曝大规模造假",
           "url": "https://news.ifeng.com/c/8t5FXvii3hU",
           "source": "凤凰网",
@@ -1360,6 +1597,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时02分 ~ 15时47分]"
+        },
+        {
+          "title": "中美经贸磋商 何立峰同美财长握手",
+          "url": "https://www.toutiao.com/trending/7639283902527540745/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
         },
         {
           "title": "如果拜占庭帝国一直活到了近代，会和俄罗斯成为盟友还是敌人？",
@@ -1373,15 +1622,15 @@
           "time_info": "[03时46分 ~ 05时18分]"
         },
         {
-          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
-          "url": "https://www.cls.cn/detail/2369925",
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://www.cls.cn/detail/2370433",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时47分 ~ 18时23分]"
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
@@ -1418,6 +1667,17 @@
           "time_info": "[12时02分 ~ 12时03分]"
         },
         {
+          "title": "日本爆发大规模反战抗议活动",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%8D%E6%88%98%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
           "title": "美元指数在美国CPI通胀数据发布日涨0.3%",
           "url": "https://wallstreetcn.com/livenews/3102476",
           "source": "华尔街见闻-快讯",
@@ -1430,6 +1690,17 @@
           "time_info": "[03时46分 ~ 05时18分]"
         },
         {
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://wallstreetcn.com/articles/3772194",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
           "title": "印度政府上调黄金和白银的进口关税 美参议院确认沃什出任美联储理事 | 环球市场",
           "url": "https://www.cls.cn/detail/2369615",
           "source": "财联社热门",
@@ -1439,6 +1710,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "韩国总统李在明会见何立峰",
+          "url": "https://www.cls.cn/detail/2370156",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "周二（5月12日）纽约尾盘，ICE原糖期货涨0.47%，ICE白糖期货涨0.91%。 ICE阿拉比卡咖啡期货跌0.42%，咖啡“C”期货跌0.37%。罗布斯塔咖啡期货跌0.31%。 纽约可可期货跌2.36%，报4598美元/吨。伦敦可可期货跌1.26%。 芝加哥WCE双低油菜籽期货涨1.40%。 ICE棉花期货跌1.82%，刷新日低至86.18美分。",
@@ -1476,6 +1758,17 @@
           "time_info": "[12时02分 ~ 12时03分]"
         },
         {
+          "title": "美国总统特朗普将抵达北京",
+          "url": "https://www.cls.cn/detail/2370400",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
           "title": "分析人士：当前我国暂无全面持续的通胀压力，货币政策不会转向收紧，降准降息落地时点可能延后",
           "url": "https://wallstreetcn.com/livenews/3102543",
           "source": "华尔街见闻-快讯",
@@ -1499,6 +1792,17 @@
           "time_info": "[12时02分 ~ 12时03分]"
         },
         {
+          "title": "特朗普走出机舱",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%87%BA%E6%9C%BA%E8%88%B1%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
           "title": "外交部：中方欢迎特朗普总统访华",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
@@ -1509,6 +1813,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时47分 ~ 18时23分]"
+        },
+        {
+          "title": "特朗普走出机舱",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%87%BA%E6%9C%BA%E8%88%B1",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数全天低开高走，全市场超3200股飘红，光通信概念反复走强",
+          "url": "https://www.cls.cn/detail/2370227",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "特朗普访问中国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "北京机场高速附近挂起中美两国国旗",
+          "url": "https://www.toutiao.com/trending/7639265564129607730/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "特朗普期待与中方会晤",
@@ -1523,28 +1893,26 @@
           "time_info": "[15时47分 ~ 18时23分]"
         },
         {
-          "title": "特朗普回应访华团高管名单",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "如何评价《给阿嬷的情书》票房、评分爆发被指「更像是观众的报复性投票」？这一成功可否被复制？",
+          "url": "https://www.zhihu.com/question/2037555885233419778",
+          "source": "知乎",
           "ranks": [
-            16,
-            26
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时47分 ~ 18时23分]"
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
-          "title": "白宫公布名单：美国16位商业巨头与特朗普一同访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33166126",
+          "title": "人民日报国纪平：中美关系回不到过去，但能够有一个更好的未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33169608",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时47分 ~ 18时23分]"
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排",
@@ -1557,6 +1925,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时01分]"
+        },
+        {
+          "title": "多家中小银行调整存款利率",
+          "url": "https://www.toutiao.com/trending/7638719653782765606/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "小米汽车：YU7交付能力大幅提升",
+          "url": "https://www.toutiao.com/trending/7638536386953547306/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "日本民众反对国家情报会议设置法案",
@@ -1581,15 +1971,26 @@
           "time_info": "[05时17分 ~ 05时18分]"
         },
         {
-          "title": "外交部两连问回应日本修宪",
-          "url": "https://news.ifeng.com/c/8t5w9ick9U7",
-          "source": "凤凰网",
+          "title": "小米新耳机将采用全新形态设计",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%80%B3%E6%9C%BA%E5%B0%86%E9%87%87%E7%94%A8%E5%85%A8%E6%96%B0%E5%BD%A2%E6%80%81%E8%AE%BE%E8%AE%A1",
+          "source": "百度热搜",
           "ranks": [
-            6
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "特朗普公布访华团高管名单",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "美国上诉法院暂缓对特朗普10%全球关税的不利裁决",
@@ -1612,6 +2013,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：我们目前并未接近不利情景。",
+          "url": "https://flash.jin10.com/detail/20260513203924593800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "印度政府命令：修订黄金、白银进口关税。",
@@ -1653,29 +2065,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://wallstreetcn.com/articles/3772164",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "小鹿探访欧洲最混乱城市",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%B9%BF%E6%8E%A2%E8%AE%BF%E6%AC%A7%E6%B4%B2%E6%9C%80%E6%B7%B7%E4%B9%B1%E5%9F%8E%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1719,7 +2109,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1744,28 +2134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
-        },
-        {
-          "title": "小米新耳机将采用全新形态设计",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%80%B3%E6%9C%BA%E5%B0%86%E9%87%87%E7%94%A8%E5%85%A8%E6%96%B0%E5%BD%A2%E6%80%81%E8%AE%BE%E8%AE%A1%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
-          "url": "https://wallstreetcn.com/articles/3772146",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "据阿联酋新闻社：阿联酋总统与美国总统特朗普通话讨论战略合作，并审议了中东局势发展。",
@@ -1818,9 +2186,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：我们仍然最接近基线情景。",
+          "url": "https://flash.jin10.com/detail/20260513203821020800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2.1%。",
@@ -1862,7 +2241,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1895,7 +2274,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1961,9 +2340,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：六月会议将在加息与维持不变之间作出决策。",
+          "url": "https://flash.jin10.com/detail/20260513203808418800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "参议院确认凯文·沃什进入美联储理事会，主席投票或于周三举行",
@@ -2005,7 +2395,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -2071,9 +2461,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：若战争局势无改善，将难以维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260513203711291800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "拉美资产回撤，伊朗和平希望转淡且美国通胀数据构成压力",
@@ -2109,28 +2510,6 @@
           "time_info": "15时47分"
         },
         {
-          "title": "天安门广场挂起中美两国国旗",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%8C%82%E8%B5%B7%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%9B%BD%E6%97%97",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "股票奖励大缩水！黄仁勋2026财年总薪酬曝光 较上年少拿1360万美元",
-          "url": "https://www.cls.cn/detail/2369917",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "日本3月贸易帐将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260513074000001800",
           "source": "金十数据",
@@ -2148,9 +2527,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "美国PPI数据公布后，欧洲股市涨幅收窄，欧洲斯托克600指数当日内基本持平。",
+          "url": "https://flash.jin10.com/detail/20260513203630915800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -2181,7 +2571,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -2239,6 +2629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "根据航运数据及一位业内消息人士透露，印度哈尔迪亚石化公司已从阿曼进口石脑油，以替代来自科威特和卡塔尔的供应。",
+          "url": "https://flash.jin10.com/detail/20260513203428653800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "特朗普政府预计：与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日",
@@ -2302,7 +2703,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -2373,6 +2774,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "技术刘Pro：黄金昨日回撤并未引发大规模换手，筹码峰保持在4700岿然不动",
+          "url": "https://flash.jin10.com/detail/20260513203359222800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.03%，报26264点。 恒生科技指数主连夜盘收跌0.51%，报5062点。",
           "url": "https://wallstreetcn.com/livenews/3102469",
           "source": "华尔街见闻-快讯",
@@ -2426,17 +2838,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
-        },
-        {
-          "title": "中美经贸磋商 何立峰同美财长握手",
-          "url": "https://www.toutiao.com/trending/7639283902527540745/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "EIA短期能源展望报告：如果霍尔木兹海峡关闭至6月底，原油价格将比当前假设5月底重新开放的预测高出20美元/桶。",
@@ -2522,7 +2923,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -2588,9 +2989,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "美国总统特朗普抵京 韩正前往机场迎接",
+          "url": "https://wallstreetcn.com/livenews/3103025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "如何看待上海交通大学等单位联合署名的论文被指数据异常，相同数值、小数部分重复出现？",
@@ -2615,6 +3027,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "美国10年期国债收益率在PPI数据公布后上涨，日内涨1.5个基点至4.487%；美国两年期国债收益率涨1.5个基点，报4.011%。",
+          "url": "https://flash.jin10.com/detail/20260513203223154800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "标普500指数的11个板块中，可选消费板块收跌1.06%，信息技术/科技板块跌0.99%，能源板块涨0.71%，日用消费品板块涨1.56%，保健板块涨1.93%。",
           "url": "https://wallstreetcn.com/livenews/3102496",
           "source": "华尔街见闻-快讯",
@@ -2635,6 +3058,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "Nebius：将2026年资本支出指引上调至200亿美元至250亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3103023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "【金十期货整理：USDA 5月报告重点数据一览】金十期货5月13日讯，美国农业部公布5月供需报告，主要数据如下： <span class=\"section-news\">1. 美国2026/27年度大豆期末库存预期为3.10亿蒲式耳，低于路透预期的3.61亿蒲式耳；</span> <span class=\"section-news\">2. 美国2026/27年度玉米期末库存预期为19.57亿蒲式耳，高于路透预期的19.22亿蒲式耳；</span> <span class=\"section-news\">3. 美国2026/27年度小麦期末库存预期为7.62亿蒲式耳，低于路透预期的8.20亿蒲式耳；</span> <span class=\"section-news\">4. 全球2026/27年度大豆期末库存预期为1.2478亿吨，低于路透预期的1.2608亿吨；</span> <span class=\"section-news\">5. 全球2026/27年度玉米期末库存预期为2.7754亿吨，低于路透预期的2.8848亿吨；</span> <span class=\"section-news\">6. 全球2026/27年度小麦期末库存预期为2.7504亿吨，低于路透预期的2.8055亿吨；</span> <span class=\"section-news\">7. 美国2026/27年度大豆产量预期为44.35亿蒲式耳，略低于路透预期的44.44亿蒲式耳；</span> <span class=\"section-news\">8. 美国2026/27年度玉米产量预期为159.95亿蒲式耳，高于路透预期的159.26亿蒲式耳。</span> <span class=\"section-news\">9. 美国农业部在报告中称，2026/27年度美国大豆供应、压榨和出口预计高于上一年度，但期末库存下降；美国玉米供应、总使用量和期末库存预计下降，价格预期上升；全球玉米期末库存预计降至2.775亿吨，若兑现将为2013/14年度以来最低。</span>",
@@ -2690,6 +3124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "美国PPI数据公布后，现货黄金短线下挫约10美元，美元指数DXY短线上扬6点。",
+          "url": "https://flash.jin10.com/detail/20260513203100564800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "Anthropic洽谈至少按3亿美元收购开发者工具初创公司Stainless。 后者向Anthropic、OpenAI、谷歌等模型开发商销售软件。（The Information）",
@@ -2835,6 +3280,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "阿里巴巴：目前的（AI）供给能力无法完全满足不断增长的需求。 模型服务业务的快速增长将在未来几个季度对毛利率产生“非常积极的影响”。 过去一年我们坚定投入AI领域，未来两年也将继续坚定投资。 持续对云基础设施的投入将提升相关产品的毛利率。 我们认为这项AI投资在未来3到5年内的投资回报非常明确。",
+          "url": "https://wallstreetcn.com/livenews/3103016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "韩国防长：将评估分阶段参与霍尔木兹海峡护航行动",
           "url": "https://flash.jin10.com/detail/20260513070348541800",
           "source": "金十数据",
@@ -2885,9 +3341,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "欧佩克：将2026年全球经济增长预测维持在3.1%；将2027年全球经济增长预测维持在3.2%。 将2026年美国经济增长预测维持在2.2%；将2027年美国经济增长预测维持在2%。",
+          "url": "https://wallstreetcn.com/livenews/3103015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "上海黄金交易所黄金T+D 5月12日（周二）晚盘收盘下跌0.73%报1025.9元/克；<br/>上海黄金交易所白银T+D 5月12日（周二）晚盘收盘下跌0.28%报20912.0元/千克。",
@@ -3044,6 +3511,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "韩国执政党选出新任国会议长候选人",
+          "url": "https://wallstreetcn.com/livenews/3103013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "据韩国媒体：韩国国防部长表示，目前还不是就HMM船只遇袭事件采取行动的时候，已与美国方面进行了讨论。",
           "url": "https://flash.jin10.com/detail/20260513055437376800",
           "source": "金十数据",
@@ -3127,7 +3605,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -3160,7 +3638,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -3226,7 +3704,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -3270,7 +3748,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -3363,6 +3841,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "菲律宾参议院传出枪声",
+          "url": "https://wallstreetcn.com/livenews/3103008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "美国财长贝森特：就美日投资计划、关键矿产方面与日本首相高市早苗进行了讨论。",
           "url": "https://flash.jin10.com/detail/20260513053230893800",
           "source": "金十数据",
@@ -3385,6 +3874,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "菲律宾参议院议长：内政部长正前往参议院协助处理情况。",
+          "url": "https://flash.jin10.com/detail/20260513202743829800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "印度政府将黄金和白银基本进口税从5%上调至10%",
           "url": "https://wallstreetcn.com/livenews/3102479",
           "source": "华尔街见闻-快讯",
@@ -3405,6 +3905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "阿里巴巴CEO：预计约一年后，AI相关收入将突破50%，成为推动云收入增长的主要引擎。 公司正在看到AI模型及应用服务收入实现“指数级增长”，这一增长由基础模型服务和AI原生软件共同驱动。 模型服务平台上的Token消耗量环比大幅增长。 代理工作负载激增，显著提升了围绕CPU存储和容器构建的传统云产品需求。 我们的技术投入正开始带来商业回报。 我们目前的（AI）供给能力无法完全满足不断增长的需求。",
+          "url": "https://wallstreetcn.com/livenews/3103007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "美股大类资产类ETF多数收跌",
@@ -3438,6 +3949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "菲律宾参议院议长：就德拉罗萨参议员的情况已达成一项共识，双方承诺，未经协调不会强行进入参议院。我们不会放弃德拉罗萨参议员，将让他用尽一切法律救济途径。",
+          "url": "https://flash.jin10.com/detail/20260513202728604800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "美国总统特朗普：要么伊拉克做正确的事，要么让我们来搞定。",
@@ -3493,6 +4015,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "三菱日联：美元可能在未来几天进一步走强",
+          "url": "https://flash.jin10.com/detail/20260513202726867800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "现货黄金短线下挫逾20美元，日内跌幅扩大至2%，现报4640.33美元/盎司。",
