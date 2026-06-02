@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T11:37:46.646186+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-06-02T16:26:32.190392+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 161,
+      "match_count": 200,
       "titles": [
         {
           "title": "经济日报：华为韬定律为何出道即顶流",
@@ -70,11 +70,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时32分 ~ 11时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 16时26分]"
         },
         {
           "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
@@ -135,6 +136,17 @@
           "time_info": "[01时32分 ~ 05时30分]"
         },
         {
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普：以黎将立即停火",
           "url": "https://news.ifeng.com/c/8tc5U5rmZoF",
           "source": "凤凰网",
@@ -144,6 +156,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 05时30分]"
+        },
+        {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 16时26分]"
+        },
+        {
+          "title": "小泉进次郎否认日本走向“新型军国主义”，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33282033",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 16时26分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普八连涨再新高，英伟达大涨",
@@ -170,6 +207,42 @@
           "time_info": "[01时32分 ~ 07时26分]"
         },
         {
+          "title": "戏剧性一幕，特朗普被迫打了一个电话",
+          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 16时26分]"
+        },
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 16时26分]"
+        },
+        {
+          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
+          "url": "https://www.cls.cn/detail/2387782",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 16时26分]"
+        },
+        {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
@@ -180,17 +253,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时32分 ~ 11时37分]"
-        },
-        {
-          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
-          "url": "https://www.cls.cn/detail/2387748",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "据Business Insider：亚马逊(AMZN.O)卫星互联网负责人在上周蓝色起源火箭爆炸后告诫员工保持专注。",
@@ -226,27 +288,15 @@
           "time_info": "01时32分"
         },
         {
-          "title": "小泉进次郎否认日本走向“新型军国主义”，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33282033",
-          "source": "澎湃新闻",
+          "title": "迈威尔科技美股盘前涨超25%，黄仁勋表示Marvell可能会成为“下一家万亿美元公司”。",
+          "url": "https://wallstreetcn.com/livenews/3112927",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时32分 ~ 11时37分]"
-        },
-        {
-          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "16时26分"
         },
         {
           "title": "韩国5月CPI年率 3.1%，预期3.00%，前值2.60%。",
@@ -266,9 +316,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "港股收盘：恒生科技指数收涨4.72%，腾讯控股大涨超10%",
+          "url": "https://wallstreetcn.com/livenews/3112924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
@@ -293,13 +354,24 @@
           "time_info": "01时32分"
         },
         {
+          "title": "科大智能：与华西能源签1.3亿美元设备采购框架合同",
+          "url": "https://flash.jin10.com/detail/20260602160217199800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "重庆发行7年期一般债地方债，规模33.3800亿元，发行利率1.6200%，边际倍数4.47倍，倍数预期1.62； 重庆发行20年期普通专项地方债，规模67.0000亿元，发行利率2.3300%，边际倍数3.43倍，倍数预期2.33。",
           "url": "https://wallstreetcn.com/livenews/3112792",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -313,28 +385,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时32分 ~ 07时26分]"
-        },
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "戏剧性一幕，特朗普被迫打了一个电话",
-          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "航运数据显示，委内瑞拉对美国的石油出口在五月增加至约55.8桶/日",
@@ -354,9 +404,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "欧洲主要股指走高，德国DAX指数突破25000点，日内涨1.35%，欧洲斯托克50指数、法国CAC40指数、意大利富时MIB指数涨超1%，英国富时100指数涨0.53%。",
+          "url": "https://flash.jin10.com/detail/20260602160148820800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国总统特朗普：将询问内塔尼亚胡（与黎巴嫩真主党）发生了什么。（CNBC）",
@@ -405,15 +466,15 @@
           "time_info": "[01时32分 ~ 07时26分]"
         },
         {
-          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
-          "url": "https://www.cls.cn/detail/2387782",
-          "source": "财联社热门",
+          "title": "特朗普再发5张照片回味中国：他们的宴会厅又大又漂亮",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "16时26分"
         },
         {
           "title": "航运数据显示，委内瑞拉对印度的石油出口在五月增至约42.7万桶/日。",
@@ -571,6 +632,18 @@
           "time_info": "[05时30分 ~ 07时26分]"
         },
         {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 16时26分]"
+        },
+        {
           "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
           "url": "https://wallstreetcn.com/livenews/3112654",
           "source": "华尔街见闻-快讯",
@@ -581,6 +654,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 07时26分]"
+        },
+        {
+          "title": "事关美联储加息！华尔街老将震撼预言：应该就在7月份",
+          "url": "https://www.cls.cn/detail/2387779",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 16时26分]"
         },
         {
           "title": "超微电脑美股盘后涨7%，追随惠与（HPE）业绩报告发布之后的表现。",
@@ -655,6 +740,42 @@
           "time_info": "[05时30分 ~ 07时26分]"
         },
         {
+          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
+          "url": "https://www.cls.cn/detail/2387742",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 16时26分]"
+        },
+        {
+          "title": "打破\"只买不卖\"惯例！MSTR首度出售比特币，套现250万美元",
+          "url": "https://wallstreetcn.com/articles/3773584",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 16时26分]"
+        },
+        {
+          "title": "中美两军在美国夏威夷举行2026年度中美海上军事安全磋商机制工作小组会议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33285513",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 16时26分]"
+        },
+        {
           "title": "日本菲律宾想联手偷",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%83%B3%E8%81%94%E6%89%8B%E5%81%B7%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -688,15 +809,37 @@
           "time_info": "[05时29分 ~ 05时30分]"
         },
         {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
+          "title": "韩国“鸟叔”已被移交检察机关",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E2%80%9C%E9%B8%9F%E5%8F%94%E2%80%9D%E5%B7%B2%E8%A2%AB%E7%A7%BB%E4%BA%A4%E6%A3%80%E5%AF%9F%E6%9C%BA%E5%85%B3",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "黄仁勋：Marvell可能会成为“下一家万亿美元公司”",
+          "url": "https://wallstreetcn.com/articles/3773635",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "16时26分"
+        },
+        {
+          "title": "算力、存储之后是光连接？黄仁勋“钦点”下一家万亿美元公司",
+          "url": "https://www.cls.cn/detail/2388254",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "航运数据显示，5月份委内瑞拉输往加勒比地区用于储存的石油出口量降至约5.8万桶/日。",
@@ -727,9 +870,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260602160141642800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话，讨论伊朗及黎巴嫩局势",
@@ -743,13 +897,24 @@
           "time_info": "01时32分"
         },
         {
+          "title": "欧洲主要股指走高，德国DAX指数突破25000点，日内涨1.35%，欧洲斯托克50指数、法国CAC40指数、意大利富时MIB指数涨超1%，英国富时100指数涨0.53%。",
+          "url": "https://wallstreetcn.com/livenews/3112920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "俄对乌克兰全境发动空袭",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A8%E5%A2%83%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD",
           "source": "百度热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -782,7 +947,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -796,6 +961,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "日本夫妇拍军服结婚照被痛骂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354784&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%87%E6%8B%8D%E5%86%9B%E6%9C%8D%E7%BB%93%E5%A9%9A%E7%85%A7%E8%A2%AB%E7%97%9B%E9%AA%82",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "Alphabet拟融资800亿美元推进AI战略 伯克希尔将认购100亿美元股份",
+          "url": "https://www.cls.cn/detail/2387726",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "伊朗总统：要么强硬前行，要么牺牲",
@@ -842,17 +1029,6 @@
           "time_info": "01时32分"
         },
         {
-          "title": "事关美联储加息！华尔街老将震撼预言：应该就在7月份",
-          "url": "https://www.cls.cn/detail/2387779",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
           "title": "市场消息：俄罗斯联邦兽医和植物检疫监督局将从6月2日起限制从亚美尼亚进口樱桃、甜樱桃、杏、李子、桃、油桃和葡萄。",
           "url": "https://flash.jin10.com/detail/20260602004536493800",
           "source": "金十数据",
@@ -881,9 +1057,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "泰国央行行长：无需加息来应对通胀。",
+          "url": "https://flash.jin10.com/detail/20260602160049897800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "以色列媒体：真主党告诉特朗普“他们将同意停火”",
@@ -908,26 +1095,59 @@
           "time_info": "05时30分"
         },
         {
+          "title": "欧洲议会投票通过欧美贸易协议",
+          "url": "https://wallstreetcn.com/livenews/3112917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "特斯拉FSD入华国内智驾扛得住吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89FSD%E5%85%A5%E5%8D%8E%E5%9B%BD%E5%86%85%E6%99%BA%E9%A9%BE%E6%89%9B%E5%BE%97%E4%BD%8F%E5%90%97%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "乌克兰首都基辅连续传出剧烈爆炸声",
           "url": "https://www.toutiao.com/trending/7645848883202441279/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
         {
-          "title": "打破\"只买不卖\"惯例！MSTR首度出售比特币，套现250万美元",
-          "url": "https://wallstreetcn.com/articles/3773584",
-          "source": "华尔街见闻",
+          "title": "A股三大指数集体收涨 贵金属涨幅居前",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E6%B6%A8+%E8%B4%B5%E9%87%91%E5%B1%9E%E6%B6%A8%E5%B9%85%E5%B1%85%E5%89%8D",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "16时26分"
+        },
+        {
+          "title": "关口出现多仓大额减持，黄金要维持反弹需先防此处",
+          "url": "https://flash.jin10.com/detail/20260602160033742800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "LME期铜收涨196美元，报13832美元/吨。 LME期铝收涨50美元，报3716美元/吨。 LME期锌收涨38美元，报3578美元/吨。 LME期铅收跌10美元，报2006美元/吨。 LME期镍收涨189美元，报19251美元/吨。 LME期锡收涨1231美元，报56649美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -947,7 +1167,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -958,9 +1178,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "美学者破防，“特朗普现在对中国，比对加拿大都亲”",
+          "url": "https://news.ifeng.com/c/8tcn1AFVlOS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)拟进行800亿美元的股权融资，伯克希尔·哈撒韦将向Alphabet投资100亿美元。",
@@ -980,9 +1211,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "欧洲议会议员伯纳德·朗格：欧洲议会国际贸易委员会以压倒性多数支持落实欧美协议谈判结果。下一步，将于6月16日举行全体会议投票。",
+          "url": "https://flash.jin10.com/detail/20260602160029991800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "Apollo首席经济学家称AI热潮将浇灭美联储新任主席沃什快速降息的希望",
@@ -1007,24 +1249,13 @@
           "time_info": "05时30分"
         },
         {
-          "title": "中美两军在美国夏威夷举行2026年度中美海上军事安全磋商机制工作小组会议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33285513",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
           "title": "告别“永不卖出”策略！Strategy披露出售比特币 卖出32枚套现250万美元",
           "url": "https://www.cls.cn/detail/2387674",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1035,7 +1266,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1068,9 +1299,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "上海黄金交易所6月2日（周二）交易行情",
+          "url": "https://flash.jin10.com/detail/20260602160027026800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "国开行发行3年期债券，规模30亿元，发行利率1.3630%，预期1.3700%，投标倍数5.61倍，边际倍数3.00倍； 国开行发行10年期债券，规模130亿元，发行利率1.7208%，预期1.7200%，投标倍数3.56倍，边际倍数4.14倍。",
@@ -1079,20 +1321,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
         {
-          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
-          "url": "https://www.cls.cn/detail/2387742",
-          "source": "财联社热门",
+          "title": "原华为盘古“90后少帅”离职创业，新公司已获1亿美元估值新融资",
+          "url": "https://wallstreetcn.com/livenews/3112911",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "16时26分"
         },
         {
           "title": "据以色列第12频道：以色列总理内塔尼亚胡和特朗普进行通话。",
@@ -1117,6 +1359,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "欧洲议会国际贸易委员会投票通过欧美贸易协议",
+          "url": "https://flash.jin10.com/detail/20260602155710325800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
           "url": "https://wallstreetcn.com/livenews/3112640",
           "source": "华尔街见闻-快讯",
@@ -1134,9 +1387,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "甘肃发行7年期一般债地方债，规模109.4100亿元，发行利率1.6200%，边际倍数2.23倍，倍数预期1.62。",
+          "url": "https://wallstreetcn.com/livenews/3112910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "中国情侣在富士山前跳舞，遭日本网民网暴，当事人称「对日本祛魅了」，为啥会这样？日本变得更排外了吗？",
+          "url": "https://www.zhihu.com/question/2044758349561036976",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "金十数据整理：昨日今晨重要新闻汇总（2026-06-02）",
@@ -1156,9 +1431,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "泰国央行行长：货币政策将聚焦于通胀问题。",
+          "url": "https://flash.jin10.com/detail/20260602155316569800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美股光通信概念股Credo股价盘后跌超15%。 最新业绩报告显示，该公司第四财季营收4.37亿美元，分析师预期4.325亿美元。 第四财季调整后每股收益（EPS）为1.16美元，分析师预期1美元。 预计第一财季营收4.65亿-4.75亿美元，分析师预期4.605亿美元。",
@@ -1189,7 +1475,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1260,6 +1546,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "欧洲议会决定取消对美国商品的多项欧盟进口关税",
+          "url": "https://flash.jin10.com/detail/20260602155155841800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "日本计划让储能电池销售到2035年增长两倍。（日本读卖新闻）",
           "url": "https://wallstreetcn.com/livenews/3112667",
           "source": "华尔街见闻-快讯",
@@ -1277,9 +1574,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "高盛据悉正在协助科威特零售商Boutiqaat进行IPO。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3112906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "曝特朗普私下多次质疑万斯实力",
@@ -1288,7 +1596,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1315,6 +1623,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-06-02）",
+          "url": "https://flash.jin10.com/detail/20260602155023474800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "惠与第二财季调整后每股收益（EPS）为0.79美元，分析师预期0.54美元。 将Elliott Investment Partners的Chris Hsu纳入董事会。 预计全年调整后EPS为3.35-3.45美元，公司原本预计2.30-2.50美元。 惠与（HPE）美股盘后涨28%。",
           "url": "https://wallstreetcn.com/livenews/3112635",
           "source": "华尔街见闻-快讯",
@@ -1335,6 +1654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美、布两油日内均跌超2%，现分别报92.56美元/桶和93.07美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260602154959475800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "加拿大央行高级副行长Rogers：需要看淡技术性经济衰退指标。 而需要更加关注领先经济指标。 4月GDP初值数据表明经济反弹了。",
@@ -1365,9 +1695,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "当小米车主遇到问界车主",
+          "url": "https://www.douyin.com/hot/2520867",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "金十图示：2026年06月01日（周一）全球股市指数-美洲市场（收盘）",
@@ -1420,9 +1761,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "法国生物制药公司Abivax股价下跌30%，报道称其药物试验数据因癌症病例而变得复杂。",
+          "url": "https://wallstreetcn.com/livenews/3112903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "加拿大央行高级副行长罗杰斯：4月份GDP的初步数据显示，经济已出现一定程度的反弹。",
@@ -1453,9 +1805,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "乌克兰军方：已袭击俄罗斯的伊尔斯基石油炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260602154352336800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "Salesforce对Anthropic投资的估值大约为50亿美元。",
@@ -1497,7 +1860,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1585,9 +1948,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "特朗普被曝拟放弃“反武器化”基金计划",
+          "url": "https://wallstreetcn.com/livenews/3112899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国总统特朗普向NBC新闻记者表示，我们将继续在霍尔木兹海峡维持封锁。",
@@ -1610,6 +1984,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "韩正将赴俄罗斯出席第二十九届圣彼得堡国际经济论坛并访问白俄罗斯",
+          "url": "https://wallstreetcn.com/livenews/3112898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国总统特朗普在接受NBC新闻记者采访时表示，关于伊朗“说实话，我觉得我们谈得太多了。我认为保持沉默会非常好。”",
@@ -1656,6 +2041,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "日本央行与投资者会议纪要：有与会者表示，无需进一步缩减债券购买。 目前以每月2.1万亿日元的速度购债是合适的。",
+          "url": "https://wallstreetcn.com/livenews/3112897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "美国总统特朗普在接受NBC新闻记者采访时表示，他尚未收到伊朗关于暂停谈判的消息。",
           "url": "https://flash.jin10.com/detail/20260602001302121800",
           "source": "金十数据",
@@ -1698,6 +2094,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "农发行发行2年期债券，规模60亿元，发行利率1.3750%，预期1.3800%，投标倍数2.81倍，边际倍数1.02倍； 农发行发行7年期债券，规模30亿元，发行利率1.3834%，预期1.5800%，投标倍数6.00倍，边际倍数2.00倍。",
+          "url": "https://wallstreetcn.com/livenews/3112896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "金十图示：2026年06月01日（周一）热门中概股行情一览（美股收盘）",
@@ -1750,7 +2157,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1761,7 +2168,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1777,13 +2184,35 @@
           "time_info": "01时32分"
         },
         {
+          "title": "农发行发行2年期债券，规模30亿元，发行利率1.3400%，预期1.3700%，投标倍数5.29倍，边际倍数1.93倍。",
+          "url": "https://wallstreetcn.com/livenews/3112893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "微软和英伟达正重新定义整个PC产业吗",
+          "url": "https://www.toutiao.com/trending/7646645091041283626/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "美股芯片股狂飙",
           "url": "https://www.toutiao.com/trending/7646434050596438057/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1805,9 +2234,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "欧股开盘集体上涨，欧洲斯托克50指数涨0.66%，英国富时100指数涨0.3%，法国CAC40指数涨0.6%，德国DAX指数涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3112891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     }
