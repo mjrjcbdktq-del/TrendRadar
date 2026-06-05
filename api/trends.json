@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T13:13:53.231027+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-06-05T17:40:31.709375+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 224,
+      "match_count": 252,
       "titles": [
         {
           "title": "两日本人在吉林处理日军遗弃武器受伤",
@@ -108,6 +108,29 @@
           "time_info": "[01时44分 ~ 08时04分]"
         },
         {
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 17时40分]"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 17时40分]"
+        },
+        {
           "title": "核观察｜韩国公布核潜艇研发计划，东北亚水下核竞赛加剧",
           "url": "https://m.thepaper.cn/newsDetail_forward_33300292",
           "source": "澎湃新闻",
@@ -132,15 +155,19 @@
           "time_info": "[01时44分 ~ 08时04分]"
         },
         {
-          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3773843",
-          "source": "华尔街见闻",
+          "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33308605",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            19,
+            17,
+            13,
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 13时13分]"
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 17时40分]"
         },
         {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
@@ -160,18 +187,6 @@
           "ranks": [
             4,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 13时13分]"
-        },
-        {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -215,13 +230,24 @@
           "time_info": "[01时44分 ~ 04时01分]"
         },
         {
+          "title": "日本拥核已是现实威胁",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E5%B7%B2%E6%98%AF%E7%8E%B0%E5%AE%9E%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 17时40分]"
+        },
+        {
           "title": "习近平将访问朝鲜",
           "url": "https://www.toutiao.com/trending/7647725254445858822/",
           "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -232,9 +258,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "习近平将对朝鲜民主主义人民共和国进行国事访问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33314193",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "就在今晚！沃什任内首个“非农夜” 美联储离加息究竟有多远？",
+          "url": "https://www.cls.cn/detail/2391719",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美联储戴利：目前人工智能可能带来通胀下降的影响，但这不是紧迫的问题。",
@@ -281,27 +329,13 @@
           "time_info": "08时04分"
         },
         {
-          "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33308605",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时44分 ~ 13时13分]"
-        },
-        {
           "title": "涉与乌克兰谈判，普京最新表态",
           "url": "https://news.ifeng.com/c/8thZ8nmTGrD",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -367,20 +401,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
         {
-          "title": "欧洲智库报告称「中国冲击波」正「吃掉德国工业午餐」，面对合作与对抗两难，德国将如何抉择？",
-          "url": "https://www.zhihu.com/question/2045317414276093768",
-          "source": "知乎",
+          "title": "中国央行就《人民币存贷款利率管理规定》公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3114990",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "17时40分"
         },
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
@@ -444,7 +478,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -477,7 +511,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -495,15 +529,15 @@
           "time_info": "[06时18分 ~ 13时13分]"
         },
         {
-          "title": "日本拥核已是现实威胁",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E5%B7%B2%E6%98%AF%E7%8E%B0%E5%AE%9E%E5%A8%81%E8%83%81",
-          "source": "百度热搜",
+          "title": "财联社C50风向指数调查：5月信贷或同比小幅少增，新增社融或同比继续下行",
+          "url": "https://www.cls.cn/detail/2391733",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "17时40分"
         },
         {
           "title": "美联储施密德：通胀仍然过高，这已经是一场持续五年的斗争，美联储仍在努力寻找解决方案。",
@@ -556,7 +590,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -583,13 +617,35 @@
           "time_info": "08时04分"
         },
         {
+          "title": "怎么看待中山大学陈旭、林天歆等的论文数据问题？",
+          "url": "https://www.zhihu.com/question/2045758924641548286",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "外交部介绍习近平总书记访问朝鲜有关安排",
+          "url": "https://www.cls.cn/detail/2391780",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "特朗普最新支持率曝光，压力骤增",
           "url": "https://news.ifeng.com/c/8thXPDq9zi0",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -622,9 +678,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "美、布两油短线走低近1美元，现分别报93.59美元/桶和93.36美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260605171420722800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美联储Schmid：美国经济形势良好。",
@@ -748,6 +815,18 @@
           "time_info": "[06时19分 ~ 08时04分]"
         },
         {
+          "title": "欧洲智库报告称「中国冲击波」正「吃掉德国工业午餐」，面对合作与对抗两难，德国将如何抉择？",
+          "url": "https://www.zhihu.com/question/2045317414276093768",
+          "source": "知乎",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 17时40分]"
+        },
+        {
           "title": "【每日收评】三大指数缩量整理全线收跌，全市场超4100股飘绿，半导体芯片逆势活跃",
           "url": "https://www.cls.cn/detail/2390784",
           "source": "财联社热门",
@@ -833,6 +912,18 @@
           "time_info": "[08时04分 ~ 13时13分]"
         },
         {
+          "title": "韩国证券账户数比总人口还多，年轻人借钱炒股甚至辞职全职投资，这轮牛市为何成了普通人的「最后一搏」？",
+          "url": "https://www.zhihu.com/question/2045794379957278430",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 17时40分]"
+        },
+        {
           "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
@@ -843,6 +934,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 04时01分]"
+        },
+        {
+          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 17时40分]"
         },
         {
           "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
@@ -943,7 +1046,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -959,15 +1062,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "韩国证券账户数比总人口还多，年轻人借钱炒股甚至辞职全职投资，这轮牛市为何成了普通人的「最后一搏」？",
-          "url": "https://www.zhihu.com/question/2045794379957278430",
-          "source": "知乎",
+          "title": "中方回应外媒称AI进入“中美争霸”",
+          "url": "https://www.toutiao.com/trending/7647807825645699126/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "17时40分"
         },
         {
           "title": "美联储戴利：（问及5到10年展望时表示）人工智能可能会降低通胀。",
@@ -998,7 +1101,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1020,9 +1123,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "黄仁勋韩国行点名见Faker",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354895&amp;topic_name=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%9F%A9%E5%9B%BD%E8%A1%8C%E7%82%B9%E5%90%8D%E8%A7%81Faker",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "周锡玮：没有人会理日本菲律宾",
@@ -1031,9 +1145,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
@@ -1042,7 +1167,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1067,6 +1192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "据乌克兰方面消息，切尔尼戈夫遭无人机袭击，7人受伤。",
+          "url": "https://flash.jin10.com/detail/20260605171221498800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
@@ -1097,7 +1233,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1108,20 +1244,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
         {
-          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
-          "source": "澎湃新闻",
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "17时40分"
         },
         {
           "title": "美联储戴利：到目前为止，生成式人工智能更多是用来辅助而不是取代劳动力。",
@@ -1163,7 +1299,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1207,7 +1343,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1223,6 +1359,28 @@
           "time_info": "08时04分"
         },
         {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "如何看韩国全面炒股热潮",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E9%9F%A9%E5%9B%BD%E5%85%A8%E9%9D%A2%E7%82%92%E8%82%A1%E7%83%AD%E6%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "“加息噩梦”愈发近了？美联储票委：或许就在今年晚些时候！",
           "url": "https://www.cls.cn/detail/2390683",
           "source": "财联社热门",
@@ -1232,6 +1390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "一纸财报引发“血案”：博通、美光齐创史上最大单日市值蒸发记录",
+          "url": "https://www.cls.cn/detail/2391633",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美联储戴利：油价正在推高能源和食品价格。",
@@ -1273,7 +1442,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1306,9 +1475,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "登月暗战打响，中美路线迥异",
+          "url": "https://v.ifeng.com/c/8tgYHU5uBaz",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美联储戴利：通胀主要受到关税推动，而这些影响有望逐步消退。",
@@ -1361,7 +1541,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1416,9 +1596,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "世界杯下周开幕！德银&高盛：这些股票有望受益……",
+          "url": "https://www.cls.cn/detail/2391510",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美联储戴利：目前还没有看到人工智能对通胀数据产生明显影响。",
@@ -1471,7 +1662,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1504,7 +1695,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1518,6 +1709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "点阵图最后的“降息点”恐将消失！美联储“紧缩蜕变”将从本月开始？",
+          "url": "https://www.cls.cn/detail/2391350",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美联储戴利：一些公司和行业已经开始看到人工智能带来的生产率提升，但目前还没有在整体经济层面体现出来。",
@@ -1548,7 +1750,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1636,7 +1838,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1702,7 +1904,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1727,6 +1929,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "韩国股市跌到熔断",
+          "url": "https://www.douyin.com/hot/2524275",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "俄罗斯总统普京：俄方曾使用“榛树”导弹对相关效果进行测试。",
@@ -1768,9 +1981,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "俄罗斯央行副行长扎博特金：央行在调整关键利率路径及修订经济预测时，将把延后实现基本预算零赤字目标的因素纳入考量。",
+          "url": "https://flash.jin10.com/detail/20260605170840231800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "LME期铜收涨107美元，报13932美元/吨。 LME期铝收跌38美元，报3666美元/吨。 LME期锌收跌22美元，报3588美元/吨。 LME期铅收跌6美元，报2017美元/吨。 LME期镍收跌182美元，报18689美元/吨。 LME期锡收跌1664美元，报55744美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -1856,7 +2080,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1944,7 +2168,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1958,6 +2182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "特朗普开会睡觉视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "俄罗斯总统普京：特朗普在阿拉斯加曾要求俄罗斯作出一定妥协，俄方对此已准备就绪。",
@@ -1988,9 +2223,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "摩根大通：将高通(QCOM.O)目标价从160美元上调至265美元。",
+          "url": "https://flash.jin10.com/detail/20260605170657123800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美国财长贝森特：我并不提前掌握明天将要发布的非农就业数据。",
@@ -2013,6 +2259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "日本为何一直在台湾问题上挑衅",
+          "url": "https://www.toutiao.com/trending/7647502439286145065/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "俄罗斯总统普京：乌克兰缺乏巡航导弹及其他俄罗斯所拥有的武器。",
@@ -2076,7 +2333,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -2131,7 +2388,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -2164,7 +2421,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -2208,9 +2465,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "日本或将南京大屠杀改为南京事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%96%E5%B0%86%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%94%B9%E4%B8%BA%E5%8D%97%E4%BA%AC%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "俄罗斯总统普京：俄罗斯近期在乌克兰已占领约2,440平方公里的地区。顿涅茨克地区超过85%已处于俄罗斯控制之下。俄罗斯控制了扎波罗热地区80%的区域。",
@@ -2274,9 +2542,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "专家解读菲总统府回应落选",
+          "url": "https://www.toutiao.com/trending/7647094740009140230/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "俄罗斯总统普京：俄方已完全控制卢甘斯克地区。",
@@ -2340,7 +2619,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -2378,6 +2657,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "中国人民银行发布关于《人民币存贷款利率管理规定》公开征求意见的通知。",
+          "url": "https://flash.jin10.com/detail/20260605170334236800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "【普京：控制顿巴斯和与乌方达成和平协议不矛盾】俄罗斯总统普京4日在圣彼得堡会见世界主要通讯社负责人时表示，控制顿巴斯地区和与乌克兰达成和平协议并不矛盾。顿巴斯地区主要包括卢甘斯克和顿涅茨克两地。普京表示，俄罗斯已经控制整个卢甘斯克地区、顿涅茨克地区85%的区域和扎波罗热地区80%的区域。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3114575",
           "source": "华尔街见闻-快讯",
@@ -2406,7 +2696,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -2420,6 +2710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "俄罗斯央行副行长扎博特金：降息空间并未缩小。",
+          "url": "https://flash.jin10.com/detail/20260605170333616800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "高盛CEO：AI或将遏制银行工程师队伍的剧烈扩张",
@@ -2464,6 +2765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "母亲把黄金藏水壶被女儿当废品卖了",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E6%8A%8A%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.48%，前值6.53%——为2025年8月份以来最高位。",
@@ -2516,7 +2828,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         }
