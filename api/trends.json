@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T18:26:10.555343+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-06-13T20:24:01.057592+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 176,
+      "match_count": 188,
       "titles": [
         {
           "title": "亚洲骄傲!韩国2-1逆转捷克",
@@ -20,8 +20,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 18时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 20时24分]"
+        },
+        {
+          "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
+          "url": "https://wallstreetcn.com/articles/3774544",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 20时24分]"
         },
         {
           "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
@@ -36,6 +48,32 @@
           "time_info": "[00时15分 ~ 11时23分]"
         },
         {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 20时24分]"
+        },
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 20时24分]"
+        },
+        {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
@@ -47,16 +85,20 @@
           "time_info": "[00时15分 ~ 07时15分]"
         },
         {
-          "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
-          "url": "https://wallstreetcn.com/articles/3774544",
-          "source": "华尔街见闻",
+          "title": "宝可梦数据被指用于军事",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355102&amp;topic_name=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%95%B0%E6%8D%AE%E8%A2%AB%E6%8C%87%E7%94%A8%E4%BA%8E%E5%86%9B%E4%BA%8B",
+          "source": "贴吧",
           "ranks": [
-            2,
-            1
+            13,
+            15,
+            16,
+            19,
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 18时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 20时24分]"
         },
         {
           "title": "5月金融数据出炉：社融存量同比增7.7%，融资结构出现明显变化",
@@ -92,46 +134,50 @@
           "time_info": "[00时15分 ~ 07时15分]"
         },
         {
-          "title": "宝可梦数据被指用于军事",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355102&amp;topic_name=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%95%B0%E6%8D%AE%E8%A2%AB%E6%8C%87%E7%94%A8%E4%BA%8E%E5%86%9B%E4%BA%8B",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            15,
-            16,
-            19,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 18时26分]"
-        },
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            9,
-            2,
-            1
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时15分 ~ 18时26分]"
+          "time_info": "[15时43分 ~ 20时24分]"
         },
         {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
+          "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
+          "url": "https://www.zhihu.com/question/2048692040377033581",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时24分]"
+        },
+        {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
           "ranks": [
             5,
-            2,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 18时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 20时24分]"
+        },
+        {
+          "title": "日本炸鸡秘方:一锅油用66年",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355135&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E7%A7%98%E6%96%B9%3A%E4%B8%80%E9%94%85%E6%B2%B9%E7%94%A866%E5%B9%B4",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时24分]"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -158,16 +204,45 @@
           "time_info": "[00时15分 ~ 11时23分]"
         },
         {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
           "source": "财联社热门",
           "ranks": [
-            5,
-            3
+            10,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 20时24分]"
+        },
+        {
+          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
+          "url": "https://www.cls.cn/detail/2398816",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时29分 ~ 20时24分]"
+        },
+        {
+          "title": "汉字在韩国为何如此普遍",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%89%E5%AD%97%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E6%99%AE%E9%81%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 20时24分]"
         },
         {
           "title": "美国银行存款从上周的19.338万亿美元降至19.296万亿美元。",
@@ -181,15 +256,19 @@
           "time_info": "[05时29分 ~ 07时15分]"
         },
         {
-          "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
-          "url": "https://www.zhihu.com/question/2048692040377033581",
-          "source": "知乎",
+          "title": "日本拟设军工业支持机构，强化武器出口与技术发展",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33368139",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            20,
+            15,
+            12,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 20时24分]"
         },
         {
           "title": "SpaceX上市首日上涨19% 市值破2万亿美元成美国第六大公司",
@@ -201,6 +280,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 07时15分]"
+        },
+        {
+          "title": "GEN零封KT赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=GEN%E9%9B%B6%E5%B0%81KT%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -215,18 +305,6 @@
           "time_info": "[00时15分 ~ 05时29分]"
         },
         {
-          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
-          "url": "https://www.cls.cn/detail/2398924",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 18时26分]"
-        },
-        {
           "title": "1.8万亿航天巨头要来了！SpaceX开盘指示价一度暴涨30%，超3500亿美元疯抢史上最大IPO",
           "url": "https://wallstreetcn.com/articles/3774544",
           "source": "华尔街见闻",
@@ -236,17 +314,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 00时16分]"
-        },
-        {
-          "title": "日本炸鸡秘方:一锅油用66年",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355135&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E7%A7%98%E6%96%B9%3A%E4%B8%80%E9%94%85%E6%B2%B9%E7%94%A866%E5%B9%B4",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）华尔街恐惧与贪婪指数（美盘后）",
@@ -293,6 +360,20 @@
           "time_info": "11时23分"
         },
         {
+          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 20时24分]"
+        },
+        {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
           "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
           "source": "澎湃新闻",
@@ -305,6 +386,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 11时23分]"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 20时24分]"
         },
         {
           "title": "2万亿航天巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
@@ -362,17 +455,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "雷军：小米汽车高度重视测试工作 目前整个测试团队有800多人",
-          "url": "https://wallstreetcn.com/livenews/3119142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "2万亿航天巨头来了！SpaceX首秀盘中大涨30%，超3500亿美元疯抢史上最大IPO",
           "url": "https://wallstreetcn.com/articles/3774544",
           "source": "华尔街见闻",
@@ -417,17 +499,17 @@
           "time_info": "00时16分"
         },
         {
-          "title": "汉字在韩国为何如此普遍",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%89%E5%AD%97%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E6%99%AE%E9%81%8D",
-          "source": "bilibili 热搜",
+          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
+          "url": "https://wallstreetcn.com/articles/3774553",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
             8,
-            25
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 20时24分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）全球股市指数-欧洲市场",
@@ -469,7 +551,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -529,19 +611,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 18时26分]"
-        },
-        {
           "title": "日本炸鸡店一锅油用了66年",
           "url": "https://www.toutiao.com/trending/7650041794684043307/",
           "source": "今日头条",
@@ -579,19 +648,6 @@
           "time_info": "[00时15分 ~ 07时15分]"
         },
         {
-          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
-          "url": "https://www.cls.cn/detail/2398816",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时29分 ~ 18时26分]"
-        },
-        {
           "title": "专访｜中国美国商会会长眼中的中美关系新变化：回归正常与稳定预期",
           "url": "https://m.thepaper.cn/newsDetail_forward_33361470",
           "source": "澎湃新闻",
@@ -602,20 +658,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时15分 ~ 07时15分]"
-        },
-        {
-          "title": "日本拟设军工业支持机构，强化武器出口与技术发展",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33368139",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 18时26分]"
         },
         {
           "title": "日媒：中国发起“氢能攻势”，日本已落入下风",
@@ -665,6 +707,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时15分 ~ 07时15分]"
+        },
+        {
+          "title": "明明韩国已经能稳定在世界杯赢球了，为什么还有人说「这届韩国是未来 20 年最强」，韩国足球真在走下坡路吗？",
+          "url": "https://www.zhihu.com/question/2048742968513619883",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 20时24分]"
         },
         {
           "title": "周五（6月12日）纽约尾盘，标普500股指期货最终涨0.50%，道指期货涨0.68%，纳斯达克100股指期货涨0.71%。 罗素2000股指期货涨0.91%。",
@@ -719,6 +773,30 @@
           "time_info": "[11时23分 ~ 18时26分]"
         },
         {
+          "title": "雷军：小米汽车高度重视测试工作 目前整个测试团队有800多人",
+          "url": "https://wallstreetcn.com/livenews/3119142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 20时24分]"
+        },
+        {
+          "title": "Lisa 世界杯歌曲因充斥炫富歌词和性感舞蹈被批低俗，50 万韩国网友请愿「换人」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2043273255205832365",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时24分]"
+        },
+        {
           "title": "《宝可梦 GO》被荷兰媒体《Trouw》曝光成为美国军方数据供应商，训练无人机导航系统，如何看待此事？",
           "url": "https://www.zhihu.com/question/2048117055455499743",
           "source": "知乎",
@@ -743,29 +821,16 @@
           "time_info": "[05时29分 ~ 07时15分]"
         },
         {
-          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
-          "source": "澎湃新闻",
+          "title": "孙继海说董路的少年队是马戏团的草台班子，那孙继海的青训实力如何？有拿到过欧洲比赛的冠军吗?",
+          "url": "https://www.zhihu.com/question/2047660939407893403",
+          "source": "知乎",
           "ranks": [
             16,
-            13,
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时23分 ~ 18时26分]"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 18时26分]"
+          "time_info": "[18时25分 ~ 20时24分]"
         },
         {
           "title": "境外间谍利用“谍龟谍鱼”窃取我国海洋敏感数据，国安部提醒",
@@ -780,16 +845,17 @@
           "time_info": "[00时15分 ~ 05时29分]"
         },
         {
-          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
-          "url": "https://wallstreetcn.com/articles/3774553",
-          "source": "华尔街见闻",
+          "title": "美国将大幅减少驻欧洲战机数量",
+          "url": "https://wallstreetcn.com/livenews/3119124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            6,
+            19,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时43分 ~ 18时26分]"
+          "time_info": "[15时43分 ~ 20时24分]"
         },
         {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
@@ -813,18 +879,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 11时23分]"
-        },
-        {
-          "title": "明明韩国已经能稳定在世界杯赢球了，为什么还有人说「这届韩国是未来 20 年最强」，韩国足球真在走下坡路吗？",
-          "url": "https://www.zhihu.com/question/2048742968513619883",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 18时26分]"
         },
         {
           "title": "日本男足队长宣布退役",
@@ -885,16 +939,15 @@
           "time_info": "[11时23分 ~ 15时43分]"
         },
         {
-          "title": "美国将大幅减少驻欧洲战机数量",
-          "url": "https://wallstreetcn.com/livenews/3119124",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            19
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时43分 ~ 18时26分]"
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
@@ -930,6 +983,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 07时15分]"
+        },
+        {
+          "title": "“木头姐”卖出AMD股票，买入SpaceX股票",
+          "url": "https://wallstreetcn.com/livenews/3119137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 20时24分]"
         },
         {
           "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
@@ -1025,6 +1090,18 @@
           "time_info": "[05时29分 ~ 07时15分]"
         },
         {
+          "title": "网信办：金融信息服务数据的业务属性进行分类，其中一级分类为业务数据、用户数据和企业数据3类",
+          "url": "https://wallstreetcn.com/livenews/3119132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 20时24分]"
+        },
+        {
           "title": "截止至6月9日当周CFTC商品类非商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
           "url": "https://flash.jin10.com/detail/20260613040249588800",
           "source": "金十数据",
@@ -1048,6 +1125,18 @@
           "time_info": "[05时29分 ~ 07时15分]"
         },
         {
+          "title": "《金融信息服务数据分类分级指南》印发",
+          "url": "https://wallstreetcn.com/livenews/3119131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 20时24分]"
+        },
+        {
           "title": "韩国网友批Lisa世界杯开幕式歌曲低俗",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%89%B9Lisa%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AD%8C%E6%9B%B2%E4%BD%8E%E4%BF%97%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -1057,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 15时43分]"
+        },
+        {
+          "title": "日本流行音乐 (J-POP) 有何特点？",
+          "url": "https://www.zhihu.com/question/22534249",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "截止至6月9日当周CFTC外汇类商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
@@ -1070,15 +1170,15 @@
           "time_info": "[05时29分 ~ 07时15分]"
         },
         {
-          "title": "Lisa 世界杯歌曲因充斥炫富歌词和性感舞蹈被批低俗，50 万韩国网友请愿「换人」，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2043273255205832365",
+          "title": "普京宣布俄罗斯版「星链」要来了，称技术性能不逊于美国星链，在某些方面更胜一筹，俄版星链性能究竟如何？",
+          "url": "https://www.zhihu.com/question/2049121142619599290",
           "source": "知乎",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "截止至6月9日当周CFTC外汇类非商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
@@ -1127,17 +1227,6 @@
           "time_info": "[05时29分 ~ 07时15分]"
         },
         {
-          "title": "孙继海说董路的少年队是马戏团的草台班子，那孙继海的青训实力如何？有拿到过欧洲比赛的冠军吗?",
-          "url": "https://www.zhihu.com/question/2047660939407893403",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
           "title": "美股收盘，SpaceX上市首日收涨19%",
           "url": "https://flash.jin10.com/detail/20260613040143470800",
           "source": "金十数据",
@@ -1183,6 +1272,28 @@
           "time_info": "[00时15分 ~ 00时16分]"
         },
         {
+          "title": "黄金罕见大涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%BD%95%E8%A7%81%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
+          "title": "马斯克成史上首位万亿美元富豪！SpaceX上市首日涨19%，市值2.1万亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372407",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
           "title": "德比斯成为零跑Lafa5欧洲首位车主",
           "url": "https://www.toutiao.com/trending/7650446208871776319/",
           "source": "今日头条",
@@ -1205,6 +1316,17 @@
           "time_info": "[05时29分 ~ 07时15分]"
         },
         {
+          "title": "日本频频尾随偷窥辽宁舰",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A2%91%E9%A2%91%E5%B0%BE%E9%9A%8F%E5%81%B7%E7%AA%A5%E8%BE%BD%E5%AE%81%E8%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
           "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
           "url": "https://flash.jin10.com/detail/20260613033812680800",
           "source": "金十数据",
@@ -1214,6 +1336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 07时15分]"
+        },
+        {
+          "title": "央行狂买黄金金价却暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E7%8B%82%E4%B9%B0%E9%BB%84%E9%87%91%E9%87%91%E4%BB%B7%E5%8D%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "日本炸鸡店一锅油反复用66年",
@@ -1282,15 +1415,15 @@
           "time_info": "00时16分"
         },
         {
-          "title": "“木头姐”卖出AMD股票，买入SpaceX股票",
-          "url": "https://wallstreetcn.com/livenews/3119137",
+          "title": "日本核污染水排海再次因异常警报停止",
+          "url": "https://wallstreetcn.com/livenews/3119148",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "20时24分"
         },
         {
           "title": "日本不高兴了",
@@ -1414,17 +1547,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "网信办：金融信息服务数据的业务属性进行分类，其中一级分类为业务数据、用户数据和企业数据3类",
-          "url": "https://wallstreetcn.com/livenews/3119132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "德国DAX30指数6月12日（周五）收盘上涨414.47点，涨幅1.71%，报24624.36点；<br/>英国富时100指数6月12日（周五）收盘上涨168.55点，涨幅1.64%，报10472.43点；<br/>法国CAC40指数6月12日（周五）收盘上涨150.07点，涨幅1.83%，报8350.87点；<br/>欧洲斯托克50指数6月12日（周五）收盘上涨125.40点，涨幅2.07%，报6182.36点；<br/>西班牙IBEX35指数6月12日（周五）收盘上涨487.32点，涨幅2.66%，报18777.42点；<br/>意大利富时MIB指数6月12日（周五）收盘上涨1005.76点，涨幅1.99%，报51510.50点。",
           "url": "https://flash.jin10.com/detail/20260612233655238800",
           "source": "金十数据",
@@ -1456,17 +1578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "《金融信息服务数据分类分级指南》印发",
-          "url": "https://wallstreetcn.com/livenews/3119131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "美国总统特朗普在社交平台上发布了伊朗外长阿拉格齐关于美伊协议的推文截图。",
@@ -1579,6 +1690,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "乌克兰安全局：乌克兰无人机袭击了俄罗斯克拉斯诺达尔地区的塔曼石油天然气终端。",
+          "url": "https://flash.jin10.com/detail/20260613190838321800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "现货白银日内涨幅达1.0%，报67.98美元/盎司。 现货黄金日内涨幅达0.5%，报4233.91美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3118977",
           "source": "华尔街见闻-快讯",
@@ -1651,9 +1773,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "日本核污染水排海再次因异常警报停止",
+          "url": "https://flash.jin10.com/detail/20260613190525227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。 到7月左右，石油库存水平可能达到令人不安的程度。",
@@ -1915,9 +2048,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "俄罗斯国防部：俄军在“顿涅茨克人民共和国”康斯坦丁诺夫卡市解放了172栋建筑物，乌军损失40名军人。",
+          "url": "https://flash.jin10.com/detail/20260613183442596800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "上海航交所：本周沿海（散货）综合运价指数持稳运行",
