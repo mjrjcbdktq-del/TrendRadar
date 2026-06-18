@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T07:28:34.495238+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-06-18T11:34:58.982924+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 182,
+      "match_count": 221,
       "titles": [
         {
           "title": "今夜全球瞩目，沃什“美联储首秀”会向市场扔炸弹吗？",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 11时34分]"
         },
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -38,11 +39,49 @@
           "source": "知乎",
           "ranks": [
             5,
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 11时34分]"
+        },
+        {
+          "title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息",
+          "url": "https://www.cls.cn/detail/2402931",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 11时34分]"
+        },
+        {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 11时34分]"
+        },
+        {
+          "title": "美联储继续按兵不动但暗示鹰派倾向，强调通胀承诺，半数决策者料年内加息",
+          "url": "https://wallstreetcn.com/articles/3774938",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 11时34分]"
         },
         {
           "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
@@ -58,28 +97,16 @@
           "time_info": "[00时37分 ~ 07时28分]"
         },
         {
-          "title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息",
-          "url": "https://www.cls.cn/detail/2402931",
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
           "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            3,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时28分]"
-        },
-        {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时28分]"
+          "time_info": "[07时28分 ~ 11时34分]"
         },
         {
           "title": "SpaceX上市后股价飙升49%，市值超越亚马逊，逼近微软，股票期权开始交易",
@@ -106,17 +133,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 07时28分]"
-        },
-        {
-          "title": "美联储继续按兵不动但暗示鹰派倾向，强调通胀承诺，半数决策者料年内加息",
-          "url": "https://wallstreetcn.com/articles/3774938",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时28分]"
         },
         {
           "title": "美国总统特朗普感谢巴基斯坦和卡塔尔在达成协议方面的协助。",
@@ -158,9 +174,55 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美联储宣布维持利率不变",
+          "url": "https://www.douyin.com/hot/2538695",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美联储新主席沃什释放强烈信号：美联储的天，要变了",
+          "url": "https://www.cls.cn/detail/2402978",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 11时34分]"
+        },
+        {
+          "title": "完整版首秀问答！美联储主席沃什：坚守2%通胀目标，成立五个特别工作组，个人未提交点阵图",
+          "url": "https://wallstreetcn.com/articles/3774941",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
+          "url": "https://www.cls.cn/detail/2403010",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：将讨论弹道导弹和恐怖主义代理人问题。",
@@ -191,7 +253,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -224,7 +286,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -240,15 +302,15 @@
           "time_info": "03时24分"
         },
         {
-          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
-          "url": "https://www.cls.cn/detail/2403003",
+          "title": "一图解读美联储6月决议：如期“按兵不动”，沃什明言重大改革将至！",
+          "url": "https://www.cls.cn/detail/2403006",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：与海湾国家并行努力。",
@@ -273,6 +335,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "以色列始终认为不受美伊协议约束 特朗普直言以战术不可接受",
+          "url": "https://flash.jin10.com/detail/20260618111057786800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美国总统特朗普：不会给伊朗钱。",
           "url": "https://wallstreetcn.com/livenews/3121145",
           "source": "华尔街见闻-快讯",
@@ -295,6 +368,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "进出口行发行2年期债券，规模30亿元，发行利率1.2100%，预期1.4500%，投标倍数5.02倍，边际倍数2.87倍。",
+          "url": "https://wallstreetcn.com/livenews/3121396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美联储",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%81%94%E5%82%A8&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -306,6 +390,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
+          "url": "https://v.ifeng.com/c/8u3B5EM0Jqc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：与海湾国家讨论非核问题。",
@@ -347,9 +442,44 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "苹果将涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美联储内部鸽派集体转鹰，沃什首秀“左右为难”",
+          "url": "https://wallstreetcn.com/articles/3774866",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 11时34分]"
+        },
+        {
+          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
+          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 11时34分]"
         },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
@@ -380,7 +510,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -413,9 +543,63 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 11时34分]"
+        },
+        {
+          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 11时34分]"
+        },
+        {
+          "title": "提西瓜就急,韩国人原地破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355226&amp;topic_name=%E6%8F%90%E8%A5%BF%E7%93%9C%E5%B0%B1%E6%80%A5%2C%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%8E%9F%E5%9C%B0%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 11时34分]"
+        },
+        {
+          "title": "日本球迷捡垃圾被批作秀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355202&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E6%8D%A1%E5%9E%83%E5%9C%BE%E8%A2%AB%E6%89%B9%E4%BD%9C%E7%A7%80",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 11时34分]"
         },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -476,41 +660,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
-          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 07时28分]"
-        },
-        {
-          "title": "美联储内部鸽派集体转鹰，沃什首秀“左右为难”",
-          "url": "https://wallstreetcn.com/articles/3774866",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 07时28分]"
-        },
-        {
-          "title": "美联储新主席沃什释放强烈信号：美联储的天，要变了",
-          "url": "https://www.cls.cn/detail/2402978",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时28分]"
         },
         {
           "title": "伊朗国家电视台确认伊美总统已线上签署MoU，已经生效",
@@ -586,62 +735,12 @@
           "time_info": "[00时37分 ~ 07时28分]"
         },
         {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 07时28分]"
-        },
-        {
-          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 07时28分]"
-        },
-        {
           "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
           "url": "https://www.zhihu.com/question/2050515273640423854",
           "source": "知乎",
           "ranks": [
             17,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 07时28分]"
-        },
-        {
-          "title": "提西瓜就急,韩国人原地破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355226&amp;topic_name=%E6%8F%90%E8%A5%BF%E7%93%9C%E5%B0%B1%E6%80%A5%2C%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%8E%9F%E5%9C%B0%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 07时28分]"
-        },
-        {
-          "title": "日本球迷捡垃圾被批作秀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355202&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E6%8D%A1%E5%9E%83%E5%9C%BE%E8%A2%AB%E6%89%B9%E4%BD%9C%E7%A7%80",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24,
-            25
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -714,9 +813,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡的海上交通显著增加。海峡的能源流动将在未来几天恢复。",
@@ -747,7 +857,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -772,6 +882,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "为什么欧洲的建筑看起来要比中国的建筑美观许多？",
+          "url": "https://www.zhihu.com/question/21649720",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
+          "url": "https://news.ifeng.com/c/8u3AtJ60oqA",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美联储主席沃什：当市场过于关注美联储的反应机制时，效率会降低。",
@@ -802,7 +934,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -827,6 +959,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "iPhone18Pro或涨270美元",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%88%96%E6%B6%A8270%E7%BE%8E%E5%85%83%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：在资金和投资方面，我们不会给伊朗任何东西。",
@@ -860,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "金十数据整理：每日存储市场要闻速递（2026-06-18）",
+          "url": "https://flash.jin10.com/detail/20260618110551864800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：波音757是一款不错的飞机。",
@@ -901,7 +1055,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -915,6 +1069,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美联储维持利率不变有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "特朗普G7峰会迟到，还宣布“我是老大”",
+          "url": "https://news.ifeng.com/c/8u3Bdreuuj0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：关于核库存的技术性讨论将会立即开始。",
@@ -956,7 +1132,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -994,6 +1170,28 @@
           "time_info": "05时58分"
         },
         {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "苹果库克称“涨价已无法避免” 刚果（金）收获队史世界杯首球和首分 | 环球市场",
+          "url": "https://www.cls.cn/detail/2403039",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美国总统特朗普：伊朗的行为非常得体。",
           "url": "https://flash.jin10.com/detail/20260618001939110800",
           "source": "金十数据",
@@ -1011,7 +1209,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1049,6 +1247,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "德银：上调美光目标价至1500美元 预计存储短缺将持续至2028年",
+          "url": "https://www.cls.cn/detail/2402856",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美国总统特朗普：我对黎巴嫩感到非常难过。",
           "url": "https://flash.jin10.com/detail/20260618001917273800",
           "source": "金十数据",
@@ -1077,7 +1286,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1102,6 +1311,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "沃什上任后首次议息会议，美联储如期「按兵不动」，议息声明大修改，怎样解读？",
+          "url": "https://www.zhihu.com/question/2050851932814537240",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "库克：苹果将涨价",
+          "url": "https://www.toutiao.com/trending/7652472554371989558/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美伊签了！美股期货直线拉升",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%8A%E7%AD%BE%E4%BA%86%EF%BC%81%E7%BE%8E%E8%82%A1%E6%9C%9F%E8%B4%A7%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：以色列在处理黎巴嫩真主党方面可以做得更好。",
@@ -1132,9 +1374,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "特朗普伊朗协议引发分歧：内塔尼亚胡强烈不满，盟友阵营分裂",
+          "url": "https://flash.jin10.com/detail/20260618110329911800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：过去两天向盟友们提供了讨论伊朗问题的机会。 我们讨论了伊朗协议的细节。",
@@ -1168,6 +1421,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "陈冲马伊琍怒批靠大数据去投资影视作品是「极大的错误」，数据永远是过去式，艺术是例外，你怎么看？",
+          "url": "https://www.zhihu.com/question/2050661479452336889",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "FED独立性保住了？特朗普“笃信”沃什：按兵不动没问题，可能会加息！",
+          "url": "https://www.cls.cn/detail/2403030",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：伊朗同意不生产或采购核武器。",
@@ -1209,7 +1484,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1267,6 +1542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美联储开启政策新周期，黄金走势已脱离震荡格局？",
+          "url": "https://flash.jin10.com/detail/20260618105809144800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "俄罗斯一季度GDP初值同比下降0.2%。",
@@ -1330,7 +1616,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1363,9 +1649,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报168800元/吨，较上日16:30价格下跌800元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3121381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美联储主席沃什：我们所使用的大多数数据都采用了过时的调查方法。",
@@ -1385,7 +1682,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1410,6 +1707,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "iPhone18Pro或涨价270美元",
+          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E6%88%96%E6%B6%A8%E4%BB%B7270%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：如果伊朗协议在60天内未达成，将恢复轰炸。不想再次轰炸伊朗，但可能不得不这样做。",
@@ -1489,6 +1808,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "国开行发行3年期债券，规模50亿元，发行利率1.4030%，预期1.4000%，投标倍数3.82倍，边际倍数3.14倍； 国开行发行7年期债券，规模20亿元，发行利率1.6234%，预期1.6100%，投标倍数4.54倍，边际倍数5.83倍； 国开行发行10年期债券，规模20亿元，发行利率0.0000%，预期1.7600%，投标倍数5.20倍，边际倍数5.24倍。",
+          "url": "https://wallstreetcn.com/livenews/3121378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美国总统特朗普：我和内塔尼亚胡的合作关系非常棒。",
           "url": "https://flash.jin10.com/detail/20260618001232344800",
           "source": "金十数据",
@@ -1539,9 +1869,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数涨1.6%，东证指数涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3121377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "特朗普在G7记者会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：内塔尼亚胡没必要每次都把整栋楼炸毁。",
@@ -1577,6 +1929,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "日本外务省：日本首相高市早苗与欧盟委员会主席冯德莱恩进行了会谈。 双方一致同意在防卫产业合作、先进技术领域合作以及强化包括重要矿物在内的关键物资供应链等方面加深合作。",
+          "url": "https://flash.jin10.com/detail/20260618105059818800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "摩根资产管理：AI热潮料推动美股续涨，下半年宜持有高风险资产",
           "url": "https://wallstreetcn.com/livenews/3121128",
           "source": "华尔街见闻-快讯",
@@ -1597,6 +1960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "港股医药股拉升，恒生生物科技指数涨超3%，再鼎医药涨超7%，英矽智能、映恩生物、康方生物涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3121376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：内塔尼亚胡和我就黎巴嫩问题存在分歧。",
@@ -1654,6 +2028,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "KSG战胜重庆狼队赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=KSG%E6%88%98%E8%83%9C%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时会显得有些激动。",
           "url": "https://flash.jin10.com/detail/20260618001052281800",
           "source": "金十数据",
@@ -1704,7 +2089,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1764,6 +2149,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "日本内阁官房长官木原稔：不对外汇市场走势发表具体评论。 密切关注包括外汇在内的市场趋势。",
+          "url": "https://wallstreetcn.com/livenews/3121370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美国总统特朗普赞扬法国总统马克龙。",
           "url": "https://flash.jin10.com/detail/20260618000704604800",
           "source": "金十数据",
@@ -1792,9 +2188,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "中金：SOFC燃料电池系统或有望成为数据中心供电的新解法",
+          "url": "https://flash.jin10.com/detail/20260618104726436800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.670%，投标倍数2.87。",
@@ -1828,6 +2235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "河南发行7年期一般债地方债，规模27.2600亿元，发行利率1.6500%，边际倍数4.77倍，倍数预期1.65； 河南发行20年期其他专项地方债，规模2.8100亿元，发行利率2.3400%，边际倍数1.41倍，倍数预期2.37； 河南发行15年期普通专项地方债，规模34.1800亿元，发行利率2.1400%，边际倍数2.72倍，倍数预期2.14； 河南发行10年期普通专项地方债，规模3.6200亿元，发行利率1.7900%，边际倍数2.07倍，倍数预期1.79； 河南发行30年期普通专项地方债，规模19.1000亿元，发行利率2.4000%，边际倍数1.98倍，倍数预期2.39。",
+          "url": "https://wallstreetcn.com/livenews/3121369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：股市比任何人都看得明白。",
@@ -1869,9 +2287,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美联储传声筒：沃什改革沟通方式大刀阔斧，利率走向却成最大悬念！",
+          "url": "https://flash.jin10.com/detail/20260618104552429800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美联储决议声明发布后，标普跌超0.3%，纳指跌超0.2%。 美元指数5分钟内上涨0.3327，报99.9866。 现货黄金从日高4382.28美元附近跳水至4278美元下方，瞬间转而跌超1%。 美国两年期国债收益率从4.05%附近瞬间飙升，涨穿4.14%刷新日高。 在美联储点阵图调整后，交易员押注美联储将更大幅度收紧政策。",
@@ -1982,6 +2411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "沃什首秀转鹰，美联储删除降息倾向；美伊协议已线上签署，美国库欣原油库存降至临界低位，金银卖出信号强烈，国际油价涨跌幅度不大，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260618104451719800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美联储：上调核心PCE通胀预期",
