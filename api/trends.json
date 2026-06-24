@@ -1,191 +1,22 @@
 {
-  "generated_at": "2026-06-24T21:19:42.105568+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-06-25T00:16:11.640641+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 304,
+      "match_count": 53,
       "titles": [
         {
-          "title": "小米电视紧急致歉：地震预警系研发人员误发",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439602",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 21时19分]"
-        },
-        {
-          "title": "小作文带崩韩股？韩媒：国会议员讨论将股票、房地产未实现收益纳入综合征税",
-          "url": "https://wallstreetcn.com/articles/3775281",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 14时46分]"
-        },
-        {
-          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
-          "url": "https://wallstreetcn.com/articles/3775302",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 18时20分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
+          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
+          "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 21时19分]"
-        },
-        {
-          "title": "华尔街大行集体“变脸”！继高盛之后，德银也大砍黄金目标价",
-          "url": "https://www.cls.cn/detail/2406794",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2407361",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时06分 ~ 14时46分]"
-        },
-        {
-          "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
-          "url": "https://wallstreetcn.com/articles/3775217",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "乌克兰寻求与日加强合作，外交部回应",
-          "url": "https://news.ifeng.com/c/8uBxcxB6sBZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时43分]"
-        },
-        {
-          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
-          "url": "https://www.cls.cn/detail/2407391",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时46分]"
-        },
-        {
-          "title": "美联储前主席格林斯潘去世",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E5%89%8D%E4%B8%BB%E5%B8%AD%E6%A0%BC%E6%9E%97%E6%96%AF%E6%BD%98%E5%8E%BB%E4%B8%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 18时20分]"
-        },
-        {
-          "title": "“加息噩梦”真要来了？高盛投资主管：7月份概率较大！",
-          "url": "https://www.cls.cn/detail/2407413",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时46分]"
-        },
-        {
-          "title": "普京：准备与乌克兰进行和平谈判",
-          "url": "https://news.ifeng.com/c/8uCTlqYZbjx",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时46分]"
-        },
-        {
-          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
-          "url": "https://www.zhihu.com/question/2052673340993811952",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
           "title": "2名日本人被中方拘留，外交部回应",
@@ -196,31 +27,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 21时19分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "中国赴日游客连续 6 个月减少，5 月同比暴跌 60.4%，原因为何？客流断崖下滑，日本旅游业会受多大冲击？",
-          "url": "https://www.zhihu.com/question/2052721837830935858",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 18时20分]"
-        },
-        {
-          "title": "韩国总理到访母校清华大学",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%90%86%E5%88%B0%E8%AE%BF%E6%AF%8D%E6%A0%A1%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6",
-          "source": "百度热搜",
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "“脱欧”十年后，英国会否重回欧盟？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33438542",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
           "title": "“日本驻华大使多次请求与中方会面，均未成功”",
@@ -231,368 +60,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 21时19分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
           "url": "https://news.ifeng.com/c/8uDgRGX21RF",
           "source": "凤凰网",
           "ranks": [
-            5,
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 21时19分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "人民网点评李毅「解说员要服务球迷读懂比赛，不是堆数据炫术语泄情绪」，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2052801575043560695",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 21时19分]"
-        },
-        {
-          "title": "“脱欧”十年后，英国会否重回欧盟？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33438542",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 21时19分]"
-        },
-        {
-          "title": "两名日本人违反中国法律被依法拘留",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BF%9D%E5%8F%8D%E4%B8%AD%E5%9B%BD%E6%B3%95%E5%BE%8B%E8%A2%AB%E4%BE%9D%E6%B3%95%E6%8B%98%E7%95%99",
+          "title": "欧洲病了别让中国吃药",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E7%97%85%E4%BA%86%E5%88%AB%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%90%83%E8%8D%AF",
           "source": "百度热搜",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美国参议院投票决定暂停对伊朗的战争，除非特朗普获得国会批准。",
-          "url": "https://flash.jin10.com/detail/20260624034400729800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "印度SENSEX指数涨1%。",
-          "url": "https://flash.jin10.com/detail/20260624142051644800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：谷歌钱包使美国运输安全管理局的无接触身份验证惠及更多旅客。",
-          "url": "https://flash.jin10.com/detail/20260624211149557800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "农发行发行1年期债券，规模50亿元，发行利率1.3775%，预期1.3600%，投标倍数1.00倍，边际倍数1.00倍； 农发行发行3年期债券，规模40亿元，发行利率1.4712%，预期1.4800%，投标倍数1.00倍，边际倍数1.00倍； 农发行发行10年期债券，规模40亿元，发行利率1.8263%，预期1.8300%，投标倍数1.00倍，边际倍数1.00倍。",
-          "url": "https://wallstreetcn.com/livenews/3123764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "日本央行行长植田和男：日本经济正温和复苏。 将视经济和物价情况继续加息。 金融环境依然宽松。",
-          "url": "https://wallstreetcn.com/livenews/3123838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "两名日本人涉嫌走私稀土被中方拘留",
-          "url": "https://www.toutiao.com/trending/7654860868819111443/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "美元指数23日上涨",
-          "url": "https://flash.jin10.com/detail/20260624033709414800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "现货黄金回落至4100美元/盎司下方，日内跌0.24%。",
-          "url": "https://flash.jin10.com/detail/20260624063432942800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "俄罗斯下诺夫哥罗德州州长称，该州一处工业设施在无人机袭击中受损。",
-          "url": "https://flash.jin10.com/detail/20260624142040130800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "贝森特：伊朗解冻资金将采购美国产品，石油销售需重新以美元计价",
-          "url": "https://flash.jin10.com/detail/20260624211051118800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "周二（6月23日）纽约尾盘，美元兑日元大致持平，报161.56日元，日内交投区间为161.74-161.28日元，北京时间15:00、16:01显著跳水，一度逼近6月22日顶部161.93日元（逼近2024年7月3日顶部161.95日元）。 欧元兑日元跌0.42%，连续两个交易日下挫，报183.88日元；英镑兑日元跌0.42%，报213.190日元。",
-          "url": "https://wallstreetcn.com/livenews/3123619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "进出口行发行29天期债券，规模50亿元，发行利率0.0000%，预期1.2700%，投标倍数1.00倍，边际倍数1.00倍。",
-          "url": "https://wallstreetcn.com/livenews/3123763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "韩元兑美元在岸收盘报1,541.8，创2009年3月以来最低收盘水平。",
-          "url": "https://wallstreetcn.com/livenews/3123836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "全国政协十四届常委会第十七次会议举行全体会议 围绕“坚持高质量发展，推动经济持续健康发展和社会全面进步”进行大会发言 王沪宁出席",
-          "url": "https://wallstreetcn.com/livenews/3123970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "欧洲央行：高油价恐使欧元区增速下降0.4个百分点",
-          "url": "https://wallstreetcn.com/livenews/3124064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "静待美光财报，美股盘前半导体股上扬、美光涨4%，现货白银失守60美元，布油跌超2%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数6月24日（周三）收盘上涨19.30点，涨幅0.22%，报8806.30点。",
-          "url": "https://flash.jin10.com/detail/20260624142030656800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "据SK海力士提交给美国证交会的文件，美国银行、花旗、高盛及摩根大通将担任其IPO的承销商。",
-          "url": "https://flash.jin10.com/detail/20260624181035265800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "美国财政部拍卖690亿美元两年期国债，得标利率4.189%，投标倍数2.64。",
-          "url": "https://wallstreetcn.com/livenews/3123588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美元指数涨超0.3%，一度创去年5月以来新高",
-          "url": "https://wallstreetcn.com/livenews/3123618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "经济日报金观平：减量提质推进村镇银行改革",
-          "url": "https://wallstreetcn.com/livenews/3123692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "三大指数集体翻绿，微盘股指数跌超4%，全市场下跌个股超4500只。",
-          "url": "https://wallstreetcn.com/livenews/3123762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "新台币兑美元下跌0.5%至31.784。",
-          "url": "https://wallstreetcn.com/livenews/3123835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "日本公平交易委员会拟放宽关键领域并购规则。（读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3123966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "SpaceX美股盘前跌幅扩大至2.7%，至日内低点。",
-          "url": "https://wallstreetcn.com/livenews/3124063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "高盛复盘韩股暴跌：养老金撤退、散户杠杆爆仓引发芯片股雪崩",
-          "url": "https://wallstreetcn.com/articles/3775310",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 21时19分]"
-        },
-        {
-          "title": "泽连斯基发出“最后通牒”，俄罗斯和白俄罗斯密集回应",
-          "url": "https://news.ifeng.com/c/8uD0JRmKyCB",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时46分]"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
           "title": "韩国军方拘押1名越界朝鲜士兵",
@@ -601,563 +91,185 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "意大利总理梅洛尼：我不认为特朗普的争端会对意大利经济造成不良影响。",
-          "url": "https://flash.jin10.com/detail/20260624004020087800",
-          "source": "金十数据",
+          "title": "GTA6开预购,80美元买空气",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355624&amp;topic_name=GTA6%E5%BC%80%E9%A2%84%E8%B4%AD%2C80%E7%BE%8E%E5%85%83%E4%B9%B0%E7%A9%BA%E6%B0%94",
+          "source": "贴吧",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "藤森庆子在秘鲁总统选举第二轮投票初步计票中领先",
-          "url": "https://flash.jin10.com/detail/20260624103831729800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-06-24）",
-          "url": "https://flash.jin10.com/detail/20260624141703837800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "新兴市场资产全线重挫：美元走强叠加韩国科技股抛售潮冲击市场",
-          "url": "https://wallstreetcn.com/livenews/3123658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
-          "url": "https://wallstreetcn.com/livenews/3124062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美股集体低开 纳指跌超2%",
-          "url": "https://www.douyin.com/hot/2545296",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "意大利总理梅洛尼：与特朗普发生争执后，意大利的外交政策仍将保持不变。",
-          "url": "https://flash.jin10.com/detail/20260624003946351800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美媒：俄罗斯向白俄施压，意图在乌克兰冲突中开辟新战线",
-          "url": "https://flash.jin10.com/detail/20260624032840340800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-06-24）",
-          "url": "https://flash.jin10.com/detail/20260624063053864800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "富国银行新兴市场策略师Álvaro Vivanco：我们正进一步进入这样一个时期：在全球经济增速放缓和美联储鹰派立场主导下，伊朗问题全面解决所剩无几的微小溢价将被抹平。 这意味着新兴市场外汇将面临压力，同时利率也仍有进一步压缩的空间。",
-          "url": "https://wallstreetcn.com/livenews/3123657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "乌克兰称袭击俄罗斯奥伦堡天然气处理厂",
-          "url": "https://wallstreetcn.com/livenews/3123964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "都说太空数据中心散热是大问题，为什么太空那么冷，散热却那么难？",
-          "url": "https://www.zhihu.com/question/2050990035797631616",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时57分]"
-        },
-        {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "彭博美元指数创2025年11月份以来盘中新高。",
-          "url": "https://wallstreetcn.com/livenews/3123590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时57分]"
-        },
-        {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "柬埔寨人民党主席、参议院主席洪森将访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33438101",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 18时20分]"
-        },
-        {
-          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
-          "url": "https://www.zhihu.com/question/2052707670289806571",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 18时20分]"
-        },
-        {
-          "title": "美国证交会文件：SpaceX(SPCX.O)将发行70亿美元2031年到期的5.35%优先票据，60亿美元2033年到期的5.65%优先票据、60亿美元2036年到期的5.875%优先票据、25亿美元2046年到期的6.6%优先票据和35亿美元2056年到期的6.65%优先票据。",
-          "url": "https://flash.jin10.com/detail/20260624050212110800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 07时06分]"
-        },
-        {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "特朗普提前宣布斯塔默辞职有何意味",
-          "url": "https://www.toutiao.com/trending/7654527066271911478/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
           "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            14,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时45分 ~ 21时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "美伊战火暂歇，美国会对古巴动手吗？",
-          "url": "https://news.ifeng.com/c/8uC7urZCRfz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "美银“大幅转鹰”：预期美联储年内加息3次，此前是0次！",
-          "url": "https://wallstreetcn.com/articles/3775241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            25,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "做空力量正碾压多头？高盛：对冲基金五周来首次净卖出全球股票",
-          "url": "https://www.cls.cn/detail/2406667",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "乌克兰寻求与日本加强军事合作，中方是否担忧？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33436361",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "黄金月内再次跌破 4100 美元，白银跌破 62 美元，黄金 4000 美元关口能否守住？普通投资者该如何应对？",
+          "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
           "url": "https://www.zhihu.com/question/2052784601471493284",
           "source": "知乎",
           "ranks": [
-            20
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时45分 ~ 21时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "泳装屈原!日本手游整狠活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
-          "source": "贴吧",
+          "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
+          "url": "https://wallstreetcn.com/livenews/3124140",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            25,
-            26
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
-          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
-          "url": "https://www.cls.cn/detail/2407435",
-          "source": "财联社热门",
+          "title": "明晟公司MSCI北欧国家指数大致持平，报384.81点。 在十个板块中，北欧金融板块领跌。 博利登跌3.6%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3124138",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
-          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
-          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
+          "title": "市场消息：美国国家运输安全委员会（NTSB）针对6月19日发生的特斯拉(TSLA.O)Model 3车祸展开安全调查。",
+          "url": "https://flash.jin10.com/detail/20260625001107057800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "LME期铝跌3.6%，刷新2月25日以来最低位至3110美元。",
+          "url": "https://wallstreetcn.com/livenews/3124137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美国财政部拍卖两年期浮息国债（FRNS），贴现利率0.079%（5月27日为0.089%），投标倍数2.99（前次为3.49）。",
+          "url": "https://wallstreetcn.com/livenews/3124135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "中国海军的“御用摄影师”不灵了，日本防卫省跟丢辽宁舰编队",
+          "url": "https://news.ifeng.com/c/8uDm1JreVxF",
           "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时46分]"
-        },
-        {
-          "title": "久违一幕！美国市场“股跌债升” 加息担忧过头了？",
-          "url": "https://www.cls.cn/detail/2407456",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时46分]"
-        },
-        {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时46分]"
-        },
-        {
-          "title": "特斯拉 豆包",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%20%E8%B1%86%E5%8C%85&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时45分 ~ 18时20分]"
-        },
-        {
-          "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
-          "url": "https://www.cls.cn/detail/2407367",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时46分]"
-        },
-        {
-          "title": "SpaceX 股价连续三个交易日下跌，市值蒸发逾 6000 亿美元，为何会持续下跌？其未来前景如何？",
-          "url": "https://www.zhihu.com/question/2052610103719760554",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "如何看待日退役少将称日本打不赢中国",
-          "url": "https://www.toutiao.com/trending/7654557215696621075/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时43分]"
-        },
-        {
-          "title": "华尔街吵起来了？与美银、高盛“唱反调” 瑞银称美联储加息风险被高估",
-          "url": "https://www.cls.cn/detail/2407535",
-          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "外交部：两名日本人因违反中国法律被拘留",
-          "url": "https://www.cls.cn/detail/2407880",
-          "source": "财联社热门",
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
           "ranks": [
-            6,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
+          "url": "https://wallstreetcn.com/articles/3775350",
+          "source": "华尔街见闻",
+          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 21时19分]"
-        },
-        {
-          "title": "美国证交会文件：SpaceX(SPCX.O)宣布250亿美元首次债券发行定价；将以五个批次发行2031-2056年到期的高级票据。",
-          "url": "https://flash.jin10.com/detail/20260624045721753800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 07时06分]"
-        },
-        {
-          "title": "亚洲股市反弹昙花一现，韩股转跌，三星电子涨幅收窄，黄金跌超1.3%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "联邦快递(FDX.N)美股盘后延续晚间跌势，现跌约6%。",
-          "url": "https://flash.jin10.com/detail/20260624045424480800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 07时06分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
           "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
           "url": "https://www.cls.cn/detail/2407987",
           "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 21时19分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "中方：日本“新型军国主义”成势为患",
-          "url": "https://www.toutiao.com/trending/7654323870593368074/",
-          "source": "今日头条",
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
           "ranks": [
-            9,
-            30
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时57分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "金十图示：2026年06月23日（周二）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260624044917383800",
-          "source": "金十数据",
+          "title": "欧洲遭遇“更早、更久、更难解”的高温：蝙蝠热死，40人为躲热浪溺亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33442618",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            30
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时43分 ~ 07时06分]"
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "外资最新调仓曝光：高盛、大小摩等偏好中小盘，阿布扎比坚守面板“双雄”",
+          "url": "https://www.cls.cn/detail/2408059",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "外交部：两名日本人因违反中国法律被拘留",
+          "url": "https://www.cls.cn/detail/2407880",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
           "title": "韩国女消防员被强迫陪酒后死亡，李在明怒斥：竟把下属当玩物",
@@ -1168,2255 +280,315 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 21时19分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "欧洲遭遇“更早、更久、更难解”的高温：蝙蝠热死，40人为躲热浪溺亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33442618",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 21时19分]"
-        },
-        {
-          "title": "韩国总理到访母校清华大学：这段求学经历是我最美好的回忆",
-          "url": "https://v.ifeng.com/c/8uCOF8Ze44W",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "黄金“大势已去”？专家反驳：恰是绝佳入场时机，“结构性支撑”牢固！",
-          "url": "https://www.cls.cn/detail/2407797",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 21时19分]"
-        },
-        {
-          "title": "韩国总理近20年后重返母校清华",
-          "url": "https://www.toutiao.com/trending/7654084237666615334/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "黑河小伙不声不响处上俄罗斯对象",
-          "url": "https://www.toutiao.com/trending/7653990460884582427/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "是否只有欧洲才有请外国人做国王的例子？",
-          "url": "https://www.zhihu.com/question/1983586036727690024",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 05时43分]"
-        },
-        {
-          "title": "日本准备去格陵兰评估稀土开采，是否说明全球资源争夺已经进入「稀土时代」？",
-          "url": "https://www.zhihu.com/question/2049458434265855778",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 07时06分]"
-        },
-        {
-          "title": "郭士强：已针对日本最强阵容做了预案",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%A3%AB%E5%BC%BA%EF%BC%9A%E5%B7%B2%E9%92%88%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%9C%80%E5%BC%BA%E9%98%B5%E5%AE%B9%E5%81%9A%E4%BA%86%E9%A2%84%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "科创50指数涨近4% 再创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E6%B6%A8%E8%BF%914%25+%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "大四女生开发经期APP获苹果大奖",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F%E5%BC%80%E5%8F%91%E7%BB%8F%E6%9C%9FAPP%E8%8E%B7%E8%8B%B9%E6%9E%9C%E5%A4%A7%E5%A5%96",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时57分]"
-        },
-        {
-          "title": "日元沦为“全球最弱货币”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%85%83%E6%B2%A6%E4%B8%BA%E2%80%9C%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%B1%E8%B4%A7%E5%B8%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "小米自动驾驶浙赛圈速SUV总榜第11",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B5%99%E8%B5%9B%E5%9C%88%E9%80%9FSUV%E6%80%BB%E6%A6%9C%E7%AC%AC11%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "中国海军的“御用摄影师”不灵了，日本防卫省跟丢辽宁舰编队",
-          "url": "https://news.ifeng.com/c/8uDm1JreVxF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.567吨，当前持仓量为1017.637吨。",
-          "url": "https://flash.jin10.com/detail/20260624062022488800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "软银CEO孙正义：即将达成的英伟达(NVDA.O)、苹果(AAPL.O)交易推动英特尔(INTC.O)市值飙升。",
-          "url": "https://flash.jin10.com/detail/20260624103406841800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "土耳其总统埃尔多安：我们将毫不拖延地向议会提交框架。",
-          "url": "https://flash.jin10.com/detail/20260624180743632800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "分析师：急涨急跌，美股市场走势令人担忧",
-          "url": "https://flash.jin10.com/detail/20260624210900671800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.78%，报23498点。 恒生科技指数主连夜盘收涨0.98%，报4438点。",
-          "url": "https://wallstreetcn.com/livenews/3123613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "进出口行发行3年期债券，规模40亿元，发行利率1.4200%，预期1.4000%，投标倍数2.93倍，边际倍数2.00倍。",
-          "url": "https://wallstreetcn.com/livenews/3123756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "日经225指数收跌0.9%，报69174.97点。 日本东证指数收跌0.7%，报3963.76点。 韩国首尔综指收涨3.3%，报8471.02点。",
-          "url": "https://wallstreetcn.com/livenews/3123832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "现货黄金跌破4000美元/盎司关口，加息忧虑升温",
-          "url": "https://wallstreetcn.com/livenews/3124058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
-          "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：我们绝不会与任何人就我们的防御能力进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260624003745705800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普在谈及就业市场情况时，称礼来(LLY.N)是“伟大的制药公司”，还提及礼来的投资。",
-          "url": "https://flash.jin10.com/detail/20260624032036043800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少81.58吨，当前持仓量为14941.91吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260624061822886800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "土耳其总统埃尔多安：我们正在制定一个法律框架，以加快解散库尔德工人党武装组织的进程。",
-          "url": "https://flash.jin10.com/detail/20260624180739312800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "LME期铜收跌278美元，报13371美元/吨。 LME期铝收跌132美元，报3232美元/吨。 LME期锌收跌116美元，报3492美元/吨。 LME期铅收跌30美元，报1934美元/吨。 LME期镍收跌582美元，报17172美元/吨。 LME期锡收跌3031美元，报51154美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3123584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7938元，较周一夜盘收盘跌165点。成交量682.55亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3123612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "联邦快递：预计AI和数据中心将带来两位数（百分比）营收增长。",
-          "url": "https://wallstreetcn.com/livenews/3123655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报157000元/吨，较上日16:30价格持平。",
-          "url": "https://wallstreetcn.com/livenews/3123754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：伊朗的导弹不在谅解备忘录范围内，也永远不会在。",
-          "url": "https://flash.jin10.com/detail/20260624003730164800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普声称将贸易逆差削减了67%，实现美国历史上最大幅度的贸易逆差削减。",
-          "url": "https://flash.jin10.com/detail/20260624031310209800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：超过18,000名用户报告Instagram出现问题，超过20,000名用户报告美国Facebook出现问题。",
-          "url": "https://flash.jin10.com/detail/20260624060356993800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "谷歌A将跻身道指成分股行列",
-          "url": "https://wallstreetcn.com/livenews/3123654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "截至早盘收盘，日经225指数跌0.4%，东证指数跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3123753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "Meta与微软领跑 带动数据中心租赁承诺突破8500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3124056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
-          "url": "https://wallstreetcn.com/articles/3775350",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "“脱欧”10年后，英国会否重回欧盟？",
-          "url": "https://news.ifeng.com/c/8uDh1d3mDfw",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：伊朗向包括巴基斯坦、卡塔尔、沙特、埃及和土耳其在内的伊斯兰国家伸出友谊之手，旨在促进相互了解，并为构建“新的区域安全架构”奠定基础。",
-          "url": "https://flash.jin10.com/detail/20260624003630532800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普斥责美国前总统奥巴马试图用数十亿美元贿赂伊朗，还称伊朗领导层只懂“铁腕手段”。",
-          "url": "https://flash.jin10.com/detail/20260624031221408800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "美联储7月维持利率不变的概率为62.6%",
-          "url": "https://flash.jin10.com/detail/20260624060144345800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "博通和OpenAI表示，早期测试显示，Jalapeño的每瓦性能将显著优于当前的最先进水平。",
-          "url": "https://flash.jin10.com/detail/20260624210650083800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "扎克伯格授意Meta Platforms开发预测市场APP。 预计该APP将独立于Facebook与Instagram之外。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3123582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "WTI 7月原油期货收跌0.65美元，跌幅0.88%，报73.21美元/桶，逼近3月5日收盘价71.46美元、3月4日收盘价69.24美元，200日均线已经上移至69.98美元。 布伦特7月原油期货收跌0.82美元，跌幅1.05%，报77.08美元/桶。 中东Abu Dhabi Murban原油期货跌1.91%，报69.44美元/桶，逼近2月17日彭博报价66.89美元。 NYMEX 7月天然气期货收报3.1470美元/百万英热单位。 NYMEX 7月汽油期货收报2.9590美元/加仑，NYMEX 7月取暖油期货收报3.1546美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3123610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "韩国央行：考虑通胀经济金融等因素，需要在适当时候提高利率",
-          "url": "https://wallstreetcn.com/livenews/3123751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "日本首相高市早苗：将拟定日本作为资产管理国家的策略。",
-          "url": "https://wallstreetcn.com/livenews/3123828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3124055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "金十图示：2026年06月23日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260624003448744800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "科创50指数涨超2%，华虹宏力涨超9%，股价续创历史新高，中芯国际涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3123749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：美国可能很快就会允许日本使用Anthropic的Mythos。 中东局势仍不明朗，密切关注其影响。",
-          "url": "https://wallstreetcn.com/livenews/3123826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "外资最新调仓曝光：高盛、大小摩等偏好中小盘，阿布扎比坚守面板“双雄”",
-          "url": "https://www.cls.cn/detail/2408059",
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "金十图示：2026年06月23日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260624003416278800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "美国总统特朗普：我们将让伊朗彻底丧失核能力，而他们也已同意这一点。",
-          "url": "https://flash.jin10.com/detail/20260624030654965800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示英国Instagram和Facebook出现问题。",
-          "url": "https://flash.jin10.com/detail/20260624055957413800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "金十图示：2026年06月24日（周三）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20260624180152739800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "耐克美股盘后涨2%，该公司任命辉瑞制药高管David M. Denton为首席财务官（CFO），8月17日生效。",
-          "url": "https://wallstreetcn.com/livenews/3123650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "周二（6月23日），美股AI软件先驱指数跌0.20%，报103.52点，成分股中，甲骨文收跌5.66%，铿腾电子跌2.57%，Palantir跌2.34%跌幅第三大，Salesforce、ServiceNOW、GitLab涨2.20%-4.53%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3123684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "韩国总统府官员：三星与SK海力士新芯片集群规划进入收尾阶段",
-          "url": "https://wallstreetcn.com/livenews/3123744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "现货白银日内跌幅达4.5%，报58.74美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3124052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美国总统特朗普：能源价格已大幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260624030637271800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "金十数据整理：中东局势跟踪（6月24日）",
-          "url": "https://flash.jin10.com/detail/20260624055927912800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "金十期货6月24日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格与上日持平，中间价报157000元/吨。",
-          "url": "https://flash.jin10.com/detail/20260624103224389800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "金十图示：2026年06月24日（周三）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20260624210611772800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "国际足联（FIFA）主席：美国总统特朗普将亲自颁发世界杯奖杯。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3123606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "周二（6月23日），美股人工智能（AI）赢家指数跌6.74%，报431.58点，跳空低开后持续低位窄幅震荡，成分股Fluence Energy、闪迪、美光跌15.80%-13.18%领跌，在收涨的四只成分股中，微软涨1.8%，戴尔科技涨2.17%。",
-          "url": "https://wallstreetcn.com/livenews/3123683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：如果没有巴基斯坦的努力，我们今天就不会取得这样的成就。",
-          "url": "https://flash.jin10.com/detail/20260624002912617800",
-          "source": "金十数据",
+          "title": "为何欧洲国家空调普及率低",
+          "url": "https://www.toutiao.com/trending/7654670138444365830/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "美国总统特朗普：我们可以飞越德黑兰，想飞就飞，没人敢把我们怎么样。结果我却看到那些假新闻报道说他们（伊朗）过得相当不错。",
-          "url": "https://flash.jin10.com/detail/20260624030602616800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "现货白银日内涨幅达1.00%，现报62.15美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260624140804368800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "军工初创公司Stark Defence按32亿欧元估值融资5亿欧元（折合5.70亿美元），红杉资本、Peter Thiel旗下Founders Fund领投。",
-          "url": "https://wallstreetcn.com/livenews/3123604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "周二（6月23日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7948元，较周一纽约尾盘跌167点，日内整体持续走低、交投于6.7756-6.7978元区间，逼近6月19日底部6.7980元、5月22日底部6.8034元。",
-          "url": "https://wallstreetcn.com/livenews/3123648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "周二（6月23日），美股信息科技指数跌6.14%，报444.11点，跳空低开后持续低位窄幅震荡，成分股闪迪、美光、安森美半导体、高意公司Coherent、Credo跌13.64%-10.09%领跌，IBM涨5%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3123682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "印度Sensex指数上涨1%，至76,964.06点。",
-          "url": "https://wallstreetcn.com/livenews/3123823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "美国一季度经常帐 -2268亿美元，预期 -2106亿美元，前值 -1907亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3124049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "黑石集团计划在日本人工智能数据中心投资300亿美元",
-          "url": "https://flash.jin10.com/detail/20260624002832162800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国总统特朗普：美国正致力于与伊朗达成一项公平的协议，昨天有1900万桶石油经由霍尔木兹海峡运输。",
-          "url": "https://flash.jin10.com/detail/20260624030509490800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "两位消息人士透露，莫斯科炼油厂在近期遭受乌克兰无人机袭击造成损毁后，将停产至少六个月进行维修。",
-          "url": "https://flash.jin10.com/detail/20260624175755783800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "微软(MSFT.O)：Copilot笔记本现作为Microsoft 365 Copilot应用的一部分推出，使用Microsoft 365教育版用户无需额外付费即可使用。",
-          "url": "https://flash.jin10.com/detail/20260624210532542800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "伊朗总统：对巴基斯坦的支持与努力表示感谢。 讨论最新局势和双边关系。 伊巴两国将促进经济关系。 伊朗的导弹不在谅解备忘录范围内，也永远不会妥协。",
-          "url": "https://wallstreetcn.com/livenews/3123575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "英国央行官员：伊朗冲突通胀传导效应料弱于乌克兰冲突",
-          "url": "https://wallstreetcn.com/livenews/3123603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "特朗普将目光投向美国中期选举，鼓吹战争结束经济即将起飞",
-          "url": "https://wallstreetcn.com/livenews/3123647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "欧洲防务巨头KNDS计划在巴黎和法兰克福上市（IPO）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3123821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "据AXIOS：预计美国总统特朗普将于周二宣布，他将在7月15日于美国陆军战争学院举行的宾夕法尼亚州国防与创新峰会上发表主旨演讲，该峰会由宾夕法尼亚州联邦参议员戴夫·麦考密克主办。",
-          "url": "https://flash.jin10.com/detail/20260624002526241800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "特朗普在宾夕法尼亚州的集会上声称，美国股市今天创下新高。目前纳指跌近2%。",
-          "url": "https://flash.jin10.com/detail/20260624030436095800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "韩国推迟单只股票周度期权计划",
-          "url": "https://flash.jin10.com/detail/20260624175625722800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "油价持续下跌 此前特朗普称伊朗未在海峡收取通行费",
-          "url": "https://flash.jin10.com/detail/20260624210524478800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "SpaceX高评级债券发行获得890亿美元认购。",
-          "url": "https://wallstreetcn.com/livenews/3123574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国达拉斯联储经济学家Lutz Kilian、Michael Plante、Alexander W. Richter建立模型，来估算各种影响的综合净效应。 他们发现，与20世纪70年代和80年代中东供应中断时期相比，美国经济如今对油价波动的抵抗力强得多。",
-          "url": "https://wallstreetcn.com/livenews/3123602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "拉美资产下挫：美联储加息预期升温打压风险偏好",
-          "url": "https://wallstreetcn.com/livenews/3123646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗处境不佳。它既没有军队，也没有防空防御系统。",
-          "url": "https://flash.jin10.com/detail/20260624030349420800",
-          "source": "金十数据",
+          "title": "无人车追尾特斯拉被判全责",
+          "url": "https://www.toutiao.com/trending/7654640018397347878/",
+          "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "博通(AVGO.O)：将于2026年与微软及合作伙伴共同启动吉瓦级数据中心部署。",
-          "url": "https://flash.jin10.com/detail/20260624210457646800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "达拉斯联储：美国经济对油价冲击的抵抗力远强于1980年代",
-          "url": "https://wallstreetcn.com/livenews/3123601",
-          "source": "华尔街见闻-快讯",
+          "title": "人民网点评李毅「解说员要服务球迷读懂比赛，不是堆数据炫术语泄情绪」，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2052801575043560695",
+          "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "周二（6月23日）纽约尾盘，现货黄金跌1.89%，报4111.48美元/盎司，北京时间09:00微幅上扬至4198.46美元刷新日高，随后持续走低，12:00以来持续交投于4120美元附近、16:07刷新日低至4091.05美元。 COMEX黄金期货跌1.92%，报4129.10美元/盎司。 现货白银跌5.50%，报61.5025美元/盎司，06:00微幅高开至65.7325美元刷新日高，随后持续走低。 COMEX白银期货跌6.15%，报62.005美元/盎司。 COMEX铜期货跌3.64%，报6.1950美元/磅。 现货铂金跌1.85%，现货钯金跌2.90%。",
-          "url": "https://wallstreetcn.com/livenews/3123645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "周二（6月23日），美股存储芯片与硬件供应链指数跌10.07%，报247.26点，跳空低开之后低位窄幅震荡。 成分股全线溃败，闪迪收跌13.6%，美光科技跌13.2%，拉姆研究跌9.3%，Rambus、应用材料、西部数据、泰瑞达至多跌8.6%，希捷科技跌5.1%。",
-          "url": "https://wallstreetcn.com/livenews/3123679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "MSCI新兴市场货币指数抹去了2026年的全部涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3123933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "布伦特原油日内跌幅达3.0%，报74.46美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3124043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：有关地区的问题只能在相互尊重的基础上讨论。",
-          "url": "https://flash.jin10.com/detail/20260624001800830800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗经济正遭受重创，需要多年时间才能恢复。",
-          "url": "https://flash.jin10.com/detail/20260624030322913800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "谷歌A(GOOGL.O)美股盘后涨超1%，将取代Verizon(VZ.N)在道琼斯指数中的位置；Verizon(VZ.N)盘后跌0.6%。",
-          "url": "https://flash.jin10.com/detail/20260624054152810800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "WTI原油回落至71美元/桶下方，日内跌3.62%；布伦特原油向下触及74美元/桶，日内跌3.57%。",
-          "url": "https://flash.jin10.com/detail/20260624210409842800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "SpaceX涨幅扩大至5.6%，有望结束此前连续三个交易日下跌的趋势、市值合计蒸发6000亿美元的表现。",
-          "url": "https://wallstreetcn.com/livenews/3123572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "SpaceX为250亿美元债券定价。",
-          "url": "https://wallstreetcn.com/livenews/3123644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "告别3%以上利率“躺赚”时代，一批储户正经历收益落差",
-          "url": "https://wallstreetcn.com/livenews/3123678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "贝森特批评美联储点阵图 称自己曾经专门做反向交易",
-          "url": "https://wallstreetcn.com/livenews/3124042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美参议院通过涉伊朗的战争权力决议",
-          "url": "https://www.toutiao.com/trending/7653777689459310634/",
+          "title": "小米集团股价跌破23港元",
+          "url": "https://www.toutiao.com/trending/7654789079603052570/",
           "source": "今日头条",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "三大指数集体上涨但4034只股票跌了",
-          "url": "https://www.toutiao.com/trending/7654873301289799209/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "美国财政部：外国投资者在最新的两周报告期内购买了52亿美元的2036年5月到期的10年期国债，较上月的62.3亿美元有所减少。",
-          "url": "https://flash.jin10.com/detail/20260624030304994800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "市场消息：韩国已推迟了一项计划，该计划原本拟推出以SK海力士和三星电子等公司股票为标的、每周交易的单只股票期权。据知情人士透露，这个原定于6月29日推出的周度期权将被推迟。",
-          "url": "https://flash.jin10.com/detail/20260624175312774800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "博通与OpenAI联合推出Jalapeño，这是OpenAI首款智能处理器。",
-          "url": "https://flash.jin10.com/detail/20260624210354905800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "周二（6月23日），韩元兑美元最终涨0.20%，报1533.80韩元。",
-          "url": "https://wallstreetcn.com/livenews/3123599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "Cerebras Systems第一财季营收1.934亿美元，分析师预期1.814亿美元。 第一财季硬件营收1.106亿美元，云收入0.828亿美元。 第一财季每股亏损0.22美元，毛利润率45%，运营开支1.012亿美元。 预计全年营收8.55亿-8.65亿美元，分析师预期8.248亿美元。 预计第二财季营收大约1.94亿美元，分析师预期1.733亿美元。 Cerebras美股盘后跌5%。",
-          "url": "https://wallstreetcn.com/livenews/3123642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（6月23日），美国科技股七巨头（Magnificent 7）指数跌1.44%，报205.68点，特斯拉收跌5.79%。 “超大”市值科技股指数跌2.53%，报423.41点。",
-          "url": "https://wallstreetcn.com/livenews/3123677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "澳大利亚5月CPI同比 4%，预期 4.3%，前值 4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3123728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：希望开启伊朗与巴基斯坦之间的新篇章。",
-          "url": "https://flash.jin10.com/detail/20260624001710650800",
-          "source": "金十数据",
-          "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "金十图示：2026年06月24日（周三）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20260624102633443800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "商务部副部长兼国际贸易谈判副代表凌激与欧委会贸易和经济安全总司副总司长雷东内举行会谈",
-          "url": "https://flash.jin10.com/detail/20260624175202259800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "微软最新发布的《教育领域人工智能报告》指出，人工智能在教育领域的应用已十分广泛，且对相关支持的需求日益增长。",
-          "url": "https://flash.jin10.com/detail/20260624210337373800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
-          "url": "https://wallstreetcn.com/livenews/3123570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
-          "url": "https://wallstreetcn.com/livenews/3123598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "提醒：美国众议院监督委员会披露比尔·盖茨就爱泼斯坦案出席听证会的证词。",
-          "url": "https://wallstreetcn.com/livenews/3123641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美参议院通过决议要求特朗普结束对伊朗战事",
-          "url": "https://wallstreetcn.com/livenews/3123726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "特朗普对福克斯表示：视察人员将获准前往伊朗的铀所在地。 不急于派遣视察人员进入伊朗设施。 伊朗初期将获5亿美元，用于购买美国商品。",
-          "url": "https://wallstreetcn.com/livenews/3124039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：与巴基斯坦官员举行了建设性会谈。",
-          "url": "https://flash.jin10.com/detail/20260624001658877800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国总统特朗普：我们和伊朗相处得相当不错。",
-          "url": "https://flash.jin10.com/detail/20260624030229719800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "标普道琼斯指数：霍尼韦尔(HON.O)将继续留在道琼斯工业指数中。",
-          "url": "https://flash.jin10.com/detail/20260624052456093800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "博通(AVGO.O)盘前股价上涨3%。",
-          "url": "https://flash.jin10.com/detail/20260624210257817800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "报道：高盛二季度股票交易业务营收将突破50亿美元，再创行业纪录",
-          "url": "https://wallstreetcn.com/livenews/3123569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "上证指数开盘报4090.10点，跌0.39%。 深证成指开盘报15782.40点，跌0.45%。 创业板指开盘报4181.91点，跌0.25%。 沪深300开盘报4900.38点，跌0.39%。 科创50开盘报1896.34点，跌1.04%。 中证500开盘报8638.66点，跌0.57%。 中证1000开盘报8650.82点，跌0.34%。",
-          "url": "https://wallstreetcn.com/livenews/3123724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "【金饰克价年内大跌超460元】6月24日，国内各大黄金品牌的金饰挂牌价继续下调。周大福、谢瑞麟足金金饰报1238元/克，较前一日下调39元/克；六福、周生生足金饰品报1236元/克、1240元/克，较前一日分别下调39元/克、30元/克。截至24日，国内品牌金店足金报价较高点累计回落超460元/克，跌幅超27%。（21财经）",
-          "url": "https://wallstreetcn.com/livenews/3123928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "美国称国务卿卢比奥与阿联酋总统讨论了霍尔木兹海峡通行问题。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3124036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "韩国总理金民锡重返母校清华",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%90%86%E9%87%91%E6%B0%91%E9%94%A1%E9%87%8D%E8%BF%94%E6%AF%8D%E6%A0%A1%E6%B8%85%E5%8D%8E%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "日本民间团体呼吁返还所掠中国文物",
-          "url": "https://www.toutiao.com/trending/7653751615333924891/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "伊朗总统种树太投入巴总理没拦住",
-          "url": "https://www.toutiao.com/trending/7654472597551205924/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：讨论了很多关于该地区最新发展的重要观点。",
-          "url": "https://flash.jin10.com/detail/20260624001633458800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗同意永远不拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260624030215532800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "标普道琼斯指数：谷歌A(GOOGL.O)将于6月29日开盘前取代Verizon(VZ.N)，加入道琼斯工业指数。",
-          "url": "https://flash.jin10.com/detail/20260624052412130800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "哔哩哔哩(BILI.O)美股盘前上涨2.4%，此前公司宣布推出一项新的3亿美元股票回购计划。",
-          "url": "https://flash.jin10.com/detail/20260624174903778800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "博通(AVGO.O)预计将比预期更快地部署OpenAI芯片。",
-          "url": "https://flash.jin10.com/detail/20260624210245809800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "裕信银行CEO称，欧洲央行大概率将认定这家意大利银行取得德国商业银行控制权",
-          "url": "https://wallstreetcn.com/livenews/3123568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "SpaceX有望从美国高评级债券市场募集250亿美元，认购需求显示市场心态谨慎",
-          "url": "https://wallstreetcn.com/livenews/3123597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：谷歌将向三家日本大银行提供最新AI技术。",
-          "url": "https://wallstreetcn.com/livenews/3123810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "报道：韩国推迟推出单支股票周度期权",
-          "url": "https://wallstreetcn.com/livenews/3123925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "波罗的海干散货指数下跌1.24%，至2634点。",
-          "url": "https://wallstreetcn.com/livenews/3124035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "据英国金融时报：知情人士透露，特朗普在上周的七国集团峰会上对乌克兰在俄罗斯境内进行的远程打击“印象深刻，并表示非常赞赏”。特朗普还同意加大对俄罗斯能源的制裁力度。",
-          "url": "https://flash.jin10.com/detail/20260624001541670800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我们正在努力达成一个公平的协议。",
-          "url": "https://flash.jin10.com/detail/20260624030214963800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "日本央行会议纪要强化加息立场 市场预计年底前再次加息",
-          "url": "https://flash.jin10.com/detail/20260624102330036800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "博通(AVGO.O)CEO：OpenAI的新芯片可节省50%的成本。",
-          "url": "https://flash.jin10.com/detail/20260624210227845800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
-          "url": "https://wallstreetcn.com/livenews/3123596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "香港恒生指数开盘涨0.36%，恒生科技指数涨0.48%。",
-          "url": "https://wallstreetcn.com/livenews/3123722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "恒生科技指数涨幅扩大至3%。",
-          "url": "https://wallstreetcn.com/livenews/3123808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "日本经济陷入内外交困",
-          "url": "https://www.toutiao.com/trending/7654197562320158783/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "伊朗总统：近期事件凸显了与巴基斯坦关系的改善。",
-          "url": "https://flash.jin10.com/detail/20260624001449666800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260624025741263800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "OpenAI与博通(AVGO.O)联合发布针对大型语言模型（LLM）优化的智能处理器。",
-          "url": "https://flash.jin10.com/detail/20260624210204398800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "黎总统称谈判必须确保“以色列结束对黎占领”",
-          "url": "https://wallstreetcn.com/livenews/3123566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "周二（6月23日），美联储隔夜逆回购协议（RRP）使用规模为64.84亿美元（交易对手10家），上个交易日报39.25亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3123595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收低2.2%报46,043.60点。",
-          "url": "https://wallstreetcn.com/livenews/3123806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "纽约银日内跌幅达4.0%，报60.01美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3124033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "专家：中国经济成功有历史必然性",
-          "url": "https://www.toutiao.com/trending/7654416083604389915/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "伊朗总统：与巴基斯坦的关系建立在相互尊重之上。",
-          "url": "https://flash.jin10.com/detail/20260624001441421800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "日本最大电力公司JERA总裁：在紧急情况下更多使用煤电厂可以减少对昂贵的液化天然气现货采购的依赖，并有助于稳定电价。",
-          "url": "https://flash.jin10.com/detail/20260624135126794800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "黎总统与美官员通话，讨论建立黎巴嫩停火监督机制",
-          "url": "https://wallstreetcn.com/livenews/3123565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
-          "url": "https://wallstreetcn.com/livenews/3123594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3123636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8195，下调24点；上一交易日中间价6.8171，上一交易日官方收盘价6.7865，上日夜盘报收6.7938。",
-          "url": "https://wallstreetcn.com/livenews/3123720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "科创50指数涨幅扩大至4%，中科飞测涨10％，格科微涨10％，中芯国际涨10％，华虹宏力涨9％。",
-          "url": "https://wallstreetcn.com/livenews/3123804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "市场消息：SpaceX(SPCX.O)高评级债券发行获得890亿美元认购。",
-          "url": "https://flash.jin10.com/detail/20260624001420799800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我们做得相当不错。",
-          "url": "https://flash.jin10.com/detail/20260624025528702800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "软银CEO孙正义：目标实现净资产价值1000万亿日元。",
-          "url": "https://flash.jin10.com/detail/20260624101854010800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "日本首相高市早苗：预计到2040财年，公共和私人部门投资总额将达到370万亿日元。",
-          "url": "https://flash.jin10.com/detail/20260624174445153800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "OpenAI与博通(AVGO.O)联合发布人工智能芯片，旨在更快、更经济地运行模型。",
-          "url": "https://flash.jin10.com/detail/20260624210130831800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "随着沃什出任美联储主席，亚特兰大联储主席的遴选程序已重新启动。 Michael Faulkender曾是美国亚特兰大联储主席的候选人，现在则不得而知。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3123593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3123635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "周三亚太盘初，纳指期货反弹将近0.5%，标普股指期货涨超0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3123670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "台湾证交所加权股价指数下跌2%，至46,144.58点。",
-          "url": "https://wallstreetcn.com/livenews/3123719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "恒生科技指数涨幅扩大至2%，华虹宏力涨近20%，剑桥科技涨超10%，中芯国际涨超9%。",
-          "url": "https://wallstreetcn.com/livenews/3123802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "美国财长贝森特：不确定今年能否在赤字问题上取得进展。 到特朗普任期结束时，赤字/GDP比率可以降至4%以下。",
-          "url": "https://wallstreetcn.com/livenews/3124031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美联储加息3次金价或跌至3800",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF3%E6%AC%A1%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33800%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "纽约期金跌破4000美元",
-          "url": "https://flash.jin10.com/detail/20260624210034856800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
-          "url": "https://wallstreetcn.com/livenews/3123592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "标普500指数的11个板块中，信息技术/科技板块收跌3.66%，工业板块跌2.03%，房地产、保健、日用消费品板块则至多收涨1.78%。 在科技板块，闪迪、美光、安森美半导体、高意公司Coherent收跌13.64%-10.40%，ServiceNOW则收涨3.15%表现第三，IBM 涨5.04%，CDW Corporation涨5.25%。",
-          "url": "https://wallstreetcn.com/livenews/3123634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "郭士强：已针对日本最强阵容做了预案",
-          "url": "https://www.toutiao.com/trending/7654000444704079898/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "美股芯片股全线重挫",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
+          "title": "现货黄金跌破4000美元/盎司关口",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%2F%E7%9B%8E%E5%8F%B8%E5%85%B3%E5%8F%A3",
           "source": "百度热搜",
           "ranks": [
-            27
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "日本财务大臣片山皋月：被告知Alphabet(GOOG.O)首席执行官希望在今年秋季访问日本，与日本首相高市早苗会面。",
-          "url": "https://flash.jin10.com/detail/20260624134340681800",
+          "title": "美国财政部拍卖四个月期国债，得标利率3.770%，投标倍数2.55。",
+          "url": "https://wallstreetcn.com/livenews/3124134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌0.94%，报24659.64点。 法国股指初步收涨0.44%，意大利股指初步收跌0.96%、银行指数跌1.05%，英国股指初步收涨0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3124133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.12%，报633.89点。 欧元区STOXX 50指数初步收跌0.45%，报6202.75点。 富时泛欧绩优300指数初步收跌0.11%，报2537.07点。",
+          "url": "https://wallstreetcn.com/livenews/3124132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Swati Dhingra警告称：高利率造成绿色创新放缓。 较高的利率通过减缓对绿色技术的投资，损害了应对气候变化的进展。",
+          "url": "https://wallstreetcn.com/livenews/3124130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "欧洲央行官员：为达成2%目标，仍需进一步加息",
+          "url": "https://wallstreetcn.com/livenews/3124129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "特斯拉人工智能主管Ashok Elluswamy在社交平台X上发帖称，事发时特斯拉的驾驶辅助系统并未启动，但并未提供任何证据。",
+          "url": "https://wallstreetcn.com/livenews/3124126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "特斯拉遭起诉：一辆Model 3撞入民宅致一名女性身亡",
+          "url": "https://wallstreetcn.com/livenews/3124125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "俄罗斯5月工业产出同比下降0.7%，市场预计增长1.6%。",
+          "url": "https://flash.jin10.com/detail/20260625000102047800",
           "source": "金十数据",
           "ranks": [
-            27
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时46分"
+          "time_info": "00时16分"
         },
         {
-          "title": "三菱日联：汇率干预前景限制日元走弱步伐",
-          "url": "https://flash.jin10.com/detail/20260624174215738800",
+          "title": "美联储货币紧缩预期升温，黄金ETF或面临新一轮资金流出",
+          "url": "https://wallstreetcn.com/livenews/3124123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年6月25日 周四",
+          "url": "https://flash.jin10.com/detail/20260625000000001800",
           "source": "金十数据",
           "ranks": [
-            27
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "00时16分"
         },
         {
-          "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
-          "url": "https://wallstreetcn.com/livenews/3123591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "特朗普称美国正致力于与伊朗达成一项公平协议",
-          "url": "https://wallstreetcn.com/livenews/3123633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美国参议院共和党成员Steve Daines：参议院正酝酿自己版本的加密货币税收草案。 预计将“宜早不宜迟地”披露我们的计划。 可能会在秋季公之于众。",
-          "url": "https://wallstreetcn.com/livenews/3123668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.8052，较上一交易日官方收盘价跌187点，较上日夜盘收盘跌114点。",
-          "url": "https://wallstreetcn.com/livenews/3123914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "高盛复盘韩股暴跌",
-          "url": "https://www.toutiao.com/trending/7654585553005841939/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "韩国海水部：部分韩船正驶离霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260624101600549800",
+          "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
+          "url": "https://flash.jin10.com/detail/20260624235934784800",
           "source": "金十数据",
           "ranks": [
-            28
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "00时16分"
         },
         {
-          "title": "明晟公司MSCI北欧国家指数跌1.1%，创6月9日（当天收跌1.4%）以来最大单日跌幅，报385.02点。 在十个板块中，北欧工业板块跌幅最大。 Epiroc AB跌5.3%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3123560",
+          "title": "印度塔塔通信：6月5日德里数据中心发生火灾后，迅速启动业务连续性协议以应对不可抗力事件。",
+          "url": "https://flash.jin10.com/detail/20260624235629178800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "消息人士称，由于炼油厂停产，俄罗斯6月份从西部港口出口的石油量预计将达到创纪录的270万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260624235511561800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "WTI原油期货重新跌穿70美元关口，目前跌幅大约4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3124119",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "00时16分"
         },
         {
-          "title": "周二（6月23日），美股行业ETF多数收涨，区域银行ETF收涨2.55%，医疗业ETF、银行业ETF、能源业ETF也至多涨2.31%，网络股指数ETF则收跌0.49%，可选消费ETF跌2.71%，科技行业ETF跌3.67%，全球科技股指数ETF跌5.33%，半导体ETF跌7.01%。",
-          "url": "https://wallstreetcn.com/livenews/3123632",
+          "title": "消息人士：特朗普政府计划继续向土耳其出售价值数亿美元的喷气发动机。",
+          "url": "https://flash.jin10.com/detail/20260624234907236800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：今天已经与总统特朗普对话。 我们讨论了“拯救美国法案”。 我理解特朗普将在某个时间点签署住房草案为法律。",
+          "url": "https://wallstreetcn.com/livenews/3124117",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "00时16分"
         },
         {
-          "title": "美国财长贝森特：降息阶段，美元仍然可以表现坚挺。 我们热衷于采取行动让美元坚挺。 预计今年剩余时间经济将加速增长，同时不会推高通胀。 我赞赏沃什取消前瞻指引。 认为实际工资增长将恢复到4月之前的节奏。 2月时曾认为通胀到夏中会接近2%。 过去曾（在交易中）与美联储点阵图反向操作。 不认为任何人应该做美联储点阵图预测。 可以实现高GDP增长而不伴随传统意义上的通胀。 很有可能重现上世纪90年代经济持续扩张的态势。 沃什在谈及通胀问题时“态度强硬”。 特朗普公开和私下都表示他对沃什有信心。 认为今年可以实现3%或更高的增长。",
-          "url": "https://wallstreetcn.com/livenews/3124026",
+          "title": "金十图示：2026年06月24日（周三）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260624234353940800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）三个月期铝下跌至每吨3,110美元，创自2月25日以来最低水平，最新下跌3.6%。",
+          "url": "https://flash.jin10.com/detail/20260624233908904800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "德国DAX30指数6月24日（周三）收盘下跌197.03点，跌幅0.79%，报24740.00点；<br/>英国富时100指数6月24日（周三）收盘上涨34.31点，涨幅0.33%，报10463.16点；<br/>法国CAC40指数6月24日（周三）收盘上涨44.78点，涨幅0.54%，报8385.49点；<br/>欧洲斯托克50指数6月24日（周三）收盘下跌12.10点，跌幅0.19%，报6218.45点；<br/>西班牙IBEX35指数6月24日（周三）收盘下跌89.69点，跌幅0.46%，报19386.81点；<br/>意大利富时MIB指数6月24日（周三）收盘下跌382.91点，跌幅0.74%，报51641.50点。",
+          "url": "https://flash.jin10.com/detail/20260624233857220800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "瑞穗经济学家：若要有效利用外储，意味着日本要抛售美债",
+          "url": "https://wallstreetcn.com/livenews/3124111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "WTI原油期货维持4.2%的跌幅，目前交投于70美元关口上方，最新数据显示，美国上周EIA原油库存下降609万桶，降幅超过彭博用户与受访分析师的预期。",
+          "url": "https://wallstreetcn.com/livenews/3124110",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "00时16分"
         },
         {
-          "title": "韩国总统府官员：三星与SK海力士新芯片集群规划进入收尾阶段",
-          "url": "https://flash.jin10.com/detail/20260624101510201800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "周二（6月23日），彭博电动汽车价格回报指数跌4.43%，报3591.03点，亚太盘初短暂地微幅上扬，随后持续走低，美股开盘后跌幅略微扩大。 成分股中，意法半导体法国巴黎股价收跌8.53%，安霸股份跌约7.4%，小马智行ADR跌约6.6%，特斯拉跌约5.7%，文远知行ADR跌约5%，港股雅迪集团控股、速腾聚创科技、中创新航科技集团、小米集团、地平线、理想收跌4.88%-4.32%，吉利汽车控股H股则收涨2.12%表现第二，Ola Electric Mobility Ltd.收涨2.61%。",
-          "url": "https://wallstreetcn.com/livenews/3123630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美国总统特朗普打算周三在国会山签署住房法案。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3123664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "韩国首尔综指持续回升，现涨2%，此前一度跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3123794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "布伦特原油失守75美元/桶，内跌幅达2.5%，报74.88美元/桶，为伊朗冲突爆发以来的首次。",
-          "url": "https://wallstreetcn.com/livenews/3124023",
+          "title": "报道：草案显示，日本计划更好地管理用于日元干预的“弹药”",
+          "url": "https://wallstreetcn.com/livenews/3124109",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "日政府出手为何还是挡不住日元跌势",
-          "url": "https://www.toutiao.com/trending/7654549154269498906/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "巴基斯坦总理Sharif会见伊朗总统时表示：我们永远不会让你们感到失望。 巴方将继续发挥调停作用，直至实现持久和平。 伊朗（与美国）了谅解备忘录（MoU）。 MoU并没有涉及弹道导弹，（美国）不可以在弹道导弹问题上搞双标。 伊朗不希望讨论。 巴伊两国将携手合作，实现互利共赢。",
-          "url": "https://wallstreetcn.com/livenews/3123558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国财政部拍卖690亿美元两年期国债，得标利率4.189%——至少创2025年2月份以来新高（5月26日为4.071%），投标倍数2.64（前次为2.64）。",
-          "url": "https://wallstreetcn.com/livenews/3123588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "联邦快递（FedEx）第四财季营收250亿美元，同比增长13%。 第四财季调整后运营利润20.9亿美元，同比增长3.4%；运营利润率8.4%。 第四财季Federal Express营收215.7亿美元，同比增长14%。 第四财季调整后每股收益（EPS）为6.31美元，上年同期6.07美元。 预计2026日历年调整后持续经营EPS为16.90-18.10美元。",
-          "url": "https://wallstreetcn.com/livenews/3123629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美国财长贝森特：强势美元的概念与货币升值有所不同。 解决美国住房问题需要更低的利率和更多的供应。",
-          "url": "https://wallstreetcn.com/livenews/3123711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "高盛：中国居民的股票配置相对于其长期潜力而言仍然较低 股票和保险有望成为中期的主要受益者",
-          "url": "https://wallstreetcn.com/livenews/3124022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "00时16分"
         }
       ]
     }
