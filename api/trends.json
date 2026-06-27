@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T15:47:21.053131+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-06-27T18:04:10.153331+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 200,
+      "match_count": 218,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -76,6 +76,20 @@
           "time_info": "[00时14分 ~ 08时04分]"
         },
         {
+          "title": "40年来从未见过的景象！数据中心与内存成本激增正在推动第三波通胀浪潮",
+          "url": "https://wallstreetcn.com/articles/3775627",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时44分 ~ 18时04分]"
+        },
+        {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
           "url": "https://wallstreetcn.com/articles/3775571",
           "source": "华尔街见闻",
@@ -85,6 +99,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 06时10分]"
+        },
+        {
+          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时03分 ~ 18时04分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时09分 ~ 18时04分]"
         },
         {
           "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
@@ -178,43 +216,6 @@
           "time_info": "[00时14分 ~ 15时47分]"
         },
         {
-          "title": "40年来从未见过的景象！数据中心与内存成本激增正在推动第三波通胀浪潮",
-          "url": "https://wallstreetcn.com/articles/3775627",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时44分 ~ 15时47分]"
-        },
-        {
-          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 15时47分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时09分 ~ 15时47分]"
-        },
-        {
           "title": "韩国危!德国输球坑惨太极虎",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355657&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8D%B1%21%E5%BE%B7%E5%9B%BD%E8%BE%93%E7%90%83%E5%9D%91%E6%83%A8%E5%A4%AA%E6%9E%81%E8%99%8E",
           "source": "贴吧",
@@ -228,6 +229,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 12时51分]"
+        },
+        {
+          "title": "财晓得丨委内瑞拉地震7.5级，日本地震7.2级，灾情为什么相差这么大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459170",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 18时04分]"
         },
         {
           "title": "“反腐少将”被查，朝鲜领导层重大调整",
@@ -251,6 +265,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时09分 ~ 08时04分]"
+        },
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时03分 ~ 18时04分]"
         },
         {
           "title": "美光长协的含金量：客户先押220亿美元，合同不可取消，还锁定“史上最赚钱”的毛利率！",
@@ -278,6 +304,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 08时04分]"
+        },
+        {
+          "title": "韩国第8",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%AC%AC8%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 18时04分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -319,6 +356,29 @@
           "time_info": "[00时14分 ~ 08时04分]"
         },
         {
+          "title": "伊朗补刀,韩国队命悬一线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 18时04分]"
+        },
+        {
+          "title": "普京签总统令，延长反制！",
+          "url": "https://news.ifeng.com/c/8uHWDFmzd7U",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 18时04分]"
+        },
+        {
           "title": "跌破4000，黄金正在经历一场\"信仰瓦解\"",
           "url": "https://wallstreetcn.com/articles/3775600",
           "source": "华尔街见闻",
@@ -332,28 +392,37 @@
           "time_info": "[06时09分 ~ 15时47分]"
         },
         {
-          "title": "财晓得丨委内瑞拉地震7.5级，日本地震7.2级，灾情为什么相差这么大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33459170",
-          "source": "澎湃新闻",
+          "title": "评论员：日本悍然模拟攻击辽宁舰",
+          "url": "https://www.toutiao.com/trending/7655975779733376550/",
+          "source": "今日头条",
           "ranks": [
-            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
+        },
+        {
+          "title": "为何欧洲安空调这么难",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%AC%A7%E6%B4%B2%E5%AE%89%E7%A9%BA%E8%B0%83%E8%BF%99%E4%B9%88%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时51分 ~ 15时47分]"
+          "time_info": "[18时03分 ~ 18时04分]"
         },
         {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
+          "title": "胆大包天 日本竟模拟攻击辽宁舰",
+          "url": "https://www.baidu.com/s?wd=%E8%83%86%E5%A4%A7%E5%8C%85%E5%A4%A9+%E6%97%A5%E6%9C%AC%E7%AB%9F%E6%A8%A1%E6%8B%9F%E6%94%BB%E5%87%BB%E8%BE%BD%E5%AE%81%E8%88%B0",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 15时47分]"
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
         },
         {
           "title": "乌克兰会不会迫使俄罗斯从克里米亚撤军？",
@@ -366,6 +435,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时44分 ~ 08时04分]"
+        },
+        {
+          "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
+          "url": "https://wallstreetcn.com/articles/3775640",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时03分 ~ 18时04分]"
         },
         {
           "title": "韩国排名滑至第7 出线概率跌破5成",
@@ -434,15 +517,16 @@
           "time_info": "00时14分"
         },
         {
-          "title": "韩国第8",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%AC%AC8%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
           "ranks": [
-            1
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时03分 ~ 18时04分]"
         },
         {
           "title": "深度｜隔夜逆回购开启在即，十年演变后，政策利率的终局将至？",
@@ -478,15 +562,15 @@
           "time_info": "02时29分"
         },
         {
-          "title": "美国国家公路交通安全管理局（NHTSA）结束对约376241辆特斯拉Model 3和Model Y美国车辆转向失控问题的工程分析（EA）。",
-          "url": "https://flash.jin10.com/detail/20260627151134945800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
+          "url": "https://flash.jin10.com/detail/20260627172958574800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "18时04分"
         },
         {
           "title": "SemiAnalysis：H100云端指数现货价格正在下跌，现在每小时2.42美元，比5月峰值低约40%。生态系统担心这表明计算需求以及由此延伸的人工智能AI需求正在减弱。 重要的信号是，这很可能是一个现货价格指数，而不是期限定价。我们针对1年期H100合同价格的新云调查显示，该价格反而从去年末的大约每小时1.70美元的低谷攀升至如今的每小时约2.65美元。",
@@ -555,6 +639,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3125574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "金十图示：2026年06月26日（周五）全球股市指数-美洲市场",
           "url": "https://flash.jin10.com/detail/20260627042027619800",
           "source": "金十数据",
@@ -571,11 +666,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9C%9F%E5%88%B0%E6%82%AC%E5%B4%96%E8%BE%B9%E4%B8%8A%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 18时04分]"
         },
         {
           "title": "韩国再降一名就出局了",
@@ -584,18 +680,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "普京签总统令，延长反制！",
-          "url": "https://news.ifeng.com/c/8uHWDFmzd7U",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -633,17 +718,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "伊朗补刀,韩国队命悬一线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
           "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
           "url": "https://www.zhihu.com/question/2053782944448082432",
           "source": "知乎",
@@ -677,6 +751,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时45分 ~ 08时04分]"
+        },
+        {
+          "title": "韩国队排名滑至第 7，出线概率跌破 5 成，让其陷入如此境地内外部原因有哪些？会有球队踢「默契球」吗？",
+          "url": "https://www.zhihu.com/question/2054113108080026604",
+          "source": "知乎",
+          "ranks": [
+            14,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 18时04分]"
+        },
+        {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 18时04分]"
         },
         {
           "title": "中美跨国组合将出战WTT美国大满贯",
@@ -783,17 +881,16 @@
           "time_info": "[06时09分 ~ 08时04分]"
         },
         {
-          "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
-          "url": "https://wallstreetcn.com/articles/3775640",
-          "source": "华尔街见闻",
+          "title": "美国国家公路交通安全管理局（NHTSA）结束对约376241辆特斯拉Model 3和Model Y美国车辆转向失控问题的工程分析（EA）。",
+          "url": "https://flash.jin10.com/detail/20260627151134945800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            6,
-            7
+            2,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 15时47分]"
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 18时04分]"
         },
         {
           "title": "两周不到重回70美元，油价新一轮危险正在降临！",
@@ -832,6 +929,19 @@
           "time_info": "[06时10分 ~ 08时04分]"
         },
         {
+          "title": "近期日本经济界人士接连访华，商务部回应希望日本经济界从自身利益出发，敦促政府反思纠错，传递了什么信号？",
+          "url": "https://www.zhihu.com/question/2053501597641086813",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 18时04分]"
+        },
+        {
           "title": "传腾讯拟退出对多家日本游戏工作室投资，腾讯：保持对日本游戏市场的长期关注",
           "url": "https://wallstreetcn.com/livenews/3125542",
           "source": "华尔街见闻-快讯",
@@ -866,16 +976,29 @@
           "time_info": "[00时14分 ~ 04时45分]"
         },
         {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
+          "title": "从一台空调看欧洲对华逆差的本质",
+          "url": "https://news.ifeng.com/c/8uHYXqRhz8N",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            12
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时03分 ~ 15时47分]"
+          "time_info": "[12时51分 ~ 18时04分]"
+        },
+        {
+          "title": "黄金大跌 多家银行发布公告",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 18时04分]"
         },
         {
           "title": "难不成德国输球是为了报复韩国",
@@ -938,6 +1061,18 @@
           "time_info": "[04时45分 ~ 08时04分]"
         },
         {
+          "title": "韩国人又开始结婚生娃了",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%8F%88%E5%BC%80%E5%A7%8B%E7%BB%93%E5%A9%9A%E7%94%9F%E5%A8%83%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 18时04分]"
+        },
+        {
           "title": "标普：我们预计美联储将坚定致力于引导通胀向目标水平靠拢。",
           "url": "https://flash.jin10.com/detail/20260627041141443800",
           "source": "金十数据",
@@ -962,6 +1097,17 @@
           "time_info": "[04时45分 ~ 08时04分]"
         },
         {
+          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
+          "url": "https://wallstreetcn.com/articles/3775625",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 18时04分]"
+        },
+        {
           "title": "标普：预计2026至2029年间美国经济将增长约2%。",
           "url": "https://flash.jin10.com/detail/20260627041113603800",
           "source": "金十数据",
@@ -974,6 +1120,18 @@
           "time_info": "[04时45分 ~ 08时04分]"
         },
         {
+          "title": "日本悍然模拟攻击辽宁舰",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%82%8D%E7%84%B6%E6%A8%A1%E6%8B%9F%E6%94%BB%E5%87%BB%E8%BE%BD%E5%AE%81%E8%88%B0%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 18时04分]"
+        },
+        {
           "title": "比特币跌向 5.9 万美元，散户大军撤退暴露了哪些市场新脆弱性？",
           "url": "https://www.zhihu.com/question/2053308041852884352",
           "source": "知乎",
@@ -983,6 +1141,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时03分 ~ 12时51分]"
+        },
+        {
+          "title": "韩国再降一名就出局",
+          "url": "https://www.toutiao.com/trending/7655898044294254106/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 18时04分]"
         },
         {
           "title": "欧洲热浪已致上百人死亡，为什么不开空调？",
@@ -1041,18 +1211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 06时10分]"
-        },
-        {
-          "title": "近期日本经济界人士接连访华，商务部回应希望日本经济界从自身利益出发，敦促政府反思纠错，传递了什么信号？",
-          "url": "https://www.zhihu.com/question/2053501597641086813",
-          "source": "知乎",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 15时47分]"
         },
         {
           "title": "韩国有便利店贴告示禁止主帅入内",
@@ -1149,6 +1307,17 @@
           "time_info": "[00时14分 ~ 02时29分]"
         },
         {
+          "title": "黄金暴跌为何买的人更多了",
+          "url": "https://www.toutiao.com/trending/7655931295079337526/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
+        },
+        {
           "title": "IMF首席经济学家古兰沙：在美国实施关税措施后，出现了不包含美国在内的新贸易关系。",
           "url": "https://flash.jin10.com/detail/20260627043906555800",
           "source": "金十数据",
@@ -1160,15 +1329,15 @@
           "time_info": "[06时10分 ~ 08时04分]"
         },
         {
-          "title": "从一台空调看欧洲对华逆差的本质",
-          "url": "https://news.ifeng.com/c/8uHYXqRhz8N",
-          "source": "凤凰网",
+          "title": "美光高管吐槽苹果：成倍向用户加价",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E9%AB%98%E7%AE%A1%E5%90%90%E6%A7%BD%E8%8B%B9%E6%9E%9C%EF%BC%9A%E6%88%90%E5%80%8D%E5%90%91%E7%94%A8%E6%88%B7%E5%8A%A0%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时51分 ~ 15时47分]"
+          "time_info": "[18时03分 ~ 18时04分]"
         },
         {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
@@ -1217,18 +1386,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 06时10分]"
-        },
-        {
-          "title": "黄金大跌 多家银行发布公告",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 15时47分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7978元，较周四夜盘收盘涨12点。成交量562.03亿美元。",
@@ -1326,6 +1483,17 @@
           "time_info": "[12时51分 ~ 15时47分]"
         },
         {
+          "title": "美光高管暗示内存涨价苹果应负责",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E9%AB%98%E7%AE%A1%E6%9A%97%E7%A4%BA%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%E8%8B%B9%E6%9E%9C%E5%BA%94%E8%B4%9F%E8%B4%A3",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
+        },
+        {
           "title": "京东：在欧洲推出机器人维修服务，已在英德等国建立JoyRobocare维修中心",
           "url": "https://wallstreetcn.com/livenews/3125522",
           "source": "华尔街见闻-快讯",
@@ -1336,6 +1504,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 15时47分]"
+        },
+        {
+          "title": "德国队爆冷输球 韩国人为何破防了",
+          "url": "https://www.toutiao.com/trending/7655991434306129417/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
         },
         {
           "title": "韩国球迷怒批德日故意放水",
@@ -1459,17 +1638,6 @@
           "time_info": "12时51分"
         },
         {
-          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
-          "url": "https://wallstreetcn.com/articles/3775664",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
           "title": "巴西总统卢拉要求巴西国防部长前往委内瑞拉商讨援助事宜。",
           "url": "https://flash.jin10.com/detail/20260626233744322800",
           "source": "金十数据",
@@ -1498,7 +1666,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1525,17 +1693,6 @@
           "time_info": "00时14分"
         },
         {
-          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
-          "url": "https://wallstreetcn.com/articles/3775625",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
           "title": "德国DAX30指数6月26日（周五）收盘下跌328.90点，跌幅1.32%，报24671.64点；<br/>英国富时100指数6月26日（周五）收盘下跌19.23点，跌幅0.18%，报10510.66点；<br/>法国CAC40指数6月26日（周五）收盘下跌46.74点，跌幅0.55%，报8384.87点；<br/>欧洲斯托克50指数6月26日（周五）收盘下跌45.53点，跌幅0.73%，报6222.00点；<br/>西班牙IBEX35指数6月26日（周五）收盘下跌75.13点，跌幅0.39%，报19438.47点；<br/>意大利富时MIB指数6月26日（周五）收盘下跌480.41点，跌幅0.93%，报51302.50点。",
           "url": "https://flash.jin10.com/detail/20260626233728281800",
           "source": "金十数据",
@@ -1553,9 +1710,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例",
+          "url": "https://flash.jin10.com/detail/20260627164914377800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "布伦特原油日内跌幅达4.5%，报72.06美元/桶；WTI原油日内跌幅达4.5%，报68.64美元/桶。",
@@ -1569,24 +1737,13 @@
           "time_info": "00时14分"
         },
         {
-          "title": "日本悍然模拟攻击辽宁舰",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%82%8D%E7%84%B6%E6%A8%A1%E6%8B%9F%E6%94%BB%E5%87%BB%E8%BE%BD%E5%AE%81%E8%88%B0%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
           "title": "欧洲遭遇最严酷热浪，科学家断言若无气候危机不可能发生",
           "url": "https://news.ifeng.com/c/8uIHg9vbl2d",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1608,7 +1765,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1646,6 +1803,28 @@
           "time_info": "04时45分"
         },
         {
+          "title": "美国国家公路交通安全管理局：结束对约376,241辆特斯拉(TSLA.O)Model 3和Model Y车辆因转向失控问题的工程分析。",
+          "url": "https://flash.jin10.com/detail/20260627162738213800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
+          "url": "https://wallstreetcn.com/livenews/3125565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "为什么韩国生育率起来了?",
           "url": "https://www.zhihu.com/question/2037198195294462384",
           "source": "知乎",
@@ -1666,17 +1845,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
-        },
-        {
-          "title": "韩国人又开始结婚生娃了",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%8F%88%E5%BC%80%E5%A7%8B%E7%BB%93%E5%A9%9A%E7%94%9F%E5%A8%83%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
         },
         {
           "title": "为何欧洲安空调这么难",
@@ -1712,15 +1880,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "韩国队排名滑至第 7，出线概率跌破 5 成，让其陷入如此境地内外部原因有哪些？会有球队踢「默契球」吗？",
-          "url": "https://www.zhihu.com/question/2054113108080026604",
-          "source": "知乎",
+          "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
+          "url": "https://wallstreetcn.com/livenews/3125563",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "18时04分"
         },
         {
           "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
@@ -1767,6 +1935,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "台风来袭，日本气象厅敦促民众保持警惕",
+          "url": "https://wallstreetcn.com/livenews/3125562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "奥巴马回应总被特朗普骂",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E6%80%BB%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -1787,6 +1966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "乌克兰国家天然气公司称，俄罗斯袭击了该公司在波尔塔瓦和哈尔科夫地区的生产设施，造成损失。",
+          "url": "https://flash.jin10.com/detail/20260627155744357800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "丁薛祥在新疆调研时强调：突出优势特色培育壮大新动能，加快推进经济社会高质量发展",
@@ -1822,15 +2012,15 @@
           "time_info": "06时10分"
         },
         {
-          "title": "韩国再降一名就出局",
-          "url": "https://www.toutiao.com/trending/7655898044294254106/",
-          "source": "今日头条",
+          "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
+          "url": "https://wallstreetcn.com/livenews/3125560",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "18时04分"
         },
         {
           "title": "美联储卡什卡利：我预计2026年将加息一次，2027年利率将维持不变。",
@@ -1943,6 +2133,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰“火烈鸟”导弹袭击了俄罗斯伏尔加格勒地区的一家武器制造厂。",
+          "url": "https://flash.jin10.com/detail/20260627154624477800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近3%，生物科技指数ETF涨超2%，半导体ETF跌超3%，科技行业ETF跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3125372",
           "source": "华尔街见闻-快讯",
@@ -1971,7 +2172,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -2007,6 +2208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "热浪席卷欧洲 瑞士冰川严重消融",
+          "url": "https://flash.jin10.com/detail/20260627153650720800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "IMF首席经济学家：全球经济依然牢牢地“以美元为中心”",
@@ -2081,7 +2293,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -2103,7 +2315,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -2169,7 +2381,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -2246,7 +2458,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
