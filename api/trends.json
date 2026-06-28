@@ -1,1295 +1,253 @@
 {
-  "generated_at": "2026-06-28T23:16:25.601608+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-06-29T01:05:59.388049+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 197,
+      "match_count": 63,
       "titles": [
-        {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 21时29分]"
-        },
-        {
-          "title": "极端高温下法国人疯抢空调，此前 8 成人认为空调不环保，如何看待这种转变？今年欧洲高温究竟有多反常？",
-          "url": "https://www.zhihu.com/question/2054168303250007375",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 19时05分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 21时29分]"
-        },
-        {
-          "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
-          "url": "https://wallstreetcn.com/articles/3775675",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 16时19分]"
-        },
-        {
-          "title": "轰6k与俄图95在日本海上空同框",
-          "url": "https://www.toutiao.com/trending/7655960412043362323/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5,
-            4,
-            6,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 19时05分]"
-        },
-        {
-          "title": "韩国球迷心态崩了",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%90%83%E8%BF%B7%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "结束了!刚果金踢碎韩国出线梦",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355701&amp;topic_name=%E7%BB%93%E6%9D%9F%E4%BA%86%21%E5%88%9A%E6%9E%9C%E9%87%91%E8%B8%A2%E7%A2%8E%E9%9F%A9%E5%9B%BD%E5%87%BA%E7%BA%BF%E6%A2%A6",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 23时16分]"
-        },
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
           "url": "https://wallstreetcn.com/articles/3775683",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 23时16分]"
-        },
-        {
-          "title": "伊朗补刀,韩国队命悬一线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 23时16分]"
-        },
-        {
-          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
-          "url": "https://wallstreetcn.com/articles/3775664",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "韩国队无缘晋级 2026 年世界杯淘汰赛，小组赛出局最大的问题是什么？谁该负责？",
-          "url": "https://www.zhihu.com/question/2054498128321929989",
-          "source": "知乎",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 23时16分]"
-        },
-        {
-          "title": "普京签总统令，延长反制！",
-          "url": "https://news.ifeng.com/c/8uHWDFmzd7U",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "中俄两国空军在日本海、东海、太平洋西部空域组织联合巡航",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33468283",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 16时19分]"
-        },
-        {
-          "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
-          "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 21时29分]"
-        },
-        {
-          "title": "世界杯 32 强对阵出炉，巴西 vs 日本、法国 vs 瑞典、葡萄牙 vs 克罗地亚，你看好哪些球队晋级？",
-          "url": "https://www.zhihu.com/question/2054536470178653026",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 23时16分]"
-        },
-        {
-          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
-          "url": "https://wallstreetcn.com/livenews/3125610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 16时19分]"
-        },
-        {
-          "title": "RW侠战胜AG超玩会赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=RW%E4%BE%A0%E6%88%98%E8%83%9CAG%E8%B6%85%E7%8E%A9%E4%BC%9A%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 23时16分]"
-        },
-        {
-          "title": "欧洲央行执委Schnabel：能源冲击可能传导至更广泛的通胀动态。 能源价格上涨具有连锁效应。 食品、商品和服务通胀面临上行风险。 生产商将部分输入品成本上涨转嫁出去。 消费者通胀预期上升。 目前尚无工资压力的迹象。 预计欧洲央行将进一步加息。 资产估值面临的金融稳定风险上升。",
-          "url": "https://wallstreetcn.com/livenews/3125608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 12时16分]"
-        },
-        {
-          "title": "哥伦比亚葡萄牙刚果（金）三队出线，韩国被淘汰了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470311",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 23时16分]"
-        },
-        {
-          "title": "中国「避暑神器」美的 PortaSplit 空调有什么特别？为什么能在欧洲卖爆？",
-          "url": "https://www.zhihu.com/question/2053913023874430201",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 12时16分]"
-        },
-        {
-          "title": "中国空调成欧洲“救命稻草”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83%E6%88%90%E6%AC%A7%E6%B4%B2%E2%80%9C%E6%95%91%E5%91%BD%E7%A8%BB%E8%8D%89%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "评论员：日本悍然模拟攻击辽宁舰",
-          "url": "https://www.toutiao.com/trending/7655975779733376550/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            7,
-            6,
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "超级热浪席卷欧洲 中国空调“一机难求”",
-          "url": "https://www.cls.cn/detail/2410964",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时59分 ~ 23时16分]"
-        },
-        {
-          "title": "韩国队世界杯出局",
-          "url": "https://www.douyin.com/hot/2550241",
-          "source": "抖音",
-          "ranks": [
-            1,
-            14,
-            19,
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 23时16分]"
-        },
-        {
-          "title": "韩国队淘汰前还在墨西哥训练",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%B7%98%E6%B1%B0%E5%89%8D%E8%BF%98%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%AE%AD%E7%BB%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            15,
-            22,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 23时16分]"
-        },
-        {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "报道称苹果游说美国政府希望获批采购长鑫存储内存芯片，成功概率有多大？国产芯片打入苹果高端机型难点在哪？",
-          "url": "https://www.zhihu.com/question/2054233145457874875",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 07时59分]"
-        },
-        {
-          "title": "下半年美元指数何去何从",
-          "url": "https://wallstreetcn.com/articles/3775680",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 19时05分]"
-        },
-        {
-          "title": "韩国队世界杯惨遭淘汰",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%83%A8%E9%81%AD%E6%B7%98%E6%B1%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 23时16分]"
-        },
-        {
-          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
-          "url": "https://wallstreetcn.com/livenews/3125605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 12时16分]"
-        },
-        {
-          "title": "欧洲遭遇史上最严酷热浪，科学家断言若无气候危机不可能发生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33466800",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 23时16分]"
-        },
-        {
-          "title": "日本精锐部队成员被坠落机枪砸死",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%B2%BE%E9%94%90%E9%83%A8%E9%98%9F%E6%88%90%E5%91%98%E8%A2%AB%E5%9D%A0%E8%90%BD%E6%9C%BA%E6%9E%AA%E7%A0%B8%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            6,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "铁路、核电站、工厂都出问题，一场热浪“烤”出欧洲的脆弱",
-          "url": "https://news.ifeng.com/c/8uIyHSaVimA",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "韩国淘汰",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%B7%98%E6%B1%B0&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "日本小组第二出线，第一轮淘汰赛将挑战巴西，你认为日本赢球的概率有多大？",
-          "url": "https://www.zhihu.com/question/2053776961428885843",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "从一台空调看欧洲对华逆差的本质",
-          "url": "https://news.ifeng.com/c/8uHYXqRhz8N",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 23时16分]"
-        },
-        {
-          "title": "欧洲现役最老核电站因高温暂停运行",
-          "url": "https://wallstreetcn.com/livenews/3125598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 12时16分]"
-        },
-        {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "欧洲高温对中国空调企业意味着什么",
-          "url": "https://www.toutiao.com/trending/7656068928103255558/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            14,
-            23,
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
-          "url": "https://wallstreetcn.com/articles/3775686",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "多领域亮眼成果筑牢经济增长底气",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%A2%86%E5%9F%9F%E4%BA%AE%E7%9C%BC%E6%88%90%E6%9E%9C%E7%AD%91%E7%89%A2%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "欧洲遭遇史上最严酷热浪，空调卖爆了，美的PortaSlit“二手价格超过新机”",
-          "url": "https://wallstreetcn.com/articles/3775684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 23时16分]"
-        },
-        {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "世界杯小组赛结束，亚足联仅日本澳大利亚进入 32 强，远不及扩军前给亚足联的世界杯名额，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2054540391236335233",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 23时16分]"
-        },
-        {
-          "title": "法总统候选人称法国必须退出北约",
-          "url": "https://www.toutiao.com/trending/7655685961820930086/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "欧洲为何宁可硬扛热浪也不装空调",
-          "url": "https://www.toutiao.com/trending/7656043363908455978/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            7,
-            19,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 07时59分]"
-        },
-        {
-          "title": "如果俄罗斯在俄乌战场使用小型战术核弹，会有什么后果？",
-          "url": "https://www.zhihu.com/question/2053729226679902385",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 07时59分]"
-        },
-        {
-          "title": "存储芯片大涨 苹果美光打口水战",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%A4%A7%E6%B6%A8+%E8%8B%B9%E6%9E%9C%E7%BE%8E%E5%85%89%E6%89%93%E5%8F%A3%E6%B0%B4%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时07分]"
-        },
-        {
-          "title": "特朗普孙女发逛白宫vlog美国网友破防",
-          "url": "https://www.toutiao.com/trending/7656026817400475182/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            19,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 07时59分]"
-        },
-        {
-          "title": "委内瑞拉代总统：地震重灾区六成电力已恢复",
-          "url": "https://wallstreetcn.com/livenews/3125586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "韩国出局真是被对手联手做掉的吗",
-          "url": "https://www.toutiao.com/trending/7656435608092413466/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "欧洲地中海地震中心：委内瑞拉阿拉瓜州近海发生5.6级地震。",
-          "url": "https://flash.jin10.com/detail/20260628032955834800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时36分 ~ 07时59分]"
-        },
-        {
-          "title": "韩国足协取消为韩国队接机",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%96%E6%B6%88%E4%B8%BA%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8E%A5%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 21时29分]"
-        },
-        {
-          "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20260628220938422800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3125689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
-          "url": "https://wallstreetcn.com/articles/3775674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 16时19分]"
-        },
-        {
-          "title": "李在明怒批韩国队表现：出局太荒唐",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%80%92%E6%89%B9%E9%9F%A9%E5%9B%BD%E9%98%9F%E8%A1%A8%E7%8E%B0%EF%BC%9A%E5%87%BA%E5%B1%80%E5%A4%AA%E8%8D%92%E5%94%90",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时04分 ~ 21时29分]"
-        },
-        {
-          "title": "韩国队出局",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 16时19分]"
-        },
-        {
-          "title": "欧洲地中海地震中心：日本本州东海岸附近发生6级地震。",
-          "url": "https://flash.jin10.com/detail/20260628043043905800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时59分 ~ 07时59分]"
-        },
-        {
-          "title": "澳大利亚财长：预计通胀将在年中见顶于4.25%",
-          "url": "https://flash.jin10.com/detail/20260628112154343800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "韩国总统：世界杯出局太荒唐",
-          "url": "https://www.toutiao.com/trending/7656356215164980774/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时04分 ~ 23时16分]"
-        },
-        {
-          "title": "苹果和美光关于存储涨价的口水战，你认为谁说的更有道理？",
-          "url": "https://www.zhihu.com/question/2053876477876347476",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 23时16分]"
-        },
-        {
-          "title": "7月美联储决议前，沃什有两次\"重要亮相\"，下周是第一次！",
-          "url": "https://wallstreetcn.com/articles/3775687",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 23时16分]"
-        },
-        {
-          "title": "为何欧洲安空调这么难",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%AC%A7%E6%B4%B2%E5%AE%89%E7%A9%BA%E8%B0%83%E8%BF%99%E4%B9%88%E9%9A%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 06时07分]"
-        },
-        {
-          "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
-          "url": "https://flash.jin10.com/detail/20260628041744920800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时59分 ~ 07时59分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-28）",
-          "url": "https://flash.jin10.com/detail/20260628181334156800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
-          "url": "https://flash.jin10.com/detail/20260628213314042800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "韩国男足回国将首次无接机和欢迎",
-          "url": "https://www.toutiao.com/trending/7655563807642304538/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 19时05分]"
-        },
-        {
-          "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
-          "url": "https://flash.jin10.com/detail/20260628035930738800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时59分 ~ 07时59分]"
-        },
-        {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 23时16分]"
-        },
-        {
-          "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
-          "url": "https://flash.jin10.com/detail/20260628035130525800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时59分 ~ 07时59分]"
-        },
-        {
-          "title": "轰6k与俄图95在日本海上空同框",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%B06k%E4%B8%8E%E4%BF%84%E5%9B%BE95%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%B5%B7%E4%B8%8A%E7%A9%BA%E5%90%8C%E6%A1%86",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 06时07分]"
-        },
-        {
-          "title": "普京：俄罗斯将坚定捍卫自身根本利益",
-          "url": "https://flash.jin10.com/detail/20260628212008143800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "特朗普公布“爱国者护照”新版效果图",
-          "url": "https://flash.jin10.com/detail/20260627230052437800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "time_info": "01时05分"
         },
         {
           "title": "中国避暑神器在欧洲卖爆了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%81%BF%E6%9A%91%E7%A5%9E%E5%99%A8%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%96%E7%88%86%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            2,
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "塞浦路斯总统：塞浦路斯欢迎美国促成的以色列与黎巴嫩之间的框架协议，并对美国在推动这一关键举措方面的努力表示赞赏。",
-          "url": "https://flash.jin10.com/detail/20260627224803077800",
-          "source": "金十数据",
+          "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
+          "url": "https://wallstreetcn.com/articles/3775686",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            19
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "欧洲央行执委：价格压力仍可能强于预期 预计将进一步加息",
-          "url": "https://flash.jin10.com/detail/20260627223422932800",
-          "source": "金十数据",
+          "title": "美的卖爆,欧洲装空调难在哪?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355712&amp;topic_name=%E7%BE%8E%E7%9A%84%E5%8D%96%E7%88%86%2C%E6%AC%A7%E6%B4%B2%E8%A3%85%E7%A9%BA%E8%B0%83%E9%9A%BE%E5%9C%A8%E5%93%AA%3F",
+          "source": "贴吧",
           "ranks": [
-            3,
-            20
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "俄罗斯总统普京：我们正在应对所有挑战，包括针对我们基础设施的恐怖袭击。同时，我们也将应对人口问题等挑战，并将保护我们的传统价值观。",
-          "url": "https://flash.jin10.com/detail/20260628211138933800",
-          "source": "金十数据",
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            11
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "俄罗斯总统普京：各地加油站前排起长队，民众所需的汽油有时供不应求。",
+          "url": "https://flash.jin10.com/detail/20260629003823038800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "世界杯 32 强对阵出炉，巴西 vs 日本、法国 vs 瑞典、葡萄牙 vs 克罗地亚，你看好哪些球队晋级？",
+          "url": "https://www.zhihu.com/question/2054536470178653026",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "哥伦比亚葡萄牙刚果（金）三队出线，韩国被淘汰了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470311",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "T1 3-0 TLAW数据雷达图",
+          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20TLAW%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯已开始使用其燃料储备，但汽油库存仍与去年持平。",
+          "url": "https://flash.jin10.com/detail/20260629003706398800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "塞尔维亚总统武契奇表示将在数周内辞职，预示提前举行大选。",
-          "url": "https://flash.jin10.com/detail/20260628011108779800",
+          "title": "俄罗斯总统普京：正在讨论对柴油出口实施全面禁令的可能性。",
+          "url": "https://flash.jin10.com/detail/20260629003651233800",
           "source": "金十数据",
           "ranks": [
-            4,
-            25
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时36分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "俄罗斯副总理诺瓦克：俄罗斯已决定将强制交易所汽油销售配额从15%下调至10%，并限制价格波动幅度。 俄罗斯没有必要禁止柴油出口。",
-          "url": "https://wallstreetcn.com/livenews/3125677",
+          "title": "韩国队主帅洪明甫下课",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%BB%E5%B8%85%E6%B4%AA%E6%98%8E%E7%94%AB%E4%B8%8B%E8%AF%BE",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "欧洲人买空调难点在哪",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E6%B4%B2%E4%BA%BA%E4%B9%B0%E7%A9%BA%E8%B0%83%E9%9A%BE%E7%82%B9%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "俄罗斯总统普京：最大的炼油厂的产能正在被充分利用。",
+          "url": "https://flash.jin10.com/detail/20260629003546431800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "日本媒体人：警惕日本再次成为战争加害国",
+          "url": "https://wallstreetcn.com/livenews/3125694",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            14
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
-          "url": "https://flash.jin10.com/detail/20260628025551765800",
-          "source": "金十数据",
+          "title": "结束了!刚果金踢碎韩国出线梦",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355701&amp;topic_name=%E7%BB%93%E6%9D%9F%E4%BA%86%21%E5%88%9A%E6%9E%9C%E9%87%91%E8%B8%A2%E7%A2%8E%E9%9F%A9%E5%9B%BD%E5%87%BA%E7%BA%BF%E6%A2%A6",
+          "source": "贴吧",
           "ranks": [
-            7,
-            13,
-            22
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时36分 ~ 07时59分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "美联储的集权式改革以及沃什的阳谋",
-          "url": "https://wallstreetcn.com/articles/3775689",
+          "title": "韩国出局真是被对手联手做掉的吗",
+          "url": "https://www.toutiao.com/trending/7656435608092413466/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "欧洲遭遇史上最严酷热浪，空调卖爆了，美的PortaSlit“二手价格超过新机”",
+          "url": "https://wallstreetcn.com/articles/3775684",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时04分 ~ 23时16分]"
-        },
-        {
-          "title": "俄罗斯总统普京：国家杜马选举将在规定期限内严格依法举行。",
-          "url": "https://flash.jin10.com/detail/20260628210802777800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "何立峰在四川调研时指出，加快建设现代化产业体系，持续增强经济发展动能",
-          "url": "https://wallstreetcn.com/livenews/3125650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 21时29分]"
-        },
-        {
-          "title": "韩国队世界杯出局，李在明：感到震惊，非常困惑，展开调查",
-          "url": "https://news.ifeng.com/c/8uKPcfbCdgM",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时04分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
           "title": "李在明怒批韩国队表现",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%80%92%E6%89%B9%E9%9F%A9%E5%9B%BD%E9%98%9F%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时04分 ~ 21时29分]"
-        },
-        {
-          "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
-          "url": "https://flash.jin10.com/detail/20260628033654937800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时59分 ~ 07时59分]"
-        },
-        {
-          "title": "博主：韩国队把天胡牌打烂了",
-          "url": "https://www.toutiao.com/trending/7656273504718818870/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 16时19分]"
-        },
-        {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260628104742126800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 23时16分]"
-        },
-        {
-          "title": "韩国球迷终于解脱了",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%90%83%E8%BF%B7%E7%BB%88%E4%BA%8E%E8%A7%A3%E8%84%B1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 16时19分]"
-        },
-        {
-          "title": "利率破 5，黄金崩？长江证券想证明：加息未必利空黄金",
-          "url": "https://wallstreetcn.com/articles/3775691",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时04分 ~ 21时29分]"
-        },
-        {
-          "title": "韩国队回国没有接机",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%9B%9E%E5%9B%BD%E6%B2%A1%E6%9C%89%E6%8E%A5%E6%9C%BA%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 19时05分]"
-        },
-        {
-          "title": "郭明錤：iOS 27将进一步深化与Apple Intelligence的系统级整合",
-          "url": "https://wallstreetcn.com/livenews/3125621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 19时05分]"
-        },
-        {
-          "title": "日本半导体王牌为何开始担心中国",
-          "url": "https://www.toutiao.com/trending/7656075390498115126/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时36分]"
-        },
-        {
-          "title": "欧洲：中国空调“一机难求”",
-          "url": "https://news.ifeng.com/c/8uJBP3f6GOI",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 16时19分]"
-        },
-        {
-          "title": "苹果芯片成本涨45售价狂加250美元",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%8A%AF%E7%89%87%E6%88%90%E6%9C%AC%E6%B6%A845%E5%94%AE%E4%BB%B7%E7%8B%82%E5%8A%A0250%E7%BE%8E%E5%85%83&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时04分 ~ 21时29分]"
-        },
-        {
-          "title": "中国避暑神器在欧洲卖爆了",
-          "url": "https://www.toutiao.com/trending/7655930412149162035/",
-          "source": "今日头条",
-          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "扛不住成本，苹果游说特朗普政府",
-          "url": "https://news.ifeng.com/c/8uKEvaozU5k",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -1299,1056 +257,448 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
-          "url": "https://flash.jin10.com/detail/20260628050053611800",
+          "title": "俄罗斯总统普京：之前积累的燃料已供应至俄罗斯国内市场。",
+          "url": "https://flash.jin10.com/detail/20260629003536111800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时07分 ~ 07时59分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "欧洲央行执委施纳贝尔：预计欧洲央行将进一步加息。",
-          "url": "https://flash.jin10.com/detail/20260627215356356800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
-        },
-        {
-          "title": "俄罗斯总统普京：特种作战部队官兵是俄罗斯真正的精锐力量。",
-          "url": "https://flash.jin10.com/detail/20260628210740582800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "韩国将于周一宣布三星、SK集团的多个大型项目",
-          "url": "https://wallstreetcn.com/livenews/3125636",
+          "title": "世卫组织：欧洲高温 相关超额死亡已超1300例",
+          "url": "https://wallstreetcn.com/livenews/3125693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 19时05分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "据俄罗斯副总理诺瓦克，俄能源部还没有提出柴油出口禁令方面的建议。（国际文传通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3125675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "KC零封DCG赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=KC%E9%9B%B6%E5%B0%81DCG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "黎巴嫩总统府表示，黎巴嫩总统奥恩在与美国总统特朗普的电话中表示，黎巴嫩将承担与以色列实施框架协议的责任。黎巴嫩总统奥恩已请求美国协助防止协议被违反，并施压以色列撤出南部地区。",
-          "url": "https://flash.jin10.com/detail/20260628045321794800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时07分 ~ 07时59分]"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：目前尚未出现工资压力迹象。",
-          "url": "https://flash.jin10.com/detail/20260627215345793800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
-        },
-        {
-          "title": "油价重回70美元，下一轮行情怎么看？",
-          "url": "https://flash.jin10.com/detail/20260628210454561800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "塞尔维亚总统武契奇：将在数周后辞职",
-          "url": "https://wallstreetcn.com/livenews/3125635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 19时05分]"
-        },
-        {
-          "title": "俄罗斯将考虑6月29日实施全面的柴油出口禁令。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3125674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：美伊和平协议使负面情景出现的可能性降低。",
-          "url": "https://flash.jin10.com/detail/20260627214901916800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
-        },
-        {
-          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
-          "url": "https://news.ifeng.com/c/8uJtXiv6RM9",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "机构：美元有望突破过去六至九个月的区间",
-          "url": "https://flash.jin10.com/detail/20260628045205597800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时07分 ~ 07时59分]"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：能源冲击对欧元区打击尤为严重。",
-          "url": "https://flash.jin10.com/detail/20260627214853627800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
-        },
-        {
-          "title": "俄罗斯总统普京：国家及公民的安全、俄罗斯边境的不可侵犯性将得到保障。",
-          "url": "https://flash.jin10.com/detail/20260628210336786800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "民主刚果取胜送韩国出局",
-          "url": "https://www.toutiao.com/trending/7655556065580335155/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "为什么欧洲人不装空调",
-          "url": "https://www.toutiao.com/trending/7656328911383085092/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "“战略模糊”、“数据驱动”！沃什要做格林斯潘？那“看跌期权”要学吗？",
-          "url": "https://wallstreetcn.com/articles/3775688",
+          "title": "7月美联储决议前，沃什有两次\"重要亮相\"，下周是第一次！",
+          "url": "https://wallstreetcn.com/articles/3775687",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "俄罗斯总统普京：俄罗斯正经历一个困难时期，但这教会了我们很多。",
-          "url": "https://flash.jin10.com/detail/20260628210312057800",
+          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯的汽油储备达到170万吨。",
+          "url": "https://flash.jin10.com/detail/20260629003521978800",
           "source": "金十数据",
           "ranks": [
-            10,
-            18
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "热浪下的欧洲，中国空调“一机难求”",
-          "url": "https://news.ifeng.com/c/8uKGMvkJMqS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "欧洲已记录到与高温相关的1300多例超额死亡",
-          "url": "https://flash.jin10.com/detail/20260628210300919800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "伊拉克外交部长侯赛因表示，他与阿拉格齐讨论了一系列共同关心的问题，包括伊拉克在近期战事中遭受的袭击，以及霍尔木兹海峡通航受阻对伊拉克财政和经济的影响。 侯赛因表示，伊拉克的政策是反对战争，通过对话和谈判解决问题。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3125669",
+          "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
+          "url": "https://wallstreetcn.com/livenews/3125692",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            21
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "下周重要事件与数据预告——美国非农、美英加欧四大央行聚首、沙特公布定价",
-          "url": "https://flash.jin10.com/detail/20260628210140121800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "最后的亚足联兄弟也没帮上韩国",
-          "url": "https://www.toutiao.com/trending/7655388647826423854/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "俄罗斯总统普京：当前时期对国家而言具有决定性意义。俄罗斯在战场上不可能被击败。",
-          "url": "https://flash.jin10.com/detail/20260628210016556800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：俄罗斯无需禁止柴油出口。",
-          "url": "https://flash.jin10.com/detail/20260628204416981800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://wallstreetcn.com/livenews/3125614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 16时19分]"
-        },
-        {
-          "title": "欧洲极端高温热死15000人",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E7%83%AD%E6%AD%BB15000%E4%BA%BA%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
-        },
-        {
-          "title": "李在明就韩国队世界杯出局致歉",
-          "url": "https://www.douyin.com/hot/2550956",
-          "source": "抖音",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "韩国3天煎熬中被7队反超",
-          "url": "https://www.toutiao.com/trending/7655196174382628914/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：俄罗斯已决定将强制在交易所交易的汽油销售配额从15%下调至10%，并限制价格波动幅度。",
-          "url": "https://flash.jin10.com/detail/20260628204340914800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "韩国近4次世界杯3次无缘淘汰赛",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%BF%914%E6%AC%A1%E4%B8%96%E7%95%8C%E6%9D%AF3%E6%AC%A1%E6%97%A0%E7%BC%98%E6%B7%98%E6%B1%B0%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "高校回应禁止小米汽车入校",
-          "url": "https://www.douyin.com/hot/2550740",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "塞尔维亚总统武契奇：将在数周后辞职",
-          "url": "https://www.toutiao.com/trending/7655724550999195667/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "特朗普威胁对欧洲国家征收 100% 报复性关税，以回应欧洲国家对美企征收数字服务税，对双方互有什么影响?",
-          "url": "https://www.zhihu.com/question/2054137186371609939",
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
           "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "日经225ETF华安：6月29日开市起至当日10:30停牌",
-          "url": "https://flash.jin10.com/detail/20260628200914199800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "韩国队终于迎来好消息",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%98%9F%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E5%A5%BD%E6%B6%88%E6%81%AF%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 04时59分]"
-        },
-        {
-          "title": "欧洲的反空调宣传为何越来越没人信",
-          "url": "https://www.toutiao.com/trending/7656088356006153766/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "韩国队11亿韩元出线奖金泡汤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F11%E4%BA%BF%E9%9F%A9%E5%85%83%E5%87%BA%E7%BA%BF%E5%A5%96%E9%87%91%E6%B3%A1%E6%B1%A4",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "特朗普孙女发逛白宫vlog美网友破防",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AD%99%E5%A5%B3%E5%8F%91%E9%80%9B%E7%99%BD%E5%AE%ABvlog%E7%BE%8E%E7%BD%91%E5%8F%8B%E7%A0%B4%E9%98%B2%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "苹果请求采购中国存储芯片",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%AF%B7%E6%B1%82%E9%87%87%E8%B4%AD%E4%B8%AD%E5%9B%BD%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "韩国近4次世界杯3次无缘淘汰赛",
-          "url": "https://www.toutiao.com/trending/7656255645087174150/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "沃什上任一月掀改革风暴！美联储正告别“透明时代”",
-          "url": "https://flash.jin10.com/detail/20260628200027069800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "日媒称韩国史诗级上上签终成噩梦",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E9%9F%A9%E5%9B%BD%E5%8F%B2%E8%AF%97%E7%BA%A7%E4%B8%8A%E4%B8%8A%E7%AD%BE%E7%BB%88%E6%88%90%E5%99%A9%E6%A2%A6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "苦熬3天出局 韩国媒体一片哀嚎",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%A6%E7%86%AC3%E5%A4%A9%E5%87%BA%E5%B1%80+%E9%9F%A9%E5%9B%BD%E5%AA%92%E4%BD%93%E4%B8%80%E7%89%87%E5%93%80%E5%9A%8E",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "全世界足球数学家都来替韩国算分了",
-          "url": "https://www.toutiao.com/trending/7655320539578335283/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "暴跌砸出的坑是黄金坑吗",
-          "url": "https://www.toutiao.com/trending/7656098288403222022/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "强势美元回归 暴风雨要来了吗",
-          "url": "https://www.toutiao.com/trending/7656406731290840586/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "谁斩断了韩国队的晋级之路",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E6%96%A9%E6%96%AD%E4%BA%86%E9%9F%A9%E5%9B%BD%E9%98%9F%E7%9A%84%E6%99%8B%E7%BA%A7%E4%B9%8B%E8%B7%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "韩媒气到给韩国队主帅打码",
-          "url": "https://www.toutiao.com/trending/7656068679436582963/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "T1 3-0 TLAW数据雷达图",
-          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20TLAW%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "欧洲人买空调难点在哪",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E6%B4%B2%E4%BA%BA%E4%B9%B0%E7%A9%BA%E8%B0%83%E9%9A%BE%E7%82%B9%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "伊朗6月通胀率同比升至88.6%",
-          "url": "https://flash.jin10.com/detail/20260628004312239800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "何立峰在四川调研时指出 加快建设现代化产业体系 持续增强经济发展动能",
-          "url": "https://flash.jin10.com/detail/20260628153530027800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "俄罗斯国防部：过去24小时内，我们击落了590架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20260628180812222800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "欧洲国家为何在空调使用上集体掉队",
-          "url": "https://www.toutiao.com/trending/7656334752303025690/",
-          "source": "今日头条",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "韩国黄金一代为何耻辱出局",
-          "url": "https://www.toutiao.com/trending/7655636603664580659/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
+          "time_info": "01时05分"
         },
         {
           "title": "为什么欧洲人不装空调",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AC%A7%E6%B4%B2%E4%BA%BA%E4%B8%8D%E8%A3%85%E7%A9%BA%E8%B0%83",
           "source": "bilibili 热搜",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "日本山梨县地震已致20人受伤",
-          "url": "https://flash.jin10.com/detail/20260628104535862800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰在克拉斯诺达尔和雅罗斯拉夫尔地区对俄罗斯石油精炼厂进行了袭击。",
-          "url": "https://flash.jin10.com/detail/20260628153229831800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
-          "url": "https://wallstreetcn.com/livenews/3125682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "广州一高校禁止小米汽车入校引热议",
-          "url": "https://www.toutiao.com/trending/7655493258701340718/",
-          "source": "今日头条",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "01时05分"
         },
         {
-          "title": "韩国总统办公室：三星、SK海力士周一将公布重大投资计划",
-          "url": "https://flash.jin10.com/detail/20260628153111148800",
-          "source": "金十数据",
+          "title": "韩国队世界杯出局，李在明：感到震惊，非常困惑，展开调查",
+          "url": "https://news.ifeng.com/c/8uKPcfbCdgM",
+          "source": "凤凰网",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "01时05分"
         },
         {
-          "title": "韩国队排名滑至第 7，出线概率跌破 5 成，让其陷入如此境地内外部原因有哪些？会有球队踢「默契球」吗？",
-          "url": "https://www.zhihu.com/question/2054113108080026604",
+          "title": "苹果和美光关于存储涨价的口水战，你认为谁说的更有道理？",
+          "url": "https://www.zhihu.com/question/2053876477876347476",
           "source": "知乎",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：预计油价将持续维持高位。不确定性依然很高。",
-          "url": "https://flash.jin10.com/detail/20260627214837657800",
-          "source": "金十数据",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时05分"
         },
         {
-          "title": "日本家庭主妇吃饭视频走红",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%AE%B6%E5%BA%AD%E4%B8%BB%E5%A6%87%E5%90%83%E9%A5%AD%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "韩国队世界杯惨遭淘汰",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%83%A8%E9%81%AD%E6%B7%98%E6%B1%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "01时05分"
         },
         {
-          "title": "欧洲地中海地震中心：阿富汗兴都库什地区发生6级地震。",
-          "url": "https://flash.jin10.com/detail/20260627214147360800",
-          "source": "金十数据",
+          "title": "超级热浪席卷欧洲 中国空调“一机难求”",
+          "url": "https://www.cls.cn/detail/2410964",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3125689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "世界杯小组赛结束，亚足联仅日本澳大利亚进入 32 强，远不及扩军前给亚足联的世界杯名额，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2054540391236335233",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "郭明錤：iOS 27将进一步深化与Apple Intelligence的系统级整合",
-          "url": "https://flash.jin10.com/detail/20260628094220141800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "广州一高校禁止小米汽车入园",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%AB%98%E6%A0%A1%E7%A6%81%E6%AD%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%85%A5%E5%9B%AD%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "金十数据整理：中东局势跟踪（6月28日）",
-          "url": "https://flash.jin10.com/detail/20260628092442536800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：（关于委内瑞拉地震）我们已启动欧洲民事保护机制。",
-          "url": "https://flash.jin10.com/detail/20260628143430807800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：我与德尔西委内瑞拉临时总统罗德里格斯通话，讨论了委内瑞拉遭受的毁灭性地震。",
-          "url": "https://flash.jin10.com/detail/20260628143424745800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "存储芯片成本大涨，苹果美光打起“口水战”，到底谁为涨价买单？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33468093",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "金十数据整理：周六重要消息汇总",
-          "url": "https://flash.jin10.com/detail/20260627230304758800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "巴西小将认不出日本球员",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E5%B0%8F%E5%B0%86%E8%AE%A4%E4%B8%8D%E5%87%BA%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "01时05分"
         },
         {
           "title": "曝韩国球员目睹出局时正吃饭",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E7%9B%AE%E7%9D%B9%E5%87%BA%E5%B1%80%E6%97%B6%E6%AD%A3%E5%90%83%E9%A5%AD",
           "source": "百度热搜",
           "ranks": [
-            18
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时16分"
+          "time_info": "01时05分"
         },
         {
-          "title": "如何看待韩国队世界杯出线形势",
-          "url": "https://www.toutiao.com/trending/7656081543147818546/",
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "黎巴嫩国会议长表示，我们重申避免冲突的必要性，并将尽一切努力维护稳定和社会和平。",
+          "url": "https://flash.jin10.com/detail/20260629000837076800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "伊朗补刀,韩国队命悬一线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
+          "url": "https://flash.jin10.com/detail/20260629000635210800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "李在明就韩国队世界杯出局致歉",
+          "url": "https://www.douyin.com/hot/2550956",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年6月29日 周一",
+          "url": "https://flash.jin10.com/detail/20260629000000001800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "韩国总统：世界杯出局太荒唐",
+          "url": "https://www.toutiao.com/trending/7656356215164980774/",
           "source": "今日头条",
           "ranks": [
-            19
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "01时05分"
         },
         {
-          "title": "俄罗斯计划在月球表面建核电站",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AE%A1%E5%88%92%E5%9C%A8%E6%9C%88%E7%90%83%E8%A1%A8%E9%9D%A2%E5%BB%BA%E6%A0%B8%E7%94%B5%E7%AB%99",
-          "source": "百度热搜",
+          "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
+          "url": "https://wallstreetcn.com/livenews/3125682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "为什么欧洲人不装空调",
+          "url": "https://www.toutiao.com/trending/7656328911383085092/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "韩国队出局李在明怒了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%80%92%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "特斯拉 FSD 全面转向订阅制，国内港澳台地区买断版 6 月 30 日后下架，两种模式长期成本差距有多大？",
+          "url": "https://www.zhihu.com/question/2053871133401806051",
+          "source": "知乎",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时05分"
         },
         {
-          "title": "亚马逊Prime Day总线上消费额略超预测",
-          "url": "https://flash.jin10.com/detail/20260628015711941800",
+          "title": "中国避暑神器在欧洲卖爆了",
+          "url": "https://www.toutiao.com/trending/7655930412149162035/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "谁斩断了韩国队的晋级之路",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E6%96%A9%E6%96%AD%E4%BA%86%E9%9F%A9%E5%9B%BD%E9%98%9F%E7%9A%84%E6%99%8B%E7%BA%A7%E4%B9%8B%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "金十数据整理：周日重要消息汇总",
+          "url": "https://flash.jin10.com/detail/20260628230003100800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "01时05分"
         },
         {
-          "title": "欧洲现役最老核电站因高温暂停运行",
-          "url": "https://flash.jin10.com/detail/20260627195958061800",
-          "source": "金十数据",
+          "title": "强势美元回归 暴风雨要来了吗",
+          "url": "https://www.toutiao.com/trending/7656406731290840586/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：俄罗斯已决定将强制交易所汽油销售配额从15%下调至10%，并限制价格波动幅度。 俄罗斯没有必要禁止柴油出口。",
+          "url": "https://wallstreetcn.com/livenews/3125677",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时05分"
         },
         {
-          "title": "一周展望：超级周来了！非农提前杀到，数据海啸撞上美伊互轰、半年末调仓",
-          "url": "https://flash.jin10.com/detail/20260628084129729800",
-          "source": "金十数据",
+          "title": "据俄罗斯副总理诺瓦克，俄能源部还没有提出柴油出口禁令方面的建议。（国际文传通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3125675",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "01时05分"
         },
         {
-          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
-          "url": "https://flash.jin10.com/detail/20260628133655032800",
+          "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260628220938422800",
           "source": "金十数据",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "01时05分"
         },
         {
-          "title": "国际清算银行：人工智能热潮的可持续性、金融脆弱性、紧张的公共财政以及通胀，都是全球经济所面临的风险。",
-          "url": "https://flash.jin10.com/detail/20260628170103760800",
-          "source": "金十数据",
+          "title": "俄罗斯将考虑6月29日实施全面的柴油出口禁令。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3125674",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时05分"
+          "time_info": "01时05分"
         },
         {
-          "title": "欧洲今年为何这么热",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E6%B4%B2%E4%BB%8A%E5%B9%B4%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E7%83%AD",
+          "title": "黄金大跌带崩“黄金爱马仕”老铺黄金",
+          "url": "https://www.toutiao.com/trending/7656438161974758922/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "韩国队淘汰前还在墨西哥训练",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%B7%98%E6%B1%B0%E5%89%8D%E8%BF%98%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%AE%AD%E7%BB%83",
           "source": "bilibili 热搜",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "韩国濒临淘汰",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%BF%92%E4%B8%B4%E6%B7%98%E6%B1%B0%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "韩国跪着死伊朗站着死",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B7%AA%E7%9D%80%E6%AD%BB%E4%BC%8A%E6%9C%97%E7%AB%99%E7%9D%80%E6%AD%BB%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "01时05分"
         },
         {
-          "title": "韩国队差旅费亏麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%B7%AE%E6%97%85%E8%B4%B9%E4%BA%8F%E9%BA%BB%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "胆大包天 日本竟模拟攻击辽宁舰",
-          "url": "https://www.baidu.com/s?wd=%E8%83%86%E5%A4%A7%E5%8C%85%E5%A4%A9+%E6%97%A5%E6%9C%AC%E7%AB%9F%E6%A8%A1%E6%8B%9F%E6%94%BB%E5%87%BB%E8%BE%BD%E5%AE%81%E8%88%B0",
-          "source": "百度热搜",
+          "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
+          "url": "https://flash.jin10.com/detail/20260628213314042800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时05分"
+        },
+        {
+          "title": "韩国队世界杯出局",
+          "url": "https://www.douyin.com/hot/2550241",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "伊拉克外交部长侯赛因表示，他与阿拉格齐讨论了一系列共同关心的问题，包括伊拉克在近期战事中遭受的袭击，以及霍尔木兹海峡通航受阻对伊拉克财政和经济的影响。 侯赛因表示，伊拉克的政策是反对战争，通过对话和谈判解决问题。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3125669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
           "title": "普京：俄罗斯将坚定捍卫自身根本利益",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E5%9D%9A%E5%AE%9A%E6%8D%8D%E5%8D%AB%E8%87%AA%E8%BA%AB%E6%A0%B9%E6%9C%AC%E5%88%A9%E7%9B%8A",
           "source": "百度热搜",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "特斯拉救援指南曝光Cybercab为L4级",
-          "url": "https://www.toutiao.com/trending/7656232715788288006/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "俄罗斯为什么防不住乌克兰无人机",
-          "url": "https://www.toutiao.com/trending/7655989890496073267/",
-          "source": "今日头条",
-          "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "李在明就韩国队出局致歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80%E8%87%B4%E6%AD%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
+          "time_info": "01时05分"
         }
       ]
     }
