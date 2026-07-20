@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T01:58:02.511072+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-21T03:44:03.678854+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 32,
+      "match_count": 48,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -15,19 +15,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
           "url": "https://news.ifeng.com/c/8uvCAHLJQ9g",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
+        },
+        {
+          "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
+          "url": "https://news.ifeng.com/c/8uvQaW158Al",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "time_info": "[03时43分 ~ 03时44分]"
         },
         {
           "title": "中美外长会在东盟会议期间会晤吗？外交部回应",
@@ -41,15 +53,70 @@
           "time_info": "[01时57分 ~ 01时58分]"
         },
         {
-          "title": "英国首相伯纳姆邀请乌克兰总统泽连斯基尽快访问英国。",
-          "url": "https://wallstreetcn.com/livenews/3137048",
+          "title": "恒生指数主连夜盘收跌0.21%，报25099点。 恒生科技指数主连夜盘收跌0.25%，报4745点。",
+          "url": "https://wallstreetcn.com/livenews/3137061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复",
+          "url": "https://wallstreetcn.com/livenews/3137059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "也门总统领导委员会主席表示，将于当地时间周一起推动恢复石油出口。",
+          "url": "https://flash.jin10.com/detail/20260721030940248800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7690元，较上周五夜盘收盘涨62点。成交量339.96亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3137058",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时44分"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复",
+          "url": "https://flash.jin10.com/detail/20260721030649919800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "WTI 8月原油期货收涨0.74美元，涨幅将近0.90%，报83.23美元/桶，亚太时段高位窄幅震荡，北京时间16:00以来持稳于82美元一线、在一波短线V形行情中于19:43刷新日低至80.27美元。 布伦特9月原油期货收涨1.12美元，涨幅1.27%，报89.22美元/桶。 中东Abu Dhabi Murban原油期货涨0.34%，报81.60美元/桶。 NYMEX 8月天然气期货收报2.86美元/百万英热单位。 NYMEX 8月汽油期货收报3.3890美元/加仑，NYMEX 8月取暖油期货收报4.1190美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3137057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "半导体指数跌入熊市，高盛悄然转向三大替代投资主题",
@@ -59,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -70,8 +137,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
+        },
+        {
+          "title": "英国首相伯纳姆邀请乌克兰总统泽连斯基尽快访问英国。",
+          "url": "https://wallstreetcn.com/livenews/3137048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "time_info": "[01时58分 ~ 03时44分]"
         },
         {
           "title": "如何看特朗普不愿离开颁奖台",
@@ -81,8 +160,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
@@ -92,19 +171,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "AI不准用,日本漫画家被迫停更",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "白鹿奔跑吧下一季投票第一",
@@ -114,8 +194,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
+        },
+        {
+          "title": "赛罗奥特曼掉出投票前10",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8E%89%E5%87%BA%E6%8A%95%E7%A5%A8%E5%89%8D10",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "美加墨世界杯落下帷幕 FIFA预估狂揽90亿美元收入",
@@ -125,8 +217,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "美股存储芯片反弹",
@@ -136,19 +228,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
           "url": "https://m.thepaper.cn/newsDetail_forward_33623026",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -158,41 +251,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "89岁“四哥”谢贤离世，香港影视黄金时代再别一位见证者",
           "url": "https://m.thepaper.cn/newsDetail_forward_33620641",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
-        },
-        {
-          "title": "赛罗奥特曼掉出投票前10",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8E%89%E5%87%BA%E6%8A%95%E7%A5%A8%E5%89%8D10",
-          "source": "bilibili 热搜",
-          "ranks": [
+            19,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "热疯了!日本冰箱冻活人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356330&amp;topic_name=%E7%83%AD%E7%96%AF%E4%BA%86%21%E6%97%A5%E6%9C%AC%E5%86%B0%E7%AE%B1%E5%86%BB%E6%B4%BB%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
         },
         {
           "title": "物价飞涨,日本增产1日元硬币",
@@ -202,8 +286,78 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时44分]"
+        },
+        {
+          "title": "周一（7月20日），美联储隔夜逆回购协议（RRP）使用规模为0.3亿美元（交易对手6家），上个交易日报1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3137043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "time_info": "[01时58分 ~ 03时44分]"
+        },
+        {
+          "title": "印度证实4名印籍船员在乌克兰敖德萨港遇袭身亡",
+          "url": "https://wallstreetcn.com/livenews/3137032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时44分]"
+        },
+        {
+          "title": "韩国电商巨头物流中心大火连烧3天",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%95%86%E5%B7%A8%E5%A4%B4%E7%89%A9%E6%B5%81%E4%B8%AD%E5%BF%83%E5%A4%A7%E7%81%AB%E8%BF%9E%E7%83%A73%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 03时44分]"
+        },
+        {
+          "title": "19 岁亚马尔本届世界杯一进球、一造点，怎样评价他的表现？已包揽欧洲杯 + 世界杯冠军，他的上限在哪？",
+          "url": "https://www.zhihu.com/question/2062423493048623288",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 03时44分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.57%，暂报2154.58点。 MarketVectorTM数字资产100中盘指数涨1.31%，报2572.59点。 MarketVector数字资产100指数涨1.40%，报12976.54点。 目前，Solana涨2.52%，狗狗币涨1.40%，XRP涨1.67%。 比特币涨1.57%，暂报65389.40美元；以太坊涨2.09%，暂报1897.80美元。",
+          "url": "https://wallstreetcn.com/livenews/3137031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时44分]"
+        },
+        {
+          "title": "美国总统特朗普声称：以色列总理内塔尼亚胡无论如何都不会在美国被逮捕。",
+          "url": "https://wallstreetcn.com/livenews/3137030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时44分]"
         },
         {
           "title": "世界杯经济谁是赢家",
@@ -223,20 +377,64 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
         {
-          "title": "周一（7月20日），美联储隔夜逆回购协议（RRP）使用规模为0.3亿美元（交易对手6家），上个交易日报1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3137043",
-          "source": "华尔街见闻-快讯",
+          "title": "布伦特原油期货结算价为每桶89.22美元，上涨1.12美元，涨幅1.27%。",
+          "url": "https://flash.jin10.com/detail/20260721030255145800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国参议院Graham对参议院宣称：上周，伊朗导弹命中美国在约旦军事基地的兵营。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国钢铁(X.N)向美国钢铁工人联合会提出一项为期五年的劳资协议方案，包括累计18.2%的工资涨幅和4000美元协议批准奖金。双方将于8月10日在匹兹堡恢复谈判。",
+          "url": "https://flash.jin10.com/detail/20260721025304558800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "DoubleLine：美债收益率上升将有助于美联储维持利率不变",
+          "url": "https://wallstreetcn.com/livenews/3137053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "高盛称对冲基金以创纪录的速度抛售美国科技股，一些投降迹象也开始出现",
+          "url": "https://wallstreetcn.com/livenews/3137052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
@@ -245,7 +443,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -256,7 +454,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -267,9 +465,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月20日（周一）晚盘收盘上涨0.11%报873.3元/克；<br/>上海黄金交易所白银T+D 7月20日（周一）晚盘收盘上涨0.29%报13763.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260721023018422800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "贝莱德牵头至少120亿美元债务融资 支持Meta得州大型数据中心项目",
+          "url": "https://flash.jin10.com/detail/20260721022952164800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "美国总统特朗普：本届世界杯取得巨大成功，国际足联主席将世界杯提升至前所未有的高度。",
@@ -278,40 +498,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "印度证实4名印籍船员在乌克兰敖德萨港遇袭身亡",
-          "url": "https://wallstreetcn.com/livenews/3137032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.57%，暂报2154.58点。 MarketVectorTM数字资产100中盘指数涨1.31%，报2572.59点。 MarketVector数字资产100指数涨1.40%，报12976.54点。 目前，Solana涨2.52%，狗狗币涨1.40%，XRP涨1.67%。 比特币涨1.57%，暂报65389.40美元；以太坊涨2.09%，暂报1897.80美元。",
-          "url": "https://wallstreetcn.com/livenews/3137031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "美国总统特朗普声称：以色列总理内塔尼亚胡无论如何都不会在美国被逮捕。",
-          "url": "https://wallstreetcn.com/livenews/3137030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -322,7 +509,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -333,7 +520,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -344,7 +531,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -355,7 +542,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         }
