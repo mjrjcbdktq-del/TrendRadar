@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T19:55:06.973523+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-07-28T22:34:14.747684+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 298,
+      "match_count": 350,
       "titles": [
         {
           "title": "日本作家东野圭吾去世，终年68岁",
@@ -18,6 +18,31 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时57分 ~ 14时24分]"
+        },
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 22时34分]"
+        },
+        {
+          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 22时34分]"
         },
         {
           "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
@@ -56,11 +81,12 @@
             12,
             14,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 19时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 22时34分]"
         },
         {
           "title": "长鑫上市前，高盛紧急召开电话会：中国DRAM产能有望翻倍",
@@ -72,17 +98,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 06时04分]"
-        },
-        {
-          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
-          "url": "https://wallstreetcn.com/articles/3777993",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 19时55分]"
         },
         {
           "title": "外交部：中日外长在马尼拉没有会见、没有交流",
@@ -105,11 +120,12 @@
             13,
             15,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 19时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 22时34分]"
         },
         {
           "title": "日本爱豆猫月猫小妹离世",
@@ -126,18 +142,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 19时55分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 19时55分]"
         },
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -196,6 +200,39 @@
           "time_info": "[00时57分 ~ 06时04分]"
         },
         {
+          "title": "日本发生7.1级地震，灾区画面曝光",
+          "url": "https://news.ifeng.com/c/8v8DZ5qeCRl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
+          "title": "日本各地惊现”喷粪”狂徒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356582&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%84%E5%9C%B0%E6%83%8A%E7%8E%B0%E2%80%9D%E5%96%B7%E7%B2%AA%E2%80%9D%E7%8B%82%E5%BE%92",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
+          "title": "日本7.1级地震民众哭喊声一片",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
@@ -207,15 +244,15 @@
           "time_info": "[00时57分 ~ 02时23分]"
         },
         {
-          "title": "日本熊本县附近发生7.1级地震",
-          "url": "https://www.toutiao.com/trending/7667479822087491091/",
-          "source": "今日头条",
+          "title": "外交部：日本找借口不及时严惩擅闯使馆凶犯，中方对此强烈不满",
+          "url": "https://news.ifeng.com/c/8v83pmQQFOt",
+          "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时55分]"
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
         },
         {
           "title": "日本熊本县发生7.1级地震 余震不断",
@@ -263,6 +300,17 @@
           "time_info": "[17时34分 ~ 19时55分]"
         },
         {
+          "title": "日本熊本7.1级地震已确认1人死亡",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%B7%B2%E7%A1%AE%E8%AE%A41%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
           "title": "【早报】美存储股全线重挫，SK海力士破发；原油暴跌、黄金微涨；“东方证券+上海证券”合并重组草案出炉",
           "url": "https://www.cls.cn/detail/2438404",
           "source": "财联社热门",
@@ -272,17 +320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 14时24分]"
-        },
-        {
-          "title": "日本发生7.1级地震，灾区画面曝光",
-          "url": "https://news.ifeng.com/c/8v8DZ5qeCRl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "朝鲜若向俄派遣3万援军有何影响",
@@ -298,37 +335,42 @@
           "time_info": "[00时57分 ~ 06时04分]"
         },
         {
-          "title": "日本熊本县发生7.1级地震",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "bilibili 热搜",
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            13,
+            17,
+            15,
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 22时34分]"
         },
         {
-          "title": "日本各地惊现”喷粪”狂徒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356582&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%84%E5%9C%B0%E6%83%8A%E7%8E%B0%E2%80%9D%E5%96%B7%E7%B2%AA%E2%80%9D%E7%8B%82%E5%BE%92",
-          "source": "贴吧",
+          "title": "日本地震山崩瞬间画面曝光",
+          "url": "https://www.toutiao.com/trending/7666761757603630646/",
+          "source": "今日头条",
           "ranks": [
+            1,
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
-          "title": "日本7.1级地震民众哭喊声一片",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "韩国股市跌到熔断",
@@ -354,6 +396,56 @@
           "time_info": "[11时17分 ~ 14时24分]"
         },
         {
+          "title": "日本熊本县附近发生7.1级地震",
+          "url": "https://www.toutiao.com/trending/7667479822087491091/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 22时34分]"
+        },
+        {
+          "title": "日本熊本7.1级地震",
+          "url": "https://www.douyin.com/hot/2588289",
+          "source": "抖音",
+          "ranks": [
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 22时34分]"
+        },
+        {
+          "title": "日本熊本县发生7.1级地震",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
+          "title": "日本7.1级强震已致多人死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%BC%BA%E9%9C%87%E5%B7%B2%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
           "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
           "url": "https://www.cls.cn/detail/2438385",
           "source": "财联社热门",
@@ -377,15 +469,26 @@
           "time_info": "[19时54分 ~ 19时55分]"
         },
         {
-          "title": "外交部：日本找借口不及时严惩擅闯使馆凶犯，中方对此强烈不满",
-          "url": "https://news.ifeng.com/c/8v83pmQQFOt",
-          "source": "凤凰网",
+          "title": "日本熊本天空浮现巨型蘑菇云",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%A4%A9%E7%A9%BA%E6%B5%AE%E7%8E%B0%E5%B7%A8%E5%9E%8B%E8%98%91%E8%8F%87%E4%BA%91",
+          "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
@@ -412,6 +515,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时57分 ~ 11时17分]"
+        },
+        {
+          "title": "日本地震致著名景点古石墙倒塌",
+          "url": "https://www.toutiao.com/trending/7667497222874893874/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 22时34分]"
         },
         {
           "title": "美国总统特朗普：还没有考虑更换美国参议院多数党领袖图恩。",
@@ -458,6 +575,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "特朗普与泽连斯基在白宫会面",
+          "url": "https://flash.jin10.com/detail/20260728222606971800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "城堡证券：沃什或将意外加息",
           "url": "https://wallstreetcn.com/livenews/3140531",
           "source": "华尔街见闻-快讯",
@@ -478,6 +606,44 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "阿根廷总统米莱将于当地时间周四20:00围绕央行改革问题讲话。",
+          "url": "https://wallstreetcn.com/livenews/3141082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "日本地震 杭州上海江苏有震感",
+          "url": "https://www.toutiao.com/trending/7667478428581625862/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 22时34分]"
+        },
+        {
+          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
+          "url": "https://www.zhihu.com/question/2065097727604741240",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 22时34分]"
         },
         {
           "title": "美国总统特朗普：正在建造大量爱国者导弹。",
@@ -519,9 +685,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "现货白银日内跌超3.00%，现报56.65美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260728222341234800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "特朗普称在伊朗问题上“可能会有好事发生”，标普500指数转涨",
@@ -645,6 +822,17 @@
           "time_info": "17时34分"
         },
         {
+          "title": "美股费城半导体指数跌超6%，纳斯达克100指数跌超2%。 英伟达下跌1.41%，台积电中担任下跌3.98%，博通下跌2.46%，SK海力士ADR下跌9.54%，美光科技下跌10.90%，美国超微公司下跌9.41%，英特尔下跌8.39%，阿斯麦下跌5.64%，泛林集团下跌10.88%，arm holdings下跌8.99%，闪迪下跌16.17%，高通下跌3.08%，迈威尔科技下跌10.39%，西部数据下跌14.37%，希捷科技下跌13.20%。",
+          "url": "https://wallstreetcn.com/livenews/3141079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "格林斯潘\"难题\"重现，沃什或借加息换取长端利率下行？",
           "url": "https://wallstreetcn.com/articles/3778043",
           "source": "华尔街见闻",
@@ -667,6 +855,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 06时04分]"
+        },
+        {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 22时34分]"
         },
         {
           "title": "日本地震",
@@ -747,16 +946,28 @@
           "time_info": "11时17分"
         },
         {
-          "title": "日本地震致著名景点古石墙倒塌",
-          "url": "https://www.toutiao.com/trending/7667497222874893874/",
-          "source": "今日头条",
+          "title": "日本熊本县受地震波及商场已确认数人死亡",
+          "url": "https://wallstreetcn.com/livenews/3141078",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
+          "ranks": [
+            9,
             8,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时55分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 22时34分]"
         },
         {
           "title": "美国总统特朗普：伊朗通过协调方提出了会面请求。",
@@ -820,9 +1031,34 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 22时34分]"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 22时34分]"
         },
         {
           "title": "爱泼斯坦1亿美元遗产继承人或是她？",
@@ -834,18 +1070,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 06时04分]"
-        },
-        {
-          "title": "日本地震 杭州上海江苏有震感",
-          "url": "https://www.toutiao.com/trending/7667478428581625862/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时55分]"
         },
         {
           "title": "如何看待上单老祖做的视频，黄金剑魔打王者蒙多，两场均以黄金剑魔获胜？",
@@ -894,18 +1118,17 @@
           "time_info": "[00时57分 ~ 06时04分]"
         },
         {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
+          "title": "海啸预警,日本发生7.1级地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356574&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
           "ranks": [
             13,
-            17,
-            15,
-            12
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时17分 ~ 19时55分]"
+          "time_info": "[17时34分 ~ 22时34分]"
         },
         {
           "title": "苹果总市值超越英伟达重返全球第一",
@@ -941,6 +1164,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 06时04分]"
+        },
+        {
+          "title": "日本突发7.1级地震 山崩瞬间曝光",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AA%81%E5%8F%917.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
+          "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
+          "url": "https://www.cls.cn/detail/2439005",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
+          "title": "日本强震已致多人死亡",
+          "url": "https://www.toutiao.com/trending/7667533383014026815/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "普京：俄罗斯未来岌岌可危",
@@ -992,6 +1251,30 @@
           "time_info": "[00时57分 ~ 02时23分]"
         },
         {
+          "title": "“黄金界爱马仕”市值1年蒸发超千亿",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%84%E9%87%91%E7%95%8C%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E5%B8%82%E5%80%BC1%E5%B9%B4%E8%92%B8%E5%8F%91%E8%B6%85%E5%8D%83%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数均大跌超6%，英伟达产业链全线退潮，银行等红利股获逆势抱团",
+          "url": "https://www.cls.cn/detail/2439100",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
           "title": "韩国该救市了吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%AF%A5%E6%95%91%E5%B8%82%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -1028,6 +1311,18 @@
           "time_info": "[00时58分 ~ 02时23分]"
         },
         {
+          "title": "日本熊本县连续发生 7.1 级、 6.1 级地震，长三角多地网友称有震感，目前情况如何？",
+          "url": "https://www.zhihu.com/question/2065460492231864765",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
           "title": "美银8月市场预测：股市历来不妙，美元和黄金将“迎东风”！",
           "url": "https://www.cls.cn/detail/2437764",
           "source": "财联社热门",
@@ -1039,17 +1334,29 @@
           "time_info": "[00时57分 ~ 02时23分]"
         },
         {
-          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
-          "url": "https://www.zhihu.com/question/2065097727604741240",
-          "source": "知乎",
+          "title": "比亚迪海獭在日本上市",
+          "url": "https://www.toutiao.com/trending/7667287388653109274/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            11,
-            12
+            12,
+            18,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时24分 ~ 19时55分]"
+          "time_info": "[19时54分 ~ 22时34分]"
+        },
+        {
+          "title": "实拍日本地震：超市内孩子们哭成一片",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%9A%E8%B6%85%E5%B8%82%E5%86%85%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%93%AD%E6%88%90%E4%B8%80%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时34分]"
         },
         {
           "title": "小米大模型调用量全球第一",
@@ -1075,71 +1382,12 @@
           "time_info": "[00时57分 ~ 02时23分]"
         },
         {
-          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
-          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时55分]"
-        },
-        {
           "title": "日本地震 上海、杭州网友称有震感",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87+%E4%B8%8A%E6%B5%B7%E3%80%81%E6%9D%AD%E5%B7%9E%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%9C%89%E9%9C%87%E6%84%9F",
           "source": "百度热搜",
           "ranks": [
             7,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时55分]"
-        },
-        {
-          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
-          "url": "https://www.cls.cn/detail/2438854",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时55分]"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时55分]"
-        },
-        {
-          "title": "日本熊本7.1级地震",
-          "url": "https://www.douyin.com/hot/2588289",
-          "source": "抖音",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时55分]"
-        },
-        {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1156,6 +1404,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时34分 ~ 19时55分]"
+        },
+        {
+          "title": "日本熊本城部分城墙受损坍塌",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9F%8E%E9%83%A8%E5%88%86%E5%9F%8E%E5%A2%99%E5%8F%97%E6%8D%9F%E5%9D%8D%E5%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 22时34分]"
         },
         {
           "title": "泽连斯基：乌克兰与伊朗已处于战争中",
@@ -1193,49 +1453,38 @@
           "time_info": "[17时34分 ~ 19时55分]"
         },
         {
-          "title": "海啸预警,日本发生7.1级地震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356574&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "贴吧",
+          "title": "刘亦菲被偶遇在北京SKP买黄金",
+          "url": "https://www.toutiao.com/trending/7667459000623202358/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            14
+            15,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时55分]"
+          "time_info": "[19时54分 ~ 22时33分]"
         },
         {
-          "title": "日本7.1级强震已致多人死亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%BC%BA%E9%9C%87%E5%B7%B2%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
-        },
-        {
-          "title": "日本突发7.1级地震 山崩瞬间曝光",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AA%81%E5%8F%917.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89",
+          "title": "美股开盘：美光科技跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%856%25",
           "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
-          "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
-          "url": "https://www.cls.cn/detail/2439005",
-          "source": "财联社热门",
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "SpaceX已经“跌掉”一个特斯拉 亚马逊入局卫星通信大战 | 环球市场",
@@ -1248,17 +1497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 14时24分]"
-        },
-        {
-          "title": "“黄金界爱马仕”市值1年蒸发超千亿",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%84%E9%87%91%E7%95%8C%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E5%B8%82%E5%80%BC1%E5%B9%B4%E8%92%B8%E5%8F%91%E8%B6%85%E5%8D%83%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "日本强震后一购物中心坍塌致多人死亡",
@@ -1284,6 +1522,40 @@
           "time_info": "[00时58分 ~ 02时23分]"
         },
         {
+          "title": "日本强震时天空出现巨型蘑菇云",
+          "url": "https://www.toutiao.com/trending/7667573326554123826/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
+          "title": "日本熊本坍塌购物中心内数名人员失联",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9D%8D%E5%A1%8C%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E5%86%85%E6%95%B0%E5%90%8D%E4%BA%BA%E5%91%98%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
+          "title": "韩国散户从FOMO急转JOMO，“没买股票的才是赢家”！KOSPI指数7月已暴跌33%",
+          "url": "https://wallstreetcn.com/articles/3778115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
           "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
           "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
@@ -1294,17 +1566,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 14时24分]"
-        },
-        {
-          "title": "【焦点复盘】双创指数均大跌超6%，英伟达产业链全线退潮，银行等红利股获逆势抱团",
-          "url": "https://www.cls.cn/detail/2439100",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "徐洁云回应小米澎程可加92号汽油",
@@ -1330,26 +1591,37 @@
           "time_info": "[11时17分 ~ 14时24分]"
         },
         {
-          "title": "日本熊本县连续发生 7.1 级、 6.1 级地震，长三角多地网友称有震感，目前情况如何？",
-          "url": "https://www.zhihu.com/question/2065460492231864765",
-          "source": "知乎",
+          "title": "日本地震山崩瞬间画面曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
-          "title": "比亚迪海獭在日本上市",
-          "url": "https://www.toutiao.com/trending/7667287388653109274/",
-          "source": "今日头条",
+          "title": "长鑫科技将被纳入MSCI指数",
+          "url": "https://www.douyin.com/hot/2588584",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
+          "title": "苹果市值首次突破5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？",
@@ -1374,17 +1646,6 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
-          "title": "实拍日本地震：超市内孩子们哭成一片",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%9A%E8%B6%85%E5%B8%82%E5%86%85%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%93%AD%E6%88%90%E4%B8%80%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
-        },
-        {
           "title": "美股跌完韩股跌！美韩科技股联动性飙升，分散投资优势逐步消退",
           "url": "https://www.cls.cn/detail/2438661",
           "source": "财联社热门",
@@ -1396,15 +1657,15 @@
           "time_info": "[19时54分 ~ 19时55分]"
         },
         {
-          "title": "刘亦菲被偶遇在北京SKP买黄金",
-          "url": "https://www.toutiao.com/trending/7667459000623202358/",
-          "source": "今日头条",
+          "title": "纳斯达克100指数自纪录高点下跌10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B100%E6%8C%87%E6%95%B0%E8%87%AA%E7%BA%AA%E5%BD%95%E9%AB%98%E7%82%B9%E4%B8%8B%E8%B7%8C10%25",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "韩国KOSPI指数跌破6000点",
@@ -1416,6 +1677,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "2小时内超30次余震 日本高架桥断了",
+          "url": "https://www.toutiao.com/trending/7667569652012158500/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年7月28日 周二",
@@ -1430,6 +1703,40 @@
           "time_info": "[00时58分 ~ 14时24分]"
         },
         {
+          "title": "小米第二款车来了 雷军杀入增程赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E7%AC%AC%E4%BA%8C%E6%AC%BE%E8%BD%A6%E6%9D%A5%E4%BA%86+%E9%9B%B7%E5%86%9B%E6%9D%80%E5%85%A5%E5%A2%9E%E7%A8%8B%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
+          "title": "中国正实现特斯拉没做到的事",
+          "url": "https://www.toutiao.com/trending/7667509123323268614/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
+          "title": "日本熊本县一购物中心传出爆炸声",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E4%B8%80%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
           "title": "日本九州岛海域6.8级地震或引发海啸",
           "url": "https://www.toutiao.com/trending/7667490248867266566/",
           "source": "今日头条",
@@ -1439,6 +1746,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "日本人吃那么少真的不饿吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%90%83%E9%82%A3%E4%B9%88%E5%B0%91%E7%9C%9F%E7%9A%84%E4%B8%8D%E9%A5%BF%E5%90%97%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "日本气象厅：不排除再发生大地震可能",
@@ -1579,7 +1897,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -1623,7 +1941,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -1672,6 +1990,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "路透调查：预计2026年黄金价格平均为每盎司4,509美元，2027年为4,610美元；预计2026年银价平均为每盎司72美元，2027年为71美元。",
+          "url": "https://flash.jin10.com/detail/20260728220722650800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "日本央行潜在通胀指标仍远高于2%",
           "url": "https://wallstreetcn.com/livenews/3140761",
           "source": "华尔街见闻-快讯",
@@ -1689,7 +2018,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -1744,9 +2073,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "市场消息：知情人士透露，国际足联计划出售一家新商业实体的重大少数股权，该实体估值约为200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260728220651418800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "周一（7月27日）纽约尾盘，标普500股指期货最终涨0.06%，道指期货涨0.52%，纳斯达克100股指期货跌0.30%。 罗素2000股指期货涨0.68%。",
@@ -1771,15 +2111,15 @@
           "time_info": "14时24分"
         },
         {
-          "title": "日本熊本城部分城墙受损坍塌",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9F%8E%E9%83%A8%E5%88%86%E5%9F%8E%E5%A2%99%E5%8F%97%E6%8D%9F%E5%9D%8D%E5%A1%8C",
-          "source": "百度热搜",
+          "title": "俄外交部：若日本放弃不友好立场将恢复经贸关系",
+          "url": "https://wallstreetcn.com/livenews/3141071",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时34分"
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：对美国国防部长赫格塞思在伊朗问题上的表现并不感到沮丧，他做得很好。",
@@ -1881,6 +2221,17 @@
           "time_info": "17时34分"
         },
         {
+          "title": "据日本共同社：台积电(TSM.N)此前疏散的员工已开始返回工厂。",
+          "url": "https://flash.jin10.com/detail/20260728220609781800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国财政部拍卖三个月期国债，得标利率3.815%，投标倍数3.06。",
           "url": "https://wallstreetcn.com/livenews/3140451",
           "source": "华尔街见闻-快讯",
@@ -1914,6 +2265,28 @@
           "time_info": "14时24分"
         },
         {
+          "title": "美股存储芯片指数一度重挫将近12%，逼近5月19日盘中最低位164.65点，较6月22日所创盘中历史最高位累计回撤39.8%。 成分股闪迪目前跌13.5%，西部数据跌12.7%，希捷科技跌11.8%，美光跌9%。此外，SK海力士ADR跌8.7%。",
+          "url": "https://wallstreetcn.com/livenews/3141069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "普京为何称俄罗斯未来岌岌可危",
+          "url": "https://www.toutiao.com/trending/7667547307717430835/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "澳洲联储主席布洛克：基础通胀发展如预期，但仍然过高。",
           "url": "https://flash.jin10.com/detail/20260728110636999800",
           "source": "金十数据",
@@ -1942,7 +2315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -2041,9 +2414,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "金十图示：2026年07月28日（周二）华尔街恐惧与贪婪指数（美盘初）",
+          "url": "https://flash.jin10.com/detail/20260728220551299800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "明晟公司MSCI新兴市场股票指数涨0.9%，外汇指数涨0.2%。",
@@ -2066,6 +2450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "美联储：为期两天的联邦公开市场委员会（FOMC）货币政策会议已于北京时间22:00如期开幕。",
+          "url": "https://wallstreetcn.com/livenews/3141077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "黎巴嫩总统府：奥恩总统强烈谴责使用无人机袭击沙特阿拉伯王国石油设施的企图，黎巴嫩支持沙特阿拉伯王国应对一切危及其安全和主权的行为。",
@@ -2096,9 +2491,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "金十图示：2026年07月28日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260728220536351800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "LME期铜收涨88美元，报13732美元/吨。 LME期铝收涨8美元，报3168美元/吨。 LME期锌收涨20美元，报3612美元/吨。 LME期铅收涨4美元，报1891美元/吨。 LME期镍收跌166美元，报17213美元/吨。 LME期锡收涨560美元，报54341美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -2143,6 +2549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（7月27日）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3141065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "直击日本熊本地震：监控画面剧烈晃动",
@@ -2233,6 +2650,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "苹果拟大举发力智能家居 以Siri AI为核心推出新品",
+          "url": "https://wallstreetcn.com/livenews/3141064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "日本熊本又发生6.1级地震",
           "url": "https://www.toutiao.com/trending/7667490507857071625/",
           "source": "今日头条",
@@ -2283,9 +2711,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "特朗普：美伊谈判“进展良好”，但摧毁“镐山”易如反掌",
+          "url": "https://flash.jin10.com/detail/20260728220527830800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国财政部拍卖六个月期国债，得标利率3.945%，投标倍数3.12。",
@@ -2343,6 +2782,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "市场消息：PayPal与亚马逊在德国和奥地利推出“先买后付”服务。",
+          "url": "https://flash.jin10.com/detail/20260728220505164800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率4.315%——创2024年12月以来新高（6月23日为4.189%），投标倍数2.66（前次为2.64）。",
           "url": "https://wallstreetcn.com/livenews/3140416",
           "source": "华尔街见闻-快讯",
@@ -2374,6 +2824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "纳斯达克100指数势将进入回调 自峰值下跌10%仅耗时38个交易日",
+          "url": "https://wallstreetcn.com/livenews/3141062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "小米高管回应雷军投资长鑫",
@@ -2415,9 +2876,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "仅用时38个交易日 纳斯达克100指数较高点下跌10%进入回调",
+          "url": "https://flash.jin10.com/detail/20260728220454486800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "德国DAX 30指数初步收涨1.34%，报25438.84点。 法国股指初步收涨0.75%，意大利股指初步收涨0.64%、银行指数涨1.33%，英国股指初步收涨0.74%。 荷兰股指初步收跌0.49%。",
@@ -2459,9 +2931,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "SpaceX股价自IPO发行价下跌20%，市值从峰值蒸发1.2万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "刚去世的东野圭吾何以被视为日本作家中的“顶流”？",
@@ -2519,6 +3002,17 @@
           "time_info": "17时34分"
         },
         {
+          "title": "多名参议员及前联邦通信委员会官员反对特朗普政府提前审查迪士尼旗下ABC电视台牌照。",
+          "url": "https://flash.jin10.com/detail/20260728220329426800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.30%，报646.37点。 欧元区STOXX 50指数初步收涨0.37%，报6304.11点。 富时泛欧绩优300指数初步收涨0.23%，报2584.44点。",
           "url": "https://wallstreetcn.com/livenews/3140414",
           "source": "华尔街见闻-快讯",
@@ -2558,7 +3052,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -2668,7 +3162,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -2690,7 +3184,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -2723,9 +3217,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "苹果公司市值首次突破5万亿美元，今年迄今累涨约25%。",
+          "url": "https://wallstreetcn.com/livenews/3141056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "韩国股市暴跌触发熔断机制",
@@ -2849,6 +3354,17 @@
           "time_info": "17时34分"
         },
         {
+          "title": "美股开盘，道指涨0.6%，标普500指数跌0.01%，纳指跌0.4%。存储概念股持续走低，闪迪跌8%，西部数据跌超6%，美光科技跌超6%；光通信板块下跌，康宁跌超14%。",
+          "url": "https://wallstreetcn.com/livenews/3141054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "韩国KSAM-II导弹性能如何",
           "url": "https://www.toutiao.com/trending/7667380821786889774/",
           "source": "今日头条",
@@ -2869,6 +3385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国7月里奇蒙德联储服务业收入指数 -3，前值由-1修正为0。",
+          "url": "https://flash.jin10.com/detail/20260728220111615800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "特朗普称在伊朗问题上“发生一些事”的可能性很高，标普500指数转涨",
@@ -2902,6 +3429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "标普500指数低开17.63点，跌幅0.24%，报7395.55点； 道琼斯工业平均指数高开282.80点，涨幅0.54%，报52492.88点； 纳斯达克综合指数低开107.01点，跌幅0.43%，报24825.07点。",
+          "url": "https://wallstreetcn.com/livenews/3141053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "日本熊本县再次发生地震 震级6.1级",
@@ -2970,6 +3508,17 @@
           "time_info": "17时34分"
         },
         {
+          "title": "美国7月谘商会消费者现况指数 114.9，前值116.4。",
+          "url": "https://flash.jin10.com/detail/20260728220051425800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
           "url": "https://wallstreetcn.com/livenews/3140503",
           "source": "华尔街见闻-快讯",
@@ -2998,7 +3547,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -3075,7 +3624,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -3174,9 +3723,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "协创数据：长鑫科技与公司不存在直接竞争关系",
+          "url": "https://wallstreetcn.com/livenews/3141048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "国家数据局：鼓励基于词元应用商业模式创新，探索词元交易等新型交易模式",
@@ -3196,7 +3756,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -3243,6 +3803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "贷款利率定价有了新“尺子”！全国首单已落地！",
+          "url": "https://wallstreetcn.com/livenews/3141046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "韩国股市暴跌触发熔断机制",
@@ -3317,9 +3888,31 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "台积电：日本熊本工厂所有员工安全。",
+          "url": "https://wallstreetcn.com/livenews/3141045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "俄警告日本讨论拥核后果危险说明啥",
+          "url": "https://www.toutiao.com/trending/7667537346409008649/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "日本皇室恐上演“养子夺嫡”",
@@ -3353,6 +3946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "特朗普称美国目前在伊朗问题上地位强势",
+          "url": "https://wallstreetcn.com/livenews/3141044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     }
