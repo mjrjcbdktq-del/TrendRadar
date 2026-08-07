@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T19:43:41.620962+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-08-07T20:55:11.839242+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 212,
+      "match_count": 226,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时39分 ~ 19时43分]"
+          "appearance_count": 11,
+          "time_info": "[08时39分 ~ 20时55分]"
         },
         {
           "title": "报道：若未来几周通胀数据强劲，沃什将准备在9月加息",
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时39分 ~ 19时43分]"
+        },
+        {
+          "title": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战 + 世预赛？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2068833130803196943",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时48分 ~ 20时55分]"
         },
         {
           "title": "朝鲜再度试射导弹，日本防卫大臣紧急召开记者会",
@@ -55,18 +69,74 @@
           "time_info": "[08时39分 ~ 18时54分]"
         },
         {
-          "title": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战 + 世预赛？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2068833130803196943",
-          "source": "知乎",
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            4,
-            2,
+            10,
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时48分 ~ 20时55分]"
+        },
+        {
+          "title": "韩企捐水日本被骂只配冲马桶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356935&amp;topic_name=%E9%9F%A9%E4%BC%81%E6%8D%90%E6%B0%B4%E6%97%A5%E6%9C%AC%E8%A2%AB%E9%AA%82%E5%8F%AA%E9%85%8D%E5%86%B2%E9%A9%AC%E6%A1%B6",
+          "source": "贴吧",
+          "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 19时43分]"
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时55分]"
+        },
+        {
+          "title": "猫娘抽烟番被日本家长投诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            5,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时37分 ~ 20时55分]"
+        },
+        {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时10分 ~ 20时55分]"
+        },
+        {
+          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
+          "url": "https://www.zhihu.com/question/2068423522058244663",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            8,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时48分 ~ 20时55分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -103,6 +173,20 @@
           "time_info": "[11时48分 ~ 17时34分]"
         },
         {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时55分]"
+        },
+        {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
           "url": "https://www.cls.cn/detail/2447905",
           "source": "财联社热门",
@@ -115,32 +199,6 @@
           "time_info": "[08时39分 ~ 15时10分]"
         },
         {
-          "title": "韩企捐水日本被骂只配冲马桶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356935&amp;topic_name=%E9%9F%A9%E4%BC%81%E6%8D%90%E6%B0%B4%E6%97%A5%E6%9C%AC%E8%A2%AB%E9%AA%82%E5%8F%AA%E9%85%8D%E5%86%B2%E9%A9%AC%E6%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时43分]"
-        },
-        {
-          "title": "猫娘抽烟番被日本家长投诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时37分 ~ 19时43分]"
-        },
-        {
           "title": "服务实体经济 财政金融打出组合拳",
           "url": "https://www.toutiao.com/trending/7671066943114002441/",
           "source": "今日头条",
@@ -150,34 +208,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时48分 ~ 15时10分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 19时43分]"
-        },
-        {
-          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
-          "url": "https://www.zhihu.com/question/2068423522058244663",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 19时43分]"
         },
         {
           "title": "财联社C50风向指数调查：7月新增信贷或现负增长，PPI和CPI或同比回落",
@@ -195,30 +225,30 @@
           "time_info": "[11时48分 ~ 18时54分]"
         },
         {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时43分]"
-        },
-        {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
+          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
           "source": "凤凰网",
           "ranks": [
+            9,
             7,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 19时43分]"
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时55分]"
+        },
+        {
+          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
+          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时55分]"
         },
         {
           "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
@@ -245,6 +275,20 @@
           "time_info": "[08时39分 ~ 15时10分]"
         },
         {
+          "title": "国防部回应日本试射“战斧”导弹",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%AF%95%E5%B0%84%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            2,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时55分]"
+        },
+        {
           "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
           "url": "https://www.zhihu.com/question/2068727171682718365",
           "source": "知乎",
@@ -260,6 +304,56 @@
           "time_info": "[08时39分 ~ 17时59分]"
         },
         {
+          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
+          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "物价飞涨,日本青年戒饭成潮流",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时10分 ~ 20时55分]"
+        },
+        {
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时55分]"
+        },
+        {
+          "title": "马科斯遭学生起哄辱骂，菲总统府呼吁“重拾体面”",
+          "url": "https://news.ifeng.com/c/8vOjjxBjfsL",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时59分 ~ 20时55分]"
+        },
+        {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
           "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
           "source": "凤凰网",
@@ -270,6 +364,33 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时39分 ~ 17时34分]"
+        },
+        {
+          "title": "日本医院开颅手术错将健康部位切除",
+          "url": "https://www.toutiao.com/trending/7671194655917473838/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            1,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时59分 ~ 20时55分]"
+        },
+        {
+          "title": "高盛韩国交易员谈“存储多空之辩”：市场对基本面预期“过于悲观”",
+          "url": "https://wallstreetcn.com/articles/3778905",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时55分]"
         },
         {
           "title": "美国非农报告今晚登场！疲弱数据助推下 美联储降息预期恐升温？",
@@ -284,6 +405,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时48分 ~ 17时34分]"
+        },
+        {
+          "title": "【每日收评】三大指数均涨超1%录得4连阳，创新药板块全线爆发，PCB概念股持续走强",
+          "url": "https://www.cls.cn/detail/2448465",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时55分]"
         },
         {
           "title": "日本20年期国债收益率上涨2.0个基点，至3.660%。",
@@ -314,9 +448,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "特朗普称伊朗谈判取得进展 市场等待就业数据之际美指期货上涨",
+          "url": "https://flash.jin10.com/detail/20260807202458983800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "蹭核喊废核,日本又演受害者",
@@ -373,7 +518,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -387,19 +532,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
-        },
-        {
-          "title": "国防部回应日本试射“战斧”导弹",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%AF%95%E5%B0%84%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时43分]"
         },
         {
           "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
@@ -479,18 +611,6 @@
           "time_info": "08时39分"
         },
         {
-          "title": "马科斯遭学生起哄辱骂，菲总统府呼吁“重拾体面”",
-          "url": "https://news.ifeng.com/c/8vOjjxBjfsL",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 19时43分]"
-        },
-        {
           "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
           "url": "https://wallstreetcn.com/articles/3778800",
           "source": "华尔街见闻",
@@ -530,7 +650,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -569,44 +689,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时37分 ~ 17时59分]"
-        },
-        {
-          "title": "物价飞涨,日本青年戒饭成潮流",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 19时43分]"
-        },
-        {
-          "title": "日本医院开颅手术错将健康部位切除",
-          "url": "https://www.toutiao.com/trending/7671194655917473838/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 19时43分]"
-        },
-        {
-          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
-          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时43分]"
         },
         {
           "title": "俄罗斯国防部：过去一周，俄罗斯武装部队对防御工业企业和物流中心发起了两次大规模打击和12次集群打击。",
@@ -667,18 +749,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时34分 ~ 17时59分]"
-        },
-        {
-          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
-          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时43分]"
         },
         {
           "title": "上证指数早盘收报3919.51点，涨0.49%。 深证成指早盘收报14295.08点，涨1.31%。 创业板指早盘收报3577.20点，涨1.75%。 沪深300早盘收报4689.96点，涨0.83%。 科创50早盘收报1718.59点，涨1.02%。 中证500早盘收报7919.52点，涨1.15%。 中证1000早盘收报7615.18点，涨1.13%。",
@@ -753,43 +823,6 @@
           "time_info": "[17时59分 ~ 18时54分]"
         },
         {
-          "title": "高盛韩国交易员谈“存储多空之辩”：市场对基本面预期“过于悲观”",
-          "url": "https://wallstreetcn.com/articles/3778905",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时43分]"
-        },
-        {
-          "title": "【每日收评】三大指数均涨超1%录得4连阳，创新药板块全线爆发，PCB概念股持续走强",
-          "url": "https://www.cls.cn/detail/2448465",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时43分]"
-        },
-        {
-          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
-          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时43分]"
-        },
-        {
           "title": "2小时看完韩国悬疑爽剧",
           "url": "https://search.bilibili.com/all?keyword=2%E5%B0%8F%E6%97%B6%E7%9C%8B%E5%AE%8C%E9%9F%A9%E5%9B%BD%E6%82%AC%E7%96%91%E7%88%BD%E5%89%A7",
           "source": "bilibili 热搜",
@@ -840,6 +873,18 @@
           "time_info": "[11时48分 ~ 13时38分]"
         },
         {
+          "title": "从日元崩跌到美联储失语，黄金的战略价值正在浮现",
+          "url": "https://wallstreetcn.com/articles/3778869",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 20时55分]"
+        },
+        {
           "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
           "url": "https://www.cls.cn/detail/2447866",
           "source": "财联社热门",
@@ -875,6 +920,17 @@
           "time_info": "[17时34分 ~ 18时54分]"
         },
         {
+          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
+          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 20时55分]"
+        },
+        {
           "title": "进出口行发行1年期债券，规模120亿元，发行利率1.3920%，预期1.4100%，投标倍数4.29倍，边际倍数7.96倍。",
           "url": "https://wallstreetcn.com/livenews/3146415",
           "source": "华尔街见闻-快讯",
@@ -899,6 +955,29 @@
           "time_info": "[17时59分 ~ 18时54分]"
         },
         {
+          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
+          "url": "https://wallstreetcn.com/articles/3778889",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "现货黄金日内涨幅扩大至2%，报4325.36美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3146683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 20时55分]"
+        },
+        {
           "title": "长鑫拒绝苹果压价",
           "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7",
           "source": "bilibili 热搜",
@@ -909,6 +988,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时39分 ~ 11时48分]"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "特朗普下令调查美军弹药库存信息泄露",
@@ -992,6 +1082,17 @@
           "time_info": "[08时39分 ~ 11时48分]"
         },
         {
+          "title": "日本医院开颅手术错将健康部位切除",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8C%BB%E9%99%A2%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%E9%94%99%E5%B0%86%E5%81%A5%E5%BA%B7%E9%83%A8%E4%BD%8D%E5%88%87%E9%99%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
           "title": "苹果压价失灵,长鑫拒绝供货",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
           "source": "贴吧",
@@ -1035,6 +1136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "非农数据公布前，美联储9月加息25个基点的概率为54.7%",
+          "url": "https://flash.jin10.com/detail/20260807202106120800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "韩国足协7场比赛性贿赂20名裁判",
@@ -1142,7 +1254,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -1224,28 +1336,6 @@
           "time_info": "15时10分"
         },
         {
-          "title": "从日元崩跌到美联储失语，黄金的战略价值正在浮现",
-          "url": "https://wallstreetcn.com/articles/3778869",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
-          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
           "title": "日本财务省：在4月和5月共进行了三次买入日元的汇率干预行动。",
           "url": "https://flash.jin10.com/detail/20260807075332303800",
           "source": "金十数据",
@@ -1266,6 +1356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "DeepTalk：黄金强力反弹，但这只是一个“多头陷阱”？",
+          "url": "https://flash.jin10.com/detail/20260807201438904800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "日本财务省数据显示，日本在4-6月这一季度的单日最大干预规模发生在4月30日，达6.2787万亿日元。日本在4月和5月共计进行了3天的买入日元干预。",
@@ -1310,17 +1411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
-        },
-        {
-          "title": "现货黄金日内涨幅扩大至2%，报4325.36美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3146683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
         },
         {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
@@ -1494,7 +1584,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -1560,9 +1650,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金涨势不止 美日留意多单押注",
+          "url": "https://flash.jin10.com/detail/20260807201107680800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "日本6月所有家庭支出同比 -3.3%，预期 0.9%，前值 -0.4%。",
@@ -1631,6 +1732,17 @@
           "time_info": "17时34分"
         },
         {
+          "title": "据日本共同社：日本防卫省将为2027财年申请创纪录的8.9万亿日元预算。",
+          "url": "https://flash.jin10.com/detail/20260807200742502800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "中国贸促会副会长林红红会见美国特斯拉公司副总裁陶琳",
           "url": "https://wallstreetcn.com/livenews/3146634",
           "source": "华尔街见闻-快讯",
@@ -1648,7 +1760,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -1730,6 +1842,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "语气显著软化！特朗普直言不降息不怪沃什，并甩锅“政治化理事会”",
+          "url": "https://flash.jin10.com/detail/20260807200444932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（8月7日）",
           "url": "https://flash.jin10.com/detail/20260807073838399800",
           "source": "金十数据",
@@ -1769,9 +1892,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "乌克兰7月份外汇储备为511.99亿美元。",
+          "url": "https://flash.jin10.com/detail/20260807200417688800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "中国7月贸易帐(按美元计) 1125亿美元，前值 1256.2亿美元。",
@@ -1928,6 +2062,17 @@
           "time_info": "17时59分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 8月7日（周五）晚盘盘初上涨0.72%报930.59元/克；<br/>上海黄金交易所白银T+D 8月7日（周五）晚盘盘初上涨2.44%报15517.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260807200136941800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "中国7月出口同比(按美元计) 23.9%，前值 27%。",
           "url": "https://wallstreetcn.com/livenews/3146394",
           "source": "华尔街见闻-快讯",
@@ -2055,9 +2200,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "国际金即将完成筑底？美元短期下行空间仍相对有限 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260807200116059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "中国财政部发行1年期债券，规模1400亿元，发行利率1.1619%，边际利率1.2174%，预期1.0700%，投标倍数2.00倍，边际倍数2.74倍； 中国财政部发行7年期债券，规模1000亿元，发行利率1.5039%，边际利率1.5240%，预期1.5300%，投标倍数6.08倍，边际倍数3.97倍。",
@@ -2165,7 +2321,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -2308,7 +2464,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -2346,6 +2502,17 @@
           "time_info": "18时54分"
         },
         {
+          "title": "摩根士丹利：对贝克休斯油服(BKR.O)重新启动覆盖研究，给予超配评级，目标价70美元。",
+          "url": "https://flash.jin10.com/detail/20260807195012072800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "特朗普再称对伊朗战争将很快结束",
           "url": "https://wallstreetcn.com/livenews/3146368",
           "source": "华尔街见闻-快讯",
@@ -2374,7 +2541,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -2407,7 +2574,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
