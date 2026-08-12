@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T19:03:31.836639+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-08-12T21:01:53.091890+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple 苹果 Google 谷歌 Microsoft 微软 Amazon 亚马逊 Meta F acebook Nvidia NVDA Tesla 特斯拉 AMD 博通 摩根大通 JPMorgan 高盛 Goldman Sachs 花旗银行 富国银行 特朗普 川普 Trump 拜登 Biden 总统 共和党 民主党 国会 参议院 众议院 大选 投票 道琼斯 纳斯达克 标普 美联储 FED 通胀 利率 加息 降息 CPI 指数 美股 经济 数据 美元 黄金 日元 日经 日经指数 中美 中日 欧洲 韩国 日本 朝鲜 俄罗斯 乌克兰 小米",
-      "match_count": 253,
+      "match_count": 295,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -101,18 +101,6 @@
           "time_info": "[04时00分 ~ 19时03分]"
         },
         {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时43分]"
-        },
-        {
           "title": "挖墙脚?LCK暗示Bin到韩国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357109&amp;topic_name=%E6%8C%96%E5%A2%99%E8%84%9A%3FLCK%E6%9A%97%E7%A4%BABin%E5%88%B0%E9%9F%A9%E5%9B%BD",
           "source": "贴吧",
@@ -123,8 +111,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 19时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 21时01分]"
         },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -132,11 +120,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 19时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 21时01分]"
+        },
+        {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 05时43分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -188,6 +189,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时36分 ~ 12时04分]"
+        },
+        {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 21时01分]"
         },
         {
           "title": "韩国新恋综 我剩下的恋爱",
@@ -264,16 +278,16 @@
           "time_info": "[00时58分 ~ 09时38分]"
         },
         {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
+          "title": "全球市场今晚屏息以待：美国CPI还能带来“鸽派惊喜”吗？",
+          "url": "https://www.cls.cn/detail/2452233",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            4
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时04分 ~ 19时03分]"
+          "time_info": "[19时03分 ~ 21时01分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
@@ -345,6 +359,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "美国7月季调后核心CPI月率录得0.2%，较上月回升，符合市场预期。",
+          "url": "https://flash.jin10.com/detail/20260812203155252800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "中证转债指数开盘上涨0.07%。N赛斯转、奥飞转债、爱迪转债、双良转债、精测转2涨幅居前，分别涨30.00%、2.36%、2.31%、1.89%、1.65%。久吾转02、航宇转债、永吉转债、运机转债、银轮转债跌幅居前，分别跌0.99%、0.99%、0.85%、0.64%、0.63%。",
           "url": "https://wallstreetcn.com/livenews/3148337",
           "source": "华尔街见闻-快讯",
@@ -373,9 +398,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "美国7月CPI数据公布后，美元指数短线走高约10点，现报99.85。现货黄金短线走低约30美元，又走高逾20美元，现报4412.38美元/盎司。美股期货短线小幅走低后又迅速走高，纳斯达克100指数期货涨幅扩大至0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3148634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "经济命脉遭重创，哥伦比亚新政府能否扛住多重考验？",
@@ -446,13 +482,24 @@
           "time_info": "07时36分"
         },
         {
+          "title": "美元指数DXY短线走高20点，现报99.82。",
+          "url": "https://flash.jin10.com/detail/20260812203142684800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "中国央行：将着力推动数据报告库强化组织建设，完善各项制度规则",
           "url": "https://wallstreetcn.com/livenews/3148593",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -463,18 +510,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
-          "title": "全球市场今晚屏息以待：美国CPI还能带来“鸽派惊喜”吗？",
-          "url": "https://www.cls.cn/detail/2452233",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -540,9 +576,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "美国7月CPI月率符合预期",
+          "url": "https://flash.jin10.com/detail/20260812203116253800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "上证指数早盘收报3946.51点，涨0.32%。 深证成指早盘收报14438.07点，涨1.25%。 创业板指早盘收报3610.65点，涨1.73%。 沪深300早盘收报4693.88点，涨0.65%。 科创50早盘收报1745.15点，涨2.09%。 中证500早盘收报8061.69点，涨1.18%。 中证1000早盘收报7803.32点，涨1.37%。",
@@ -556,13 +603,24 @@
           "time_info": "12时04分"
         },
         {
+          "title": "美国7月CPI同比 3.4%，预期 3.4%，前值 3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3148631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "活力数据感知经济发展稳进好",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B4%BB%E5%8A%9B%E6%95%B0%E6%8D%AE%E6%84%9F%E7%9F%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E7%A8%B3%E8%BF%9B%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -634,15 +692,59 @@
           "time_info": "12时04分"
         },
         {
+          "title": "现货白银短线下挫1美元，现报65.89美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260812203115190800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "【中国央行：逐步增加隔夜逆回购的操作频率，进一步畅通政策利率向市场利率的传导】中国人民银行发布2026年第二季度中国货币政策执行报告。在专栏2中提出，下一步，中国人民银行将继续平稳有序推动货币政策操作框架的改革完善。灵活精准开展各项操作，保持流动性总量在合适水平，更好引导货币市场短端利率平稳运行。结合一级交易商需求，逐步增加隔夜逆回购的操作频率，进一步畅通政策利率向市场利率的传导。",
           "url": "https://wallstreetcn.com/livenews/3148590",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "美国7月核心CPI环比 0.2%，预期 0.2%，前值 0%。",
+          "url": "https://wallstreetcn.com/livenews/3148632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "今晚美国CPI料温和放缓，9月加息预期或再遭一击！",
+          "url": "https://wallstreetcn.com/articles/3779269",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
+          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "美联储古尔斯比：价格和可负担性，这是我们目前面临的最大问题。",
@@ -678,6 +780,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "美国7月未季调住房通胀年率 3.2%，前值3.3%。",
+          "url": "https://flash.jin10.com/detail/20260812203049004800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "上证指数开盘报3933.55点，跌0.01%。 深证成指开盘报14253.12点，跌0.04%。 创业板指开盘报3542.13点，跌0.20%。 沪深300开盘报4660.47点，跌0.07%。 科创50开盘报1720.36点，涨0.64%。 中证500开盘报7978.04点，涨0.13%。 中证1000开盘报7704.96点，涨0.09%。",
           "url": "https://wallstreetcn.com/livenews/3148330",
           "source": "华尔街见闻-快讯",
@@ -687,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "美国7月核心CPI同比 2.5%，预期 2.5%，前值 2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3148630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "苹果的买方霸权 第一次在中国失效",
@@ -877,6 +1001,18 @@
           "time_info": "[04时00分 ~ 05时43分]"
         },
         {
+          "title": "美银：今夜CPI“下行意外”影响更大，若核心CPI意外走低或将排除9月加息",
+          "url": "https://wallstreetcn.com/articles/3779245",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时01分]"
+        },
+        {
           "title": "盘后暴涨15%！CoreWeave营收同比翻倍 在手订单高达千亿美元",
           "url": "https://www.cls.cn/detail/2451858",
           "source": "财联社热门",
@@ -913,6 +1049,18 @@
           "time_info": "[04时54分 ~ 05时43分]"
         },
         {
+          "title": "韩国发布七大战略：5年登月、9年商用核反应堆…",
+          "url": "https://news.ifeng.com/c/8vX128VQ5CD",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时01分]"
+        },
+        {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
           "url": "https://wallstreetcn.com/livenews/3148240",
           "source": "华尔街见闻-快讯",
@@ -923,6 +1071,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时43分]"
+        },
+        {
+          "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
+          "url": "https://www.cls.cn/detail/2452399",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时01分]"
         },
         {
           "title": "CoreWeave二季度营收25.8亿美元，分析师预期25.6亿美元。 二季度净亏损6.26亿美元，分析师预期亏损7.571亿美元。 二季度调整后EBITDA为15.1亿美元，分析师预期14.3亿美元。 二季度运营亏损0.49亿美元，分析师预期亏损0.865亿美元。 二季度每股亏损1.14美元，分析师预期亏损1.41美元。 至6月30日，公司（订单销售）收入积压大约1040亿美元，不包括三季度超过250亿美元的（采购）承诺。 CoreWeave美股盘后跌3%，随后转而上涨11%。",
@@ -1115,6 +1275,30 @@
           "time_info": "[09时38分 ~ 12时04分]"
         },
         {
+          "title": "雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，有哪些突破？会带来什么改变？",
+          "url": "https://www.zhihu.com/question/2070796946256519933",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时01分]"
+        },
+        {
+          "title": "黄金剪开里面竟是钨芯 警方抓9人",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%89%AA%E5%BC%80%E9%87%8C%E9%9D%A2%E7%AB%9F%E6%98%AF%E9%92%A8%E8%8A%AF+%E8%AD%A6%E6%96%B9%E6%8A%939%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时01分]"
+        },
+        {
           "title": "英特尔新股发行规模增至200亿美元",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E7%89%B9%E5%B0%94%E6%96%B0%E8%82%A1%E5%8F%91%E8%A1%8C%E8%A7%84%E6%A8%A1%E5%A2%9E%E8%87%B3200%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -1124,6 +1308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时00分 ~ 04时01分]"
+        },
+        {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "墨西哥比索兑美元汇率上涨至17.0862比索兑1美元，创下自2月份以来的最高水平。",
@@ -1176,9 +1371,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "美国7月未季调二手车和卡车通胀年率 -1.9%，前值-1.8%。",
+          "url": "https://flash.jin10.com/detail/20260812203043252800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "周二（8月11日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7465元，较周一纽约尾盘跌5点，日内整体交投于6.7443-6.7490元区间。",
@@ -1198,20 +1404,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
         {
-          "title": "美银：今夜CPI“下行意外”影响更大，若核心CPI意外走低或将排除9月加息",
-          "url": "https://wallstreetcn.com/articles/3779245",
-          "source": "华尔街见闻",
+          "title": "美国7月CPI环比 0.1%，预期 0.1%，前值 -0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3148629",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时03分"
+          "time_info": "21时01分"
         },
         {
           "title": "三大超级项目，韩国想打“闪电战”",
@@ -1225,15 +1431,15 @@
           "time_info": "12时04分"
         },
         {
-          "title": "韩国发布七大战略：5年登月、9年商用核反应堆…",
-          "url": "https://news.ifeng.com/c/8vX128VQ5CD",
+          "title": "普京：若西方国家扣押俄罗斯商船，俄方将予以对等回应",
+          "url": "https://news.ifeng.com/c/8vX6M3WTlqn",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时03分"
+          "time_info": "21时01分"
         },
         {
           "title": "苹果支付负责人将退休离职",
@@ -1291,6 +1497,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "美国7月未季调新车通胀年率 0.5%，前值0.5%。",
+          "url": "https://flash.jin10.com/detail/20260812203039515800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：指标表明，美国劳动力市场稳定、但情况并不良好。 只要消费者（信心）是健康的，美国经济也会一样。 经济当前面临的最大问题在于通胀。",
           "url": "https://wallstreetcn.com/livenews/3148169",
           "source": "华尔街见闻-快讯",
@@ -1341,9 +1558,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "晨星数据显示，2026年上半年，不含中国的新兴市场股票基金吸引了近70亿美元净流入，创有记录以来最强的半年表现，与2025年的资金流出形成鲜明反差。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3148628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "美国7月CPI数据",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD7%E6%9C%88CPI%E6%95%B0%E6%8D%AE&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "俄罗斯本土，遭遇“最致命袭击”",
+          "url": "https://news.ifeng.com/c/8vXC7SdnfWv",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
@@ -1366,6 +1616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "现货黄金短线跳水50美元，现报4399美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260812203037238800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "据媒体报道：俄罗斯经北极航道向亚洲的石油出口开局表现强劲。",
@@ -1396,9 +1657,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "中国经济体制改革研究会副会长樊纲：经历多轮波动，房企对市场的敬畏心明显提升",
+          "url": "https://wallstreetcn.com/livenews/3148627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "8月涨太快！黄金强势反弹后，今晚CPI会引发获利了结吗？",
+          "url": "https://wallstreetcn.com/articles/3779238",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年8月12日",
@@ -1421,6 +1704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "美国7月CPI年率符合预期",
+          "url": "https://flash.jin10.com/detail/20260812203032968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "机构：预计美日撑场能推高日元至125 劝说空头勿负隅顽抗",
@@ -1451,7 +1745,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -1465,17 +1759,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
-        },
-        {
-          "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
-          "url": "https://www.cls.cn/detail/2452399",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
         },
         {
           "title": "伊朗总统称加强与巴基斯坦的关系有助于提升地区安全",
@@ -1500,6 +1783,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "美国7月未季调食品通胀年率 3%，前值3%。",
+          "url": "https://flash.jin10.com/detail/20260812203029019800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "人民币兑美元中间价创2023年2月8日以来新高",
           "url": "https://wallstreetcn.com/livenews/3148322",
           "source": "华尔街见闻-快讯",
@@ -1509,6 +1803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "提醒：北京时间20:30，将公布美国7月CPI数据。",
+          "url": "https://wallstreetcn.com/livenews/3148625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "比亚迪海獭日本订单破千",
@@ -1528,7 +1833,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -1539,7 +1844,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -1575,6 +1880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "美国7月未季调能源通胀年率 14.7%，前值15.7%。",
+          "url": "https://flash.jin10.com/detail/20260812203023843800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "美国政府将今年布伦特原油价格预期上调5美元，略微上调明年石油产量预期",
@@ -1619,6 +1935,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "资深策略师Ed Yardeni将标普500指数目标从8250点上调至8400点。",
+          "url": "https://wallstreetcn.com/livenews/3148624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -1674,6 +2001,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "欧洲科技股指数有望创下今年最长连涨纪录",
+          "url": "https://wallstreetcn.com/livenews/3148621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "博主：俄朝轮番亮剑打懵日本右翼",
+          "url": "https://www.toutiao.com/trending/7673100953611947556/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "截至6月30日，挪威主权财富基金持有SpaceX 0.05%的股份，价值12.2亿美元。",
@@ -1753,6 +2102,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "美国7月未季调CPI 333.918，预期333.993，前值333.952。",
+          "url": "https://flash.jin10.com/detail/20260812203005388800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "特朗普谈及第三任期：我很想竞选连任，但法律很严密。",
           "url": "https://wallstreetcn.com/livenews/3148317",
           "source": "华尔街见闻-快讯",
@@ -1808,6 +2168,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "美国7月季调后核心CPI月率 0.2%，预期0.20%，前值0.00%。",
+          "url": "https://flash.jin10.com/detail/20260812203005360800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "台风“灿鸿”袭击日本关东地区",
           "url": "https://wallstreetcn.com/livenews/3148160",
           "source": "华尔街见闻-快讯",
@@ -1858,9 +2229,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "如何看待 2026 上半年韩国和台湾地区的出口额超过了日本？",
+          "url": "https://www.zhihu.com/question/2070341346217534455",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）华尔街恐惧与贪婪指数（美盘后）",
@@ -1896,6 +2278,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "美国7月未季调核心CPI年率 2.5%，预期2.50%，前值2.60%。",
+          "url": "https://flash.jin10.com/detail/20260812203005363800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "美元/日元一度升至159.43，为此前美日联合干预后创下的最高水平。",
           "url": "https://wallstreetcn.com/livenews/3148377",
           "source": "华尔街见闻-快讯",
@@ -1905,6 +2298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "波罗的海干散货指数下跌3.51%，至2939点。",
+          "url": "https://wallstreetcn.com/livenews/3148617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "美联储古尔斯比：劳动力市场指标显示稳定，但表现不强。",
@@ -1949,6 +2353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "美国7月季调后CPI月率 0.1%，预期0.1%，前值-0.40%。",
+          "url": "https://flash.jin10.com/detail/20260812203005341800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "新兴市场外汇指数跌幅扩大，巴西雷亚尔领跌，投资者关注油价上涨。",
@@ -2001,7 +2416,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2056,9 +2471,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "美国7月未季调CPI年率 3.4%，预期3.4%，前值3.50%。",
+          "url": "https://flash.jin10.com/detail/20260812203004604800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -2111,9 +2537,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "美股存储芯片股盘前普涨，SK海力士涨超4%，闪迪涨超4%，希捷科技、美光科技涨近3%，西部数据涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3148615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "曝大众酝酿把中国新能源车卖到欧洲",
@@ -2122,7 +2559,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2133,7 +2570,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2188,7 +2625,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2246,17 +2683,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
-        },
-        {
-          "title": "雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，有哪些突破？会带来什么改变？",
-          "url": "https://www.zhihu.com/question/2070796946256519933",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
         },
         {
           "title": "美国总统特朗普：罗伯特在俄罗斯被监禁。他今晚将抵达华盛顿特区。",
@@ -2430,7 +2856,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2444,6 +2870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "高盛：美联储或许2026年全年都维持利率不变 通胀将趋于缓和",
+          "url": "https://wallstreetcn.com/livenews/3148607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "台风灿鸿袭击日本",
@@ -2466,17 +2903,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
-        },
-        {
-          "title": "黄金剪开里面竟是钨芯 警方抓9人",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%89%AA%E5%BC%80%E9%87%8C%E9%9D%A2%E7%AB%9F%E6%98%AF%E9%92%A8%E8%8A%AF+%E8%AD%A6%E6%96%B9%E6%8A%939%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
         },
         {
           "title": "AI产业给韩国人带来什么",
@@ -2518,7 +2944,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2617,7 +3043,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2672,9 +3098,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "文远知行第二季度营收2.317亿元人民币，同比+82%，预估1.707亿元人民币 第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 第二季度毛利率37.5％，上年同期28.1％。 第二季度研发支出4.343亿元人民币，同比增长36%。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "特朗普会在中期选举前抛出政策礼包吗",
@@ -2683,7 +3120,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2716,7 +3153,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2771,7 +3208,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2804,9 +3241,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "日本正被日元贬值拖垮出口吗",
+          "url": "https://www.toutiao.com/trending/7673078957410881070/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "富国银行策略师Marcus Jennings：最近几个交易日，我们已经看到干预的影响逐渐消退。美元/日元的160关口非常重要，因为100日移动均线目前就在这一水平附近。 日本央行如果在9月加息，短期内可能有助于避免汇率突破这一关口。",
@@ -2829,6 +3277,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "美国8月7日当周MBA抵押贷款申请活动指数周环比 3.6%，前值 -2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3148598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "美国CPI数据将会如何影响市场",
+          "url": "https://www.douyin.com/hot/2606576",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "瑞穗银行高级策略师Masayuki Nakajima在一份报告中写道：“如果美元/日元明确突破具有重要心理意义的160关口，市场对干预的担忧可能进一步升温。”",
